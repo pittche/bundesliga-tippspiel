@@ -1,0 +1,110 @@
+Hier ist eine technische Arbeitsanweisung für einen Entwickler, basierend auf dem Recherche-Report und den identifizierten Ressourcen.
+
+---
+
+### Technische Arbeitsanweisung: Entwicklung einer hybriden Bundesliga-Prognose-Engine
+
+**Ziel:** Implementierung eines Backend-Systems (Python), das historische Spieldaten, Advanced Stats (xG, Momentum) und unstrukturierte Sentiment-Daten (News/Social Media) aggregiert, um Wahrscheinlichkeiten für Spielergebnisse zu berechnen.
+
+#### 1. Einrichtung der Entwicklungsumgebung & Architektur
+
+* **Sprache:** Python 3.9+.
+
+
+* **Framework:** FastAPI oder Flask für die Bereitstellung der Ergebnisse als API.
+* **Datenbank:** PostgreSQL (für strukturierte Match-Daten) und MongoDB (für unstrukturierte News/Text-Daten).
+* **Kern-Bibliotheken:** `pandas`, `scikit-learn`, `xgboost`, `spacy`, `soccerdata`, `selenium`.
+
+#### 2. Modul A: Strukturierte Datenakquise (Hard Facts)
+
+Implementiere ETL-Pipelines (Extract, Transform, Load) für folgende Quellen:
+
+**A1. Basis-Ergebnisse & Spielplan (Kostenlos)**
+
+* Nutze die **OpenLigaDB API**.
+* *Task:* Schreibe einen Wrapper für den Endpunkt `getMatchdataByLeagueSaison`, um Spielpläne und Ergebnisse der letzten 10 Jahre zu importieren.
+
+
+* *Alternative:* Nutze `football-data.org` (Free Tier), beachte jedoch das Rate-Limit von 10 Requests/Minute.
+
+
+
+**A2. Advanced Stats (xG, Player Stats)**
+
+* Verwende die Python-Bibliothek **`soccerdata`**, um Daten von FBref (via Opta) zu laden.
+
+
+* *Task:* Implementiere einen Scraper für `read_team_season_stats(stat_type="standard")` und `read_player_season_stats`, um Expected Goals (xG) und Shot-Creating-Actions zu erhalten.
+
+
+* *Wichtig:* Implementiere lokales Caching, um IP-Banns zu vermeiden, da diese Seiten aggressives Rate-Limiting betreiben.
+
+
+
+**A3. Match Momentum & Spieldynamik**
+
+* *Task:* Untersuche die **AWS Bundesliga Match Facts** Visualisierungen auf bundesliga.com. Entwickle einen Scraper (Selenium), der die JSON-Daten hinter den "Match Momentum" Graphen extrahiert, um Druckphasen ("Attacking Zones", "Pressure") zu quantifizieren.
+
+
+
+#### 3. Modul B: Unstrukturierte Daten & Sentiment-Analyse (Soft Factors)
+
+Dieses Modul wandelt Text in numerische Vektoren um ("Krisen-Index").
+
+**B1. Scraping der "Gerüchteküche"**
+
+* **Quelle:** Transfermarkt.de & Ligainsider.de.
+* *Task:* Nutze **Selenium** mit Headless Chrome, um Verletzungsdaten und Gerüchte zu scrapen. Normale `requests` werden oft blockiert (403/404 Fehler).
+
+
+* *Datenpunkte:* Extrahiere Spielerstatus ("verletzt", "suspendiert"), Marktwerte und Trainer-Gerüchte.
+
+
+* *Compliance:* Beachte die `robots.txt` und setze Delays (`time.sleep`) zwischen Anfragen, um Blockierungen zu vermeiden.
+
+
+
+**B2. NLP-Pipeline (Deutsch)**
+
+* *Preprocessing:* Nutze **spaCy** (Modell: `de_core_news_lg`) für Tokenisierung und Lemmatisierung deutscher Texte.
+
+
+* *Sentiment-Scoring:*
+* Für Social Media (Twitter/Reddit): Implementiere **GerVADER**. Es ist optimiert für deutschen Slang und Emojis.
+
+
+* Für Nachrichten (Kicker/Sport1 RSS): Nutze **SentiWS** (SentimentWortschatz Uni Leipzig) zur Bewertung formaler Texte.
+
+
+
+
+* *Domain-Lexikon:* Erstelle ein Custom-Dictionary basierend auf dem **Kicktionary**, um Begriffe wie "Abstiegskampf" (negativ) oder "Aufholjagd" (positiv/dynamisch) korrekt zu gewichten.
+
+
+
+#### 4. Modul C: Feature Engineering & Modellierung
+
+**C1. Berechnung von Trends (Form)**
+
+* Berechne für jedes Team den **Exponential Moving Average (EMA)** der xG-Werte der letzten 5-10 Spiele. Der EMA reagiert schneller auf Formänderungen als der einfache Durchschnitt.
+
+
+* Vergleiche den xG-EMA mit dem tatsächlichen Tore-EMA, um "Underperformance" (Pech) oder "Overperformance" (Glück) zu identifizieren.
+
+**C2. Das Prognose-Modell**
+
+* *Algorithmus:* Trainiere einen **XGBoost Classifier**.
+
+
+* *Input-Vektor:* Kombiniere numerische Features (Elo-Rating, xG-Differenz, Tabellenplatz) mit den NLP-Scores (Sentiment-Index des Teams, Unruhe-Level durch Gerüchte).
+* *Elo-Anpassung:* Implementiere einen dynamischen K-Faktor im Elo-Rating. Erhöhe K, wenn der "Unruhe-Score" hoch ist, damit das Modell schneller auf Leistungseinbrüche reagiert.
+
+
+
+#### 5. Zusammenfassung der Daily Routine (Cronjob)
+
+1. **02:00 Uhr:** Update der Stammdaten (Ergebnisse/Tabelle) via OpenLigaDB.
+2. **03:00 Uhr:** Scraping neuer News-Artikel & Social Media Posts; Berechnung der neuen Sentiment-Scores.
+3. **04:00 Uhr:** Abruf der aktuellen Verletztenlisten/Sperren via Transfermarkt-Scraper.
+4. **05:00 Uhr:** Retraining des XGBoost-Modells mit den neuesten Daten.
+5. **06:00 Uhr:** Bereitstellung der neuen Wahrscheinlichkeiten via API für die Tippspiel-App.

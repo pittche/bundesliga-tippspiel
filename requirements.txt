@@ -1,0 +1,12 @@
+# Bundesliga Tippspiel - Dependencies
+# Alle kostenlos, keine API-Keys noetig
+
+# HTTP Requests
+requests>=2.28.0
+
+# Nur Standardbibliothek sonst:
+# - sqlite3 (eingebaut)
+# - json (eingebaut)
+# - xml.etree (eingebaut, fuer RSS)
+# - dataclasses (eingebaut ab Python 3.7)
+# - statistics (eingebaut)

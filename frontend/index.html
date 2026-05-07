@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bundesliga Tippspiel</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Bundesliga Tippspiel</h1>
+            <p class="subtitle">Prognosen mit Elo + xG + Sentiment</p>
+            <p class="update-info" id="updateInfo">Lade...</p>
+        </header>
+
+        <div class="controls">
+            <button onclick="loadPredictions()" class="secondary">Neu laden</button>
+        </div>
+
+        <div class="tabs">
+            <button class="tab active" onclick="showTab('predictions', this)">Prognosen</button>
+            <button class="tab" onclick="showTab('table', this)">Tabelle</button>
+            <button class="tab" onclick="showTab('news', this)">News</button>
+        </div>
+
+        <div id="predictions" class="content">
+            <div class="loading">
+                <div class="spinner"></div>
+                <p>Lade Prognosen...</p>
+            </div>
+        </div>
+
+        <div id="table" class="content" style="display:none;"></div>
+        <div id="news" class="content" style="display:none;"></div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

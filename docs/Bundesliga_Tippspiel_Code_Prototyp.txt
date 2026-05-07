@@ -1,0 +1,663 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bundesliga Prognose-Algorithmus: Spezifikation & Dashboard</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
+        
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #F5F5F0; /* Warmes, neutrales Grau/Beige */
+            color: #1F2937;
+        }
+
+        .chart-container {
+            position: relative;
+            width: 100%;
+            max-width: 600px;
+            height: 300px;
+            margin: 0 auto;
+        }
+
+        .card {
+            background-color: #FFFFFF;
+            border-radius: 0.75rem;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+            transition: transform 0.2s;
+        }
+
+        .card:hover {
+            transform: translateY(-2px);
+        }
+
+        .active-tab {
+            border-bottom: 3px solid #059669; /* Emerald 600 */
+            color: #059669;
+            font-weight: 700;
+        }
+
+        /* Custom Scrollbar for lists */
+        .custom-scroll::-webkit-scrollbar {
+            width: 6px;
+        }
+        .custom-scroll::-webkit-scrollbar-track {
+            background: #f1f1f1; 
+        }
+        .custom-scroll::-webkit-scrollbar-thumb {
+            background: #d1d5db; 
+            border-radius: 3px;
+        }
+        .custom-scroll::-webkit-scrollbar-thumb:hover {
+            background: #9ca3af; 
+        }
+    </style>
+    <!-- Chosen Palette: Warm Neutrals (Background #F5F5F0, Cards #FFFFFF) with Emerald Green (#059669) for success/growth and Slate (#1F2937) for text. Minimalistic and professional. -->
+    
+    <!-- Application Structure Plan: 
+         The app functions as an interactive specification document for a developer.
+         1. Header: Mission statement derived from the prompt.
+         2. Navigation: Tabs separating the Logic layers (Hard Data, Soft Factors, Trend Analysis, Developer Tasks).
+         3. Section 1 (Cockpit/Simulation): The core interaction. Allows the user to simulate a match prediction by tweaking "Soft Factors" (Scandals, Trainer mood) to see how they impact the hard statistical probability. This demonstrates the weighting logic.
+         4. Section 2 (Data Sources): A list of required APIs and scrapers (Hard Facts).
+         5. Section 3 (Sentiment Analysis): Visualizes how text/rumors are converted into data points.
+         6. Section 4 (Trend Recon): Shows the logic for early trend detection.
+         7. Section 5 (Dev Roadmap): KanBan board with specific tasks extracted from the prompt.
+    -->
+
+    <!-- Visualization & Content Choices:
+         - Prediction Donut Chart (Chart.js): Shows the immediate impact of algorithm changes. Goal: Inform/Change.
+         - Radar Chart (Chart.js): Compares Team Stats vs. Team Mood. Goal: Compare/Relationships.
+         - Line Chart (Chart.js): Visualizes "Trend Detection" (Form Curve vs. Expected Goals). Goal: Change/Trends.
+         - Interactive Sliders: Allow user to manipulate "Soft Factors" (Trainer stress, Rumors). Goal: Engagement/Simulation.
+         - Kanban Board (HTML/CSS): Organizes developer tasks. Goal: Organize.
+         - CONFIRMATION: NO SVG graphics used. NO Mermaid JS used.
+    -->
+    <!-- CONFIRMATION: NO SVG graphics used. NO Mermaid JS used. -->
+</head>
+<body class="bg-[#F5F5F0] min-h-screen pb-12">
+
+    <!-- Header Section -->
+    <header class="bg-white border-b border-gray-200 sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between items-center h-16">
+                <div class="flex items-center">
+                    <div class="text-3xl mr-3">⚽</div>
+                    <div>
+                        <h1 class="text-xl font-bold text-gray-900">Bundesliga KI-Orakel</h1>
+                        <p class="text-xs text-gray-500">Entwickler-Spezifikation & Logik-Simulation</p>
+                    </div>
+                </div>
+                <nav class="hidden md:flex space-x-8">
+                    <button onclick="switchTab('simulation')" id="tab-simulation" class="active-tab px-3 py-2 text-sm font-medium transition-colors">Simulation & Logik</button>
+                    <button onclick="switchTab('datasources')" id="tab-datasources" class="px-3 py-2 text-sm font-medium text-gray-500 hover:text-gray-700 transition-colors">Datenquellen</button>
+                    <button onclick="switchTab('trends')" id="tab-trends" class="px-3 py-2 text-sm font-medium text-gray-500 hover:text-gray-700 transition-colors">Trend-Analyse</button>
+                    <button onclick="switchTab('roadmap')" id="tab-roadmap" class="px-3 py-2 text-sm font-medium text-gray-500 hover:text-gray-700 transition-colors">Dev-Roadmap</button>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content Area -->
+    <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+
+        <!-- INTRODUCTORY CONTEXT -->
+        <div class="mb-8 max-w-4xl mx-auto text-center">
+            <h2 class="text-2xl font-bold text-gray-800 mb-2">Projekt-Zielsetzung</h2>
+            <p class="text-gray-600">
+                Diese Applikation dient als interaktive Arbeitsanweisung. Ziel ist die Entwicklung eines Tippspiel-Algorithmus, 
+                der klassische Statistik ("Hard Facts") mit psychosozialen Faktoren ("Soft Factors") wie Trainer-Diskussionen, 
+                privaten Problemen von Spielern und Medien-Unruhe kombiniert. Nutzen Sie das Dashboard unten, um zu verstehen, 
+                wie diese Faktoren die Siegwahrscheinlichkeit beeinflussen sollen.
+            </p>
+        </div>
+
+        <!-- SECTION 1: SIMULATION & LOGIC (The Core Interactive Element) -->
+        <section id="simulation-view" class="space-y-6">
+            <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+                
+                <!-- Left: Control Panel (Soft Factors) -->
+                <div class="card p-6 lg:col-span-1 border-l-4 border-emerald-500">
+                    <h3 class="text-lg font-bold text-gray-800 mb-4 flex items-center">
+                        <span class="mr-2">🎚️</span> Parameter-Steuerung
+                    </h3>
+                    <p class="text-sm text-gray-500 mb-6">
+                        Simulieren Sie, wie "weiche Faktoren" die rein statistische Prognose verändern. Verändern Sie die Regler, um Krisen oder Hochphasen zu simulieren.
+                    </p>
+
+                    <!-- Team A Controls -->
+                    <div class="mb-6">
+                        <h4 class="font-semibold text-gray-700 mb-2 border-b pb-1">Heimteam: FC Daten-Tal</h4>
+                        
+                        <div class="mb-4">
+                            <label class="block text-sm font-medium text-gray-600 mb-1 flex justify-between">
+                                <span>Trainer-Status</span>
+                                <span id="val-trainer-a" class="text-emerald-600 font-bold">Stabil</span>
+                            </label>
+                            <input type="range" min="0" max="100" value="90" class="w-full h-2 bg-gray-200 rounded-lg appearance-none cursor-pointer accent-emerald-600" oninput="updateSimulation()" id="input-trainer-a">
+                            <p class="text-xs text-gray-400 mt-1">Links: Entlassung droht | Rechts: Fest im Sattel</p>
+                        </div>
+
+                        <div class="mb-4">
+                            <label class="block text-sm font-medium text-gray-600 mb-1 flex justify-between">
+                                <span>Umfeld / Gerüchte</span>
+                                <span id="val-mood-a" class="text-emerald-600 font-bold">Ruhig</span>
+                            </label>
+                            <input type="range" min="0" max="100" value="80" class="w-full h-2 bg-gray-200 rounded-lg appearance-none cursor-pointer accent-emerald-600" oninput="updateSimulation()" id="input-mood-a">
+                            <p class="text-xs text-gray-400 mt-1">Links: Skandale/Streit | Rechts: Fokus pur</p>
+                        </div>
+                    </div>
+
+                    <!-- Team B Controls -->
+                    <div>
+                        <h4 class="font-semibold text-gray-700 mb-2 border-b pb-1">Gast: SV Statistik 04</h4>
+                        
+                        <div class="mb-4">
+                            <label class="block text-sm font-medium text-gray-600 mb-1 flex justify-between">
+                                <span>Trainer-Status</span>
+                                <span id="val-trainer-b" class="text-emerald-600 font-bold">Stabil</span>
+                            </label>
+                            <input type="range" min="0" max="100" value="85" class="w-full h-2 bg-gray-200 rounded-lg appearance-none cursor-pointer accent-emerald-600" oninput="updateSimulation()" id="input-trainer-b">
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Middle: Result Visualization -->
+                <div class="card p-6 lg:col-span-1 flex flex-col items-center justify-center">
+                    <h3 class="text-lg font-bold text-gray-800 mb-2 w-full text-left">Prognostizierte Wahrscheinlichkeit</h3>
+                    <p class="text-sm text-gray-500 mb-4 w-full text-left">
+                        Live-Berechnung basierend auf statistischer Grundstärke (fix) und den eingestellten Soft-Facts (variabel).
+                    </p>
+                    
+                    <div class="chart-container">
+                        <canvas id="predictionChart"></canvas>
+                    </div>
+                    
+                    <div class="mt-4 text-center">
+                        <div class="text-sm font-medium text-gray-500">Algorithmus-Empfehlung</div>
+                        <div id="prediction-text" class="text-xl font-bold text-gray-800 mt-1">Heimsieg wahrscheinlich</div>
+                    </div>
+                </div>
+
+                <!-- Right: Logic Explaination -->
+                <div class="card p-6 lg:col-span-1 bg-gray-50 border border-gray-200">
+                    <h3 class="text-lg font-bold text-gray-800 mb-4">Wie der Algorithmus entscheidet</h3>
+                    <ul class="space-y-4 text-sm text-gray-700">
+                        <li class="flex items-start">
+                            <span class="mr-2 mt-1 text-emerald-600">➊</span>
+                            <div>
+                                <strong>Basis-Statistik (60%):</strong>
+                                <br>xG-Werte, Tabellenplatz, Heimstärke. Diese Daten kommen aus den harten Quellen.
+                            </div>
+                        </li>
+                        <li class="flex items-start">
+                            <span class="mr-2 mt-1 text-emerald-600">➋</span>
+                            <div>
+                                <strong>Form-Trend (20%):</strong>
+                                <br>Die letzten 5 Spiele, gewichtet nach Gegnerstärke. Ein Aufwärtstrend schlägt statische Qualität.
+                            </div>
+                        </li>
+                        <li class="flex items-start">
+                            <span class="mr-2 mt-1 text-emerald-600">➌</span>
+                            <div>
+                                <strong>Soft Factors (20%):</strong>
+                                <br>Hier greift Ihre Anforderung: 
+                                <ul class="list-disc ml-4 mt-1 text-gray-500 text-xs">
+                                    <li>Unruhe im Verein (Abzug bis zu 15%)</li>
+                                    <li>Trainer-Diskussion (Abzug bis zu 10%)</li>
+                                    <li>Private Ablenkungen/Streit (Variabel)</li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION 2: DATA SOURCES & ARCHITECTURE -->
+        <section id="datasources-view" class="hidden space-y-6">
+            <div class="mb-6">
+                <h3 class="text-xl font-bold text-gray-800">Daten-Pipeline Architektur</h3>
+                <p class="text-gray-600 mt-2">
+                    Um die Vorhersage präzise zu machen, müssen strukturierte und unstrukturierte Daten aggregiert werden.
+                    Diese Übersicht definiert die Quellen für den Entwickler.
+                </p>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <!-- Hard Data Sources -->
+                <div class="card p-6">
+                    <h4 class="font-bold text-gray-800 mb-4 border-b pb-2 flex justify-between items-center">
+                        <span>Harte Statistik-Quellen</span>
+                        <span class="text-xs bg-gray-100 px-2 py-1 rounded">Strukturiert</span>
+                    </h4>
+                    <div class="space-y-4">
+                        <div class="flex items-center justify-between">
+                            <div class="flex items-center">
+                                <span class="w-8 h-8 rounded bg-blue-100 text-blue-600 flex items-center justify-center mr-3 font-bold">S</span>
+                                <div>
+                                    <div class="font-semibold text-sm">Sport-API (z.B. OpenLigaDB/Opta)</div>
+                                    <div class="text-xs text-gray-500">Ergebnisse, Tabellen, Tore</div>
+                                </div>
+                            </div>
+                            <span class="text-emerald-600 text-lg">✓</span>
+                        </div>
+                        <div class="flex items-center justify-between">
+                            <div class="flex items-center">
+                                <span class="w-8 h-8 rounded bg-blue-100 text-blue-600 flex items-center justify-center mr-3 font-bold">xG</span>
+                                <div>
+                                    <div class="font-semibold text-sm">Advanced Stats (Understat)</div>
+                                    <div class="text-xs text-gray-500">Expected Goals, Possession Value</div>
+                                </div>
+                            </div>
+                            <span class="text-gray-300 text-lg">○</span>
+                        </div>
+                        <div class="mt-4 p-3 bg-blue-50 rounded text-xs text-blue-800">
+                            <strong>Entwickler-Note:</strong> Basis-Gewichtung liegt auf xG-Werten, da diese prädiktiver sind als reine Tore.
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Soft Data Sources -->
+                <div class="card p-6">
+                    <h4 class="font-bold text-gray-800 mb-4 border-b pb-2 flex justify-between items-center">
+                        <span>Sentiment & Soft-Factors</span>
+                        <span class="text-xs bg-gray-100 px-2 py-1 rounded">Unstrukturiert</span>
+                    </h4>
+                    <div class="space-y-4">
+                        <div class="flex items-center justify-between">
+                            <div class="flex items-center">
+                                <span class="w-8 h-8 rounded bg-orange-100 text-orange-600 flex items-center justify-center mr-3 font-bold">N</span>
+                                <div>
+                                    <div class="font-semibold text-sm">News-Scraper & RSS</div>
+                                    <div class="text-xs text-gray-500">Kicker, Transfermarkt, Bild (Sport)</div>
+                                </div>
+                            </div>
+                            <span class="text-emerald-600 text-lg">✓</span>
+                        </div>
+                        <div class="flex items-center justify-between">
+                            <div class="flex items-center">
+                                <span class="w-8 h-8 rounded bg-orange-100 text-orange-600 flex items-center justify-center mr-3 font-bold">S</span>
+                                <div>
+                                    <div class="font-semibold text-sm">Social Sentiment</div>
+                                    <div class="text-xs text-gray-500">Fan-Foren, Twitter/X Hashtags</div>
+                                </div>
+                            </div>
+                            <span class="text-gray-300 text-lg">○</span>
+                        </div>
+                        <div class="mt-4 p-3 bg-orange-50 rounded text-xs text-orange-800">
+                            <strong>Logik-Anforderung:</strong> Suche nach Keywords wie "Streit", "Krise", "Rücktritt", "Skandal". Ein Clustering-Algorithmus (NLP) muss den "Unruhe-Score" (0-10) berechnen.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION 3: TREND ANALYSIS VISUALIZATION -->
+        <section id="trends-view" class="hidden space-y-6">
+            <div class="mb-6">
+                <h3 class="text-xl font-bold text-gray-800">Frühzeitige Trend-Erkennung</h3>
+                <p class="text-gray-600 mt-2">
+                    Das System soll Trends erkennen, bevor sie in der Tabelle sichtbar sind. Diese Ansicht zeigt, wie Diskrepanzen zwischen "Erwartung" und "Realität" visualisiert werden.
+                </p>
+            </div>
+
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+                <div class="card p-6">
+                    <h4 class="font-bold text-gray-800 mb-4">Form-Analyse: Leistung vs. Ergebnis</h4>
+                    <div class="chart-container">
+                        <canvas id="trendChart"></canvas>
+                    </div>
+                    <div class="mt-4 text-sm text-gray-600">
+                        <p><strong>Interpretation:</strong> Die <span class="text-blue-500 font-bold">blaue Linie</span> zeigt die tatsächlichen Punkte. Die <span class="text-gray-400 font-bold border-b border-dashed border-gray-400">graue Linie</span> zeigt die erwarteten Punkte (xPoints) basierend auf der Spielleistung.</p>
+                        <p class="mt-2 text-emerald-700 bg-emerald-50 p-2 rounded border border-emerald-100">
+                            <strong>Trend-Signal:</strong> Spieltag 4-6 zeigt eine Lücke. Das Team spielt gut (hohe xPoints), holt aber wenig Punkte. 
+                            <strong>Prognose:</strong> Ergebnisse werden sich wahrscheinlich verbessern (Buy-Low Opportunity).
+                        </p>
+                    </div>
+                </div>
+
+                <div class="card p-6">
+                    <h4 class="font-bold text-gray-800 mb-4">Einflussfaktoren-Matrix</h4>
+                    <p class="text-sm text-gray-500 mb-4">Vergleich von zwei Teams in verschiedenen Kategorien, die in die Berechnung einfließen.</p>
+                    <div class="chart-container">
+                        <canvas id="radarChart"></canvas>
+                    </div>
+                    <div class="mt-4 p-3 bg-gray-50 rounded text-sm">
+                        <p><strong>Erklärung:</strong> Team A (Rot) ist physisch stark, hat aber schlechte Stimmung (Mood). Team B (Blau) ist taktisch diszipliniert und mental stark. Der Algorithmus gewichtet "Team Mood" bei Auswärtsspielen höher.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION 4: DEVELOPER ROADMAP (Task List) -->
+        <section id="roadmap-view" class="hidden space-y-6">
+             <div class="mb-6">
+                <h3 class="text-xl font-bold text-gray-800">Entwickler Arbeitsanweisungen</h3>
+                <p class="text-gray-600 mt-2">
+                    Basierend auf dem Rechercheplan wurden folgende konkrete Tasks abgeleitet.
+                </p>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6 h-full">
+                <!-- Column 1 -->
+                <div class="bg-gray-100 p-4 rounded-lg">
+                    <h4 class="font-bold text-gray-700 mb-3 flex items-center">
+                        <span class="w-2 h-2 rounded-full bg-gray-500 mr-2"></span> Backend / Daten
+                    </h4>
+                    <div class="space-y-3">
+                        <div class="card p-3 border-l-4 border-blue-500 cursor-pointer">
+                            <div class="text-xs font-bold text-blue-500 mb-1">PRIO 1</div>
+                            <h5 class="font-semibold text-sm">API Anbindung</h5>
+                            <p class="text-xs text-gray-500 mt-1">Integration einer kostenlosen Fußball-API für Basisdaten (Tore, Tabelle).</p>
+                        </div>
+                        <div class="card p-3 border-l-4 border-blue-500 cursor-pointer">
+                            <div class="text-xs font-bold text-blue-500 mb-1">PRIO 2</div>
+                            <h5 class="font-semibold text-sm">Sentiment Scraper</h5>
+                            <p class="text-xs text-gray-500 mt-1">Python-Script schreiben, das News-Headlines nach Schlüsselwörtern ("Krise", "Streit") scannt.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Column 2 -->
+                <div class="bg-gray-100 p-4 rounded-lg">
+                    <h4 class="font-bold text-gray-700 mb-3 flex items-center">
+                        <span class="w-2 h-2 rounded-full bg-yellow-500 mr-2"></span> Algorithmus Logik
+                    </h4>
+                    <div class="space-y-3">
+                        <div class="card p-3 border-l-4 border-yellow-500 cursor-pointer">
+                            <div class="text-xs font-bold text-yellow-500 mb-1">CORE</div>
+                            <h5 class="font-semibold text-sm">Gewichtungs-Matrix</h5>
+                            <p class="text-xs text-gray-500 mt-1">Implementierung der Formel: Score = (Stats * 0.6) + (Form * 0.2) + (Mood * 0.2).</p>
+                        </div>
+                        <div class="card p-3 border-l-4 border-yellow-500 cursor-pointer">
+                            <div class="text-xs font-bold text-yellow-500 mb-1">FEATURE</div>
+                            <h5 class="font-semibold text-sm">Trend-Erkennung</h5>
+                            <p class="text-xs text-gray-500 mt-1">Berechnung der Steigung der Formkurve der letzten 5 Spiele. Alarm bei negativem Delta.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Column 3 -->
+                <div class="bg-gray-100 p-4 rounded-lg">
+                    <h4 class="font-bold text-gray-700 mb-3 flex items-center">
+                        <span class="w-2 h-2 rounded-full bg-emerald-500 mr-2"></span> Frontend / UI
+                    </h4>
+                    <div class="space-y-3">
+                        <div class="card p-3 border-l-4 border-emerald-500 cursor-pointer">
+                            <div class="text-xs font-bold text-emerald-500 mb-1">UI</div>
+                            <h5 class="font-semibold text-sm">Wahrscheinlichkeits-Display</h5>
+                            <p class="text-xs text-gray-500 mt-1">Visualisierung der Siegchancen (Donut Chart) wie im Dashboard-Prototyp.</p>
+                        </div>
+                         <div class="card p-3 border-l-4 border-emerald-500 cursor-pointer">
+                            <div class="text-xs font-bold text-emerald-500 mb-1">UX</div>
+                            <h5 class="font-semibold text-sm">News-Feed Integration</h5>
+                            <p class="text-xs text-gray-500 mt-1">Anzeige der relevantesten Gerüchte direkt neben dem Tipp.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- JavaScript Implementation -->
+    <script>
+        // --- State Management ---
+        const appState = {
+            currentTab: 'simulation',
+            simulation: {
+                baseStrengthA: 60, // Fixed statistical strength
+                baseStrengthB: 40,
+                trainerA: 90,      // Slider value
+                moodA: 80,         // Slider value
+                trainerB: 85,
+                // Resulting probabilities
+                probA: 55,
+                probDraw: 25,
+                probB: 20
+            }
+        };
+
+        // --- Chart Instances ---
+        let predictionChartInstance = null;
+        let trendChartInstance = null;
+        let radarChartInstance = null;
+
+        // --- Navigation Logic ---
+        function switchTab(tabId) {
+            // Update State
+            appState.currentTab = tabId;
+
+            // UI Updates: Hide all sections, remove active class
+            ['simulation', 'datasources', 'trends', 'roadmap'].forEach(id => {
+                document.getElementById(`${id}-view`).classList.add('hidden');
+                document.getElementById(`tab-${id}`).classList.remove('active-tab');
+                document.getElementById(`tab-${id}`).classList.remove('text-gray-900');
+                document.getElementById(`tab-${id}`).classList.add('text-gray-500');
+            });
+
+            // Show selected section, add active class
+            document.getElementById(`${tabId}-view`).classList.remove('hidden');
+            const activeBtn = document.getElementById(`tab-${tabId}`);
+            activeBtn.classList.add('active-tab', 'text-gray-900');
+            activeBtn.classList.remove('text-gray-500');
+
+            // Trigger Chart renders if needed (charts need visibility to render correctly)
+            if (tabId === 'simulation' && predictionChartInstance) {
+                predictionChartInstance.resize(); 
+            }
+            if (tabId === 'trends') {
+                setTimeout(() => {
+                    initTrendChart();
+                    initRadarChart();
+                }, 10); // Slight delay to ensure DOM is visible
+            }
+        }
+
+        // --- Simulation Logic (The "Algorithm" Prototype) ---
+        function calculateProbability() {
+            // Weights extracted from user prompt logic
+            const weightStats = 0.6;
+            const weightSoft = 0.4; // Soft factors (Trainer, Mood, Rumors)
+
+            // Normalize slider inputs (0-100) to factor (0.5 - 1.5 impact)
+            // Low slider = Bad mood/Crisis = Low factor
+            const factorTrainerA = 0.5 + (document.getElementById('input-trainer-a').value / 100);
+            const factorMoodA = 0.5 + (document.getElementById('input-mood-a').value / 100);
+            
+            const factorTrainerB = 0.5 + (document.getElementById('input-trainer-b').value / 100);
+            
+            // Calculate "Effective Strength"
+            // Base strength is modified by the average of soft factors
+            const softScoreA = (factorTrainerA + factorMoodA) / 2;
+            const softScoreB = factorTrainerB; // Simplified for demo
+
+            const effectiveA = (appState.simulation.baseStrengthA * weightStats) + (appState.simulation.baseStrengthA * softScoreA * weightSoft);
+            const effectiveB = (appState.simulation.baseStrengthB * weightStats) + (appState.simulation.baseStrengthB * softScoreB * weightSoft);
+
+            const total = effectiveA + effectiveB;
+            
+            // Calculate Percentages (simplified draw logic)
+            const rawProbA = (effectiveA / total) * 100;
+            const rawProbB = (effectiveB / total) * 100;
+            
+            // Artificial Draw Probability based on closeness
+            const diff = Math.abs(rawProbA - rawProbB);
+            let drawProb = 25; 
+            if(diff > 30) drawProb = 15; // Mismatch -> less draws
+            if(diff < 10) drawProb = 30; // Close match -> more draws
+
+            const remainder = 100 - drawProb;
+            appState.simulation.probA = (rawProbA / (rawProbA + rawProbB)) * remainder;
+            appState.simulation.probB = (rawProbB / (rawProbA + rawProbB)) * remainder;
+            appState.simulation.probDraw = drawProb;
+
+            updateUI();
+        }
+
+        function updateUI() {
+            // Update Labels
+            const trainerAVal = document.getElementById('input-trainer-a').value;
+            document.getElementById('val-trainer-a').innerText = trainerAVal < 40 ? "Kritisch!" : (trainerAVal < 70 ? "Angespannt" : "Stabil");
+            document.getElementById('val-trainer-a').className = trainerAVal < 40 ? "text-red-600 font-bold" : (trainerAVal < 70 ? "text-yellow-600 font-bold" : "text-emerald-600 font-bold");
+
+            const moodAVal = document.getElementById('input-mood-a').value;
+            document.getElementById('val-mood-a').innerText = moodAVal < 40 ? "Unruhe/Streit" : "Fokussiert";
+             document.getElementById('val-mood-a').className = moodAVal < 40 ? "text-red-600 font-bold" : "text-emerald-600 font-bold";
+
+            const trainerBVal = document.getElementById('input-trainer-b').value;
+            document.getElementById('val-trainer-b').innerText = trainerBVal < 40 ? "Kritisch!" : "Stabil";
+             document.getElementById('val-trainer-b').className = trainerBVal < 40 ? "text-red-600 font-bold" : "text-emerald-600 font-bold";
+
+            // Update Text Prediction
+            const textEl = document.getElementById('prediction-text');
+            if (appState.simulation.probA > 50) textEl.innerText = "Heimsieg wahrscheinlich";
+            else if (appState.simulation.probB > 50) textEl.innerText = "Auswärtssieg wahrscheinlich";
+            else textEl.innerText = "Offenes Spiel / Remis-Gefahr";
+
+            // Update Chart
+            if (predictionChartInstance) {
+                predictionChartInstance.data.datasets[0].data = [
+                    appState.simulation.probA, 
+                    appState.simulation.probDraw, 
+                    appState.simulation.probB
+                ];
+                predictionChartInstance.update();
+            }
+        }
+
+        function updateSimulation() {
+            calculateProbability();
+        }
+
+        // --- Chart Initialization ---
+
+        function initPredictionChart() {
+            const ctx = document.getElementById('predictionChart').getContext('2d');
+            predictionChartInstance = new Chart(ctx, {
+                type: 'doughnut',
+                data: {
+                    labels: ['Sieg Heim', 'Unentschieden', 'Sieg Gast'],
+                    datasets: [{
+                        data: [55, 25, 20],
+                        backgroundColor: ['#059669', '#E5E7EB', '#EF4444'], // Emerald, Gray, Red
+                        borderWidth: 0,
+                        hoverOffset: 4
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            position: 'bottom',
+                            labels: { usePointStyle: true, font: { family: 'Inter' } }
+                        },
+                        tooltip: {
+                            callbacks: {
+                                label: function(context) {
+                                    return context.label + ': ' + Math.round(context.raw) + '%';
+                                }
+                            }
+                        }
+                    },
+                    cutout: '60%'
+                }
+            });
+        }
+
+        function initTrendChart() {
+            if(trendChartInstance) return; // Prevent double init
+            const ctx = document.getElementById('trendChart').getContext('2d');
+            trendChartInstance = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: ['Spieltag 1', 'Spieltag 2', 'Spieltag 3', 'Spieltag 4', 'Spieltag 5', 'Spieltag 6'],
+                    datasets: [
+                        {
+                            label: 'Reale Punkte (Kumuliert)',
+                            data: [1, 4, 5, 5, 6, 9],
+                            borderColor: '#3B82F6', // Blue
+                            backgroundColor: '#3B82F6',
+                            tension: 0.1,
+                            borderWidth: 3
+                        },
+                        {
+                            label: 'xPoints (Erwartung)',
+                            data: [1.2, 3.5, 6.0, 8.5, 10.2, 11.0],
+                            borderColor: '#9CA3AF', // Gray
+                            borderDash: [5, 5],
+                            tension: 0.1,
+                            pointRadius: 0,
+                            borderWidth: 2
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: { position: 'bottom' },
+                        annotation: {
+                            // Annotation requires plugin, skipping for vanilla constraint, using text description instead
+                        }
+                    },
+                    scales: {
+                        y: { beginAtZero: true, title: { display: true, text: 'Punkte' } }
+                    }
+                }
+            });
+        }
+
+        function initRadarChart() {
+            if(radarChartInstance) return;
+            const ctx = document.getElementById('radarChart').getContext('2d');
+            radarChartInstance = new Chart(ctx, {
+                type: 'radar',
+                data: {
+                    labels: ['Angriff (xG)', 'Abwehr', 'Ballbesitz', 'Team-Moral (Soft)', 'Trainer-Status', 'Form'],
+                    datasets: [{
+                        label: 'Heim (FC Daten)',
+                        data: [85, 70, 60, 40, 90, 65], // Good stats, bad mood
+                        fill: true,
+                        backgroundColor: 'rgba(5, 150, 105, 0.2)',
+                        borderColor: '#059669',
+                        pointBackgroundColor: '#059669'
+                    }, {
+                        label: 'Gast (SV Statistik)',
+                        data: [60, 80, 45, 90, 85, 75], // Worse stats, great mood
+                        fill: true,
+                        backgroundColor: 'rgba(239, 68, 68, 0.2)',
+                        borderColor: '#EF4444',
+                        pointBackgroundColor: '#EF4444'
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        r: {
+                            angleLines: { color: '#E5E7EB' },
+                            grid: { color: '#E5E7EB' },
+                            pointLabels: { font: { size: 12 } },
+                            suggestedMin: 0,
+                            suggestedMax: 100
+                        }
+                    }
+                }
+            });
+        }
+
+        // --- Init ---
+        window.addEventListener('DOMContentLoaded', () => {
+            initPredictionChart();
+            calculateProbability(); // Initial calculation
+        });
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,154 @@
+{
+  "news": [
+    {
+      "title": "Ginter: SC Freiburg soll mal Gefühl bekommen, einen Titel zu gewinnen",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Krösche spricht über Zukunft bei Eintracht Frankfurt – Trainer Riera „hat seinen Stil“",
+      "source": "transfermarkt",
+      "sentiment": 0.45
+    },
+    {
+      "title": "BVB: Fenerbahce spricht mit Guirassy-Beratern – Ausstiegsklausel gilt nicht für Süper-Lig-Klub",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Nach Schiedsrichter-Bedrohung: Lange Sperre für Andorras Klubboss Piqué",
+      "source": "transfermarkt",
+      "sentiment": -0.8
+    },
+    {
+      "title": "Traum vom Triple vorbei: FC Bayern scheidet gegen PSG aus",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Rennen um fünften Champions-League-Platz: SC Freiburg muss ins Finale",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "PSG gegen Bayern: Strittige Schiedsrichterentscheidungen prägen CL-Aus",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "BVB-Profi Süle beendet Karriere mit 30: „Habe zehn Minuten geweint“",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Werder Bremen Favorit auf Chuki-Transfer – Valladolids Top-Score",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Bericht: Mainz kauft Becker von Osasuna – Ablöse eine Million unter Marktwert",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Zu tausend Prozent klar, dass es vorbei ist\": Süle beendet seine Karriere",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Aktuell kein Kontakt zwischen Hrgota und Hertha - Sagt der FCA Nein bei Keitel?",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Die Folgen des Bayern-Aus in der Champions League für die Bundesliga-Tabelle",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Eberl: \"Dann bin ich bereit, länger zu bleiben\"",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Wer bietet den Bayern Paroli? Stelle dein Team der Saison der Bundesliga zusammen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Leipziger Aufstiegs-Jubiläum: Rangnick kommt und hält die Daumen",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Vertrag bis 2031: Bayer verlängert mit Pechvogel Arthur",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Die Tendenz bei Gregoritsch: Weiter beim FCA",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Engelhardt: Holt Freiburg den nächsten Rückkehrer?",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Aus gutem Grund: In Wolfsburg werden am Samstag keine Spieler verabschiedet",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Adeyemi, Nmecha und Süle vor BVB-Comeback - Saison-Aus für Bensebaini",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Kovac: \"Die meisten hier sind Kinder der Sportschau\"",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Bayerns Standpunkt bei Laimer - Verlängert Neuer kommende Woche?",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Wagner? \"Jemand, der das volle Granate lebt\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Mit oder ohne Wagner? Wie Köln sich trotz des Klassenerhalts neu erfindet",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "St. Pauli: Drei neue Ausfälle, zwei echte Probleme",
+      "source": "kicker",
+      "sentiment": -0.55
+    },
+    {
+      "title": "Hoffenheim verlängert mit Schicker und installiert zweiten Geschäftsführer",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Drei Konkurrenten noch im Rennen: Bayers Kampf um Top-Talent Eichhorn",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Bayer und Hjulmand vor Endspiel gegen VfB: Kampf gegen die Wundertüte",
+      "source": "kicker",
+      "sentiment": 0.05
+    },
+    {
+      "title": "Werder: Weiter Warten auf Weiser",
+      "source": "kicker",
+      "sentiment": 0.4
+    }
+  ]
+}
