@@ -2,7 +2,7 @@
 
 Hybrid-Prognosemodell für die Fußball-Bundesliga: kombiniert Elo-Rating, xG-basierte Form und Sentiment aus deutschen Sport-RSS-Feeds.
 
-**Live-Demo:** *(Netlify-URL nach Deploy hier eintragen)*
+**Live:** https://tippspielkepp.netlify.app/
 
 ## Architektur
 
