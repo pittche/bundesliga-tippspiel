@@ -1,154 +1,154 @@
 {
   "news": [
     {
-      "title": "Ginter: SC Freiburg soll mal Gefühl bekommen, einen Titel zu gewinnen",
+      "title": "Werder Bremen: Kenny Quetant ist erster Neuzugang – Fünfter Franzose",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Brighton bindet Trainer Fabian Hürzeler – Bayer Leverkusen geht leer aus",
       "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "Krösche spricht über Zukunft bei Eintracht Frankfurt – Trainer Riera „hat seinen Stil“",
-      "source": "transfermarkt",
-      "sentiment": 0.45
-    },
-    {
-      "title": "BVB: Fenerbahce spricht mit Guirassy-Beratern – Ausstiegsklausel gilt nicht für Süper-Lig-Klub",
+      "title": "Eintracht Frankfurt: Aus von Trainer Albert Riera soll schon feststehen",
       "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "Nach Schiedsrichter-Bedrohung: Lange Sperre für Andorras Klubboss Piqué",
+      "title": "Meiste Tore in einer Saison für FC Bayern: Kane egalisiert Lewandowski-Rekord",
       "source": "transfermarkt",
-      "sentiment": -0.8
+      "sentiment": -0.6
     },
     {
-      "title": "Traum vom Triple vorbei: FC Bayern scheidet gegen PSG aus",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Rennen um fünften Champions-League-Platz: SC Freiburg muss ins Finale",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "PSG gegen Bayern: Strittige Schiedsrichterentscheidungen prägen CL-Aus",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "BVB-Profi Süle beendet Karriere mit 30: „Habe zehn Minuten geweint“",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Werder Bremen Favorit auf Chuki-Transfer – Valladolids Top-Score",
+      "title": "Komenda tippt 33. Spieltag: VfB Stuttgart macht Schritt Richtung Champions League",
       "source": "transfermarkt",
       "sentiment": 0.3
     },
     {
-      "title": "Bericht: Mainz kauft Becker von Osasuna – Ablöse eine Million unter Marktwert",
+      "title": "SC Freiburg zieht ins Europa-League-Finale – Champions-League-Platz futsch",
       "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "\"Zu tausend Prozent klar, dass es vorbei ist\": Süle beendet seine Karriere",
-      "source": "kicker",
+      "title": "SC Freiburg in Ekstase: Platzsturm und Party nach Finaleinzug",
+      "source": "transfermarkt",
+      "sentiment": 0.1
+    },
+    {
+      "title": "Wie das „schlecht organisierte“ Rayo Vallecano ins Conference-League-Finale kam",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Europa und Abstiegskampf: Was sich am 33. Bundesliga-Spieltag entscheiden kann",
+      "source": "transfermarkt",
+      "sentiment": -0.23
+    },
+    {
+      "title": "FC Bayern beobachtet Ajax' Godts – Alternative zu teurem Gordon",
+      "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "Aktuell kein Kontakt zwischen Hrgota und Hertha - Sagt der FCA Nein bei Keitel?",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Die Folgen des Bayern-Aus in der Champions League für die Bundesliga-Tabelle",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Eberl: \"Dann bin ich bereit, länger zu bleiben\"",
+      "title": "Rayo zerstört Bundesliga-Hoffnungen auf weiteren CL-Platz",
       "source": "kicker",
       "sentiment": -0.4
     },
     {
-      "title": "Wer bietet den Bayern Paroli? Stelle dein Team der Saison der Bundesliga zusammen",
+      "title": "Brandt: \"In sieben Jahren gab es keinen Spieler, mit dem ich Stress hatte\"",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "Leipziger Aufstiegs-Jubiläum: Rangnick kommt und hält die Daumen",
+      "title": "Blessin: \"Können uns einigeln und rumheulen, aber dann werden wir es nicht schaffen\"",
+      "source": "kicker",
+      "sentiment": -0.23
+    },
+    {
+      "title": "Werder fixiert ersten Sommer-Transfer: Quetant kommt aus Le Havre",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "\"Brauchen eine Top-Top-Leistung\": Hecking verrät, worauf es gegen Bayern ankommt",
+      "source": "kicker",
+      "sentiment": 0.55
+    },
+    {
+      "title": "Riera zu Druck: \"Weiß genau, wie es in meinem Job läuft\"",
       "source": "kicker",
       "sentiment": 0.5
     },
     {
-      "title": "Vertrag bis 2031: Bayer verlängert mit Pechvogel Arthur",
+      "title": "Zwischen Party und Umbruch: Die Zukunft von Schalke",
       "source": "kicker",
-      "sentiment": 0.5
+      "sentiment": 0.3
     },
     {
-      "title": "Die Tendenz bei Gregoritsch: Weiter beim FCA",
+      "title": "Ein Jahr in sportlicher Verantwortung: Kessler sieht \"deutlichen Schritt\" in Köln",
+      "source": "kicker",
+      "sentiment": -0.15
+    },
+    {
+      "title": "Das Double als \"Trostpreis\"? Die Folgen des Bayern-Aus",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "Engelhardt: Holt Freiburg den nächsten Rückkehrer?",
+      "title": "Darum holt Bayern Eichhorn eher nicht",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Hecking: \"PSG hat es gut gemacht - es sind aber auch andere Spieler\"",
       "source": "kicker",
       "sentiment": 0.4
     },
     {
-      "title": "Aus gutem Grund: In Wolfsburg werden am Samstag keine Spieler verabschiedet",
+      "title": "Leipzigs nächster Matchball für die Königsklasse",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Baum, Platz 9 und das Rubbellos",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "Adeyemi, Nmecha und Süle vor BVB-Comeback - Saison-Aus für Bensebaini",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Kovac: \"Die meisten hier sind Kinder der Sportschau\"",
+      "title": "Riera als Herr der Metaphern: \"Ich sage es selbst: Albert, du gewinnst nicht genug\"",
       "source": "kicker",
       "sentiment": -0.4
     },
     {
-      "title": "Bayerns Standpunkt bei Laimer - Verlängert Neuer kommende Woche?",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Wagner? \"Jemand, der das volle Granate lebt\"",
+      "title": "Hoeneß: \"In vielen Saisons hätten die 58 Punkte gereicht\"",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "Mit oder ohne Wagner? Wie Köln sich trotz des Klassenerhalts neu erfindet",
+      "title": "Nach über 350 Bundesliga-Spielen: Vogt beendet seine Karriere",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "St. Pauli: Drei neue Ausfälle, zwei echte Probleme",
-      "source": "kicker",
-      "sentiment": -0.55
-    },
-    {
-      "title": "Hoffenheim verlängert mit Schicker und installiert zweiten Geschäftsführer",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Drei Konkurrenten noch im Rennen: Bayers Kampf um Top-Talent Eichhorn",
+      "title": "Das Bundesliga-Quiz zum 33. Spieltag",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "Bayer und Hjulmand vor Endspiel gegen VfB: Kampf gegen die Wundertüte",
+      "title": "Hoeneß' Appell nach dem \"Warnschuss\": \"Wir wollen gemeinsam was abbrennen\"",
       "source": "kicker",
-      "sentiment": 0.05
+      "sentiment": 0
     },
     {
-      "title": "Werder: Weiter Warten auf Weiser",
+      "title": "Kessler: Habe gelesen, dass wir nur mit Karl und El Mala WM-Chancen haben",
       "source": "kicker",
-      "sentiment": 0.4
+      "sentiment": 0
+    },
+    {
+      "title": "Abschied für Akpoguma, Prömel und Bebou",
+      "source": "kicker",
+      "sentiment": 0
     }
   ]
 }
