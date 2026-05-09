@@ -1,154 +1,154 @@
 {
   "news": [
     {
-      "title": "Werder Bremen: Kenny Quetant ist erster Neuzugang – Fünfter Franzose",
+      "title": "SV Lichtenberg 47: Sebastian Reiniger über Regionalliga-Aufstieg & Karriereende",
       "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Meiste Finalteilnahmen im Europacup: Emery zieht mit Mourinho & Co. gleich",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "VfL Bochum verabschiedet elf Spieler um Kapitän Matus Bero",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Hertha BSC: Eigengewächs Tim Hoffmann wechselt zum SC Verl",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "TSG Hoffenheim verabschiedet Trio um Bebou – Union Berlin & 1. FC Köln klopfen an",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "3. Liga: Ikone Handle beendet Karriere – Nur einer mit mehr Partien für Viktoria Köln",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Folgenreicher Streit bei Real Madrid: Valverde & Tchouaméni müssen hohe Strafe zahlen",
+      "source": "transfermarkt",
+      "sentiment": -0.7
+    },
+    {
+      "title": "Endrick über das richtige Gleichgewicht, „um nicht den Boden unter den Füßen zu verlieren“",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Paderborn droht das Aus im Aufstiegsrennen – Kaiserslautern schürt Bielefelds Abstiegssorgen",
+      "source": "transfermarkt",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Eintracht Frankfurt und Riera verlieren auch bei Vizemeister BVB",
+      "source": "transfermarkt",
+      "sentiment": 0.27
+    },
+    {
+      "title": "Riera sitzt auch gegen Stuttgart auf der Eintracht-Bank - und dann nie wieder?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kovacs warme Abschiedsworte an Süle - und eine Einladung zum Golfen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Schwarz-Gelbe Emotionen: BVB verabschiedet \"echte Borussen\"",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Abstieg auf der Couch? Diese Entscheidungen können am 33. Spieltag fallen",
+      "source": "kicker",
+      "sentiment": -0.7
+    },
+    {
+      "title": "\"Vier Abschiede beim BVB und einer bei Frankfurt?\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Krösche über Riera: \"Darum geht es auch bei Führungskräften\"",
+      "source": "kicker",
       "sentiment": 0.4
     },
     {
-      "title": "Brighton bindet Trainer Fabian Hürzeler – Bayer Leverkusen geht leer aus",
-      "source": "transfermarkt",
+      "title": "Diese prominenten Spieler waren beim Karriereende 29 oder jünger",
+      "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "Eintracht Frankfurt: Aus von Trainer Albert Riera soll schon feststehen",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Meiste Tore in einer Saison für FC Bayern: Kane egalisiert Lewandowski-Rekord",
-      "source": "transfermarkt",
-      "sentiment": -0.6
-    },
-    {
-      "title": "Komenda tippt 33. Spieltag: VfB Stuttgart macht Schritt Richtung Champions League",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "SC Freiburg zieht ins Europa-League-Finale – Champions-League-Platz futsch",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "SC Freiburg in Ekstase: Platzsturm und Party nach Finaleinzug",
-      "source": "transfermarkt",
-      "sentiment": 0.1
-    },
-    {
-      "title": "Wie das „schlecht organisierte“ Rayo Vallecano ins Conference-League-Finale kam",
-      "source": "transfermarkt",
+      "title": "Kessler traut Wagner \"definitiv\" mehr zu - und sondiert doch den Markt",
+      "source": "kicker",
       "sentiment": 0.4
     },
     {
-      "title": "Europa und Abstiegskampf: Was sich am 33. Bundesliga-Spieltag entscheiden kann",
-      "source": "transfermarkt",
-      "sentiment": -0.23
-    },
-    {
-      "title": "FC Bayern beobachtet Ajax' Godts – Alternative zu teurem Gordon",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Rayo zerstört Bundesliga-Hoffnungen auf weiteren CL-Platz",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Brandt: \"In sieben Jahren gab es keinen Spieler, mit dem ich Stress hatte\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Blessin: \"Können uns einigeln und rumheulen, aber dann werden wir es nicht schaffen\"",
-      "source": "kicker",
-      "sentiment": -0.23
-    },
-    {
-      "title": "Werder fixiert ersten Sommer-Transfer: Quetant kommt aus Le Havre",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "\"Brauchen eine Top-Top-Leistung\": Hecking verrät, worauf es gegen Bayern ankommt",
-      "source": "kicker",
-      "sentiment": 0.55
-    },
-    {
-      "title": "Riera zu Druck: \"Weiß genau, wie es in meinem Job läuft\"",
+      "title": "Vor direktem Duell: Hoffenheim hat Bremens Stage im Visier",
       "source": "kicker",
       "sentiment": 0.5
     },
     {
-      "title": "Zwischen Party und Umbruch: Die Zukunft von Schalke",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Ein Jahr in sportlicher Verantwortung: Kessler sieht \"deutlichen Schritt\" in Köln",
-      "source": "kicker",
-      "sentiment": -0.15
-    },
-    {
-      "title": "Das Double als \"Trostpreis\"? Die Folgen des Bayern-Aus",
+      "title": "Brandt vor Abschied: \"Ich will mich nicht einfach nur an einen Verein verkaufen\"",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "Darum holt Bayern Eichhorn eher nicht",
+      "title": "Lee macht Hoffnung, Batz vor emotionalem Abschied",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "Hecking: \"PSG hat es gut gemacht - es sind aber auch andere Spieler\"",
+      "title": "Deutschland-Fan Ilzer: \"Hat mein Interesse für Fußball geweckt\"",
       "source": "kicker",
-      "sentiment": 0.4
+      "sentiment": 0
     },
     {
-      "title": "Leipzigs nächster Matchball für die Königsklasse",
+      "title": "Union Berlin und die Suche nach dem passenden Trainer",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Was passiert, wenn zwei Bundesligisten punkt- und torgleich sind?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kainz und Heintz vor Abschiedsspiel in Köln",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "WM-Vorbereitung gestört: Davies fällt erneut wochenlang aus",
+      "source": "kicker",
+      "sentiment": -0.5
+    },
+    {
+      "title": "Schmidt: \"Wenn du ganz unten stehst, was soll noch schlechter werden?\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Der Tag X kommt\": Was der FC Bayern 2000 den FC Bayern 2026 lehrt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Es ist gut, dass wir das wissen\": Für Hjulmand zählen nur noch Siege",
       "source": "kicker",
       "sentiment": 0.5
     },
     {
-      "title": "Baum, Platz 9 und das Rubbellos",
+      "title": "Hertha wirbt um Ducksch - Mainz verpflichtet Becker fest",
       "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Riera als Herr der Metaphern: \"Ich sage es selbst: Albert, du gewinnst nicht genug\"",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Hoeneß: \"In vielen Saisons hätten die 58 Punkte gereicht\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Nach über 350 Bundesliga-Spielen: Vogt beendet seine Karriere",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Das Bundesliga-Quiz zum 33. Spieltag",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Hoeneß' Appell nach dem \"Warnschuss\": \"Wir wollen gemeinsam was abbrennen\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kessler: Habe gelesen, dass wir nur mit Karl und El Mala WM-Chancen haben",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Abschied für Akpoguma, Prömel und Bebou",
-      "source": "kicker",
-      "sentiment": 0
+      "sentiment": 0.37
     }
   ]
 }
