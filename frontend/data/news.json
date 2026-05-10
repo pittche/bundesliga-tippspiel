@@ -1,154 +1,154 @@
 {
   "news": [
     {
-      "title": "SV Lichtenberg 47: Sebastian Reiniger über Regionalliga-Aufstieg & Karriereende",
+      "title": "3. Liga: Cottbus macht großen Schritt Richtung Aufstieg – Essen bleibt dran",
       "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "Meiste Finalteilnahmen im Europacup: Emery zieht mit Mourinho & Co. gleich",
+      "title": "Erzgebirge Aue trauert um Vereinsikone Mothes",
       "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "VfL Bochum verabschiedet elf Spieler um Kapitän Matus Bero",
+      "title": "Lionel Messi macht weiter, „bis ich schlichtweg nicht mehr kann“",
       "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "Hertha BSC: Eigengewächs Tim Hoffmann wechselt zum SC Verl",
+      "title": "Stuttgart gewinnt 20-Millionen-Spiel gegen Leverkusen – St. Pauli muss auf Bayern hoffen",
+      "source": "transfermarkt",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Ex-Bayern-Star Tolisso in Topform – „Unser bester Spieler, unser Anführer“",
+      "source": "transfermarkt",
+      "sentiment": -0.4
+    },
+    {
+      "title": "VfL Wolfsburg streicht Amoura und Paredes aus dem Kader",
       "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "TSG Hoffenheim verabschiedet Trio um Bebou – Union Berlin & 1. FC Köln klopfen an",
+      "title": "Fortuna Köln kehrt in die 3.Liga zurück - Sieben Jahre nach Abstieg",
+      "source": "transfermarkt",
+      "sentiment": 0.03
+    },
+    {
+      "title": "Wolfsburg verliert nur knapp gegen Bayern – Im Finale auf St. Pauli reicht ein Remis",
       "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "3. Liga: Ikone Handle beendet Karriere – Nur einer mit mehr Partien für Viktoria Köln",
+      "title": "Galatasaray verteidigt Titel in der Süper Lig Antalyaspor – Osimhen dreht Rückstand",
       "source": "transfermarkt",
-      "sentiment": 0
+      "sentiment": 0.57
     },
     {
-      "title": "Folgenreicher Streit bei Real Madrid: Valverde & Tchouaméni müssen hohe Strafe zahlen",
+      "title": "Skandal bei Slavia Prag: Fans greifen Sparta-Spieler an, Niederlage statt Titel",
       "source": "transfermarkt",
-      "sentiment": -0.7
+      "sentiment": -0.8
     },
     {
-      "title": "Endrick über das richtige Gleichgewicht, „um nicht den Boden unter den Füßen zu verlieren“",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Paderborn droht das Aus im Aufstiegsrennen – Kaiserslautern schürt Bielefelds Abstiegssorgen",
-      "source": "transfermarkt",
-      "sentiment": -0.1
-    },
-    {
-      "title": "Eintracht Frankfurt und Riera verlieren auch bei Vizemeister BVB",
-      "source": "transfermarkt",
-      "sentiment": 0.27
-    },
-    {
-      "title": "Riera sitzt auch gegen Stuttgart auf der Eintracht-Bank - und dann nie wieder?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kovacs warme Abschiedsworte an Süle - und eine Einladung zum Golfen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Schwarz-Gelbe Emotionen: BVB verabschiedet \"echte Borussen\"",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Abstieg auf der Couch? Diese Entscheidungen können am 33. Spieltag fallen",
-      "source": "kicker",
-      "sentiment": -0.7
-    },
-    {
-      "title": "\"Vier Abschiede beim BVB und einer bei Frankfurt?\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Krösche über Riera: \"Darum geht es auch bei Führungskräften\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Diese prominenten Spieler waren beim Karriereende 29 oder jünger",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kessler traut Wagner \"definitiv\" mehr zu - und sondiert doch den Markt",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Vor direktem Duell: Hoffenheim hat Bremens Stage im Visier",
+      "title": "Abwarten, Daumen drücken, hoffen",
       "source": "kicker",
       "sentiment": 0.5
     },
     {
-      "title": "Brandt vor Abschied: \"Ich will mich nicht einfach nur an einen Verein verkaufen\"",
+      "title": "Kompany zu Davies: \"Man darf keine Angst haben\"",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Heikles Szenario im Keller: Sorgt Heidenheim für den ultimativen Showdown?",
+      "source": "kicker",
+      "sentiment": -0.27
+    },
+    {
+      "title": "Belocian vor Elfmeter unsportlich? Das sagen die Trainer dazu",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "Lee macht Hoffnung, Batz vor emotionalem Abschied",
+      "title": "Wappen-Rückkehr und Kane-Elfer: \"Historisches Spiel in Wolfsburg\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Hecking vor \"Finale\" am Millerntor: \"Das nehme ich sehr gerne mit\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Wolfsburger Manipulation am Elfmeter-Punkt? Bayern erstaunlich gelassen: \"Was soll er tun?\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "\"Ulle und Manu kamen direkt\" - \"Brutaler\" Urbig würde ans Telefon gehen",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "\"Mit der Leistung können wir auch gegen Wolfsburg was holen\": Blessin bleibt kämpferisch",
+      "source": "kicker",
+      "sentiment": 0.05
+    },
+    {
+      "title": "Ilzer vor Showdown: \"Bekommst genau das, was du dir verdienst\"",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "Deutschland-Fan Ilzer: \"Hat mein Interesse für Fußball geweckt\"",
+      "title": "Das Restprogramm der 18 Bundesligisten",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "Union Berlin und die Suche nach dem passenden Trainer",
+      "title": "Hoeneß blickt auf ein \"Finale\" - und die VfB-Fans auf ein anderes",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "Was passiert, wenn zwei Bundesligisten punkt- und torgleich sind?",
+      "title": "Pokal oder Champions League? Hoeneß: \"Warum muss ich mich festlegen?\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "\"Verein wieder da, wo er hingehört\": Werner erwartet lange Nacht in Leipzig",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Blessin nach Niederlage: \"Sorry, wer sind wir und wer ist RB Leipzig?\"",
+      "source": "kicker",
+      "sentiment": -0.6
+    },
+    {
+      "title": "Weber über Baum: \"Die Ergebnisse sprechen für sich\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "\"Hoffenheim in Überzahl noch weit von Champions League entfernt\"",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "Kainz und Heintz vor Abschiedsspiel in Köln",
+      "title": "Fehlender Zusammenhalt? Andrichs \"Sinnbild\", das tief blicken lässt",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Gesagt, geköpft, gejubelt: Raum beweist Hellseher-Fähigkeiten",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "WM-Vorbereitung gestört: Davies fällt erneut wochenlang aus",
+      "title": "\"Das ist Kindergarten\": Friedl wütet nach Werder-Niederlage",
       "source": "kicker",
       "sentiment": -0.5
-    },
-    {
-      "title": "Schmidt: \"Wenn du ganz unten stehst, was soll noch schlechter werden?\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Der Tag X kommt\": Was der FC Bayern 2000 den FC Bayern 2026 lehrt",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Es ist gut, dass wir das wissen\": Für Hjulmand zählen nur noch Siege",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Hertha wirbt um Ducksch - Mainz verpflichtet Becker fest",
-      "source": "kicker",
-      "sentiment": 0.37
     }
   ]
 }

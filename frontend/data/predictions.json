@@ -1,61 +1,6 @@
 {
   "predictions": [
     {
-      "home_team": "RB Leipzig",
-      "away_team": "FC St. Pauli",
-      "prob_home": 0.689,
-      "prob_draw": 0.228,
-      "prob_away": 0.083,
-      "tip": "1",
-      "score": "3:1",
-      "confidence": "high",
-      "explanation": "[STAT] RBL ist statistisch klar staerker (Elo +278)\n[XG] RBL in besserer Form\n=> 69% / 23% / 8%"
-    },
-    {
-      "home_team": "VfB Stuttgart",
-      "away_team": "Bayer 04 Leverkusen",
-      "prob_home": 0.393,
-      "prob_draw": 0.246,
-      "prob_away": 0.361,
-      "tip": "1",
-      "score": "2:1",
-      "confidence": "low",
-      "explanation": "[STAT] VFB hat leichten Elo-Vorteil (+56)\n[XG] B04 in besserer Form\n=> 39% / 25% / 36%"
-    },
-    {
-      "home_team": "FC Augsburg",
-      "away_team": "Borussia Mönchengladbach",
-      "prob_home": 0.442,
-      "prob_draw": 0.242,
-      "prob_away": 0.317,
-      "tip": "1",
-      "score": "2:1",
-      "confidence": "medium",
-      "explanation": "[STAT] FCA ist statistisch klar staerker (Elo +101)\n[XG] BMG in besserer Form\n=> 44% / 24% / 32%"
-    },
-    {
-      "home_team": "TSG Hoffenheim",
-      "away_team": "SV Werder Bremen",
-      "prob_home": 0.597,
-      "prob_draw": 0.233,
-      "prob_away": 0.171,
-      "tip": "1",
-      "score": "2:1",
-      "confidence": "high",
-      "explanation": "[STAT] TSG Hoffenheim ist statistisch klar staerker (Elo +218)\n=> 60% / 23% / 17%"
-    },
-    {
-      "home_team": "VfL Wolfsburg",
-      "away_team": "FC Bayern München",
-      "prob_home": 0.095,
-      "prob_draw": 0.229,
-      "prob_away": 0.676,
-      "tip": "2",
-      "score": "1:3",
-      "confidence": "high",
-      "explanation": "[STAT] FCB ist statistisch klar staerker (Elo -262)\n[XG] FCB in besserer Form\n=> 10% / 23% / 68%"
-    },
-    {
       "home_team": "Hamburger SV",
       "away_team": "SC Freiburg",
       "prob_home": 0.388,
@@ -91,13 +36,68 @@
     {
       "home_team": "FC Bayern München",
       "away_team": "1. FC Köln",
-      "prob_home": 0.704,
-      "prob_draw": 0.222,
-      "prob_away": 0.074,
+      "prob_home": 0.692,
+      "prob_draw": 0.221,
+      "prob_away": 0.087,
       "tip": "1",
       "score": "2:0",
       "confidence": "high",
-      "explanation": "[STAT] FCB ist statistisch klar staerker (Elo +352)\n[XG] FCB in besserer Form\n=> 70% / 22% / 7%"
+      "explanation": "[STAT] FCB ist statistisch klar staerker (Elo +357)\n=> 69% / 22% / 9%"
+    },
+    {
+      "home_team": "Bayer 04 Leverkusen",
+      "away_team": "Hamburger SV",
+      "prob_home": 0.577,
+      "prob_draw": 0.235,
+      "prob_away": 0.189,
+      "tip": "1",
+      "score": "1:0",
+      "confidence": "high",
+      "explanation": "[STAT] B04 ist statistisch klar staerker (Elo +192)\n=> 58% / 24% / 19%"
+    },
+    {
+      "home_team": "Eintracht Frankfurt",
+      "away_team": "VfB Stuttgart",
+      "prob_home": 0.268,
+      "prob_draw": 0.245,
+      "prob_away": 0.487,
+      "tip": "2",
+      "score": "1:2",
+      "confidence": "medium",
+      "explanation": "[STAT] VFB hat leichten Elo-Vorteil (-60)\n[XG] VFB in besserer Form\n=> 27% / 24% / 49%"
+    },
+    {
+      "home_team": "SC Freiburg",
+      "away_team": "RB Leipzig",
+      "prob_home": 0.289,
+      "prob_draw": 0.247,
+      "prob_away": 0.464,
+      "tip": "2",
+      "score": "1:2",
+      "confidence": "medium",
+      "explanation": "[STAT] Teams auf Augenhoehe (Elo ausgeglichen)\n[XG] RBL in besserer Form\n=> 29% / 25% / 46%"
+    },
+    {
+      "home_team": "SV Werder Bremen",
+      "away_team": "Borussia Dortmund",
+      "prob_home": 0.185,
+      "prob_draw": 0.238,
+      "prob_away": 0.577,
+      "tip": "2",
+      "score": "0:2",
+      "confidence": "high",
+      "explanation": "[STAT] BVB ist statistisch klar staerker (Elo -147)\n[XG] BVB in besserer Form\n=> 18% / 24% / 58%"
+    },
+    {
+      "home_team": "Borussia Mönchengladbach",
+      "away_team": "TSG Hoffenheim",
+      "prob_home": 0.318,
+      "prob_draw": 0.246,
+      "prob_away": 0.436,
+      "tip": "2",
+      "score": "0:1",
+      "confidence": "medium",
+      "explanation": "[STAT] TSG Hoffenheim hat leichten Elo-Vorteil (-56)\n=> 32% / 25% / 44%"
     }
   ]
 }
