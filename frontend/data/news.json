@@ -1,104 +1,64 @@
 {
   "news": [
     {
-      "title": "3. Liga: Cottbus macht großen Schritt Richtung Aufstieg – Essen bleibt dran",
+      "title": "Bundesliga: Heidenheim besiegt 1. FC Köln und sorgt für Abstiegskrimi",
+      "source": "transfermarkt",
+      "sentiment": 0.1
+    },
+    {
+      "title": "Premier League: Arsenal zittert sich zum Sieg gegen West Ham",
+      "source": "transfermarkt",
+      "sentiment": 0.45
+    },
+    {
+      "title": "HSV: Luka Vuskovic verkündet Abschied – „Zweite Heimat“",
       "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "Erzgebirge Aue trauert um Vereinsikone Mothes",
+      "title": "Bundesliga: Union Berlin beendet Sieglosserie bei Mainz 05",
       "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "Lionel Messi macht weiter, „bis ich schlichtweg nicht mehr kann“",
+      "title": "FC Barcelona krönt sich im Clásico gegen Real Madrid zum LaLiga-Meister",
+      "source": "transfermarkt",
+      "sentiment": 0.53
+    },
+    {
+      "title": "Werder: Chuki kommt, Karbownik nicht – „Sehr vielversprechende“ Planung laut Thioune",
       "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "Stuttgart gewinnt 20-Millionen-Spiel gegen Leverkusen – St. Pauli muss auf Bayern hoffen",
-      "source": "transfermarkt",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Ex-Bayern-Star Tolisso in Topform – „Unser bester Spieler, unser Anführer“",
-      "source": "transfermarkt",
-      "sentiment": -0.4
-    },
-    {
-      "title": "VfL Wolfsburg streicht Amoura und Paredes aus dem Kader",
+      "title": "1. FC Köln: Wagner geht von Weiterbeschäftigung aus – Kessler bremst",
       "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "Fortuna Köln kehrt in die 3.Liga zurück - Sieben Jahre nach Abstieg",
-      "source": "transfermarkt",
-      "sentiment": 0.03
-    },
-    {
-      "title": "Wolfsburg verliert nur knapp gegen Bayern – Im Finale auf St. Pauli reicht ein Remis",
+      "title": "Heidenheims Schmidt hat „richtig Bock aufs Saisonfinale“ – Formstärkstes Bundesliga-Team",
       "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "Galatasaray verteidigt Titel in der Süper Lig Antalyaspor – Osimhen dreht Rückstand",
+      "title": "Augsburg-Chef Ströll bestätigt Kaufoption bei Gregoritsch – Wie geht es mit Baum weiter?",
       "source": "transfermarkt",
-      "sentiment": 0.57
+      "sentiment": 0
     },
     {
-      "title": "Skandal bei Slavia Prag: Fans greifen Sparta-Spieler an, Niederlage statt Titel",
+      "title": "Mainz-Abgang? Amiri weicht Zukunftsfragen aus – Interesse von Galatasaray",
       "source": "transfermarkt",
-      "sentiment": -0.8
+      "sentiment": -0.3
     },
     {
-      "title": "Abwarten, Daumen drücken, hoffen",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Kompany zu Davies: \"Man darf keine Angst haben\"",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Heikles Szenario im Keller: Sorgt Heidenheim für den ultimativen Showdown?",
-      "source": "kicker",
-      "sentiment": -0.27
-    },
-    {
-      "title": "Belocian vor Elfmeter unsportlich? Das sagen die Trainer dazu",
+      "title": "Die bedenkliche Tendenz bei Davies",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "Wappen-Rückkehr und Kane-Elfer: \"Historisches Spiel in Wolfsburg\"",
+      "title": "\"Heute würden zehn Spieler kündigen\": Bayerns Reise vom Trauma zum Triumph",
       "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Hecking vor \"Finale\" am Millerntor: \"Das nehme ich sehr gerne mit\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Wolfsburger Manipulation am Elfmeter-Punkt? Bayern erstaunlich gelassen: \"Was soll er tun?\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "\"Ulle und Manu kamen direkt\" - \"Brutaler\" Urbig würde ans Telefon gehen",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "\"Mit der Leistung können wir auch gegen Wolfsburg was holen\": Blessin bleibt kämpferisch",
-      "source": "kicker",
-      "sentiment": 0.05
-    },
-    {
-      "title": "Ilzer vor Showdown: \"Bekommst genau das, was du dir verdienst\"",
-      "source": "kicker",
-      "sentiment": 0
+      "sentiment": 0.6
     },
     {
       "title": "Das Restprogramm der 18 Bundesligisten",
@@ -106,49 +66,89 @@
       "sentiment": 0
     },
     {
-      "title": "Hoeneß blickt auf ein \"Finale\" - und die VfB-Fans auf ein anderes",
+      "title": "Schalke-Legenden exklusiv: \"Böhme hat uns den Hintern gerettet - um nicht zu sagen: den Arsch\"",
       "source": "kicker",
-      "sentiment": 0
+      "sentiment": 0.7
     },
     {
-      "title": "Pokal oder Champions League? Hoeneß: \"Warum muss ich mich festlegen?\"",
+      "title": "Eta schreibt Bundesliga-Geschichte: \"Schönes Gefühl, wenn man das schafft\"",
       "source": "kicker",
-      "sentiment": 0.4
+      "sentiment": 0.57
     },
     {
-      "title": "\"Verein wieder da, wo er hingehört\": Werner erwartet lange Nacht in Leipzig",
+      "title": "Bescheidene Eta nach Bundesliga-Siegpremiere: \"Das ist mir wichtig\"",
       "source": "kicker",
       "sentiment": 0.5
     },
     {
-      "title": "Blessin nach Niederlage: \"Sorry, wer sind wir und wer ist RB Leipzig?\"",
+      "title": "Schmidt bereit für Abstiegs-Showdown: \"Es ist nicht zu spät\"",
+      "source": "kicker",
+      "sentiment": -0.27
+    },
+    {
+      "title": "Augsburger Trio und bestechende Bayern: Die kicker-Elf des 33. Spieltags",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kölner Party gecrasht: \"Wagners Zukunft ist offener denn je\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Protest gegen Sonntagsspiele: Union-Fans sorgen für Spielunterbrechung",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Schmidts Rechnung voller Hoffnung: \"1000 Prozent mehr Chance\"",
+      "source": "kicker",
+      "sentiment": 0.05
+    },
+    {
+      "title": "Wagners Verzicht auf Simpson-Pusey: \"Er hat einen Fehler begangen\"",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Kessler zur Trainerfrage: \"Ich spüre absolut keinen Zeitdruck\"",
       "source": "kicker",
       "sentiment": -0.6
     },
     {
-      "title": "Weber über Baum: \"Die Ergebnisse sprechen für sich\"",
+      "title": "Freiburgs harte Landung: Schusters Kritik und bittere Erinnerungen an 2024",
       "source": "kicker",
-      "sentiment": 0.5
+      "sentiment": -0.4
     },
     {
-      "title": "\"Hoffenheim in Überzahl noch weit von Champions League entfernt\"",
+      "title": "Der HSV feiert Vuskovic und braucht Ersatz",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "\"Aller Ehren wert\": Polzin stolz auf seinen HSV",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Schuster kritisch: \"Ich kann natürlich nicht zufrieden sein\"",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "Fehlender Zusammenhalt? Andrichs \"Sinnbild\", das tief blicken lässt",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Gesagt, geköpft, gejubelt: Raum beweist Hellseher-Fähigkeiten",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Das ist Kindergarten\": Friedl wütet nach Werder-Niederlage",
+      "title": "\"Nach 60 Minuten eingestellt\": Rolfes vermisst den Widerstand",
       "source": "kicker",
       "sentiment": -0.5
+    },
+    {
+      "title": "\"Abschiedsparty zu 99,9 Prozent\": Der HSV feiert Vuskovic",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "\"Sehr kleine Chance\" auf Vuskovic-Verbleib beim HSV - Bell vor Verlängerung",
+      "source": "kicker",
+      "sentiment": 0.35
     }
   ]
 }

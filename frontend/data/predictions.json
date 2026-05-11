@@ -1,59 +1,26 @@
 {
   "predictions": [
     {
-      "home_team": "Hamburger SV",
-      "away_team": "SC Freiburg",
-      "prob_home": 0.388,
-      "prob_draw": 0.249,
-      "prob_away": 0.363,
-      "tip": "1",
-      "score": "2:1",
-      "confidence": "low",
-      "explanation": "[STAT] Teams auf Augenhoehe (Elo ausgeglichen)\n=> 39% / 25% / 36%"
-    },
-    {
-      "home_team": "1. FC Köln",
-      "away_team": "1. FC Heidenheim 1846",
-      "prob_home": 0.527,
-      "prob_draw": 0.242,
-      "prob_away": 0.231,
-      "tip": "1",
-      "score": "2:1",
-      "confidence": "medium",
-      "explanation": "[STAT] KOE hat leichten Elo-Vorteil (+96)\n[XG] KOE in besserer Form\n=> 53% / 24% / 23%"
-    },
-    {
-      "home_team": "1. FSV Mainz 05",
-      "away_team": "1. FC Union Berlin",
-      "prob_home": 0.505,
-      "prob_draw": 0.237,
-      "prob_away": 0.258,
-      "tip": "1",
-      "score": "2:1",
-      "confidence": "medium",
-      "explanation": "[STAT] M05 ist statistisch klar staerker (Elo +166)\n[XG] FCU in besserer Form\n=> 50% / 24% / 26%"
-    },
-    {
       "home_team": "FC Bayern München",
       "away_team": "1. FC Köln",
-      "prob_home": 0.692,
-      "prob_draw": 0.221,
-      "prob_away": 0.087,
+      "prob_home": 0.708,
+      "prob_draw": 0.22,
+      "prob_away": 0.073,
       "tip": "1",
       "score": "2:0",
       "confidence": "high",
-      "explanation": "[STAT] FCB ist statistisch klar staerker (Elo +357)\n=> 69% / 22% / 9%"
+      "explanation": "[STAT] FCB ist statistisch klar staerker (Elo +378)\n=> 71% / 22% / 7%"
     },
     {
       "home_team": "Bayer 04 Leverkusen",
       "away_team": "Hamburger SV",
-      "prob_home": 0.577,
-      "prob_draw": 0.235,
-      "prob_away": 0.189,
+      "prob_home": 0.562,
+      "prob_draw": 0.236,
+      "prob_away": 0.202,
       "tip": "1",
       "score": "1:0",
       "confidence": "high",
-      "explanation": "[STAT] B04 ist statistisch klar staerker (Elo +192)\n=> 58% / 24% / 19%"
+      "explanation": "[STAT] B04 ist statistisch klar staerker (Elo +177)\n=> 56% / 24% / 20%"
     },
     {
       "home_team": "Eintracht Frankfurt",
@@ -69,13 +36,13 @@
     {
       "home_team": "SC Freiburg",
       "away_team": "RB Leipzig",
-      "prob_home": 0.289,
-      "prob_draw": 0.247,
-      "prob_away": 0.464,
+      "prob_home": 0.273,
+      "prob_draw": 0.246,
+      "prob_away": 0.482,
       "tip": "2",
       "score": "1:2",
       "confidence": "medium",
-      "explanation": "[STAT] Teams auf Augenhoehe (Elo ausgeglichen)\n[XG] RBL in besserer Form\n=> 29% / 25% / 46%"
+      "explanation": "[STAT] RBL hat leichten Elo-Vorteil (-55)\n[XG] RBL in besserer Form\n=> 27% / 25% / 48%"
     },
     {
       "home_team": "SV Werder Bremen",
@@ -98,6 +65,39 @@
       "score": "0:1",
       "confidence": "medium",
       "explanation": "[STAT] TSG Hoffenheim hat leichten Elo-Vorteil (-56)\n=> 32% / 25% / 44%"
+    },
+    {
+      "home_team": "1. FC Union Berlin",
+      "away_team": "FC Augsburg",
+      "prob_home": 0.399,
+      "prob_draw": 0.248,
+      "prob_away": 0.353,
+      "tip": "1",
+      "score": "2:1",
+      "confidence": "low",
+      "explanation": "[STAT] Teams auf Augenhoehe (Elo ausgeglichen)\n[XG] FCU in besserer Form\n=> 40% / 25% / 35%"
+    },
+    {
+      "home_team": "FC St. Pauli",
+      "away_team": "VfL Wolfsburg",
+      "prob_home": 0.4,
+      "prob_draw": 0.245,
+      "prob_away": 0.355,
+      "tip": "1",
+      "score": "2:1",
+      "confidence": "low",
+      "explanation": "[STAT] STP hat leichten Elo-Vorteil (+62)\n[XG] WOB in besserer Form\n=> 40% / 24% / 36%"
+    },
+    {
+      "home_team": "1. FC Heidenheim 1846",
+      "away_team": "1. FSV Mainz 05",
+      "prob_home": 0.328,
+      "prob_draw": 0.25,
+      "prob_away": 0.422,
+      "tip": "2",
+      "score": "1:2",
+      "confidence": "medium",
+      "explanation": "[STAT] Teams auf Augenhoehe (Elo ausgeglichen)\n[XG] M05 in besserer Form\n=> 33% / 25% / 42%"
     }
   ]
 }
