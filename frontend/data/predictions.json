@@ -3,20 +3,20 @@
     {
       "home_team": "FC Bayern München",
       "away_team": "1. FC Köln",
-      "prob_home": 0.708,
+      "prob_home": 0.724,
       "prob_draw": 0.22,
-      "prob_away": 0.073,
+      "prob_away": 0.056,
       "tip": "1",
       "score": "2:0",
       "confidence": "high",
-      "explanation": "[STAT] FCB ist statistisch klar staerker (Elo +378)\n=> 71% / 22% / 7%"
+      "explanation": "[STAT] FCB ist statistisch klar staerker (Elo +378)\n[XG] FCB in besserer Form\n=> 72% / 22% / 6%"
     },
     {
       "home_team": "Bayer 04 Leverkusen",
       "away_team": "Hamburger SV",
-      "prob_home": 0.562,
+      "prob_home": 0.563,
       "prob_draw": 0.236,
-      "prob_away": 0.202,
+      "prob_away": 0.201,
       "tip": "1",
       "score": "1:0",
       "confidence": "high",
@@ -25,13 +25,13 @@
     {
       "home_team": "Eintracht Frankfurt",
       "away_team": "VfB Stuttgart",
-      "prob_home": 0.268,
+      "prob_home": 0.299,
       "prob_draw": 0.245,
-      "prob_away": 0.487,
+      "prob_away": 0.456,
       "tip": "2",
       "score": "1:2",
       "confidence": "medium",
-      "explanation": "[STAT] VFB hat leichten Elo-Vorteil (-60)\n[XG] VFB in besserer Form\n=> 27% / 24% / 49%"
+      "explanation": "[STAT] VFB hat leichten Elo-Vorteil (-60)\n=> 30% / 24% / 46%"
     },
     {
       "home_team": "SC Freiburg",
@@ -58,9 +58,9 @@
     {
       "home_team": "Borussia Mönchengladbach",
       "away_team": "TSG Hoffenheim",
-      "prob_home": 0.318,
+      "prob_home": 0.319,
       "prob_draw": 0.246,
-      "prob_away": 0.436,
+      "prob_away": 0.435,
       "tip": "2",
       "score": "0:1",
       "confidence": "medium",
@@ -69,13 +69,13 @@
     {
       "home_team": "1. FC Union Berlin",
       "away_team": "FC Augsburg",
-      "prob_home": 0.399,
+      "prob_home": 0.374,
       "prob_draw": 0.248,
-      "prob_away": 0.353,
-      "tip": "1",
-      "score": "2:1",
+      "prob_away": 0.378,
+      "tip": "2",
+      "score": "1:2",
       "confidence": "low",
-      "explanation": "[STAT] Teams auf Augenhoehe (Elo ausgeglichen)\n[XG] FCU in besserer Form\n=> 40% / 25% / 35%"
+      "explanation": "[STAT] Teams auf Augenhoehe (Elo ausgeglichen)\n[XG] FCU in besserer Form\n=> 37% / 25% / 38%"
     },
     {
       "home_team": "FC St. Pauli",

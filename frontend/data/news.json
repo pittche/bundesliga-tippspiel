@@ -1,154 +1,154 @@
 {
   "news": [
     {
-      "title": "Bundesliga: Heidenheim besiegt 1. FC Köln und sorgt für Abstiegskrimi",
+      "title": "Ex-DFB-Coach Löw sieht geringe Chancen für Rückkehr als Trainer",
       "source": "transfermarkt",
-      "sentiment": 0.1
+      "sentiment": 0.4
     },
     {
-      "title": "Premier League: Arsenal zittert sich zum Sieg gegen West Ham",
+      "title": "Bosnien stellt ersten WM-Kader: Schalke-Stürmer Dzeko führt deutsche Gesichter an",
       "source": "transfermarkt",
-      "sentiment": 0.45
+      "sentiment": 0.6
     },
     {
-      "title": "HSV: Luka Vuskovic verkündet Abschied – „Zweite Heimat“",
+      "title": "HSV: Nicolás Capaldo im vorläufigen WM-Aufgebot von Argentinien",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Jansen stellt Deutschlands WM-Kader auf: Torwarttrio ausgetauscht",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "34 Tage vor WM: Rutten tritt bei DFB-Gegner Curaçao zurück – Advocaat vor Rückkehr",
+      "source": "transfermarkt",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Erzgebirge Aue geht mit Trainer Khvicha Shubitidze in Regionalliga",
       "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "Bundesliga: Union Berlin beendet Sieglosserie bei Mainz 05",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "FC Barcelona krönt sich im Clásico gegen Real Madrid zum LaLiga-Meister",
+      "title": "Meister & Pokalsieger in Europa: Diese Ex-Bundesliga-Profis feierten 2025/26",
       "source": "transfermarkt",
       "sentiment": 0.53
     },
     {
-      "title": "Werder: Chuki kommt, Karbownik nicht – „Sehr vielversprechende“ Planung laut Thioune",
+      "title": "Tel tragischer Held: Tottenham verpasst Big Points im Abstiegskampf",
       "source": "transfermarkt",
-      "sentiment": 0
+      "sentiment": -0.65
     },
     {
-      "title": "1. FC Köln: Wagner geht von Weiterbeschäftigung aus – Kessler bremst",
+      "title": "HSV blickt auf Heidenheims Shootingstar Behrens – Für Schalke zu teuer?",
       "source": "transfermarkt",
-      "sentiment": 0
+      "sentiment": 0.55
     },
     {
-      "title": "Heidenheims Schmidt hat „richtig Bock aufs Saisonfinale“ – Formstärkstes Bundesliga-Team",
+      "title": "BVB: Gadou von Red Bull Salzburg im Anflug – Abwehrtalent verabschiedet sich",
       "source": "transfermarkt",
-      "sentiment": 0
+      "sentiment": 0.3
     },
     {
-      "title": "Augsburg-Chef Ströll bestätigt Kaufoption bei Gregoritsch – Wie geht es mit Baum weiter?",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Mainz-Abgang? Amiri weicht Zukunftsfragen aus – Interesse von Galatasaray",
-      "source": "transfermarkt",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Die bedenkliche Tendenz bei Davies",
+      "title": "Talent Asp Jensen ohne Zukunft bei Bayern",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "\"Heute würden zehn Spieler kündigen\": Bayerns Reise vom Trauma zum Triumph",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Das Restprogramm der 18 Bundesligisten",
+      "title": "Vom Debüt zum Tordebüt: Wer brauchte am längsten - und wo steht Jatta?",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "Schalke-Legenden exklusiv: \"Böhme hat uns den Hintern gerettet - um nicht zu sagen: den Arsch\"",
+      "title": "Weichenstellung bei Bayern: Aufsichtsrat tagt, entscheidet aber noch keine Personalien",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "DFB sperrt Sugawara - doch was passiert mit dem zweiten Spiel?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Leck mich am Arsch\": Wie Effenberg Hitzfeld zur Weißglut brachte",
+      "source": "kicker",
+      "sentiment": 0.53
+    },
+    {
+      "title": "Fellhauer: Glücksgriff und Dauerbrenner",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Wagner verzichtet auf van den Berg: Ein Warnschuss oder doch ein Trick?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Großer Tag für mich\": Yilmaz bindet sich an Freiburg",
+      "source": "kicker",
+      "sentiment": 0.37
+    },
+    {
+      "title": "41 Spieler von 15 Klubs: Stelle dein Team der Saison in der 3. Liga zusammen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Wer bietet den Bayern Paroli? Stelle dein Bundesliga-Team der Saison zusammen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Schalker Aufstiegshelden - und wer noch? Stelle dein Team der Saison in der 2. Liga zusammen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Wer kommt in die Champions League? Wer steigt ab? Hier den Showdown durchrechnen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Lizarazu, die Matthäus-Watschn und die Geldstrafe, die nie gezahlt wurde",
       "source": "kicker",
       "sentiment": 0.7
     },
     {
-      "title": "Eta schreibt Bundesliga-Geschichte: \"Schönes Gefühl, wenn man das schafft\"",
+      "title": "Kahns Meisterglaube 2000: \"Weil Leverkusen verlieren wird\"",
       "source": "kicker",
-      "sentiment": 0.57
+      "sentiment": 0.65
     },
     {
-      "title": "Bescheidene Eta nach Bundesliga-Siegpremiere: \"Das ist mir wichtig\"",
+      "title": "\"Kein Verein für Schickimicki\": Die Bedeutung der \"Eurofighter\"",
       "source": "kicker",
-      "sentiment": 0.5
+      "sentiment": 0.7
     },
     {
-      "title": "Schmidt bereit für Abstiegs-Showdown: \"Es ist nicht zu spät\"",
+      "title": "Kahns legendärer Platzverweis in Rostock - und eine heimliche Prüfung des DFB",
+      "source": "kicker",
+      "sentiment": 0.7
+    },
+    {
+      "title": "Baumanns dringender Appell",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Drei Teams, zwei Spiele, ein Ziel: Die Szenarien beim Abstiegs-Showdown",
       "source": "kicker",
       "sentiment": -0.27
     },
     {
-      "title": "Augsburger Trio und bestechende Bayern: Die kicker-Elf des 33. Spieltags",
+      "title": "Wer schnappt sich am 34. Spieltag den Relegationsplatz?",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "Kölner Party gecrasht: \"Wagners Zukunft ist offener denn je\"",
+      "title": "\"So spielt kein Absteiger\": Wie Hecking Wolfsburg stabilisiert",
       "source": "kicker",
       "sentiment": 0
-    },
-    {
-      "title": "Protest gegen Sonntagsspiele: Union-Fans sorgen für Spielunterbrechung",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Schmidts Rechnung voller Hoffnung: \"1000 Prozent mehr Chance\"",
-      "source": "kicker",
-      "sentiment": 0.05
-    },
-    {
-      "title": "Wagners Verzicht auf Simpson-Pusey: \"Er hat einen Fehler begangen\"",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Kessler zur Trainerfrage: \"Ich spüre absolut keinen Zeitdruck\"",
-      "source": "kicker",
-      "sentiment": -0.6
-    },
-    {
-      "title": "Freiburgs harte Landung: Schusters Kritik und bittere Erinnerungen an 2024",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Der HSV feiert Vuskovic und braucht Ersatz",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "\"Aller Ehren wert\": Polzin stolz auf seinen HSV",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Schuster kritisch: \"Ich kann natürlich nicht zufrieden sein\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Nach 60 Minuten eingestellt\": Rolfes vermisst den Widerstand",
-      "source": "kicker",
-      "sentiment": -0.5
-    },
-    {
-      "title": "\"Abschiedsparty zu 99,9 Prozent\": Der HSV feiert Vuskovic",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "\"Sehr kleine Chance\" auf Vuskovic-Verbleib beim HSV - Bell vor Verlängerung",
-      "source": "kicker",
-      "sentiment": 0.35
     }
   ]
 }
