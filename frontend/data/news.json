@@ -1,6 +1,146 @@
 {
   "news": [
     {
+      "title": "BVB: Book bestätigt Interesse an Eichhorn – Brandt-Nachfolge, Abgänge & Co.",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Real Madrid: Pérez ruft Neuwahlen aus – Zitiert Transfermarkt",
+      "source": "transfermarkt",
+      "sentiment": 0.07
+    },
+    {
+      "title": "Heimschwächste Teams: Tottenham vorne dabei – 803 Millionen Kaderwert",
+      "source": "transfermarkt",
+      "sentiment": -0.7
+    },
+    {
+      "title": "MLS: Messi verdient 3x so viel wie Thomas Müller & Timo Werner zusammen",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Cristiano Ronaldo Ronaldo muss auf ersten Saudi-Titel warten: Last-Minute-Eigentor",
+      "source": "transfermarkt",
+      "sentiment": 0.57
+    },
+    {
+      "title": "BVB gewinnt Premier League International Cup gegen Real Madrid",
+      "source": "transfermarkt",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Eintracht Frankfurt: Dina Ebimbe - „In Brest wurde ich geheilt“",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Rettig sprach mit Kimmich über WM-Bonus: „Am Anfang geht die Prämie gegen null“",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Eintracht Frankfurt an Majer dran – VfL-Forderung 15 Millionen unter Ablöse von 2023",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Bayer Leverkusen nimmt Girona-Trainer Míchel ins Visier",
+      "source": "transfermarkt",
+      "sentiment": -0.6
+    },
+    {
+      "title": "Was steht fest? Was ist noch offen? Entscheidungen im deutschen Profi-Fußball 2025/26",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Stiller: Plötzlich auch \"Aggressive Leader\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Nagelsmanns Puzzle: Wie viele Dortmunder fahren zur WM?",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Gadou: \"Das Tor ist wie mein kleiner Bruder, den ich schützen muss\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Als Effenberg den berühmtesten Fußballer der Welt stehen ließ",
+      "source": "kicker",
+      "sentiment": 0.7
+    },
+    {
+      "title": "BVB-Sportdirektor Book verrät, warum Neuzugang Gadou \"genau zu uns passt\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Mourinho-Rückkehr nach Madrid rückt näher - Flick verlängert",
+      "source": "kicker",
+      "sentiment": 0.37
+    },
+    {
+      "title": "Deniz Aytekin, wird der VAR noch abgeschafft?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Was soll der Scheiß?\" - Trainingszoff in Gladbach zwischen Castrop und Ullrich",
+      "source": "kicker",
+      "sentiment": 0.1
+    },
+    {
+      "title": "Bundesliga-Premiere: Krüger neue Sportvorständin beim HSV",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Gladbachs Elvedi: Erst die WM, dann die Zukunftsfrage",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Die Vertragslaufzeiten der BVB-Profis",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Über 20 Millionen Euro? BVB macht Gadou-Deal offiziell",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "St. Paulis Kampf gegen das Virus",
+      "source": "kicker",
+      "sentiment": -0.55
+    },
+    {
+      "title": "St. Paulis Fehler bei der Kaderplanung: \"Das Spitzensystem funktioniert nicht\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "FC trauert um Meisterspieler Ripkens",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "So sichert sich Stuttgart, Hoffenheim oder Leverkusen das CL-Ticket",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Der Verein würde auseinanderfliegen\" - Die Wutrede, die fast eine Meuterei provoziert hätte",
+      "source": "kicker",
+      "sentiment": -0.05
+    },
+    {
       "title": "Ex-DFB-Coach Löw sieht geringe Chancen für Rückkehr als Trainer",
       "source": "transfermarkt",
       "sentiment": 0.4
@@ -9,146 +149,6 @@
       "title": "Bosnien stellt ersten WM-Kader: Schalke-Stürmer Dzeko führt deutsche Gesichter an",
       "source": "transfermarkt",
       "sentiment": 0.6
-    },
-    {
-      "title": "HSV: Nicolás Capaldo im vorläufigen WM-Aufgebot von Argentinien",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Jansen stellt Deutschlands WM-Kader auf: Torwarttrio ausgetauscht",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "34 Tage vor WM: Rutten tritt bei DFB-Gegner Curaçao zurück – Advocaat vor Rückkehr",
-      "source": "transfermarkt",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Erzgebirge Aue geht mit Trainer Khvicha Shubitidze in Regionalliga",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Meister & Pokalsieger in Europa: Diese Ex-Bundesliga-Profis feierten 2025/26",
-      "source": "transfermarkt",
-      "sentiment": 0.53
-    },
-    {
-      "title": "Tel tragischer Held: Tottenham verpasst Big Points im Abstiegskampf",
-      "source": "transfermarkt",
-      "sentiment": -0.65
-    },
-    {
-      "title": "HSV blickt auf Heidenheims Shootingstar Behrens – Für Schalke zu teuer?",
-      "source": "transfermarkt",
-      "sentiment": 0.55
-    },
-    {
-      "title": "BVB: Gadou von Red Bull Salzburg im Anflug – Abwehrtalent verabschiedet sich",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Talent Asp Jensen ohne Zukunft bei Bayern",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Vom Debüt zum Tordebüt: Wer brauchte am längsten - und wo steht Jatta?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Weichenstellung bei Bayern: Aufsichtsrat tagt, entscheidet aber noch keine Personalien",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "DFB sperrt Sugawara - doch was passiert mit dem zweiten Spiel?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Leck mich am Arsch\": Wie Effenberg Hitzfeld zur Weißglut brachte",
-      "source": "kicker",
-      "sentiment": 0.53
-    },
-    {
-      "title": "Fellhauer: Glücksgriff und Dauerbrenner",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wagner verzichtet auf van den Berg: Ein Warnschuss oder doch ein Trick?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Großer Tag für mich\": Yilmaz bindet sich an Freiburg",
-      "source": "kicker",
-      "sentiment": 0.37
-    },
-    {
-      "title": "41 Spieler von 15 Klubs: Stelle dein Team der Saison in der 3. Liga zusammen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wer bietet den Bayern Paroli? Stelle dein Bundesliga-Team der Saison zusammen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Schalker Aufstiegshelden - und wer noch? Stelle dein Team der Saison in der 2. Liga zusammen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wer kommt in die Champions League? Wer steigt ab? Hier den Showdown durchrechnen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Lizarazu, die Matthäus-Watschn und die Geldstrafe, die nie gezahlt wurde",
-      "source": "kicker",
-      "sentiment": 0.7
-    },
-    {
-      "title": "Kahns Meisterglaube 2000: \"Weil Leverkusen verlieren wird\"",
-      "source": "kicker",
-      "sentiment": 0.65
-    },
-    {
-      "title": "\"Kein Verein für Schickimicki\": Die Bedeutung der \"Eurofighter\"",
-      "source": "kicker",
-      "sentiment": 0.7
-    },
-    {
-      "title": "Kahns legendärer Platzverweis in Rostock - und eine heimliche Prüfung des DFB",
-      "source": "kicker",
-      "sentiment": 0.7
-    },
-    {
-      "title": "Baumanns dringender Appell",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Drei Teams, zwei Spiele, ein Ziel: Die Szenarien beim Abstiegs-Showdown",
-      "source": "kicker",
-      "sentiment": -0.27
-    },
-    {
-      "title": "Wer schnappt sich am 34. Spieltag den Relegationsplatz?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"So spielt kein Absteiger\": Wie Hecking Wolfsburg stabilisiert",
-      "source": "kicker",
-      "sentiment": 0
     }
   ]
 }
