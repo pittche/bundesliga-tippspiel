@@ -1,154 +1,154 @@
 {
   "news": [
     {
-      "title": "BVB: Book bestätigt Interesse an Eichhorn – Brandt-Nachfolge, Abgänge & Co.",
+      "title": "Transfermarkt: Jetzt den besten Spieler der 2. Bundesliga 2025/26 wählen",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Werder Bremen verpflichtet Talente Soylu und Simic vom VfL Wolfsburg",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Carrick soll Cheftrainer von Man United bleiben – Cunha über Ferguson-„Magie“",
       "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "Real Madrid: Pérez ruft Neuwahlen aus – Zitiert Transfermarkt",
-      "source": "transfermarkt",
-      "sentiment": 0.07
-    },
-    {
-      "title": "Heimschwächste Teams: Tottenham vorne dabei – 803 Millionen Kaderwert",
-      "source": "transfermarkt",
-      "sentiment": -0.7
-    },
-    {
-      "title": "MLS: Messi verdient 3x so viel wie Thomas Müller & Timo Werner zusammen",
+      "title": "SV Wehen Wiesbaden verabschiedet Rekordspieler Mockenhaupt",
       "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "Cristiano Ronaldo Ronaldo muss auf ersten Saudi-Titel warten: Last-Minute-Eigentor",
+      "title": "Mainz 05: Vertrag von Danny da Costa verlängert – Nach Klassenerhalt",
       "source": "transfermarkt",
-      "sentiment": 0.57
+      "sentiment": 0.4
     },
     {
-      "title": "BVB gewinnt Premier League International Cup gegen Real Madrid",
+      "title": "Schalke-Kadercheck: Mit Dzeko & Kolasinac zum Klassenerhalt",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "SC Paderborn: Werder Bremen und VfL Wolfsburg buhlen um Mika Baur",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "1. FC Köln: FC Brentford steigt in Poker um El Mala ein",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Inter Mailand gewinnt Coppa Italia zum 10. Mal – Chivu-Team holt Double",
       "source": "transfermarkt",
       "sentiment": 0.5
     },
     {
-      "title": "Eintracht Frankfurt: Dina Ebimbe - „In Brest wurde ich geheilt“",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Rettig sprach mit Kimmich über WM-Bonus: „Am Anfang geht die Prämie gegen null“",
+      "title": "PSGs erster Schritt zum Double ist getan – Längste Meisterserie des Klubs",
       "source": "transfermarkt",
       "sentiment": 0.6
     },
     {
-      "title": "Eintracht Frankfurt an Majer dran – VfL-Forderung 15 Millionen unter Ablöse von 2023",
-      "source": "transfermarkt",
+      "title": "Kömür: Mit Bestwert ins Saisonfinale",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Hjulmand vor Abschied - Bordinggaard bleibt Bayer-Berater",
+      "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "Bayer Leverkusen nimmt Girona-Trainer Míchel ins Visier",
-      "source": "transfermarkt",
+      "title": "Interesse aus England wächst: Brentford steigt in Poker um El Mala ein",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Die Szenarien des 34. Spieltags in der Bundesliga",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Prognose im Abstiegskampf: \"Eine Variable namens Heidenheim\"",
+      "source": "kicker",
+      "sentiment": -0.65
+    },
+    {
+      "title": "Prognosen zum Saisonfinale: Wer steigt ab? Wer geht in die Champions League?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Mainz wieder Zünglein an der Waage - Zentner: \"Wir wollen uns nichts vorwerfen\"",
+      "source": "kicker",
+      "sentiment": -0.5
+    },
+    {
+      "title": "Eriksen ganz cool: \"Ich empfinde keine Angst, eher Vorfreude\"",
+      "source": "kicker",
+      "sentiment": -0.7
+    },
+    {
+      "title": "Mit einem Hammer zur Schale: Die VfB-Meisterschaft 2007",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Union hat auch Steffen auf der Liste - FCB angeblich mit Gordon einig - Herold im Anflug auf Gladbach",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Ein Schnäppchen trotz des langen Formtiefs: Bülter blüht wieder auf",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Höfler kämpft mit den Tränen: \"Meinen Traum gelebt\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Torwart Funk ist ein heißer VfB-Kandidat",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Elf Meter vom Titel entfernt: Die dramatische Wende im Saisonfinale 1986",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Istanbul als perfekter Schlusspunkt? Höfler verlässt die Freiburger Profis",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Von 5:5 bis 9:2: Die verrücktesten Torspektakel der Bundesliga",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Das Bundesliga-Quiz zum 34. Spieltag",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Vor Bayers Spiel der letzten Hoffnung: Neben Tella wackelt auch Kofane",
+      "source": "kicker",
       "sentiment": -0.6
     },
     {
-      "title": "Was steht fest? Was ist noch offen? Entscheidungen im deutschen Profi-Fußball 2025/26",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Stiller: Plötzlich auch \"Aggressive Leader\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Nagelsmanns Puzzle: Wie viele Dortmunder fahren zur WM?",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Gadou: \"Das Tor ist wie mein kleiner Bruder, den ich schützen muss\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Als Effenberg den berühmtesten Fußballer der Welt stehen ließ",
+      "title": "\"Bitte macht doch mal einer 'nen Fehler\": Kahns Flehen im Bernabeu",
       "source": "kicker",
       "sentiment": 0.7
     },
     {
-      "title": "BVB-Sportdirektor Book verrät, warum Neuzugang Gadou \"genau zu uns passt\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Mourinho-Rückkehr nach Madrid rückt näher - Flick verlängert",
-      "source": "kicker",
-      "sentiment": 0.37
-    },
-    {
-      "title": "Deniz Aytekin, wird der VAR noch abgeschafft?",
+      "title": "DFB legt letzte Einsätze für Aytekin, Ittrich und Co. fest",
       "source": "kicker",
       "sentiment": 0
-    },
-    {
-      "title": "\"Was soll der Scheiß?\" - Trainingszoff in Gladbach zwischen Castrop und Ullrich",
-      "source": "kicker",
-      "sentiment": 0.1
-    },
-    {
-      "title": "Bundesliga-Premiere: Krüger neue Sportvorständin beim HSV",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Gladbachs Elvedi: Erst die WM, dann die Zukunftsfrage",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Die Vertragslaufzeiten der BVB-Profis",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Über 20 Millionen Euro? BVB macht Gadou-Deal offiziell",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "St. Paulis Kampf gegen das Virus",
-      "source": "kicker",
-      "sentiment": -0.55
-    },
-    {
-      "title": "St. Paulis Fehler bei der Kaderplanung: \"Das Spitzensystem funktioniert nicht\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "FC trauert um Meisterspieler Ripkens",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "So sichert sich Stuttgart, Hoffenheim oder Leverkusen das CL-Ticket",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Der Verein würde auseinanderfliegen\" - Die Wutrede, die fast eine Meuterei provoziert hätte",
-      "source": "kicker",
-      "sentiment": -0.05
-    },
-    {
-      "title": "Ex-DFB-Coach Löw sieht geringe Chancen für Rückkehr als Trainer",
-      "source": "transfermarkt",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Bosnien stellt ersten WM-Kader: Schalke-Stürmer Dzeko führt deutsche Gesichter an",
-      "source": "transfermarkt",
-      "sentiment": 0.6
     }
   ]
 }
