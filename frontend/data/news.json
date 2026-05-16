@@ -1,152 +1,152 @@
 {
   "news": [
     {
-      "title": "Transfermarkt: Jetzt den besten Spieler der 2. Bundesliga 2025/26 wählen",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Werder Bremen verpflichtet Talente Soylu und Simic vom VfL Wolfsburg",
+      "title": "Sporting holt Zalazar von Braga – Schalke kassiert Millionenbetrag",
       "source": "transfermarkt",
       "sentiment": 0.4
     },
     {
-      "title": "Carrick soll Cheftrainer von Man United bleiben – Cunha über Ferguson-„Magie“",
+      "title": "Vor 30 Jahren: Bayern holt UEFA-Cup im Chaosjahr – Helmer erinnert sich",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Eintracht Frankfurt bestätigt Geldstrafe für Burkardt – Riera traurig",
       "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "SV Wehen Wiesbaden verabschiedet Rekordspieler Mockenhaupt",
+      "title": "Werder Bremen werkelt an Transfer von Berthel Askou – Nur vier Verabschiedungen",
+      "source": "transfermarkt",
+      "sentiment": 0.37
+    },
+    {
+      "title": "DFB-Gegner Elfenbeinküste mit Bundesliga-Trio um Yan Diomande zur WM",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Neuer verlängert Vertrag beim FC Bayern – Auch Ulreich bleibt",
       "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "Mainz 05: Vertrag von Danny da Costa verlängert – Nach Klassenerhalt",
+      "title": "Mainz 05 verlängert mit Kapitän Silvan Widmer",
       "source": "transfermarkt",
       "sentiment": 0.4
     },
     {
-      "title": "Schalke-Kadercheck: Mit Dzeko & Kolasinac zum Klassenerhalt",
+      "title": "WM-Kader: KSC-Talent Ben Farhat verärgert Tunesien – Haiti mit Oberliga-Spieler",
       "source": "transfermarkt",
-      "sentiment": 0.3
+      "sentiment": 0.23
     },
     {
-      "title": "SC Paderborn: Werder Bremen und VfL Wolfsburg buhlen um Mika Baur",
+      "title": "HSV: Kofi Amoako kommt per Ausstiegsklausel von Dynamo Dresden",
       "source": "transfermarkt",
-      "sentiment": 0.3
+      "sentiment": 0.4
     },
     {
-      "title": "1. FC Köln: FC Brentford steigt in Poker um El Mala ein",
+      "title": "Hertha BSC: Top-Talent Yunus Ünal vor Wechsel zu Hannover 96",
       "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "Inter Mailand gewinnt Coppa Italia zum 10. Mal – Chivu-Team holt Double",
-      "source": "transfermarkt",
+      "title": "Wer überträgt Werder Bremen gegen Borussia Dortmund live im TV und Stream in Österreich?",
+      "source": "kicker",
       "sentiment": 0.5
     },
     {
-      "title": "PSGs erster Schritt zum Double ist getan – Längste Meisterserie des Klubs",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Kömür: Mit Bestwert ins Saisonfinale",
+      "title": "Wer überträgt Bayern München gegen Köln heute live im TV und Stream in Österreich?",
       "source": "kicker",
-      "sentiment": 0.3
+      "sentiment": 0.4
     },
     {
-      "title": "Hjulmand vor Abschied - Bordinggaard bleibt Bayer-Berater",
+      "title": "Aufwendig und imposant: Die Choreos der Saison 2025/26",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "Interesse aus England wächst: Brentford steigt in Poker um El Mala ein",
+      "title": "Völler zeigt Verständnis für Hoeneß-Kritik - und widerspricht klar",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Kapitän \"mit großem Stellenwert\": Auch Widmer verlängert in Mainz",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "\"Nimm meinen Platz ein und mach es besser\": Riera reagiert auf Matthäus-Kritik",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Relegation 2026: Teams, Termine, TV",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "Die Szenarien des 34. Spieltags in der Bundesliga",
+      "title": "Thioune blickt voraus - und kündigt Änderungen in Bremens Spielweise an",
+      "source": "kicker",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Offiziell: Neuer verlängert beim FC Bayern - auch Ulreich unterschreibt bis 2027",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
+      "title": "Die Vertragslaufzeiten der Bayern-Profis",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "Prognose im Abstiegskampf: \"Eine Variable namens Heidenheim\"",
-      "source": "kicker",
-      "sentiment": -0.65
-    },
-    {
-      "title": "Prognosen zum Saisonfinale: Wer steigt ab? Wer geht in die Champions League?",
+      "title": "Rieras nächster Angriff auf die Medien: \"Sehr traurig für den Verein\"",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "Mainz wieder Zünglein an der Waage - Zentner: \"Wir wollen uns nichts vorwerfen\"",
+      "title": "Burkardt-Eklat überschattet die Vorbereitung aufs Saisonfinale",
       "source": "kicker",
-      "sentiment": -0.5
+      "sentiment": -0.8
     },
     {
-      "title": "Eriksen ganz cool: \"Ich empfinde keine Angst, eher Vorfreude\"",
-      "source": "kicker",
-      "sentiment": -0.7
-    },
-    {
-      "title": "Mit einem Hammer zur Schale: Die VfB-Meisterschaft 2007",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Union hat auch Steffen auf der Liste - FCB angeblich mit Gordon einig - Herold im Anflug auf Gladbach",
+      "title": "Werder verabschiedet weiteres Trio - Geldregen für Salzburg - Taz zum VfL",
       "source": "kicker",
       "sentiment": 0.35
     },
     {
-      "title": "Ein Schnäppchen trotz des langen Formtiefs: Bülter blüht wieder auf",
+      "title": "\"Wir sind ja schon in Europa\": Baum witzelt über letzten Spieltag",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Baums dritte Mission: \"Wir müssen uns selber helfen\"",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "Höfler kämpft mit den Tränen: \"Meinen Traum gelebt\"",
+      "title": "Traumtor gegen den VfB: Hallers Seitfallzieher ins Glück",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Einzelspiele und Konferenz: Wer überträgt den letzten Bundesligaspieltag im TV und Stream?",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "Torwart Funk ist ein heißer VfB-Kandidat",
+      "title": "BL-Abstiegs-Showdown: Wer überträgt St. Pauli gegen VfL Wolfsburg live im TV und Stream?",
+      "source": "kicker",
+      "sentiment": -0.7
+    },
+    {
+      "title": "Ilzer: \"Wir fühlen uns als absolute Gewinner\"",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "Elf Meter vom Titel entfernt: Die dramatische Wende im Saisonfinale 1986",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Istanbul als perfekter Schlusspunkt? Höfler verlässt die Freiburger Profis",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Von 5:5 bis 9:2: Die verrücktesten Torspektakel der Bundesliga",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Das Bundesliga-Quiz zum 34. Spieltag",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Vor Bayers Spiel der letzten Hoffnung: Neben Tella wackelt auch Kofane",
-      "source": "kicker",
-      "sentiment": -0.6
-    },
-    {
-      "title": "\"Bitte macht doch mal einer 'nen Fehler\": Kahns Flehen im Bernabeu",
-      "source": "kicker",
-      "sentiment": 0.7
-    },
-    {
-      "title": "DFB legt letzte Einsätze für Aytekin, Ittrich und Co. fest",
+      "title": "\"Mittendrin in der Party\": Schmidt kann \"jetzt nicht irgendwas erfinden\"",
       "source": "kicker",
       "sentiment": 0
     }

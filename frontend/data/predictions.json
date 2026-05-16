@@ -3,9 +3,9 @@
     {
       "home_team": "FC Bayern München",
       "away_team": "1. FC Köln",
-      "prob_home": 0.722,
+      "prob_home": 0.723,
       "prob_draw": 0.22,
-      "prob_away": 0.058,
+      "prob_away": 0.057,
       "tip": "1",
       "score": "2:0",
       "confidence": "high",
@@ -69,31 +69,31 @@
     {
       "home_team": "1. FC Union Berlin",
       "away_team": "FC Augsburg",
-      "prob_home": 0.374,
+      "prob_home": 0.378,
       "prob_draw": 0.248,
-      "prob_away": 0.378,
-      "tip": "2",
-      "score": "1:2",
+      "prob_away": 0.374,
+      "tip": "1",
+      "score": "2:1",
       "confidence": "low",
-      "explanation": "[STAT] Teams auf Augenhoehe (Elo ausgeglichen)\n[XG] FCU in besserer Form\n=> 37% / 25% / 38%"
+      "explanation": "[STAT] Teams auf Augenhoehe (Elo ausgeglichen)\n[XG] FCU in besserer Form\n=> 38% / 25% / 37%"
     },
     {
       "home_team": "FC St. Pauli",
       "away_team": "VfL Wolfsburg",
-      "prob_home": 0.4,
+      "prob_home": 0.401,
       "prob_draw": 0.245,
-      "prob_away": 0.355,
+      "prob_away": 0.354,
       "tip": "1",
       "score": "2:1",
       "confidence": "low",
-      "explanation": "[STAT] STP hat leichten Elo-Vorteil (+62)\n[XG] WOB in besserer Form\n=> 40% / 24% / 36%"
+      "explanation": "[STAT] STP hat leichten Elo-Vorteil (+62)\n[XG] WOB in besserer Form\n=> 40% / 24% / 35%"
     },
     {
       "home_team": "1. FC Heidenheim 1846",
       "away_team": "1. FSV Mainz 05",
-      "prob_home": 0.328,
+      "prob_home": 0.327,
       "prob_draw": 0.25,
-      "prob_away": 0.422,
+      "prob_away": 0.423,
       "tip": "2",
       "score": "1:2",
       "confidence": "medium",
