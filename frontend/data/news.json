@@ -1,154 +1,154 @@
 {
   "news": [
     {
-      "title": "Celtic entreißt Hearts Meisterschaft – 41-jährige Serie der Glasgower Klubs setzt sich doch fort",
+      "title": "SV Elversberg steigt in die Bundesliga auf – SC Paderborn in Relegation",
       "source": "transfermarkt",
-      "sentiment": 0.6
+      "sentiment": 0
     },
     {
-      "title": "Lok Leipzig erneut als Meister in Relegation zur 3. Liga – Würzburger Kickers warten",
+      "title": "Eric Martel verlässt 1. FC Köln ablösefrei: Vertragsangebot abgelehnt",
       "source": "transfermarkt",
-      "sentiment": 0.6
+      "sentiment": 0
     },
     {
-      "title": "Dank Koulierakis & Pejcinovic: VfL Wolfsburg rettet sich in Relegation",
+      "title": "1. FC Magdeburg bindet Trainer Petrik Sander und Pascal  Ibold nach Klassenerhalt",
       "source": "transfermarkt",
+      "sentiment": 0.45
+    },
+    {
+      "title": "1. FC Nürnberg abgesagt: Lilian Egloff verlängert beim Karlsruher SC",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Eintracht Frankfurt trennt sich von Trainer Albert Riera",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "West Ham kurz vor Premier-League-Abstieg – Woltemade beendet Torflaute bei Newcastle",
+      "source": "transfermarkt",
+      "sentiment": -0.65
+    },
+    {
+      "title": "Halilhodzics Laufbahn endet nach 36 Jahren mit Spielabbruch – „Welt stürzt über mir ein“",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Kuriose Wechselpanne: Neymar sieht „schlimmen Fehler der Offiziellen“",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Hannover holt Magdeburgs Hugonet – Hatte stärkste Saison unter Trainer Titz",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "TM-Tipprunde: Daschner holt 31 Punkte am 34. Spieltag – Jansen gewinnt Experten-Ranking",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Achterbahn Abstiegskampf: Episode 1",
+      "source": "kicker",
+      "sentiment": -0.65
+    },
+    {
+      "title": "Höjlund wechselt fest zu Napoli - Gnonto steht auf der Freiburger Wunschliste",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Bittencourts Bühne und ehrliche Werder-Worte",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Bayer-Restart nötig: Was Rolfes verändern will",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Amiris vermiedenes Bekenntnis: \"Würde genau das gleiche antworten\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Warum Barbarez Schalke die Meisterschaft kostete - und nicht Schober",
+      "source": "kicker",
+      "sentiment": 0.63
+    },
+    {
+      "title": "Kane macht noch das Dutzend voll: Die kicker-Elf des 34. Spieltags",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Das sind die Bundesliga-Trainer der Saison 2025/26",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Frankfurt beendet Missverständnis: Trainer Riera muss gehen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Das Ende der Flüche: Freiburg spannt das Sicherheitsnetz",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "VfB-Spur führt weiter zu Nazinho",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Wolfsburg trotzte Feuerwerk vor dem Hotel - und was Hecking über Paderborn sagt",
+      "source": "kicker",
       "sentiment": 0.5
     },
     {
-      "title": "VfB Stuttgart sichert sich 4. Champions-League-Ticket – TSG & Leverkusen haben Nachsehen",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Wer hat überzeugt? Jetzt die Top-Elf des 34. Bundesliga-Spieltages wählen",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Kane sorgt mit Torschützenkönig-Hattrick für Novum – Titel mit Dreierpack gekrönt",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Manchester City holt FA Cup vor 90.000 Fans gegen Chelsea",
-      "source": "transfermarkt",
-      "sentiment": 0.05
-    },
-    {
-      "title": "FC Bayern: DFB-Comeback von Neuer beschlossen – Nr. 1 bei WM",
-      "source": "transfermarkt",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Chelsea einigt sich mit Xabi Alonso auf langfristiges Engagement",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Mainka verpasste keine einzige Bundesliga-Minute Heidenheims",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Meister Bayern - und jetzt? \"Man muss gar nicht viel ändern\"",
+      "title": "Dank Xabi Alonso: Öffnet sich für Bayer die Tür bei Iraola?",
       "source": "kicker",
-      "sentiment": 0.57
+      "sentiment": 0.4
     },
     {
-      "title": "Hjulmand trocken über seine Zukunft: \"Eine Frage für Simon\"",
-      "source": "kicker",
-      "sentiment": -0.55
-    },
-    {
-      "title": "Ilzer zieht Fazit nach 0:4: \"Gute Botschaft mitbekommen\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Schmidt trotz allem stolz: \"Sind mit Würde abgestiegen\"",
-      "source": "kicker",
-      "sentiment": -0.1
-    },
-    {
-      "title": "Hoeneß feiert Stuttgarter Saison ab: \"Es ist fast absurd\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Blessin enttäuscht: \"Fans tun mir wahnsinnig leid\"",
-      "source": "kicker",
-      "sentiment": -0.1
-    },
-    {
-      "title": "Hecking fühlt mit St. Pauli: \"Letztes Jahr sind wir hier abgestiegen\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Schöne Gesten und tragische Figuren: Die Folgen des Abstiegs-Duells",
-      "source": "kicker",
-      "sentiment": -0.7
-    },
-    {
-      "title": "Undavs \"beste Saison\" - Hoeneß lobt Stuttgarts Zusammenhalt",
+      "title": "Martel verlässt nach vier Jahren den 1. FC Köln",
       "source": "kicker",
       "sentiment": 0.1
     },
     {
-      "title": "\"Es ist schwer zu beschreiben\": Aytekins emotionaler Abschied",
+      "title": "\"Von einer Million Deutschen würden 999.900 sagen, Wolfsburg gewinnt\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Relegation 2026: Teams, Termine, TV",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "WM in Gefahr bei Gladbachs Tabakovic?",
-      "source": "kicker",
-      "sentiment": 0.55
-    },
-    {
-      "title": "Bremer Saison als \"Mahnmal für schlechte Entscheidungen\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Nach \"Saison zum Vergessen\": Werder-Fans mit klarer Botschaft",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Desolates Frankfurter Bild und Krösches Rolle: \"Mit sehendem Auge ins Verderben\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Ouedraogo befeuert seinen \"Riesentraum\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Champions League oder Conference League? Freiburg spannt ein \"Sicherheitsnetz\"",
-      "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Die Gespräche laufen: Union Berlin will Thuns Meistertrainer Lustrinelli",
+      "title": "Neuer bringt die Schale, Olise gewohnt lässig: Der FCB feiert die Meisterschaft",
       "source": "kicker",
       "sentiment": 0.6
     },
     {
-      "title": "Tangvik sorgt für ein Novum beim HSV",
+      "title": "Verhandlungen laufen: Worum es im Poker mit Kane geht",
       "source": "kicker",
-      "sentiment": 0.45
+      "sentiment": 0.57
     },
     {
-      "title": "Rolfes lässt die Chance verstreichen: Kein Bekenntnis zu Hjulmand",
+      "title": "Eintracht Frankfurt trauert um Meistertorwart Loy",
       "source": "kicker",
-      "sentiment": -0.13
+      "sentiment": 0.6
     },
     {
-      "title": "Dem Abstieg zum Trotz: Schmidts Lobeshymne auf den 1. FC Heidenheim",
+      "title": "\"Expertise, Erfahrung, Netzwerk\": Werder holt Pilawa als Kaderplaner",
       "source": "kicker",
-      "sentiment": -0.7
+      "sentiment": 0.4
     }
   ]
 }
