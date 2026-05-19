@@ -1,154 +1,154 @@
 {
   "news": [
     {
-      "title": "SV Elversberg steigt in die Bundesliga auf – SC Paderborn in Relegation",
+      "title": "Tom Ritzy Hülsmann: Hartbergs Top-Keeper über Bayern, Lewandowski und Neuer",
       "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "Eric Martel verlässt 1. FC Köln ablösefrei: Vertragsangebot abgelehnt",
+      "title": "Manchester City bereitet Guardiola-Abgang vor – Maresca Favorit",
+      "source": "transfermarkt",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Havertz öffnet Arsenal die Tür zum Titel – Manchester City zum Siegen verdammt",
+      "source": "transfermarkt",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Neymar für Brasilien nominiert: Ancelotti sorgt für Comeback bei WM",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "DFB-Team: Baumann akzeptiert Entscheidung - Neuer wohl Nummer 1",
       "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "1. FC Magdeburg bindet Trainer Petrik Sander und Pascal  Ibold nach Klassenerhalt",
-      "source": "transfermarkt",
-      "sentiment": 0.45
-    },
-    {
-      "title": "1. FC Nürnberg abgesagt: Lilian Egloff verlängert beim Karlsruher SC",
-      "source": "transfermarkt",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Eintracht Frankfurt trennt sich von Trainer Albert Riera",
+      "title": "Galatsasaray nimmt Kontakt zu Brandt auf – BVB-Profi präferiert Spanien",
       "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "West Ham kurz vor Premier-League-Abstieg – Woltemade beendet Torflaute bei Newcastle",
+      "title": "Barça-Interesse? Lautaro Martínez erwägt Karriereende bei Inter",
       "source": "transfermarkt",
-      "sentiment": -0.65
+      "sentiment": 0.3
     },
     {
-      "title": "Halilhodzics Laufbahn endet nach 36 Jahren mit Spielabbruch – „Welt stürzt über mir ein“",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Kuriose Wechselpanne: Neymar sieht „schlimmen Fehler der Offiziellen“",
+      "title": "Ablösefreier Eric Martel geht zu Mainz 05 – Wolfsburg geht leer aus",
       "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "Hannover holt Magdeburgs Hugonet – Hatte stärkste Saison unter Trainer Titz",
+      "title": "Fortuna Düsseldorf: Jordy de Wijs kehrt zu Jugendklub RKC Waalwijk zurück",
       "source": "transfermarkt",
-      "sentiment": 0.4
+      "sentiment": -0.1
     },
     {
-      "title": "TM-Tipprunde: Daschner holt 31 Punkte am 34. Spieltag – Jansen gewinnt Experten-Ranking",
+      "title": "FC St. Pauli bei allen Verträgen „handlungsfähig“ – Ceesay unter Europas Top-Torjägern",
       "source": "transfermarkt",
-      "sentiment": 0.4
+      "sentiment": -0.7
     },
     {
-      "title": "Achterbahn Abstiegskampf: Episode 1",
+      "title": "Mainka pulverisiert BL-Rekord: Die Profis, die am meisten in Serie durchspielten",
       "source": "kicker",
-      "sentiment": -0.65
+      "sentiment": 0.4
     },
     {
-      "title": "Höjlund wechselt fest zu Napoli - Gnonto steht auf der Freiburger Wunschliste",
+      "title": "Martel vor Wechsel nach Mainz - Gladbach hat Interesse an Leopold",
       "source": "kicker",
       "sentiment": 0.35
     },
     {
-      "title": "Bittencourts Bühne und ehrliche Werder-Worte",
+      "title": "\"Völlig unnötig\": Achterbahn Abstiegskampf - Episode 2",
       "source": "kicker",
-      "sentiment": -0.3
+      "sentiment": -0.65
     },
     {
-      "title": "Bayer-Restart nötig: Was Rolfes verändern will",
+      "title": "\"Das war das geilste Finale, das es in der Geschichte der Bundesliga gab\"",
       "source": "kicker",
-      "sentiment": 0
+      "sentiment": 0.65
     },
     {
-      "title": "Amiris vermiedenes Bekenntnis: \"Würde genau das gleiche antworten\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Warum Barbarez Schalke die Meisterschaft kostete - und nicht Schober",
-      "source": "kicker",
-      "sentiment": 0.63
-    },
-    {
-      "title": "Kane macht noch das Dutzend voll: Die kicker-Elf des 34. Spieltags",
+      "title": "\"Muss die Lehre aus Riera sein\": So könnte der neue SGE-Trainer aussehen",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "Das sind die Bundesliga-Trainer der Saison 2025/26",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Frankfurt beendet Missverständnis: Trainer Riera muss gehen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Das Ende der Flüche: Freiburg spannt das Sicherheitsnetz",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "VfB-Spur führt weiter zu Nazinho",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wolfsburg trotzte Feuerwerk vor dem Hotel - und was Hecking über Paderborn sagt",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Dank Xabi Alonso: Öffnet sich für Bayer die Tür bei Iraola?",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Martel verlässt nach vier Jahren den 1. FC Köln",
-      "source": "kicker",
-      "sentiment": 0.1
-    },
-    {
-      "title": "\"Von einer Million Deutschen würden 999.900 sagen, Wolfsburg gewinnt\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Relegation 2026: Teams, Termine, TV",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Neuer bringt die Schale, Olise gewohnt lässig: Der FCB feiert die Meisterschaft",
+      "title": "Goretzkas wehmütige Abschiedsworte: \"Das tut richtig weh\"",
       "source": "kicker",
       "sentiment": 0.6
     },
     {
-      "title": "Verhandlungen laufen: Worum es im Poker mit Kane geht",
+      "title": "Liebling Vuskovic: kicker-User wählen ihre Elf der Bundesliga-Saison",
       "source": "kicker",
-      "sentiment": 0.57
+      "sentiment": 0
     },
     {
-      "title": "Eintracht Frankfurt trauert um Meistertorwart Loy",
+      "title": "Weil Klaus auf Anhieb abliefert: Das Rennen um die Nummer 2 könnte neu entfacht werden",
       "source": "kicker",
-      "sentiment": 0.6
+      "sentiment": 0
     },
     {
-      "title": "\"Expertise, Erfahrung, Netzwerk\": Werder holt Pilawa als Kaderplaner",
+      "title": "Ein Sieg bei Union hätte weitere Millionen gebracht",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Olise-Nachfolger: Diomande zum \"Rookie der Saison\" gewählt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Die Trainerfrage: St. Pauli will, doch Blessin zögert",
+      "source": "kicker",
+      "sentiment": -0.65
+    },
+    {
+      "title": "Hoffenheim plant mit SVE-Aufstiegsheld Conté",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Hochkarätige Saison-Generalprobe: Bayern empfängt Leipzig",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Große Sprüche, kein Erfolg\": Wie Riera in Frankfurt gescheitert ist",
       "source": "kicker",
       "sentiment": 0.4
+    },
+    {
+      "title": "\"Das ist Respekt\": Stevens reagiert auf emotionale Hitzfeld-Worte zum Saisonfinale 2001",
+      "source": "kicker",
+      "sentiment": 0.7
+    },
+    {
+      "title": "Batz-Wechsel nach Gladbach offiziell: \"Wertvoller Neuzugang\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Riera bedauert Trennung: \"Nur 20 Prozent von Alberts Potenzial genutzt\"",
+      "source": "kicker",
+      "sentiment": -0.85
+    },
+    {
+      "title": "Wolfsburg oder Paderborn - wer macht das Rennen?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Schiedsrichter Burda und Hempel vor Aufstieg in die Bundesliga",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "SV Elversberg steigt in die Bundesliga auf – SC Paderborn in Relegation",
+      "source": "transfermarkt",
+      "sentiment": 0
     }
   ]
 }
