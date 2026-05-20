@@ -1,6 +1,131 @@
 {
   "news": [
     {
+      "title": "Arsenal Meister dank Patzer von Manchester City – Nachfolger der Invincibles",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Spekulationen um DFB-Kader: Trio vom VfB Stuttgart und El Mala bei WM dabei",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Magath, Streich und ein tanzender Neururer: Makiadi über seine prägendsten Trainer",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "VfB Stuttgart bietet Undav Rekordvertrag – „Habe Deadline für mich gesetzt“",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Baku-Bruder Makana: „Zusammen auf dem Platz zu stehen, wäre ein Traum“",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "1. FC Köln: El Mala sprach mit Kollegen über Wechsel – Brentford zu Rekordablöse bereit",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Manchester City: Guardiola befeuert Abschiedsgerüchte – Team informiert?",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Górnik Zabrze: Podolski kündigt Übernahme an: „Jetzt kaufe ich den Rest“",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Werder Bremen: Jens Stage vor Einigung mit TSG Hoffenheim",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Union Berlin: Kurswechsel mit Risiko – Wie die Zukunft geplant wird",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Ryerson weckt Interesse aus England - Raum-Gespräche nach der WM",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Unions Trainersuche: Zingler hofft auf Entscheidung im Mai",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Der nächste, richtige Schritt\": Martel unterschreibt in Mainz",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Reflektierter Krösche räumt ein: \"Ich bin mir nicht treu geblieben\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Krösche über Frankfurter Chaos-Saison: \"Ist meine Verantwortung\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Das war das geilste Finale, das es in der Geschichte der Bundesliga gab\"",
+      "source": "kicker",
+      "sentiment": 0.65
+    },
+    {
+      "title": "Rekordablöse für Backhaus? Freiburg sucht den Atubolu-Nachfolger",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Flog ein Schrank? Oder ein Fernseher? Was in den \"vier Minuten\" auf Schalke wirklich passierte",
+      "source": "kicker",
+      "sentiment": 0.65
+    },
+    {
+      "title": "Ittrich: \"Auf Instagram schickt Aytekin mir völlig verrückte Reels\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kabine, Trainer und Management: Piepers unbequeme Werder-Fragen",
+      "source": "kicker",
+      "sentiment": -0.25
+    },
+    {
+      "title": "Kahns emotionale Worte über seinen legendärer Eckfahnen-Jubel",
+      "source": "kicker",
+      "sentiment": 0.7
+    },
+    {
+      "title": "Offiziell: Hoffenheim verpflichtet Bochums Top-Talent Lenz",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Amiri pokert, Mainz bleibt cool - Heidel: \"Wir entscheiden\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"War geplant\": Andersson verrät seine Gedanken vor dem Freistoß",
+      "source": "kicker",
+      "sentiment": 0.7
+    },
+    {
       "title": "Tom Ritzy Hülsmann: Hartbergs Top-Keeper über Bayern, Lewandowski und Neuer",
       "source": "transfermarkt",
       "sentiment": 0
@@ -22,131 +147,6 @@
     },
     {
       "title": "DFB-Team: Baumann akzeptiert Entscheidung - Neuer wohl Nummer 1",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Galatsasaray nimmt Kontakt zu Brandt auf – BVB-Profi präferiert Spanien",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Barça-Interesse? Lautaro Martínez erwägt Karriereende bei Inter",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Ablösefreier Eric Martel geht zu Mainz 05 – Wolfsburg geht leer aus",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Fortuna Düsseldorf: Jordy de Wijs kehrt zu Jugendklub RKC Waalwijk zurück",
-      "source": "transfermarkt",
-      "sentiment": -0.1
-    },
-    {
-      "title": "FC St. Pauli bei allen Verträgen „handlungsfähig“ – Ceesay unter Europas Top-Torjägern",
-      "source": "transfermarkt",
-      "sentiment": -0.7
-    },
-    {
-      "title": "Mainka pulverisiert BL-Rekord: Die Profis, die am meisten in Serie durchspielten",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Martel vor Wechsel nach Mainz - Gladbach hat Interesse an Leopold",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "\"Völlig unnötig\": Achterbahn Abstiegskampf - Episode 2",
-      "source": "kicker",
-      "sentiment": -0.65
-    },
-    {
-      "title": "\"Das war das geilste Finale, das es in der Geschichte der Bundesliga gab\"",
-      "source": "kicker",
-      "sentiment": 0.65
-    },
-    {
-      "title": "\"Muss die Lehre aus Riera sein\": So könnte der neue SGE-Trainer aussehen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Goretzkas wehmütige Abschiedsworte: \"Das tut richtig weh\"",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Liebling Vuskovic: kicker-User wählen ihre Elf der Bundesliga-Saison",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Weil Klaus auf Anhieb abliefert: Das Rennen um die Nummer 2 könnte neu entfacht werden",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Ein Sieg bei Union hätte weitere Millionen gebracht",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Olise-Nachfolger: Diomande zum \"Rookie der Saison\" gewählt",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Die Trainerfrage: St. Pauli will, doch Blessin zögert",
-      "source": "kicker",
-      "sentiment": -0.65
-    },
-    {
-      "title": "Hoffenheim plant mit SVE-Aufstiegsheld Conté",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Hochkarätige Saison-Generalprobe: Bayern empfängt Leipzig",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Große Sprüche, kein Erfolg\": Wie Riera in Frankfurt gescheitert ist",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "\"Das ist Respekt\": Stevens reagiert auf emotionale Hitzfeld-Worte zum Saisonfinale 2001",
-      "source": "kicker",
-      "sentiment": 0.7
-    },
-    {
-      "title": "Batz-Wechsel nach Gladbach offiziell: \"Wertvoller Neuzugang\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Riera bedauert Trennung: \"Nur 20 Prozent von Alberts Potenzial genutzt\"",
-      "source": "kicker",
-      "sentiment": -0.85
-    },
-    {
-      "title": "Wolfsburg oder Paderborn - wer macht das Rennen?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Schiedsrichter Burda und Hempel vor Aufstieg in die Bundesliga",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "SV Elversberg steigt in die Bundesliga auf – SC Paderborn in Relegation",
       "source": "transfermarkt",
       "sentiment": 0
     }
