@@ -1,64 +1,109 @@
 {
   "news": [
     {
-      "title": "Arsenal Meister dank Patzer von Manchester City – Nachfolger der Invincibles",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Spekulationen um DFB-Kader: Trio vom VfB Stuttgart und El Mala bei WM dabei",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
       "title": "Magath, Streich und ein tanzender Neururer: Makiadi über seine prägendsten Trainer",
       "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "VfB Stuttgart bietet Undav Rekordvertrag – „Habe Deadline für mich gesetzt“",
+      "title": "Werder Bremen: SC Freiburg vor Verpflichtung von Torwart Mio Backhaus",
+      "source": "transfermarkt",
+      "sentiment": 0.05
+    },
+    {
+      "title": "SC Freiburg verliert Europa-League-Finale gegen Aston Villa",
       "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "Baku-Bruder Makana: „Zusammen auf dem Platz zu stehen, wäre ein Traum“",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "1. FC Köln: El Mala sprach mit Kollegen über Wechsel – Brentford zu Rekordablöse bereit",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Manchester City: Guardiola befeuert Abschiedsgerüchte – Team informiert?",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Górnik Zabrze: Podolski kündigt Übernahme an: „Jetzt kaufe ich den Rest“",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Werder Bremen: Jens Stage vor Einigung mit TSG Hoffenheim",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Union Berlin: Kurswechsel mit Risiko – Wie die Zukunft geplant wird",
+      "title": "So lief Southamptons Spionage: Enttarnter Praktikant, Eckert am Pranger,",
       "source": "transfermarkt",
       "sentiment": 0.3
     },
     {
-      "title": "Ryerson weckt Interesse aus England - Raum-Gespräche nach der WM",
-      "source": "kicker",
+      "title": "Werder Bremen: Jens Stage einig mit TSG Hoffenheim - Klubs verhandeln",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "DFB startet WM-Nominierungen: Sieben Spieler um Undav und Brown fix",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Enttäuschter SC Freiburg nach Finalpleite: Lehrstunde gegen Aston Villa",
+      "source": "transfermarkt",
+      "sentiment": -0.6
+    },
+    {
+      "title": "Union Berlin zahlt Ablöse: Thuns Meistertrainer Lustrinelli kommt",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "SC Freiburg: Auch Rihito Yamamoto im Anflug – Nächster Millionentransfer",
+      "source": "transfermarkt",
       "sentiment": 0.35
     },
     {
-      "title": "Unions Trainersuche: Zingler hofft auf Entscheidung im Mai",
+      "title": "Marktwert verdreifacht: Lemperle verlängert bei TSG Hoffenheim",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Freiburger Rekordablöse: Backhaus-Transfer auf der Zielgeraden",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Hoffenheim verlängert mit Lemperle: \"Hier entsteht etwas\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Union mit Thuns Meistermacher Lustrinelli auf der Zielgeraden",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Wer überträgt VfL Wolfsburg gegen SC Paderborn heute live im Free-TV & Stream?",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Kein klares Bekenntnis zu Kniat - Stage vor Einigung mit Hoffenheim",
+      "source": "kicker",
+      "sentiment": 0.37
+    },
+    {
+      "title": "Eta über ihre Trainer-Ehe: \"Wir nehmen auch das Besteck, um Spielzüge nachzustellen\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Endgültige Dauerlösung: Baum bleibt FCA-Trainer",
       "source": "kicker",
       "sentiment": 0
+    },
+    {
+      "title": "Krösches 90-Prozent-Rechnung: Weshalb der Eintracht-Kader schrumpfen soll",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Was der Königsdörffer-Abschied über den HSV aussagt",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Stage und Weiser: Der doppelte Werder-Poker",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Nächster Transfer zum Nulltarif: Mainz schnappt auch bei Königsdörffer zu",
+      "source": "kicker",
+      "sentiment": 0.37
     },
     {
       "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
@@ -66,89 +111,44 @@
       "sentiment": 0
     },
     {
-      "title": "\"Der nächste, richtige Schritt\": Martel unterschreibt in Mainz",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Reflektierter Krösche räumt ein: \"Ich bin mir nicht treu geblieben\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Krösche über Frankfurter Chaos-Saison: \"Ist meine Verantwortung\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Das war das geilste Finale, das es in der Geschichte der Bundesliga gab\"",
-      "source": "kicker",
-      "sentiment": 0.65
-    },
-    {
-      "title": "Rekordablöse für Backhaus? Freiburg sucht den Atubolu-Nachfolger",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Flog ein Schrank? Oder ein Fernseher? Was in den \"vier Minuten\" auf Schalke wirklich passierte",
-      "source": "kicker",
-      "sentiment": 0.65
-    },
-    {
-      "title": "Ittrich: \"Auf Instagram schickt Aytekin mir völlig verrückte Reels\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kabine, Trainer und Management: Piepers unbequeme Werder-Fragen",
-      "source": "kicker",
-      "sentiment": -0.25
-    },
-    {
-      "title": "Kahns emotionale Worte über seinen legendärer Eckfahnen-Jubel",
-      "source": "kicker",
-      "sentiment": 0.7
-    },
-    {
-      "title": "Offiziell: Hoffenheim verpflichtet Bochums Top-Talent Lenz",
+      "title": "Hecking sieht \"zarte Annäherung\" zwischen Mannschaft und Fans",
       "source": "kicker",
       "sentiment": 0.4
     },
     {
-      "title": "Amiri pokert, Mainz bleibt cool - Heidel: \"Wir entscheiden\"",
+      "title": "Tendenz Gladbach: Uno vor dem Sprung zur Borussia",
       "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"War geplant\": Andersson verrät seine Gedanken vor dem Freistoß",
-      "source": "kicker",
-      "sentiment": 0.7
-    },
-    {
-      "title": "Tom Ritzy Hülsmann: Hartbergs Top-Keeper über Bayern, Lewandowski und Neuer",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Manchester City bereitet Guardiola-Abgang vor – Maresca Favorit",
-      "source": "transfermarkt",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Havertz öffnet Arsenal die Tür zum Titel – Manchester City zum Siegen verdammt",
-      "source": "transfermarkt",
       "sentiment": 0.5
     },
     {
-      "title": "Neymar für Brasilien nominiert: Ancelotti sorgt für Comeback bei WM",
-      "source": "transfermarkt",
-      "sentiment": 0.6
+      "title": "Psychologin, Pokerface und wieder Paderborn: Für Hecking schließt sich der Kreis",
+      "source": "kicker",
+      "sentiment": 0
     },
     {
-      "title": "DFB-Team: Baumann akzeptiert Entscheidung - Neuer wohl Nummer 1",
-      "source": "transfermarkt",
+      "title": "Bayers Trainersuche: Iraola führt Kandidaten-Trio an",
+      "source": "kicker",
       "sentiment": 0
+    },
+    {
+      "title": "Neuer jetzt Dritter: Welche Torhüter am häufigsten ausgewechselt wurden",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Ausstiegsklausel aktiviert: Gladbach holt Herold vom KSC",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Paderborn ohne Druck, aber mit Glauben: \"Es braucht kein Fußballwunder\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kettemann vor Relegation: \"Fühlt sich ziemlich geil an\"",
+      "source": "kicker",
+      "sentiment": 0.5
     }
   ]
 }
