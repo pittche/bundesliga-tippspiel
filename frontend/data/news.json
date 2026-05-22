@@ -1,6 +1,111 @@
 {
   "news": [
     {
+      "title": "3. Liga: Preußen Münster holt Stuhlmacher – Wiesbaden verpflichtet Brandt",
+      "source": "transfermarkt",
+      "sentiment": 0.03
+    },
+    {
+      "title": "DFB-Kader: Zehn der 25 wertvollsten Deutschen ohne WM-Ticket",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Tuchel lässt Maguire in Englands WM-Kader außen vor – „Schockiert und zutiefst enttäuscht“",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Ronaldo schießt Al-Nassr mit Doppelpack zur Meisterschaft – Al-Hilal ungeschlagen Zweiter",
+      "source": "transfermarkt",
+      "sentiment": 0.53
+    },
+    {
+      "title": "Bundesliga-Relegation: Nullnummer zwischen Wolfsburg und Paderborn – Seimen hält stark",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "SC Freiburg: Nicolas Höfler setzt Karriere in der U23 fort",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Tresoldi und Tzolis schießen Club Brügge zur 20. Meisterschaft in Belgien",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Norwegens WM-Kader um Haaland und drei Bundesliga-Profis",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "SC Freiburg: Matthias Ginter zeigt sich nach WM-Aus enttäuscht",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "1. FC Nürnberg holt Ghrieb vom 1. FC Magdeburg – Interesse auch an Nollenberger",
+      "source": "transfermarkt",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Hecking: \"Einige haben darüber gelächelt\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Hecking bemängelt Unsauberkeit - und behält in seiner Annahme Recht",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Nur einer knackt die 37 km/h: Die schnellsten Spieler der Bundesliga-Saison",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Höfler setzt seine Karriere in der Regionalliga fort",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Unions Lustrinelli über Ziele, Spielweise und Umgang mit Spielern",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Ich verlange viel\": Lustrinelli erklärt seinen Stil",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Der Bundesligist dominiert die Relegation: Nur ein Gefühl oder Fakt?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Das sind die Bundesliga-Trainer der Saison 2026/27",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Nach Sensation in der Schweiz: Lustrinelli wird Union-Trainer",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Effenbergs Zeichen im Finale: \"Das war so eine Psycho-Aktion\"",
+      "source": "kicker",
+      "sentiment": 0.15
+    },
+    {
+      "title": "Lemperle verlängert - Backhaus auf dem Weg nach Freiburg",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
       "title": "Magath, Streich und ein tanzender Neururer: Makiadi über seine prägendsten Trainer",
       "source": "transfermarkt",
       "sentiment": 0
@@ -44,111 +149,6 @@
       "title": "SC Freiburg: Auch Rihito Yamamoto im Anflug – Nächster Millionentransfer",
       "source": "transfermarkt",
       "sentiment": 0.35
-    },
-    {
-      "title": "Marktwert verdreifacht: Lemperle verlängert bei TSG Hoffenheim",
-      "source": "transfermarkt",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Freiburger Rekordablöse: Backhaus-Transfer auf der Zielgeraden",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Hoffenheim verlängert mit Lemperle: \"Hier entsteht etwas\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Union mit Thuns Meistermacher Lustrinelli auf der Zielgeraden",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Wer überträgt VfL Wolfsburg gegen SC Paderborn heute live im Free-TV & Stream?",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Kein klares Bekenntnis zu Kniat - Stage vor Einigung mit Hoffenheim",
-      "source": "kicker",
-      "sentiment": 0.37
-    },
-    {
-      "title": "Eta über ihre Trainer-Ehe: \"Wir nehmen auch das Besteck, um Spielzüge nachzustellen\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Endgültige Dauerlösung: Baum bleibt FCA-Trainer",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Krösches 90-Prozent-Rechnung: Weshalb der Eintracht-Kader schrumpfen soll",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Was der Königsdörffer-Abschied über den HSV aussagt",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Stage und Weiser: Der doppelte Werder-Poker",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Nächster Transfer zum Nulltarif: Mainz schnappt auch bei Königsdörffer zu",
-      "source": "kicker",
-      "sentiment": 0.37
-    },
-    {
-      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Hecking sieht \"zarte Annäherung\" zwischen Mannschaft und Fans",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Tendenz Gladbach: Uno vor dem Sprung zur Borussia",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Psychologin, Pokerface und wieder Paderborn: Für Hecking schließt sich der Kreis",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Bayers Trainersuche: Iraola führt Kandidaten-Trio an",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Neuer jetzt Dritter: Welche Torhüter am häufigsten ausgewechselt wurden",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Ausstiegsklausel aktiviert: Gladbach holt Herold vom KSC",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Paderborn ohne Druck, aber mit Glauben: \"Es braucht kein Fußballwunder\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kettemann vor Relegation: \"Fühlt sich ziemlich geil an\"",
-      "source": "kicker",
-      "sentiment": 0.5
     }
   ]
 }
