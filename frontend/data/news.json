@@ -1,6 +1,126 @@
 {
   "news": [
     {
+      "title": "Schalke-Kapitän Karaman fordert Verstärkungen für die Bundesliga",
+      "source": "transfermarkt",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Sevilla-Verteidiger César Azpilicueta beendet Karriere",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "BVB ausgestochen: Liverpool verpflichtet Kolumbien-Talent Martínez",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "David Alaba verlässt Real Madrid – Fehlte über 130 Partien in 5 Jahren",
+      "source": "transfermarkt",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Borussia Mönchengladbach holt Yukhym Konoplya von Shakhtar Donetsk",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Lukas Podolski beendet Karriere – Nur 4 Spieler häufiger im DFB-Trikot",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "VfB Stuttgart: U19 gewinnt DFB-Pokal gegen VfL Wolfsburg",
+      "source": "transfermarkt",
+      "sentiment": 0.5
+    },
+    {
+      "title": "1. FC Kaiserslautern verpflichtet Paul Joly fest von AJ Auxerre",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Marktwerte Argentinien: Boca-Talent Aranda mit extremem Sprung",
+      "source": "transfermarkt",
+      "sentiment": 0.35
+    },
+    {
+      "title": "2. Bundesliga: Rot-Weiß Essen schlägt Greuther Fürth im Relegations-Hinspiel",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "HSV Vorletzter, Leverkusen in der Königsklasse: Die xG-Tabelle der Bundesliga",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Nach Pyro-Eklat in Frankfurt: Staatsanwaltschaft ermittelt",
+      "source": "kicker",
+      "sentiment": -0.6
+    },
+    {
+      "title": "Heute vor fünf Jahren: Lewandowski bricht den Müller-Rekord",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Fenerbahce will Bayerns Kim - Gladbach vor Konoplya-Transfer",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Trotz großer Konkurrenz: Mhamdi wechselt nach Heidenheim",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Das geht mir wirklich bis ans Herz\" - Seimens kuriose Endspielwoche",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Das sind die Bundesliga-Trainer der Saison 2026/27",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Weiter mit Wagner: Köln bindet seinen Trainer bis 2028",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Duric vor Wechsel nach Paderborn",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "\"Damit taten sie sich schwer\": Was für Wolfsburg im Rückspiel gefährlich wird",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Winamax und VfB beenden Rechtsstreit",
+      "source": "kicker",
+      "sentiment": -0.7
+    },
+    {
+      "title": "\"Ohne Zettel übrigens\": Kahn über seine drei gehaltenen Elfmeter",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Torloses Relegationshinspiel: \"Das war nicht schön anzusehen\"",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Rückblick aufs Saisonfinale: Bayern-Party, Tränen und viel Aufstiegseuphorie",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "3. Liga: Preußen Münster holt Stuhlmacher – Wiesbaden verpflichtet Brandt",
       "source": "transfermarkt",
       "sentiment": 0.03
@@ -29,126 +149,6 @@
       "title": "SC Freiburg: Nicolas Höfler setzt Karriere in der U23 fort",
       "source": "transfermarkt",
       "sentiment": 0
-    },
-    {
-      "title": "Tresoldi und Tzolis schießen Club Brügge zur 20. Meisterschaft in Belgien",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Norwegens WM-Kader um Haaland und drei Bundesliga-Profis",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "SC Freiburg: Matthias Ginter zeigt sich nach WM-Aus enttäuscht",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "1. FC Nürnberg holt Ghrieb vom 1. FC Magdeburg – Interesse auch an Nollenberger",
-      "source": "transfermarkt",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Hecking: \"Einige haben darüber gelächelt\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Hecking bemängelt Unsauberkeit - und behält in seiner Annahme Recht",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Nur einer knackt die 37 km/h: Die schnellsten Spieler der Bundesliga-Saison",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Höfler setzt seine Karriere in der Regionalliga fort",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Unions Lustrinelli über Ziele, Spielweise und Umgang mit Spielern",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Ich verlange viel\": Lustrinelli erklärt seinen Stil",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Der Bundesligist dominiert die Relegation: Nur ein Gefühl oder Fakt?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Das sind die Bundesliga-Trainer der Saison 2026/27",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Nach Sensation in der Schweiz: Lustrinelli wird Union-Trainer",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Effenbergs Zeichen im Finale: \"Das war so eine Psycho-Aktion\"",
-      "source": "kicker",
-      "sentiment": 0.15
-    },
-    {
-      "title": "Lemperle verlängert - Backhaus auf dem Weg nach Freiburg",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Magath, Streich und ein tanzender Neururer: Makiadi über seine prägendsten Trainer",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Werder Bremen: SC Freiburg vor Verpflichtung von Torwart Mio Backhaus",
-      "source": "transfermarkt",
-      "sentiment": 0.05
-    },
-    {
-      "title": "SC Freiburg verliert Europa-League-Finale gegen Aston Villa",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "So lief Southamptons Spionage: Enttarnter Praktikant, Eckert am Pranger,",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Werder Bremen: Jens Stage einig mit TSG Hoffenheim - Klubs verhandeln",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "DFB startet WM-Nominierungen: Sieben Spieler um Undav und Brown fix",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Enttäuschter SC Freiburg nach Finalpleite: Lehrstunde gegen Aston Villa",
-      "source": "transfermarkt",
-      "sentiment": -0.6
-    },
-    {
-      "title": "Union Berlin zahlt Ablöse: Thuns Meistertrainer Lustrinelli kommt",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "SC Freiburg: Auch Rihito Yamamoto im Anflug – Nächster Millionentransfer",
-      "source": "transfermarkt",
-      "sentiment": 0.35
     }
   ]
 }
