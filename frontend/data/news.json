@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "1. FC Nürnberg verpflichtet Masouras von Zypern-Meister Nikosia",
+      "source": "transfermarkt",
+      "sentiment": 0.47
+    },
+    {
+      "title": "Broich: Titelgewinn mit BVB-Nachwuchs „kommt ehrlicherweise etwas unerwartet“",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "FC Bayern: Hoeneß gibt Prognose zu Eberl-Zukunft ab – „Noch Zweifel“",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Borussia Mönchengladbach: Sion zieht Kaufoption für Sturmtalent Boteli",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Finaltag der Amateure: Energie Cottbus patzt – Wer im DFB-Pokal dabei ist",
+      "source": "transfermarkt",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Hull City kehrt nach 9 Jahren überraschend in Premier League zurück",
+      "source": "transfermarkt",
+      "sentiment": -0.2
+    },
+    {
+      "title": "FC Bayern macht Double perfekt – Kane ärgert VfB Stuttgart im DFB-Pokal",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Fortuna Düsseldorf: Sven Mislintat muss gehen – Interne Vorwürfe",
+      "source": "transfermarkt",
+      "sentiment": -0.5
+    },
+    {
+      "title": "Premier League: Nottingham verlängert vorzeitig mit Murillo",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "VfL Wolfsburg: Ex-Kapitän Josuha Guilavogui beendet Karriere",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Überraschter\" Eberl über Hoeneß-Zweifel: \"Ist mir gerade egal\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Bayern im Franz-Beckenbauer-Supercup 2026 gegen den BVB",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Hoeneß zur Eberl-Zukunft: \"Da sind noch Zweifel\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Backhaus neu dabei: Die Rekordtransfers der Bundesligisten",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Zum Abschied: Die zehn schönsten Podolski-Tore aus Bundesliga und 2. Liga",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "\"Logischer nächster Schritt\": Amoako wechselt zum HSV",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Freiburg zahlt Rekordablöse für Bremens Backhaus - Werder zieht Option bei Hein",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Das Quiz zum Champions-League-Finale 2001",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Bayerns erlösender Triumph: \"Es war wie im Märchen\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
       "title": "Schalke-Kapitän Karaman fordert Verstärkungen für die Bundesliga",
       "source": "transfermarkt",
       "sentiment": 0.5
@@ -47,106 +147,6 @@
     },
     {
       "title": "2. Bundesliga: Rot-Weiß Essen schlägt Greuther Fürth im Relegations-Hinspiel",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "HSV Vorletzter, Leverkusen in der Königsklasse: Die xG-Tabelle der Bundesliga",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Nach Pyro-Eklat in Frankfurt: Staatsanwaltschaft ermittelt",
-      "source": "kicker",
-      "sentiment": -0.6
-    },
-    {
-      "title": "Heute vor fünf Jahren: Lewandowski bricht den Müller-Rekord",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Fenerbahce will Bayerns Kim - Gladbach vor Konoplya-Transfer",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Trotz großer Konkurrenz: Mhamdi wechselt nach Heidenheim",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Das geht mir wirklich bis ans Herz\" - Seimens kuriose Endspielwoche",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Das sind die Bundesliga-Trainer der Saison 2026/27",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Weiter mit Wagner: Köln bindet seinen Trainer bis 2028",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Duric vor Wechsel nach Paderborn",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "\"Damit taten sie sich schwer\": Was für Wolfsburg im Rückspiel gefährlich wird",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Winamax und VfB beenden Rechtsstreit",
-      "source": "kicker",
-      "sentiment": -0.7
-    },
-    {
-      "title": "\"Ohne Zettel übrigens\": Kahn über seine drei gehaltenen Elfmeter",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Torloses Relegationshinspiel: \"Das war nicht schön anzusehen\"",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Rückblick aufs Saisonfinale: Bayern-Party, Tränen und viel Aufstiegseuphorie",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "3. Liga: Preußen Münster holt Stuhlmacher – Wiesbaden verpflichtet Brandt",
-      "source": "transfermarkt",
-      "sentiment": 0.03
-    },
-    {
-      "title": "DFB-Kader: Zehn der 25 wertvollsten Deutschen ohne WM-Ticket",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Tuchel lässt Maguire in Englands WM-Kader außen vor – „Schockiert und zutiefst enttäuscht“",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Ronaldo schießt Al-Nassr mit Doppelpack zur Meisterschaft – Al-Hilal ungeschlagen Zweiter",
-      "source": "transfermarkt",
-      "sentiment": 0.53
-    },
-    {
-      "title": "Bundesliga-Relegation: Nullnummer zwischen Wolfsburg und Paderborn – Seimen hält stark",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "SC Freiburg: Nicolas Höfler setzt Karriere in der U23 fort",
       "source": "transfermarkt",
       "sentiment": 0
     }
