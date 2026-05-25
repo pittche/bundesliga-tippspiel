@@ -1,6 +1,116 @@
 {
   "news": [
     {
+      "title": "Energie Cottbus: Torwart Alexander Sebald macht mit 29 Jahren Schluss",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "FC Bayern: Neuer avanciert zum Rekordpokalsieger – Wade hält beim Jubeln",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Hannover 96 verhängt Transferstopp – Ezeh zu Dynamo Dresden",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Werder Bremen hält an Fritz fest, macht aber Druck – Thioune kündigt Umbruch an",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "SV Ried verpflichtet Bayern-Leihgabe Jussef Nasrawe fest",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Tottenham sichert Klassenerhalt, West Ham muss runter – Chelsea verpasst Europapokal",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Manchester United: Fernandes egalisiert Henrys Vorlagen-Rekord der Premier League",
+      "source": "transfermarkt",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Sensation in Portugal: Zweitligist Torreense triumphiert im Pokal gegen Sporting",
+      "source": "transfermarkt",
+      "sentiment": 0.67
+    },
+    {
+      "title": "Trainer Conte verlässt SSC Neapel: „Konnte euch nicht alle vereinen“",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "VfB Stuttgart holt TSG Hoffenheims Prömel",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Rückkehr in die Heimat: Prömel-Wechsel nach Stuttgart fix",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Ausstiegsklausel bis Ende Juni: Wohin zieht es Heidenheims Pieringer?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Zeichen stehen auf Polanski-Verbleib in Gladbach",
+      "source": "kicker",
+      "sentiment": -0.6
+    },
+    {
+      "title": "Bayers Co-Trainer Meijer wird Chefcoach bei Sparta Rotterdam",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Weiße Westen: Zwei Borussen vorne, Neuer und Baumann im Verfolgerfeld",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Undav zur Vertragsverlängerung: \"Schauen wir mal, was bis dahin passiert\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Kettemanns Whatsapp-Regel: \"Weil ich das Handy einfach nicht mag\"",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Hecking trocken: \"Sollen sie alle reden\"",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Kettemanns Appell an Fans: \"Lasst alles raus, was ihr habt\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Heckings Vorbereitung mit Landesgartenschau - und kleiner Spitze: \"Vielleicht sind sie morgen Abend traurig\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Entscheidung am letzten Spieltag: Die knappsten Titelrennen seit 2000",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "1. FC Nürnberg verpflichtet Masouras von Zypern-Meister Nikosia",
       "source": "transfermarkt",
       "sentiment": 0.47
@@ -39,116 +149,6 @@
       "title": "Fortuna Düsseldorf: Sven Mislintat muss gehen – Interne Vorwürfe",
       "source": "transfermarkt",
       "sentiment": -0.5
-    },
-    {
-      "title": "Premier League: Nottingham verlängert vorzeitig mit Murillo",
-      "source": "transfermarkt",
-      "sentiment": 0.4
-    },
-    {
-      "title": "VfL Wolfsburg: Ex-Kapitän Josuha Guilavogui beendet Karriere",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Überraschter\" Eberl über Hoeneß-Zweifel: \"Ist mir gerade egal\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Bayern im Franz-Beckenbauer-Supercup 2026 gegen den BVB",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Hoeneß zur Eberl-Zukunft: \"Da sind noch Zweifel\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Backhaus neu dabei: Die Rekordtransfers der Bundesligisten",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Zum Abschied: Die zehn schönsten Podolski-Tore aus Bundesliga und 2. Liga",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "\"Logischer nächster Schritt\": Amoako wechselt zum HSV",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Freiburg zahlt Rekordablöse für Bremens Backhaus - Werder zieht Option bei Hein",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Das Quiz zum Champions-League-Finale 2001",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Bayerns erlösender Triumph: \"Es war wie im Märchen\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Schalke-Kapitän Karaman fordert Verstärkungen für die Bundesliga",
-      "source": "transfermarkt",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Sevilla-Verteidiger César Azpilicueta beendet Karriere",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "BVB ausgestochen: Liverpool verpflichtet Kolumbien-Talent Martínez",
-      "source": "transfermarkt",
-      "sentiment": 0.4
-    },
-    {
-      "title": "David Alaba verlässt Real Madrid – Fehlte über 130 Partien in 5 Jahren",
-      "source": "transfermarkt",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Borussia Mönchengladbach holt Yukhym Konoplya von Shakhtar Donetsk",
-      "source": "transfermarkt",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Lukas Podolski beendet Karriere – Nur 4 Spieler häufiger im DFB-Trikot",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "VfB Stuttgart: U19 gewinnt DFB-Pokal gegen VfL Wolfsburg",
-      "source": "transfermarkt",
-      "sentiment": 0.5
-    },
-    {
-      "title": "1. FC Kaiserslautern verpflichtet Paul Joly fest von AJ Auxerre",
-      "source": "transfermarkt",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Marktwerte Argentinien: Boca-Talent Aranda mit extremem Sprung",
-      "source": "transfermarkt",
-      "sentiment": 0.35
-    },
-    {
-      "title": "2. Bundesliga: Rot-Weiß Essen schlägt Greuther Fürth im Relegations-Hinspiel",
-      "source": "transfermarkt",
-      "sentiment": 0
     }
   ]
 }
