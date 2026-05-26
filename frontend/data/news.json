@@ -1,6 +1,131 @@
 {
   "news": [
     {
+      "title": "Ex-Coach Hütter Top-Kandidat bei Eintracht Frankfurt – Treffen auf Mallorca",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Nach verpasster Champions League: Milan wirft Trainer Allegri und Führung raus",
+      "source": "transfermarkt",
+      "sentiment": -0.7
+    },
+    {
+      "title": "Portland Timbers trennen sich von Ex-United-Profi Phil Neville",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "VfL Wolfsburg steigt erstmals aus Bundesliga ab – SC Paderborn feiert",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Folgen des VfL Wolfsburg-Abstieges: VW kürzt Etat, Hecking kündigt Analyse an",
+      "source": "transfermarkt",
+      "sentiment": -0.7
+    },
+    {
+      "title": "Italien-Kader mit BVB-Trio um Samuele Inácio – Umbruch wird eingeleitet",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "SC Paderborn: So laufen die Kaderplanungen für die Bundesliga",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Verlässt Werder Bremen: Valdez wird Trainer beim Club Libertad in Paraguay",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Ohne Köhn & Königsdörffer: Nur ein Bundesliga-Profi in Ghanas WM-Kader",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Mislintat muss bei Fortuna Düsseldorf gehen – Arabi übernimmt Neuaufbau in 3. Liga",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Heckings Ärger nach Abstieg: \"Was ist los mit den Regeln?\"",
+      "source": "kicker",
+      "sentiment": -0.6
+    },
+    {
+      "title": "Unterschiedliche Vorstellungen in Undav-Verhandlungen - Mehrere Bundesligisten wollen Behrens",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "\"Chapeau davor\": Kettemann dankt Hecking und fühlt sich \"müde\"",
+      "source": "kicker",
+      "sentiment": -0.7
+    },
+    {
+      "title": "\"Eigentlich hatte man das Gefühl: Jetzt macht es wieder der Millionen-Kader\"",
+      "source": "kicker",
+      "sentiment": -0.7
+    },
+    {
+      "title": "Maehles Gelb-Rote Karte: VfL-Verantwortliche kritisieren Zwayer",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Zukunft offen, aber: \"Ein Dieter Hecking hat immer Lust zu arbeiten\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Ekstase in Paderborn: \"Ich bring' den auch ins Krankenhaus\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Laimer: \"Ich habe noch nie was gefordert\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Im blau-weißen Rauch: Paderborn-Fans feiern Busankunft ihres Teams",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Schnellfragerunde mit Lokonga: \"Wer ist der härteste Gegenspieler der Liga?\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Hütter kristallisiert sich als Frankfurter Top-Kandidat heraus",
+      "source": "kicker",
+      "sentiment": 0.1
+    },
+    {
+      "title": "Nach Aufstieg mit Cottbus: Torwart Funk wechselt zurück zum VfB",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Unerwarteter Millionenregen: Gladbach verkauft Talent Boteli nach Sion",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Karius vor neuem Vertrag und Spitzenverdiener-Status",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
       "title": "Energie Cottbus: Torwart Alexander Sebald macht mit 29 Jahren Schluss",
       "source": "transfermarkt",
       "sentiment": 0
@@ -24,131 +149,6 @@
       "title": "SV Ried verpflichtet Bayern-Leihgabe Jussef Nasrawe fest",
       "source": "transfermarkt",
       "sentiment": 0.4
-    },
-    {
-      "title": "Tottenham sichert Klassenerhalt, West Ham muss runter – Chelsea verpasst Europapokal",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Manchester United: Fernandes egalisiert Henrys Vorlagen-Rekord der Premier League",
-      "source": "transfermarkt",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Sensation in Portugal: Zweitligist Torreense triumphiert im Pokal gegen Sporting",
-      "source": "transfermarkt",
-      "sentiment": 0.67
-    },
-    {
-      "title": "Trainer Conte verlässt SSC Neapel: „Konnte euch nicht alle vereinen“",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "VfB Stuttgart holt TSG Hoffenheims Prömel",
-      "source": "transfermarkt",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Rückkehr in die Heimat: Prömel-Wechsel nach Stuttgart fix",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Ausstiegsklausel bis Ende Juni: Wohin zieht es Heidenheims Pieringer?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Zeichen stehen auf Polanski-Verbleib in Gladbach",
-      "source": "kicker",
-      "sentiment": -0.6
-    },
-    {
-      "title": "Bayers Co-Trainer Meijer wird Chefcoach bei Sparta Rotterdam",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Weiße Westen: Zwei Borussen vorne, Neuer und Baumann im Verfolgerfeld",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Undav zur Vertragsverlängerung: \"Schauen wir mal, was bis dahin passiert\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Kettemanns Whatsapp-Regel: \"Weil ich das Handy einfach nicht mag\"",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Hecking trocken: \"Sollen sie alle reden\"",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Kettemanns Appell an Fans: \"Lasst alles raus, was ihr habt\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Heckings Vorbereitung mit Landesgartenschau - und kleiner Spitze: \"Vielleicht sind sie morgen Abend traurig\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Entscheidung am letzten Spieltag: Die knappsten Titelrennen seit 2000",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "1. FC Nürnberg verpflichtet Masouras von Zypern-Meister Nikosia",
-      "source": "transfermarkt",
-      "sentiment": 0.47
-    },
-    {
-      "title": "Broich: Titelgewinn mit BVB-Nachwuchs „kommt ehrlicherweise etwas unerwartet“",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "FC Bayern: Hoeneß gibt Prognose zu Eberl-Zukunft ab – „Noch Zweifel“",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Borussia Mönchengladbach: Sion zieht Kaufoption für Sturmtalent Boteli",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Finaltag der Amateure: Energie Cottbus patzt – Wer im DFB-Pokal dabei ist",
-      "source": "transfermarkt",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Hull City kehrt nach 9 Jahren überraschend in Premier League zurück",
-      "source": "transfermarkt",
-      "sentiment": -0.2
-    },
-    {
-      "title": "FC Bayern macht Double perfekt – Kane ärgert VfB Stuttgart im DFB-Pokal",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Fortuna Düsseldorf: Sven Mislintat muss gehen – Interne Vorwürfe",
-      "source": "transfermarkt",
-      "sentiment": -0.5
     }
   ]
 }
