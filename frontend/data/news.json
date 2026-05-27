@@ -1,154 +1,154 @@
 {
   "news": [
     {
-      "title": "Ex-Coach Hütter Top-Kandidat bei Eintracht Frankfurt – Treffen auf Mallorca",
+      "title": "Bayern-Leihgabe Palhinha wirbt für Spurs-Verbleib – Kaufoption nahe an Tel-Ablöse",
       "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "Nach verpasster Champions League: Milan wirft Trainer Allegri und Führung raus",
+      "title": "Marktwerte in Brasilien: Neymar verliert trotz WM-Nominierung an Wert – Lucas Paquetá verliert 3 Millionen Euro",
       "source": "transfermarkt",
-      "sentiment": -0.7
+      "sentiment": 0.5
     },
     {
-      "title": "Portland Timbers trennen sich von Ex-United-Profi Phil Neville",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "VfL Wolfsburg steigt erstmals aus Bundesliga ab – SC Paderborn feiert",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Folgen des VfL Wolfsburg-Abstieges: VW kürzt Etat, Hecking kündigt Analyse an",
-      "source": "transfermarkt",
-      "sentiment": -0.7
-    },
-    {
-      "title": "Italien-Kader mit BVB-Trio um Samuele Inácio – Umbruch wird eingeleitet",
+      "title": "El Khannouss vom VfB Stuttgart & Amaimouni-Echghouyab von Eintracht Frankfurt mit Marokko zur WM",
       "source": "transfermarkt",
       "sentiment": 0.6
     },
     {
-      "title": "SC Paderborn: So laufen die Kaderplanungen für die Bundesliga",
+      "title": "Futkeu, Hrgota & Prüfrock retten Fürther Klassenerhalt – RWE scheitert nach Hinspielsieg",
+      "source": "transfermarkt",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Duell zwischen Futkeu & Hüning sorgt fürVerstimmung nach Relegation",
       "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "Verlässt Werder Bremen: Valdez wird Trainer beim Club Libertad in Paraguay",
+      "title": "Pulisic führt US-Kader um Bundesliga-Trio an - Pochettinos Überraschungen",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Dynamo Dresden gibt Angebot für Wagner beim SC Freiburg ab",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Hannover 96: Boldt Kandidat für Schmadtke-Nachfolge als Sportchef?",
       "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "Ohne Köhn & Königsdörffer: Nur ein Bundesliga-Profi in Ghanas WM-Kader",
+      "title": "BVB: Book gibt Einblick in Stand bei Felix Nmecha & Adeyemi",
+      "source": "transfermarkt",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Borussia Mönchengladbach: WM-Fahrer Scally lässt Zukunft offen",
       "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "Mislintat muss bei Fortuna Düsseldorf gehen – Arabi übernimmt Neuaufbau in 3. Liga",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Heckings Ärger nach Abstieg: \"Was ist los mit den Regeln?\"",
-      "source": "kicker",
-      "sentiment": -0.6
-    },
-    {
-      "title": "Unterschiedliche Vorstellungen in Undav-Verhandlungen - Mehrere Bundesligisten wollen Behrens",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "\"Chapeau davor\": Kettemann dankt Hecking und fühlt sich \"müde\"",
-      "source": "kicker",
-      "sentiment": -0.7
-    },
-    {
-      "title": "\"Eigentlich hatte man das Gefühl: Jetzt macht es wieder der Millionen-Kader\"",
-      "source": "kicker",
-      "sentiment": -0.7
-    },
-    {
-      "title": "Maehles Gelb-Rote Karte: VfL-Verantwortliche kritisieren Zwayer",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Zukunft offen, aber: \"Ein Dieter Hecking hat immer Lust zu arbeiten\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Ekstase in Paderborn: \"Ich bring' den auch ins Krankenhaus\"",
+      "title": "Franz-Beckenbauer-Supercup 2026: Double-Sieger Bayern spielt auswärts",
       "source": "kicker",
       "sentiment": 0.5
     },
     {
-      "title": "Laimer: \"Ich habe noch nie was gefordert\"",
+      "title": "VfB verabschiedet Nübel: \"Sensationelle Zeit\"",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "Im blau-weißen Rauch: Paderborn-Fans feiern Busankunft ihres Teams",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Schnellfragerunde mit Lokonga: \"Wer ist der härteste Gegenspieler der Liga?\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Hütter kristallisiert sich als Frankfurter Top-Kandidat heraus",
-      "source": "kicker",
-      "sentiment": 0.1
-    },
-    {
-      "title": "Nach Aufstieg mit Cottbus: Torwart Funk wechselt zurück zum VfB",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Unerwarteter Millionenregen: Gladbach verkauft Talent Boteli nach Sion",
+      "title": "Leopold-Wechsel nach Gladbach fast fix - VfB verabschiedet Nübel",
       "source": "kicker",
       "sentiment": 0.35
     },
     {
-      "title": "Karius vor neuem Vertrag und Spitzenverdiener-Status",
+      "title": "Zwei Abgangskandidaten, viel Bedarf: Die zentralen Fragen beim 1. FC Köln",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Drei Teenager dabei: Die 18 Gewinner der Bundesliga-Saison 2025/26",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Bilanz der Jackson-Leihe: Teuer, aber effizient",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Zweimal getrödelt: Geldstrafen für den FC Bayern",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Maehle angefeindet und bedroht: \"Überschreitet jede Grenze\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Was ist der Weg zum Wiederaufstieg? Die Schäfer-Lage und der Name Thiago Silva",
+      "source": "kicker",
+      "sentiment": -0.7
+    },
+    {
+      "title": "Über Mainz ins Nationalteam - Potulski überzeugt weiter",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "El Khannouss korrigiert seine Vertragslaufzeit",
       "source": "kicker",
       "sentiment": 0.4
     },
     {
-      "title": "Energie Cottbus: Torwart Alexander Sebald macht mit 29 Jahren Schluss",
-      "source": "transfermarkt",
+      "title": "\"Der Schmerz ist groß\": Hecking macht den zweiten bitteren Dreierpack voll",
+      "source": "kicker",
+      "sentiment": -0.7
+    },
+    {
+      "title": "Mit Wagner als Cheftrainer: \"Kein Stein wird auf dem anderen bleiben\"",
+      "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "FC Bayern: Neuer avanciert zum Rekordpokalsieger – Wade hält beim Jubeln",
-      "source": "transfermarkt",
-      "sentiment": 0.6
+      "title": "Künftig Sportdirektor: Hoffenheim verlängert mit Pajduch",
+      "source": "kicker",
+      "sentiment": 0.4
     },
     {
-      "title": "Hannover 96 verhängt Transferstopp – Ezeh zu Dynamo Dresden",
-      "source": "transfermarkt",
+      "title": "\"Gesprächsbereit\": Es bewegt sich etwas im El-Mala-Poker",
+      "source": "kicker",
       "sentiment": 0.3
     },
     {
-      "title": "Werder Bremen hält an Fritz fest, macht aber Druck – Thioune kündigt Umbruch an",
-      "source": "transfermarkt",
+      "title": "Augsburgs Suche nach Verstärkungen",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Auf wen Wolfsburg in der 2. Liga noch setzt - und welche Personalie am meisten drängt",
+      "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "SV Ried verpflichtet Bayern-Leihgabe Jussef Nasrawe fest",
+      "title": "Nach Wolfsburgs Niedergang: Welche Klubs sind noch nie aus der Bundesliga abgestiegen?",
+      "source": "kicker",
+      "sentiment": -0.7
+    },
+    {
+      "title": "Stadionnamen, Ball, Pause: Das ändert sich 2026/27 in der Bundesliga",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Ex-Coach Hütter Top-Kandidat bei Eintracht Frankfurt – Treffen auf Mallorca",
       "source": "transfermarkt",
-      "sentiment": 0.4
+      "sentiment": 0
     }
   ]
 }
