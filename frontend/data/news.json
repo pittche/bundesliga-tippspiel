@@ -1,6 +1,111 @@
 {
   "news": [
     {
+      "title": "Borussia Mönchengladbach: Polanski bleibt Trainer – Umbruch angekündigt",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Hannover 96: Umworbenes Talent Alexander Vogel erhält Profivertrag",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "FC Bayern abgehängt: FC Barcelona vor Verpflichtung von Gordon",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Rot-Weiss Essen bestätigt acht Abgänge um Kapitän Schultz und Top-Scorer Mizuta",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Mateta schießt Crystal Palace zum Conference-League-Titel",
+      "source": "transfermarkt",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Groß über BVB-Abschied: „Bestfall, den ich mir erhofft hatte, ist eingetreten“",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Glasner-Zukunft offen: Alle Anfragen „bis jetzt gecancelt“",
+      "source": "transfermarkt",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Mainz 05: Weipers Marktwert um 8 Millionen gefallen – „Prüfen alle Optionen“",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Filipe Luís entscheidet sich für AS Monaco statt Bayer Leverkusen",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Arsenal nennt Preisschild: Knackt Gabriel Jesus die 100-Millionen-Marke?",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Blessin auf Wolfsburgs Wunschliste - Barca im Gordon-Poker wohl mit Newcastle einig",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Zuschauer-Ranking 2025/26: Fast die Hälfte der Top 15 sind Zweitligisten",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Polanski bleibt Gladbach-Trainer - Schröder: \"Aber es wird kein 'Weiter so'\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "16 plus 1: Bayerns Formel bei der WM",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Notenbester Bundesliga-Torwart: \"Identifikationsfigur\" Heuer Fernandes bleibt beim HSV",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Wertsteigerung realistisch: Augsburg zieht Ribeiros Kaufoption",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Bayer hofft auf Iraola - und wappnet sich mit Filipe Luis",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Wird uns guttun\": Paderborn verpflichtet Baack",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Mittelfeldallrounder für den Sport-Club: Yamamoto unterschreibt in Freiburg",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Ablösefreier Deal: Gladbach verpflichtet 96-Kapitän Leopold",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
       "title": "Bayern-Leihgabe Palhinha wirbt für Spurs-Verbleib – Kaufoption nahe an Tel-Ablöse",
       "source": "transfermarkt",
       "sentiment": 0
@@ -44,111 +149,6 @@
       "title": "BVB: Book gibt Einblick in Stand bei Felix Nmecha & Adeyemi",
       "source": "transfermarkt",
       "sentiment": -0.3
-    },
-    {
-      "title": "Borussia Mönchengladbach: WM-Fahrer Scally lässt Zukunft offen",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Franz-Beckenbauer-Supercup 2026: Double-Sieger Bayern spielt auswärts",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "VfB verabschiedet Nübel: \"Sensationelle Zeit\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Leopold-Wechsel nach Gladbach fast fix - VfB verabschiedet Nübel",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Zwei Abgangskandidaten, viel Bedarf: Die zentralen Fragen beim 1. FC Köln",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Drei Teenager dabei: Die 18 Gewinner der Bundesliga-Saison 2025/26",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Bilanz der Jackson-Leihe: Teuer, aber effizient",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Zweimal getrödelt: Geldstrafen für den FC Bayern",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Maehle angefeindet und bedroht: \"Überschreitet jede Grenze\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Was ist der Weg zum Wiederaufstieg? Die Schäfer-Lage und der Name Thiago Silva",
-      "source": "kicker",
-      "sentiment": -0.7
-    },
-    {
-      "title": "Über Mainz ins Nationalteam - Potulski überzeugt weiter",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "El Khannouss korrigiert seine Vertragslaufzeit",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "\"Der Schmerz ist groß\": Hecking macht den zweiten bitteren Dreierpack voll",
-      "source": "kicker",
-      "sentiment": -0.7
-    },
-    {
-      "title": "Mit Wagner als Cheftrainer: \"Kein Stein wird auf dem anderen bleiben\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Künftig Sportdirektor: Hoffenheim verlängert mit Pajduch",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "\"Gesprächsbereit\": Es bewegt sich etwas im El-Mala-Poker",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Augsburgs Suche nach Verstärkungen",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Auf wen Wolfsburg in der 2. Liga noch setzt - und welche Personalie am meisten drängt",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Nach Wolfsburgs Niedergang: Welche Klubs sind noch nie aus der Bundesliga abgestiegen?",
-      "source": "kicker",
-      "sentiment": -0.7
-    },
-    {
-      "title": "Stadionnamen, Ball, Pause: Das ändert sich 2026/27 in der Bundesliga",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Ex-Coach Hütter Top-Kandidat bei Eintracht Frankfurt – Treffen auf Mallorca",
-      "source": "transfermarkt",
-      "sentiment": 0
     }
   ]
 }
