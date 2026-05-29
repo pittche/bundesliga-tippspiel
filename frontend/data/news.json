@@ -1,6 +1,111 @@
 {
   "news": [
     {
+      "title": "SC Freiburg: Rot-Weiss Essen verpflichtet Franci Bouebari fest",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Curaçao-Coach Advocaat: „Sind sicherlich nicht chancenlos“ – DFB-Kader 38-mal wertvoller",
+      "source": "transfermarkt",
+      "sentiment": 0.23
+    },
+    {
+      "title": "Relegation zu 3. Liga: Würzburg träumt dank Sieg bei Lok Leipzig vom Aufstieg",
+      "source": "transfermarkt",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Argentinien mit „26 Kriegern“ für Mission Titelverteidigung – Messi zum 6. Mal",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "DFB-Team: Tah stärkt umstrittenen Sané nach Kritik den Rücken",
+      "source": "transfermarkt",
+      "sentiment": -0.4
+    },
+    {
+      "title": "BVB: Schlotterbeck will WM nicht als Bühne nutzen – Kommentiert Pfiffe",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Energie Cottbus setzt weiter auf Angreifer Justin Butler",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Eintracht Frankfurt erhöht Angebot für Anderlecht-Stürmer Cvetkovic",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Nagelsmann verrät spezielle WM-Motivation – Will Stimmung beeinflussen",
+      "source": "transfermarkt",
+      "sentiment": 0.53
+    },
+    {
+      "title": "Borussia Mönchengladbach bestätigt Konoplya-Transfer von Shakhtar",
+      "source": "transfermarkt",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Gerade habe ich sehr viele Emotionen\": Gladbach greift bei Konoplia zu",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
+      "title": "Eine famose Meistersaison: Diese 16 Rekorde stellte der FC Bayern auf",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "\"Wird nicht bei Worthülsen bleiben\": Der krasse Umbruch, der Gladbach bevorsteht",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Wird in die Transferpolitik einfließen\": Das Saison-Fazit von FC-Vize Sobek",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Werder-Absturz und ein klarer Gewinner: Die Veränderung der Tabellenplätze zur Vorsaison",
+      "source": "kicker",
+      "sentiment": -0.7
+    },
+    {
+      "title": "HSV knackt 150.000: Die Mitgliederzahlen der 18 Bundesligisten",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Inklusive Asienreise: Bayerns Sommerfahrplan steht fest",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
+      "title": "Leverkusen vor Trainer-Coup: Finale Verhandlungen mit Iraola",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Brackelmann vor Wechsel zum FCA - Schlotterbeck will weg",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Fix: Duric will in Paderborn den nächsten Schritt machen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Borussia Mönchengladbach: Polanski bleibt Trainer – Umbruch angekündigt",
       "source": "transfermarkt",
       "sentiment": 0
@@ -44,111 +149,6 @@
       "title": "Filipe Luís entscheidet sich für AS Monaco statt Bayer Leverkusen",
       "source": "transfermarkt",
       "sentiment": 0.3
-    },
-    {
-      "title": "Arsenal nennt Preisschild: Knackt Gabriel Jesus die 100-Millionen-Marke?",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Blessin auf Wolfsburgs Wunschliste - Barca im Gordon-Poker wohl mit Newcastle einig",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Zuschauer-Ranking 2025/26: Fast die Hälfte der Top 15 sind Zweitligisten",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Polanski bleibt Gladbach-Trainer - Schröder: \"Aber es wird kein 'Weiter so'\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "16 plus 1: Bayerns Formel bei der WM",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Notenbester Bundesliga-Torwart: \"Identifikationsfigur\" Heuer Fernandes bleibt beim HSV",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Wertsteigerung realistisch: Augsburg zieht Ribeiros Kaufoption",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Bayer hofft auf Iraola - und wappnet sich mit Filipe Luis",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Wird uns guttun\": Paderborn verpflichtet Baack",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Mittelfeldallrounder für den Sport-Club: Yamamoto unterschreibt in Freiburg",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Ablösefreier Deal: Gladbach verpflichtet 96-Kapitän Leopold",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Bayern-Leihgabe Palhinha wirbt für Spurs-Verbleib – Kaufoption nahe an Tel-Ablöse",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Marktwerte in Brasilien: Neymar verliert trotz WM-Nominierung an Wert – Lucas Paquetá verliert 3 Millionen Euro",
-      "source": "transfermarkt",
-      "sentiment": 0.5
-    },
-    {
-      "title": "El Khannouss vom VfB Stuttgart & Amaimouni-Echghouyab von Eintracht Frankfurt mit Marokko zur WM",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Futkeu, Hrgota & Prüfrock retten Fürther Klassenerhalt – RWE scheitert nach Hinspielsieg",
-      "source": "transfermarkt",
-      "sentiment": -0.1
-    },
-    {
-      "title": "Duell zwischen Futkeu & Hüning sorgt fürVerstimmung nach Relegation",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Pulisic führt US-Kader um Bundesliga-Trio an - Pochettinos Überraschungen",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Dynamo Dresden gibt Angebot für Wagner beim SC Freiburg ab",
-      "source": "transfermarkt",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Hannover 96: Boldt Kandidat für Schmadtke-Nachfolge als Sportchef?",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "BVB: Book gibt Einblick in Stand bei Felix Nmecha & Adeyemi",
-      "source": "transfermarkt",
-      "sentiment": -0.3
     }
   ]
 }
