@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "BVB: Reitz-Bruder Tony wechselt zum 1. FC Magdeburg",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Tedesco vor Unterschrift beim FC Bologna – 7. Station und 5. Land mit 40",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "TSG Hoffenheim verlängert mit Trainer Ilzer: „Hat Marktwerte generiert“",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "3. Liga: Waldhof Mannheim holt Meppen-Torjäger Julian Ulbricht per Klausel",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "HSV knackt als sechster deutscher Klub die Marke von 150.000 Mitgliedern",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Marktwerte 3. Liga: VfB-Keeper Hellstern springt an Weltspitze – Hoffenheims Zeitler hält mit",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Italien-Coach Baldini attackiert Funktionäre für Jugendarbeit: „Manche nenne ich Gauner”",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Nach Bericht über Interesse vom VfL Wolfsburg: Walter vor Verlängerung bei Holstein Kiel",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "FC Barcelona präsentiert Anthony Gordon – FC Bayern ausgestochen",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Update in Kroatien: Beljo verdreifacht Marktwert seit Augsburg-Abschied",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "FC Sevilla erster Prüfstein für Bayer - nur ein Tag mit Fans im Trainingslager",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "SGE trennt sich von Co-Trainer Fießer und Athletiktrainer Spohrer",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Klare Nummer 1: Wie häufig die Bundesligisten 2025/26 auf Teenager setzten",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Moderne Führungskultur\": Ilzer verlängert langfristig in Hoffenheim",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Nächster Neuzugang aus Liga 3: Paderborn holt Lippmann",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Seimen wird Stuttgarts Nummer 1: \"Voller Überzeugung\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Vielseitiger Abwehr-Hüne: Brackelmann unterschreibt beim FC Augsburg",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Tedesco vor Bologna-Engagement - Atletico dementiert Barca-Angebot für Alvarez",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Tritt Philipp aus Baumanns Schatten?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "SC Freiburg: Rot-Weiss Essen verpflichtet Franci Bouebari fest",
       "source": "transfermarkt",
       "sentiment": 0.4
@@ -49,106 +149,6 @@
       "title": "Borussia Mönchengladbach bestätigt Konoplya-Transfer von Shakhtar",
       "source": "transfermarkt",
       "sentiment": 0.35
-    },
-    {
-      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Gerade habe ich sehr viele Emotionen\": Gladbach greift bei Konoplia zu",
-      "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Eine famose Meistersaison: Diese 16 Rekorde stellte der FC Bayern auf",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "\"Wird nicht bei Worthülsen bleiben\": Der krasse Umbruch, der Gladbach bevorsteht",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Wird in die Transferpolitik einfließen\": Das Saison-Fazit von FC-Vize Sobek",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Werder-Absturz und ein klarer Gewinner: Die Veränderung der Tabellenplätze zur Vorsaison",
-      "source": "kicker",
-      "sentiment": -0.7
-    },
-    {
-      "title": "HSV knackt 150.000: Die Mitgliederzahlen der 18 Bundesligisten",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Inklusive Asienreise: Bayerns Sommerfahrplan steht fest",
-      "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Leverkusen vor Trainer-Coup: Finale Verhandlungen mit Iraola",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Brackelmann vor Wechsel zum FCA - Schlotterbeck will weg",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Fix: Duric will in Paderborn den nächsten Schritt machen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Borussia Mönchengladbach: Polanski bleibt Trainer – Umbruch angekündigt",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Hannover 96: Umworbenes Talent Alexander Vogel erhält Profivertrag",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "FC Bayern abgehängt: FC Barcelona vor Verpflichtung von Gordon",
-      "source": "transfermarkt",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Rot-Weiss Essen bestätigt acht Abgänge um Kapitän Schultz und Top-Scorer Mizuta",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Mateta schießt Crystal Palace zum Conference-League-Titel",
-      "source": "transfermarkt",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Groß über BVB-Abschied: „Bestfall, den ich mir erhofft hatte, ist eingetreten“",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Glasner-Zukunft offen: Alle Anfragen „bis jetzt gecancelt“",
-      "source": "transfermarkt",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Mainz 05: Weipers Marktwert um 8 Millionen gefallen – „Prüfen alle Optionen“",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Filipe Luís entscheidet sich für AS Monaco statt Bayer Leverkusen",
-      "source": "transfermarkt",
-      "sentiment": 0.3
     }
   ]
 }
