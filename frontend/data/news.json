@@ -1,6 +1,86 @@
 {
   "news": [
     {
+      "title": "Milosevics „seltsame“ Trennung von Werder Bremen – Forderung an VfB Stuttgart",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "DFB-Team mit Karl & Nmecha gegen Finnland – Neuer voll im Soll",
+      "source": "transfermarkt",
+      "sentiment": -0.7
+    },
+    {
+      "title": "WM: Iranisches Nationalteam ohne Visa – Transparenz & Klarstellung gefordert",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Dieter Hecking bleibt als Sportchef beim VfL Wolfsburg",
+      "source": "transfermarkt",
+      "sentiment": -0.7
+    },
+    {
+      "title": "Oberliga-Keeper Duverger fährt mit Haiti zur WM",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "PSG verteidigt Champions-League-Titel gegen Arsenal – Havertz traf zur Führung",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Champions League: Alle Reaktionen und internationale Pressestimmen",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Vorletzter Härtetest: Deutscher WM-Gegner Ecuador besiegt Saudi-Arabien",
+      "source": "transfermarkt",
+      "sentiment": 0.55
+    },
+    {
+      "title": "Brasilien: Neymar zum WM-Auftakt fit? Ancelotti gibt Update",
+      "source": "transfermarkt",
+      "sentiment": 0.17
+    },
+    {
+      "title": "Hertha hat Darvich als Winkler-Ersatz im Blick – VfB offen für Leihe",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Rafael Leao verlässt Milan - Bernardo Silva in La Liga heiß begehrt",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Musiala ist zurück und verrät: \"Ich habe Flo vermisst\"",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Ein Abgang ganz vorne: Die Notenschnitte der Bundesliga-Schiedsrichter 2025/26",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Basis wählt Aytekin und Michel zu DFB-Schiedsrichtern des Jahres",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
+      "title": "Burda und Hempel pfeifen künftig in der Bundesliga",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Hütters Vertragsunterschrift in Frankfurt rückt näher",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
       "title": "BVB: Reitz-Bruder Tony wechselt zum 1. FC Magdeburg",
       "source": "transfermarkt",
       "sentiment": 0
@@ -69,86 +149,6 @@
       "title": "\"Moderne Führungskultur\": Ilzer verlängert langfristig in Hoffenheim",
       "source": "kicker",
       "sentiment": 0.4
-    },
-    {
-      "title": "Nächster Neuzugang aus Liga 3: Paderborn holt Lippmann",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Seimen wird Stuttgarts Nummer 1: \"Voller Überzeugung\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Vielseitiger Abwehr-Hüne: Brackelmann unterschreibt beim FC Augsburg",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Tedesco vor Bologna-Engagement - Atletico dementiert Barca-Angebot für Alvarez",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Tritt Philipp aus Baumanns Schatten?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "SC Freiburg: Rot-Weiss Essen verpflichtet Franci Bouebari fest",
-      "source": "transfermarkt",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Curaçao-Coach Advocaat: „Sind sicherlich nicht chancenlos“ – DFB-Kader 38-mal wertvoller",
-      "source": "transfermarkt",
-      "sentiment": 0.23
-    },
-    {
-      "title": "Relegation zu 3. Liga: Würzburg träumt dank Sieg bei Lok Leipzig vom Aufstieg",
-      "source": "transfermarkt",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Argentinien mit „26 Kriegern“ für Mission Titelverteidigung – Messi zum 6. Mal",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "DFB-Team: Tah stärkt umstrittenen Sané nach Kritik den Rücken",
-      "source": "transfermarkt",
-      "sentiment": -0.4
-    },
-    {
-      "title": "BVB: Schlotterbeck will WM nicht als Bühne nutzen – Kommentiert Pfiffe",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Energie Cottbus setzt weiter auf Angreifer Justin Butler",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Eintracht Frankfurt erhöht Angebot für Anderlecht-Stürmer Cvetkovic",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Nagelsmann verrät spezielle WM-Motivation – Will Stimmung beeinflussen",
-      "source": "transfermarkt",
-      "sentiment": 0.53
-    },
-    {
-      "title": "Borussia Mönchengladbach bestätigt Konoplya-Transfer von Shakhtar",
-      "source": "transfermarkt",
-      "sentiment": 0.35
     }
   ]
 }
