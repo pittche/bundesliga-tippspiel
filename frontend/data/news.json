@@ -1,6 +1,136 @@
 {
   "news": [
     {
+      "title": "Jens Stage spricht ganz offen von Abschied von Werder Bremen",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Kantersieg gegen Panama: Rekordweltmeister Brasilien in WM-Form",
+      "source": "transfermarkt",
+      "sentiment": 0.55
+    },
+    {
+      "title": "Baumann über „Verkaufsdruck“ und „immense Wucht“ auf Schalke",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Mexiko-Torwart Guillermo Ochoa zum sechsten Mal bei einer WM dabei",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Eintracht Frankfurt: Energie Cottbus holt Abwehrtalent Fousseny Doumbia",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "DFB-Gegner Ecuador nimmt Arévalo vom VfB Stuttgart mit zur WM",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Rekordspieler Milner beendet Karriere – 24 Saisons in der Premier League",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Heidenheim holt Top-Scorer Costly vom FC Ingolstadt für Millionenablöse",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Schockmoment für Dynamo Dresden: Lars Bünning nach Hirnblutung operiert",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Undav unterschreibt Rekordvertrag beim VfB Stuttgart",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Barcelona-Angebot für Alvarez - Wird Strobl neuer Wolfsburg-Trainer?",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "\"Bedeutet mir extrem viel\": Publikumsliebling Undav verlängert beim VfB",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Wie Hütter auf seinen Eintracht-Abgang 2021 zurückblickt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Hommage an 2006: Neuer Spielball für Bundesliga und 2. Liga präsentiert",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Wie hart bleibt Werder bei Stage wirklich?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Vertrag schon unterschrieben: Undav bleibt in Stuttgart",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "RB-Talent Konaté setzt in Pretoria ein Ausrufezeichen",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "VfB-Interesse an Sturmtalent van der Leij",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Auch ohne Iraola: Mindestens ein Bayer-Kandidat vor Glasner",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Keine Werder-Zukunft für Milosevic - Fragezeichen bei Füllkrug",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "U-17-Weltmeister Darvich zieht es nach Elversberg",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Umfrage: Führt Hütter Frankfurt zurück in die Champions League?",
+      "source": "kicker",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Laut den Bundesliga-Profis: Olise ist der Beste der Liga - und der Welt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Das sind die Bundesliga-Trainer der Saison 2026/27",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Zweite Amtszeit in Frankfurt: Hütter wird wieder Eintracht-Coach",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Wallentowitz schon da, Vozar kommt hinzu",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
       "title": "Milosevics „seltsame“ Trennung von Werder Bremen – Forderung an VfB Stuttgart",
       "source": "transfermarkt",
       "sentiment": 0.6
@@ -19,136 +149,6 @@
       "title": "Dieter Hecking bleibt als Sportchef beim VfL Wolfsburg",
       "source": "transfermarkt",
       "sentiment": -0.7
-    },
-    {
-      "title": "Oberliga-Keeper Duverger fährt mit Haiti zur WM",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "PSG verteidigt Champions-League-Titel gegen Arsenal – Havertz traf zur Führung",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Champions League: Alle Reaktionen und internationale Pressestimmen",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Vorletzter Härtetest: Deutscher WM-Gegner Ecuador besiegt Saudi-Arabien",
-      "source": "transfermarkt",
-      "sentiment": 0.55
-    },
-    {
-      "title": "Brasilien: Neymar zum WM-Auftakt fit? Ancelotti gibt Update",
-      "source": "transfermarkt",
-      "sentiment": 0.17
-    },
-    {
-      "title": "Hertha hat Darvich als Winkler-Ersatz im Blick – VfB offen für Leihe",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Rafael Leao verlässt Milan - Bernardo Silva in La Liga heiß begehrt",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Musiala ist zurück und verrät: \"Ich habe Flo vermisst\"",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Ein Abgang ganz vorne: Die Notenschnitte der Bundesliga-Schiedsrichter 2025/26",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Basis wählt Aytekin und Michel zu DFB-Schiedsrichtern des Jahres",
-      "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Burda und Hempel pfeifen künftig in der Bundesliga",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Hütters Vertragsunterschrift in Frankfurt rückt näher",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "BVB: Reitz-Bruder Tony wechselt zum 1. FC Magdeburg",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Tedesco vor Unterschrift beim FC Bologna – 7. Station und 5. Land mit 40",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "TSG Hoffenheim verlängert mit Trainer Ilzer: „Hat Marktwerte generiert“",
-      "source": "transfermarkt",
-      "sentiment": 0.4
-    },
-    {
-      "title": "3. Liga: Waldhof Mannheim holt Meppen-Torjäger Julian Ulbricht per Klausel",
-      "source": "transfermarkt",
-      "sentiment": 0.4
-    },
-    {
-      "title": "HSV knackt als sechster deutscher Klub die Marke von 150.000 Mitgliedern",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Marktwerte 3. Liga: VfB-Keeper Hellstern springt an Weltspitze – Hoffenheims Zeitler hält mit",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Italien-Coach Baldini attackiert Funktionäre für Jugendarbeit: „Manche nenne ich Gauner”",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Nach Bericht über Interesse vom VfL Wolfsburg: Walter vor Verlängerung bei Holstein Kiel",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "FC Barcelona präsentiert Anthony Gordon – FC Bayern ausgestochen",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Update in Kroatien: Beljo verdreifacht Marktwert seit Augsburg-Abschied",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "FC Sevilla erster Prüfstein für Bayer - nur ein Tag mit Fans im Trainingslager",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "SGE trennt sich von Co-Trainer Fießer und Athletiktrainer Spohrer",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Klare Nummer 1: Wie häufig die Bundesligisten 2025/26 auf Teenager setzten",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Moderne Führungskultur\": Ilzer verlängert langfristig in Hoffenheim",
-      "source": "kicker",
-      "sentiment": 0.4
     }
   ]
 }
