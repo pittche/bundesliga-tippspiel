@@ -1,6 +1,126 @@
 {
   "news": [
     {
+      "title": "Werder Bremen hat Schnäppchen Itten von Fortuna Düsseldorf auf Stürmerliste",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Würzburg steigt in 3. Liga auf – Lok Leipzig verliert erneut Relegation",
+      "source": "transfermarkt",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Borussia Mönchengladbach verhandelt mit Darmstadt 98 über Isac Lidberg",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Conceição nicht länger Trainer von Al-Ittihad – Verpasste Titelverteidigung in Saudi Pro League",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Courtois wird Anteilseigner bei Jugendklub KRC Genk",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "VfL Wolfsburg: TSG Hoffenheim gewinnt Werben um Patrick Wimmer",
+      "source": "transfermarkt",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Sporting auf Kurs Rekordausgaben: Issa Doumbia kommt von Venezia",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "FC Bayern spricht mit Saibari von PSV Eindhoven – Plan B zu Gordon",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "FC Bayern: Talent Bara Sapoko Ndiaye fährt mit Senegal zur WM",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "FC Bayern bestätigt Dante-Verpflichtung als U23-Trainer",
+      "source": "transfermarkt",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Werder buhlt um Kastenmeier - Iniesta übernimmt erstes Traineramt",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Nach ungewöhnlichem Karriere-Abschluss: Dante übernimmt Bayerns U 23",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Weiser und Werder: Es regt sich was",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Schlägt Gladbach bei Zweitliga-Torjäger Lidberg zu?",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Brave Leipziger und HSV-Kartensammler: Das Fairplay-Ranking der Bundesliga",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Konkurrenz bei Itten: Auch Werder bemüht sich um WM-Fahrer",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Trainersuche: Bei wem Bayer Risiko ging, wer nervös und wer nie heiß wurde",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Krösche erklärt, warum Hütter \"genau der Richtige\" ist",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Hütter: \"Ich liebe dieses Nähe-Distanz-Verhältnis\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Eine Woche vor dem Supercup: BVB empfängt die Roma",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Hütter mit Auftritt, der Mut macht: \"Er kommt als Hoffnungsträger\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Hütters Entschuldigung an die Eintracht-Fans: \"Das ist Schwachsinn\"",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Wirtz ärgert Neuer: Die ersten Bundesliga-Tore der WM-Fahrer",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Ein Doppelpack in Köln: So begann Undavs Reise beim VfB",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
       "title": "Jens Stage spricht ganz offen von Abschied von Werder Bremen",
       "source": "transfermarkt",
       "sentiment": 0
@@ -29,126 +149,6 @@
       "title": "DFB-Gegner Ecuador nimmt Arévalo vom VfB Stuttgart mit zur WM",
       "source": "transfermarkt",
       "sentiment": 0.6
-    },
-    {
-      "title": "Rekordspieler Milner beendet Karriere – 24 Saisons in der Premier League",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Heidenheim holt Top-Scorer Costly vom FC Ingolstadt für Millionenablöse",
-      "source": "transfermarkt",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Schockmoment für Dynamo Dresden: Lars Bünning nach Hirnblutung operiert",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Undav unterschreibt Rekordvertrag beim VfB Stuttgart",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Barcelona-Angebot für Alvarez - Wird Strobl neuer Wolfsburg-Trainer?",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "\"Bedeutet mir extrem viel\": Publikumsliebling Undav verlängert beim VfB",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Wie Hütter auf seinen Eintracht-Abgang 2021 zurückblickt",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Hommage an 2006: Neuer Spielball für Bundesliga und 2. Liga präsentiert",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wie hart bleibt Werder bei Stage wirklich?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Vertrag schon unterschrieben: Undav bleibt in Stuttgart",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "RB-Talent Konaté setzt in Pretoria ein Ausrufezeichen",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "VfB-Interesse an Sturmtalent van der Leij",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Auch ohne Iraola: Mindestens ein Bayer-Kandidat vor Glasner",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Keine Werder-Zukunft für Milosevic - Fragezeichen bei Füllkrug",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "U-17-Weltmeister Darvich zieht es nach Elversberg",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Umfrage: Führt Hütter Frankfurt zurück in die Champions League?",
-      "source": "kicker",
-      "sentiment": -0.1
-    },
-    {
-      "title": "Laut den Bundesliga-Profis: Olise ist der Beste der Liga - und der Welt",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Das sind die Bundesliga-Trainer der Saison 2026/27",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Zweite Amtszeit in Frankfurt: Hütter wird wieder Eintracht-Coach",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wallentowitz schon da, Vozar kommt hinzu",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Milosevics „seltsame“ Trennung von Werder Bremen – Forderung an VfB Stuttgart",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "DFB-Team mit Karl & Nmecha gegen Finnland – Neuer voll im Soll",
-      "source": "transfermarkt",
-      "sentiment": -0.7
-    },
-    {
-      "title": "WM: Iranisches Nationalteam ohne Visa – Transparenz & Klarstellung gefordert",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Dieter Hecking bleibt als Sportchef beim VfL Wolfsburg",
-      "source": "transfermarkt",
-      "sentiment": -0.7
     }
   ]
 }
