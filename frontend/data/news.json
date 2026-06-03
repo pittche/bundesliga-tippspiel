@@ -1,6 +1,131 @@
 {
   "news": [
     {
+      "title": "Hertha BSC: Eichhorn fordert Marktwert-Ausgleich – BVB und FC Bayern raus",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Míchel übernimmt Traineramt bei Ajax Amsterdam – Stieg mit Girona ab",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Nächster Keeper für Hansa Rostock: Unbehaun kommt aus Emmen",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "FC Bayern einig mit Saibari – Ablösepoker mit PSV startet",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Dumfries vor Wechsel zu Real Madrid – Inter nimmt Palestra in den Fokus",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "KSC verpflichtet Ex-Augsburger Tim Civeja vom 1. FC Saarbrücken",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "3. Liga: 1860 München vor erneutem Zwangsabstieg? Ismaik macht Hoffnung",
+      "source": "transfermarkt",
+      "sentiment": -0.7
+    },
+    {
+      "title": "Borussia Mönchengladbach und Darmstadt 98 über Lidberg-Ablöse einig",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Éderson vor Wechsel zu Manchester United: Atalanta stimmt Ablöse zu",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "RB Leipzig: Frederik Jäkel wechselt fest zu Eintracht Braunschweig",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Einigung erzielt: Gladbach schnappt sich Darmstadts Lidberg",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Ballack geht, Poldi kommt: Wie sah die Bundesliga vor dem Sommermärchen aus?",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Neuer Trainer diese Woche - oder Eichhorn geht Bayer flöten",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "DFB-Antreiber ganz vorne: Die Bundesliga-Spieler mit den meisten \"Pre-Assists\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Grimaldo kokettiert erneut mit Wechsel",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Adeyemi zur Zukunftsfrage: \"Da müssen beide Seiten ehrlich sein\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "DFL veröffentlicht Bundesliga- und Zweitliga-Spielplan am 2. Juli",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Verkäufe zwingend nötig\": Wer bei Frankfurt auf der Kippe steht - und wo Hütter ansetzt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "kicker-Umfrage: Mitmachen und gewinnen!",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Die 30-Millionen-Euro-Frage um Alajbegovic",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Nach U-19-Titel: Abraha mit Profichance, neuer Vertrag für Spranger",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "2022 noch in der Verbandsliga: SCP krallt sich Awortwie-Grant",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Werder holt auch Chuki ablösefrei: \"Ein sehr spannender Spieler\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Lidberg-Transfer vor dem Abschluss - Grimaldo kokettiert mit Wechsel",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
       "title": "Werder Bremen hat Schnäppchen Itten von Fortuna Düsseldorf auf Stürmerliste",
       "source": "transfermarkt",
       "sentiment": 0
@@ -24,131 +149,6 @@
       "title": "Courtois wird Anteilseigner bei Jugendklub KRC Genk",
       "source": "transfermarkt",
       "sentiment": 0
-    },
-    {
-      "title": "VfL Wolfsburg: TSG Hoffenheim gewinnt Werben um Patrick Wimmer",
-      "source": "transfermarkt",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Sporting auf Kurs Rekordausgaben: Issa Doumbia kommt von Venezia",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "FC Bayern spricht mit Saibari von PSV Eindhoven – Plan B zu Gordon",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "FC Bayern: Talent Bara Sapoko Ndiaye fährt mit Senegal zur WM",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "FC Bayern bestätigt Dante-Verpflichtung als U23-Trainer",
-      "source": "transfermarkt",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Werder buhlt um Kastenmeier - Iniesta übernimmt erstes Traineramt",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Nach ungewöhnlichem Karriere-Abschluss: Dante übernimmt Bayerns U 23",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Weiser und Werder: Es regt sich was",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Schlägt Gladbach bei Zweitliga-Torjäger Lidberg zu?",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Brave Leipziger und HSV-Kartensammler: Das Fairplay-Ranking der Bundesliga",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Konkurrenz bei Itten: Auch Werder bemüht sich um WM-Fahrer",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Trainersuche: Bei wem Bayer Risiko ging, wer nervös und wer nie heiß wurde",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Krösche erklärt, warum Hütter \"genau der Richtige\" ist",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Hütter: \"Ich liebe dieses Nähe-Distanz-Verhältnis\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Eine Woche vor dem Supercup: BVB empfängt die Roma",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Hütter mit Auftritt, der Mut macht: \"Er kommt als Hoffnungsträger\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Hütters Entschuldigung an die Eintracht-Fans: \"Das ist Schwachsinn\"",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Wirtz ärgert Neuer: Die ersten Bundesliga-Tore der WM-Fahrer",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Ein Doppelpack in Köln: So begann Undavs Reise beim VfB",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Jens Stage spricht ganz offen von Abschied von Werder Bremen",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Kantersieg gegen Panama: Rekordweltmeister Brasilien in WM-Form",
-      "source": "transfermarkt",
-      "sentiment": 0.55
-    },
-    {
-      "title": "Baumann über „Verkaufsdruck“ und „immense Wucht“ auf Schalke",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Mexiko-Torwart Guillermo Ochoa zum sechsten Mal bei einer WM dabei",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Eintracht Frankfurt: Energie Cottbus holt Abwehrtalent Fousseny Doumbia",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "DFB-Gegner Ecuador nimmt Arévalo vom VfB Stuttgart mit zur WM",
-      "source": "transfermarkt",
-      "sentiment": 0.6
     }
   ]
 }
