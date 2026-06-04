@@ -1,6 +1,126 @@
 {
   "news": [
     {
+      "title": "Mainz 05: Verteidiger Bos wechselt auf Leihbasis zu Excelsior Rotterdam",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Österreicher Baumgartner verpasst WM – RB Leipzigs Profi erfolgreich operiert",
+      "source": "transfermarkt",
+      "sentiment": 0.45
+    },
+    {
+      "title": "Wieczysta Krakau: Mit dem König der Apotheken von der 6. in die 1. Liga",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Chiellini bestätigt Vlahović-Abgang bei Juventus Turin",
+      "source": "transfermarkt",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Niederlande patzen bei WM-Härtetest gegen Algerien – Torhüter Zidane glänzt",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "1860 München: Investor Hasan Ismaik erklärt Zwangsabstieg",
+      "source": "transfermarkt",
+      "sentiment": -0.7
+    },
+    {
+      "title": "PSV Eindhoven: Sergiño Dest erneut im Fokus des FC Bayern",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Nach Drama um 1860 München: TSV Havelse will Lizenz für 3. Liga",
+      "source": "transfermarkt",
+      "sentiment": -0.7
+    },
+    {
+      "title": "Eintracht Braunschweig: Heracles Almelo nutzt Kaufoption für Ould-Chikh",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Eintracht Frankfurt will Frankreich-Youngster N'Guessan",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Eichhorn-Förderer Kotsifakis wird Co-Trainer der Leverkusener U 19",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Stage-Poker läuft - Grönbaek bleibt beim HSV - RB plant mit Diomande",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Europa League nach Abstieg: Wimmer landet in Hoffenheim",
+      "source": "kicker",
+      "sentiment": -0.7
+    },
+    {
+      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Können nicht weiter auf Absprachen vertrauen\": Hellmann sauer über Pyro-Ärger",
+      "source": "kicker",
+      "sentiment": 0.1
+    },
+    {
+      "title": "Nach Pyro beim Derby: Saftige Strafen für HSV und St. Pauli",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Begehrt und geplagt: Das ist Rosenfelders Ziel ab Sommer",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "\"Slapstick-Charakter\": Eintracht-Boss Hellmann fordert \"schonungslose Aufarbeitung\"",
+      "source": "kicker",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Eintracht-Boss Hellmann verlängert bis 2031",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Zukunft offen: Wie geht es mit FC-Kapitän Schwäbe weiter?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Bayern zieht sich bei Eichhorn zurück",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Stuttgarts Assignon fällt nach Schulter-Operation aus",
+      "source": "kicker",
+      "sentiment": -0.5
+    },
+    {
+      "title": "\"Pitch of the Year\": Diese Bundesligisten haben den besten Rasen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Schalke quartiert Quartett weiter aus",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Hertha BSC: Eichhorn fordert Marktwert-Ausgleich – BVB und FC Bayern raus",
       "source": "transfermarkt",
       "sentiment": 0.3
@@ -29,126 +149,6 @@
       "title": "KSC verpflichtet Ex-Augsburger Tim Civeja vom 1. FC Saarbrücken",
       "source": "transfermarkt",
       "sentiment": 0.4
-    },
-    {
-      "title": "3. Liga: 1860 München vor erneutem Zwangsabstieg? Ismaik macht Hoffnung",
-      "source": "transfermarkt",
-      "sentiment": -0.7
-    },
-    {
-      "title": "Borussia Mönchengladbach und Darmstadt 98 über Lidberg-Ablöse einig",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Éderson vor Wechsel zu Manchester United: Atalanta stimmt Ablöse zu",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "RB Leipzig: Frederik Jäkel wechselt fest zu Eintracht Braunschweig",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Einigung erzielt: Gladbach schnappt sich Darmstadts Lidberg",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Ballack geht, Poldi kommt: Wie sah die Bundesliga vor dem Sommermärchen aus?",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Neuer Trainer diese Woche - oder Eichhorn geht Bayer flöten",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "DFB-Antreiber ganz vorne: Die Bundesliga-Spieler mit den meisten \"Pre-Assists\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Grimaldo kokettiert erneut mit Wechsel",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Adeyemi zur Zukunftsfrage: \"Da müssen beide Seiten ehrlich sein\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "DFL veröffentlicht Bundesliga- und Zweitliga-Spielplan am 2. Juli",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Verkäufe zwingend nötig\": Wer bei Frankfurt auf der Kippe steht - und wo Hütter ansetzt",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "kicker-Umfrage: Mitmachen und gewinnen!",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Die 30-Millionen-Euro-Frage um Alajbegovic",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Nach U-19-Titel: Abraha mit Profichance, neuer Vertrag für Spranger",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "2022 noch in der Verbandsliga: SCP krallt sich Awortwie-Grant",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Werder holt auch Chuki ablösefrei: \"Ein sehr spannender Spieler\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Lidberg-Transfer vor dem Abschluss - Grimaldo kokettiert mit Wechsel",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Werder Bremen hat Schnäppchen Itten von Fortuna Düsseldorf auf Stürmerliste",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Würzburg steigt in 3. Liga auf – Lok Leipzig verliert erneut Relegation",
-      "source": "transfermarkt",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Borussia Mönchengladbach verhandelt mit Darmstadt 98 über Isac Lidberg",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Conceição nicht länger Trainer von Al-Ittihad – Verpasste Titelverteidigung in Saudi Pro League",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Courtois wird Anteilseigner bei Jugendklub KRC Genk",
-      "source": "transfermarkt",
-      "sentiment": 0
     }
   ]
 }
