@@ -1,6 +1,86 @@
 {
   "news": [
     {
+      "title": "1860 München kündigt Investor Hasan Ismaik",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Werder Bremen irritiert von niedrigen Stage-Geboten von TSG Hoffenheim",
+      "source": "transfermarkt",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Elfenbeinküste überrascht in Frankreich – Spanien müht sich gegen Irak",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "FC Bayern-Transfer? Eintracht Frankfurts Nathaniel Brown blockt ab",
+      "source": "transfermarkt",
+      "sentiment": 0.5
+    },
+    {
+      "title": "WM 2026 Stadien: Alle Spielorte, Kapazitäten und Spiele im Überblick",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "WM 2026 im Free-TV: Alle Spiele bei ARD & ZDF (Liste & Übersicht)",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Heim-WM 2038 oder 2042? Wie der DFB über ein neues Sommermärchen denkt",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Arminia Bielefeld: Oliver Kirch soll Kniat-Nachfolge antreten",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "FC Bayern verkauft Peretz an Southampton – Teuerster Torhüter-Abgang",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "WM 2026: Mora, Sulc, Mbokazi, Hyeon-gyu: Spieler im Fokus aus Gruppe A",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "An der Seite von Hütter: Meier wird Co-Trainer bei den Eintracht-Profis",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Brown mit Bayern einig? - Benfica äußert sich zur Ablöse für Mourinho",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Viele Bewerber und das Handgeld: Verpokert sich Eichhorn?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Offiziell: Leverkusen trennt sich von Hjulmand und verpflichtet Martinez",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Das sind die Bundesliga-Trainer der Saison 2026/27",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Suche beendet: Martinez soll neuer Leverkusen-Trainer werden",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Mainz 05: Verteidiger Bos wechselt auf Leihbasis zu Excelsior Rotterdam",
       "source": "transfermarkt",
       "sentiment": 0
@@ -69,86 +149,6 @@
       "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
       "source": "kicker",
       "sentiment": 0
-    },
-    {
-      "title": "\"Können nicht weiter auf Absprachen vertrauen\": Hellmann sauer über Pyro-Ärger",
-      "source": "kicker",
-      "sentiment": 0.1
-    },
-    {
-      "title": "Nach Pyro beim Derby: Saftige Strafen für HSV und St. Pauli",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Begehrt und geplagt: Das ist Rosenfelders Ziel ab Sommer",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "\"Slapstick-Charakter\": Eintracht-Boss Hellmann fordert \"schonungslose Aufarbeitung\"",
-      "source": "kicker",
-      "sentiment": -0.1
-    },
-    {
-      "title": "Eintracht-Boss Hellmann verlängert bis 2031",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Zukunft offen: Wie geht es mit FC-Kapitän Schwäbe weiter?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Bayern zieht sich bei Eichhorn zurück",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Stuttgarts Assignon fällt nach Schulter-Operation aus",
-      "source": "kicker",
-      "sentiment": -0.5
-    },
-    {
-      "title": "\"Pitch of the Year\": Diese Bundesligisten haben den besten Rasen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Schalke quartiert Quartett weiter aus",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Hertha BSC: Eichhorn fordert Marktwert-Ausgleich – BVB und FC Bayern raus",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Míchel übernimmt Traineramt bei Ajax Amsterdam – Stieg mit Girona ab",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Nächster Keeper für Hansa Rostock: Unbehaun kommt aus Emmen",
-      "source": "transfermarkt",
-      "sentiment": 0.4
-    },
-    {
-      "title": "FC Bayern einig mit Saibari – Ablösepoker mit PSV startet",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Dumfries vor Wechsel zu Real Madrid – Inter nimmt Palestra in den Fokus",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "KSC verpflichtet Ex-Augsburger Tim Civeja vom 1. FC Saarbrücken",
-      "source": "transfermarkt",
-      "sentiment": 0.4
     }
   ]
 }
