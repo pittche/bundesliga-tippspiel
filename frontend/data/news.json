@@ -1,6 +1,91 @@
 {
   "news": [
     {
+      "title": "Bayer Leverkusen: Neu-Trainer Martínez setzt auf Entwicklung statt große Ansagen",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "FC Augsburg belässt es im Sturm bei Gregoritsch – Ducksch-Transfer kein Thema",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Guerino Capretti wird neuer Trainer beim 1. FC Bocholt",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Pérez will Rekord-Transfer für Real Madrid – FC Bayern bei Olise gelassen",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Borussia Mönchengladbach: Jonas Omlin wechselt zurück zum FC Basel",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "FIFA schüttet 307 Millionen Abstellungsprämien an Klubs aus – Gilt auch für Spiele in WM-Quali",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "FC Bayern mit Liverpool-Talent Rio Ngumoha einig – Transfer vorerst auf Eis",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Karl verpasst WM nach Verletzung im Training – Ouédraogo nachnominiert",
+      "source": "transfermarkt",
+      "sentiment": -0.43
+    },
+    {
+      "title": "WM 2026: Davies, Alajbegovic, Afif, Manzambi: Spieler im Fokus aus Gruppe B",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "DFB: Karls WM-Aus „drückt die Stimmung“ - Alle Reaktionen",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Hendriks soll beim VfB verlängern - Ngumoha auf dem Zettel der Bayern?",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "\"Sehr logisch\": Darum hat sich Rolfes für Martinez entschieden",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Langfristiger Vertrag und neue Rückennummer: Grönbaek bleibt beim HSV",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Der neue Xabi Alonso? Hier stellt sich Martinez vor",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Rolfes erklärt die \"bisschen überraschende Lösung\" Martinez",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Nachwuchsarbeit, Taktik, Stil: So tickt Bayer-Trainer Carles Martinez",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Nach Verkaufsrekord im Vorjahr: Frankfurt stellt neues Heimtrikot vor",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
       "title": "1860 München kündigt Investor Hasan Ismaik",
       "source": "transfermarkt",
       "sentiment": 0
@@ -62,91 +147,6 @@
     },
     {
       "title": "Viele Bewerber und das Handgeld: Verpokert sich Eichhorn?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Offiziell: Leverkusen trennt sich von Hjulmand und verpflichtet Martinez",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Das sind die Bundesliga-Trainer der Saison 2026/27",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Suche beendet: Martinez soll neuer Leverkusen-Trainer werden",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Mainz 05: Verteidiger Bos wechselt auf Leihbasis zu Excelsior Rotterdam",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Österreicher Baumgartner verpasst WM – RB Leipzigs Profi erfolgreich operiert",
-      "source": "transfermarkt",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Wieczysta Krakau: Mit dem König der Apotheken von der 6. in die 1. Liga",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Chiellini bestätigt Vlahović-Abgang bei Juventus Turin",
-      "source": "transfermarkt",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Niederlande patzen bei WM-Härtetest gegen Algerien – Torhüter Zidane glänzt",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "1860 München: Investor Hasan Ismaik erklärt Zwangsabstieg",
-      "source": "transfermarkt",
-      "sentiment": -0.7
-    },
-    {
-      "title": "PSV Eindhoven: Sergiño Dest erneut im Fokus des FC Bayern",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Nach Drama um 1860 München: TSV Havelse will Lizenz für 3. Liga",
-      "source": "transfermarkt",
-      "sentiment": -0.7
-    },
-    {
-      "title": "Eintracht Braunschweig: Heracles Almelo nutzt Kaufoption für Ould-Chikh",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Eintracht Frankfurt will Frankreich-Youngster N'Guessan",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Eichhorn-Förderer Kotsifakis wird Co-Trainer der Leverkusener U 19",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Stage-Poker läuft - Grönbaek bleibt beim HSV - RB plant mit Diomande",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Europa League nach Abstieg: Wimmer landet in Hoffenheim",
-      "source": "kicker",
-      "sentiment": -0.7
-    },
-    {
-      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
       "source": "kicker",
       "sentiment": 0
     }
