@@ -1,6 +1,26 @@
 {
   "news": [
     {
+      "title": "Ter Stegen bei Ajax auf dem Wunschzettel? - Hendriks soll beim VfB verlängern",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "\"Großen Anteil am Erfolg\": Elversberg zieht Kaufoption bei Poreba",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Zwei Derbysiege gegen Bayern: Als die Löwen-Welt noch ganz anders aussah",
+      "source": "kicker",
+      "sentiment": -0.1
+    },
+    {
       "title": "Bayer Leverkusen: Neu-Trainer Martínez setzt auf Entwicklung statt große Ansagen",
       "source": "transfermarkt",
       "sentiment": 0.4
@@ -128,26 +148,6 @@
     {
       "title": "FC Bayern verkauft Peretz an Southampton – Teuerster Torhüter-Abgang",
       "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "WM 2026: Mora, Sulc, Mbokazi, Hyeon-gyu: Spieler im Fokus aus Gruppe A",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "An der Seite von Hütter: Meier wird Co-Trainer bei den Eintracht-Profis",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Brown mit Bayern einig? - Benfica äußert sich zur Ablöse für Mourinho",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Viele Bewerber und das Handgeld: Verpokert sich Eichhorn?",
-      "source": "kicker",
       "sentiment": 0
     }
   ]
