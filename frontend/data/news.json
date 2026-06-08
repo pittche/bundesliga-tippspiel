@@ -1,6 +1,86 @@
 {
   "news": [
     {
+      "title": "WM 2026: Vier Spieler aus Gruppe F – Malen, Hannibal, Gyökeres, Kamada",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Argentiniens Sorge um Messi und Viele, die „noch nicht hundertprozentig fit“ sind",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Brasiliens Wesley verpasst WM – Éderson rückt kurz vor Man-United-Wechsel nach",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Dänemark-Kapitän Christian Eriksen kollabiert erneut – Fortsetzung der Karriere offen",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Pérez als Präsident von Real Madrid bestätigt: Weg frei für Mourinho und 150-Millionen-Angebot",
+      "source": "transfermarkt",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Feyenoord Rotterdam trennt sich von Robin van Persie",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "VfB Stuttgart: Hannover 96 und 1. FC Magdeburg an Justin Diehl dran",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "WM 2026: Vier Spieler aus Gruppe G – Fernandez-Pardo, Hosseinzadeh, Wood, Ashour",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "HSV-Talent Lukas Bornschein wechselt zum VfL Osnabrück",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Mainz 05 und Como sprechen über Posch-Verbleib – Veratschnig zu Red Bull Salzburg",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Union Berlin spielt in leuchtendem Rot und mit Stadiondach-Muster",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Gespräche über Posch laufen - Tendenz bei Matsima",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Tanaka wird für Schalke zum Superschnäppchen",
+      "source": "kicker",
+      "sentiment": 0.03
+    },
+    {
+      "title": "Sano und Jander als Stiller-Nachfolger beim VfB im Gespräch",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Zetterer, Backhaus - Hein? Die Bremer Erlös-Position",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Ter Stegen bei Ajax auf dem Wunschzettel? - Hendriks soll beim VfB verlängern",
       "source": "kicker",
       "sentiment": 0.35
@@ -67,86 +147,6 @@
     },
     {
       "title": "DFB: Karls WM-Aus „drückt die Stimmung“ - Alle Reaktionen",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Hendriks soll beim VfB verlängern - Ngumoha auf dem Zettel der Bayern?",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "\"Sehr logisch\": Darum hat sich Rolfes für Martinez entschieden",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Langfristiger Vertrag und neue Rückennummer: Grönbaek bleibt beim HSV",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Der neue Xabi Alonso? Hier stellt sich Martinez vor",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Rolfes erklärt die \"bisschen überraschende Lösung\" Martinez",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Nachwuchsarbeit, Taktik, Stil: So tickt Bayer-Trainer Carles Martinez",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Nach Verkaufsrekord im Vorjahr: Frankfurt stellt neues Heimtrikot vor",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "1860 München kündigt Investor Hasan Ismaik",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Werder Bremen irritiert von niedrigen Stage-Geboten von TSG Hoffenheim",
-      "source": "transfermarkt",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Elfenbeinküste überrascht in Frankreich – Spanien müht sich gegen Irak",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "FC Bayern-Transfer? Eintracht Frankfurts Nathaniel Brown blockt ab",
-      "source": "transfermarkt",
-      "sentiment": 0.5
-    },
-    {
-      "title": "WM 2026 Stadien: Alle Spielorte, Kapazitäten und Spiele im Überblick",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "WM 2026 im Free-TV: Alle Spiele bei ARD & ZDF (Liste & Übersicht)",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Heim-WM 2038 oder 2042? Wie der DFB über ein neues Sommermärchen denkt",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Arminia Bielefeld: Oliver Kirch soll Kniat-Nachfolge antreten",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "FC Bayern verkauft Peretz an Southampton – Teuerster Torhüter-Abgang",
       "source": "transfermarkt",
       "sentiment": 0
     }
