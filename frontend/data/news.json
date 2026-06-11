@@ -1,109 +1,79 @@
 {
   "news": [
     {
-      "title": "Millionengrenze geknackt: Schalke greift für Karius tief in die Tasche",
-      "source": "kicker",
-      "sentiment": 0.5
+      "title": "Hertha BSC: Bayer Leverkusen macht Rennen um Eichhorn – Geringe Ablöse",
+      "source": "transfermarkt",
+      "sentiment": 0
     },
     {
-      "title": "Glasner und Milan vor Einigung - Benfica findet Mourinho-Nachfolger",
-      "source": "kicker",
-      "sentiment": 0.35
+      "title": "DFB: WM-Spaßvogel Ouédraogo und die besondere Nagelsmann-Frage",
+      "source": "transfermarkt",
+      "sentiment": 0
     },
     {
-      "title": "Deman: Über Umwege zur seltenen Werder-Positiverscheinung",
-      "source": "kicker",
+      "title": "3. Schalker bei der WM: Ljubicic ersetzt Baumgartner im Österreich-Kader",
+      "source": "transfermarkt",
       "sentiment": -0.4
     },
     {
-      "title": "Fabio Silva: Ein Stürmer, zwei Blickwinkel",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Entscheidung \"voller Überzeugung\": Karius verlängert vorzeitig",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Für zwölf Millionen Euro und mehr: TSG holt Linksverteidiger Rots",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Wie viele Millionen bringt Pepi dem FCA noch ein?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Werder erhöht Preise für Dauerkarten durchschnittlich um 8,8 Prozent",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Finaler Poker um Eichhorn: Sticht Bayer auch Leipzig aus?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Mainz verkauft Veratschnig für 3,5 Millionen Euro nach Salzburg",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Fortuna Düsseldorf muss Kastenmeier ziehen lassen – Wechsel zu Werder Bremen?",
-      "source": "transfermarkt",
-      "sentiment": -0.7
-    },
-    {
-      "title": "Ronaldo wird zweitältester Feldspieler der WM-Historie – Mexikos Mora einziger U18-Profi",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Wird in Kürze 40: Giroud macht in Lille weiter - Freude auf Champions League",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "FC Bayern: Kimmich über zähen Vertragspoker und krasses PSG-Angebot",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "FIFA machtlos: USA verweigern WM-Schiedsrichter aus Somalia die Einreise",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Arsenals Timber verpasst WM verletzungsbedingt – Koeman nominiert Ex-Leipziger Geertruida",
-      "source": "transfermarkt",
-      "sentiment": 0.27
-    },
-    {
-      "title": "Olise-Gala bei Frankreichs WM-Generalprobe: Dreierpack gegen Nordirland",
+      "title": "Beck über TSG Hoffenheims Herbstmeisterschaft und Anfragen vom BVB & FC Bayern",
       "source": "transfermarkt",
       "sentiment": 0.53
     },
     {
-      "title": "Vier Spieler aus WM-Gruppe I: Druck für Olise und Chance für Nusa",
+      "title": "Brown-Transfer: Durchbruch zwischen FC Bayern und Eintracht Frankfurt",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Manchester City bietet Nottingham Rekordablöse für Elliot Anderson",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Neue Schiri-Regeln: Wie die WM-Spiele von „Unarten“ befreit werden sollen",
       "source": "transfermarkt",
       "sentiment": 0.6
     },
     {
-      "title": "Trabzonspor-Transfer: Saviolo kann dank Boni Rekordzugang werden",
-      "source": "transfermarkt",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Trippier geht mit Wolves in die Championship – Newcastle-Vertrag endete",
+      "title": "TSG Hoffenheim: Trio um Manchester United an Bazoumana Touré dran",
       "source": "transfermarkt",
       "sentiment": 0
+    },
+    {
+      "title": "Wie Ex-BVB-Trainer Mike Tullberg den FC Midtjylland umkrempelte",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "SC Freiburg verpflichtet Draufgänger Keisuke Goto vom RSC Anderlecht",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Abschied nach der WM? Das Paradoxon bei Eintracht-Verteidiger Amenda",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Warum es keine Bundesliga-Freitagsspiele in Paderborn geben wird",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Speed für den Flügel: Bayer möchte Lyons Moreira verpflichten",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Streit um Ausbau des Geißbockheims: Nächster Rückschlag für Köln",
+      "source": "kicker",
+      "sentiment": -0.7
+    },
+    {
+      "title": "Capaldos WM-Traum lebt noch",
+      "source": "kicker",
+      "sentiment": 0.6
     },
     {
       "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
@@ -111,44 +81,74 @@
       "sentiment": 0
     },
     {
-      "title": "Neue Gladbacher Sturmhoffnung: Lidberg kommt aus Darmstadt und trägt die 3",
+      "title": "Fix: Leverkusen verpflichtet 16-jährigen Eichhorn von Hertha",
       "source": "kicker",
-      "sentiment": 0
+      "sentiment": 0.4
     },
     {
-      "title": "\"Zu 95 Prozent\" weg: Kimmich erklärt, wie nah er an einem PSG-Wechsel war",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Als Alternative zu Kastenmeier: Werder hat van Oevelen im Visier",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Grosso übernimmt neuen Trainerjob - Cucurella ist in La Liga heiß begehrt",
+      "title": "Knackt City für Anderson den Transferrekord? - Spurs verpflichten Senesi",
       "source": "kicker",
       "sentiment": 0.35
     },
     {
-      "title": "WM 2026: Vier Spieler aus Gruppe F – Malen, Hannibal, Gyökeres, Kamada",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Argentiniens Sorge um Messi und Viele, die „noch nicht hundertprozentig fit“ sind",
-      "source": "transfermarkt",
+      "title": "Hoffenheims neue Investitions-Offensive",
+      "source": "kicker",
       "sentiment": 0.4
     },
     {
-      "title": "Brasiliens Wesley verpasst WM – Éderson rückt kurz vor Man-United-Wechsel nach",
-      "source": "transfermarkt",
-      "sentiment": 0.6
+      "title": "Kane und Olise im Visier der Konkurrenz",
+      "source": "kicker",
+      "sentiment": 0.3
     },
     {
-      "title": "Dänemark-Kapitän Christian Eriksen kollabiert erneut – Fortsetzung der Karriere offen",
-      "source": "transfermarkt",
-      "sentiment": 0.6
+      "title": "Sinkiewicz-Nachfolger: McKenna kehrt in den Kölner Trainerstab zurück",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Schnellfragerunde mit Streich: \"Mit der Freundlichste war Ribery\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Wechselwunsch entsprochen: Huseinbasic wagt Neustart in Braga",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Entscheidung gefallen: Bayer bekommt Herthas Top-Talent Eichhorn",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Hjulmands feine Spitze gegen Rolfes und Carro",
+      "source": "kicker",
+      "sentiment": -0.9
+    },
+    {
+      "title": "Karl kein Einzelfall: Was seine Verletzung für Bayern bedeutet",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Eine statt zehn Millionen Euro: Schalke bekommt Schnäppchen Tanaka",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "\"Wie ein Nachhausekommen\": Friedrich kehrt ablösefrei zu Union zurück",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Gehalt mehr als verdoppelt: Schalke macht Karius zu einem Spitzenverdiener",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Millionengrenze geknackt: Schalke greift für Karius tief in die Tasche",
+      "source": "kicker",
+      "sentiment": 0.5
     }
   ]
 }
