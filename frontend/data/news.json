@@ -1,6 +1,81 @@
 {
   "news": [
     {
+      "title": "Brasilien trauert um Weltmeister Brito: „Einer der größten Verteidiger“",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "FC Bayern: Verkaufskandidat Davies verpasst WM-Auftakt mit Kanada",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Nach WM-Aus: Japan-Kapitän Endo deutet Ende in Nationalelf an",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Mexiko-Talent Mora avanciert zum sechstjüngsten Spieler der WM-Historie",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Die Tränen von Raul Jiménez: Vom Schädelbruch zum WM-Tordebüt",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "WM-Prämien für DFB-Team: Verhandlungen mit Verband laufen weiter",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "KSC: Rapp-Transfer nach Dresden vor Abschluss",
+      "source": "transfermarkt",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Ex-Frankfurter Toppmöller Kandidat beim RC Lens – Spricht fließend Französisch",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Australien verlängert mit Nationalcoach Popovic vor WM-Auftakt",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Älteste WM-Spieler: Bosniens Edin Dzeko schließt zu Roger Milla auf",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Das nächste Schnäppchen: Schalke verpflichtet Freiburgs Adamu",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Vier Seiten Text bremsen den 1. FC Köln und machen Türoff \"fassungslos\"",
+      "source": "kicker",
+      "sentiment": -0.5
+    },
+    {
+      "title": "Undav nur der Anfang: Wer verlängert als Nächstes beim VfB?",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Deshalb glaubt Rolfes an Boniface-Comeback: \"War ein Mutmacher\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
       "title": "Hertha BSC: Bayer Leverkusen macht Rennen um Eichhorn – Geringe Ablöse",
       "source": "transfermarkt",
       "sentiment": 0
@@ -51,6 +126,11 @@
       "sentiment": 0.4
     },
     {
+      "title": "Zehn Millionen Euro Ablöse: Freiburg legt mit Japaner Goto nach",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
       "title": "Abschied nach der WM? Das Paradoxon bei Eintracht-Verteidiger Amenda",
       "source": "kicker",
       "sentiment": 0
@@ -69,86 +149,6 @@
       "title": "Streit um Ausbau des Geißbockheims: Nächster Rückschlag für Köln",
       "source": "kicker",
       "sentiment": -0.7
-    },
-    {
-      "title": "Capaldos WM-Traum lebt noch",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Fix: Leverkusen verpflichtet 16-jährigen Eichhorn von Hertha",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Knackt City für Anderson den Transferrekord? - Spurs verpflichten Senesi",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Hoffenheims neue Investitions-Offensive",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Kane und Olise im Visier der Konkurrenz",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Sinkiewicz-Nachfolger: McKenna kehrt in den Kölner Trainerstab zurück",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Schnellfragerunde mit Streich: \"Mit der Freundlichste war Ribery\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wechselwunsch entsprochen: Huseinbasic wagt Neustart in Braga",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Entscheidung gefallen: Bayer bekommt Herthas Top-Talent Eichhorn",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Hjulmands feine Spitze gegen Rolfes und Carro",
-      "source": "kicker",
-      "sentiment": -0.9
-    },
-    {
-      "title": "Karl kein Einzelfall: Was seine Verletzung für Bayern bedeutet",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Eine statt zehn Millionen Euro: Schalke bekommt Schnäppchen Tanaka",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "\"Wie ein Nachhausekommen\": Friedrich kehrt ablösefrei zu Union zurück",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Gehalt mehr als verdoppelt: Schalke macht Karius zu einem Spitzenverdiener",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Millionengrenze geknackt: Schalke greift für Karius tief in die Tasche",
-      "source": "kicker",
-      "sentiment": 0.5
     }
   ]
 }
