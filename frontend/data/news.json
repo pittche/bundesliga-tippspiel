@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Fink holt Kaya von Wehen Wiesbaden zu Samsunspor – Drittliga-Top-Torjäger 24/25",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Aufsteiger Austria Lustenau holt Danilo Soares vom 1. FC Nürnberg zurück",
+      "source": "transfermarkt",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Trotz Interesse von FC Bayern und BVB: Nijstad bleibt beim FC Twente",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Mbappé stellt WM-Titel über Klose-Torrekord – Kommt Messi ihm zuvor?",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Real Madrid: FC Barcelona geht gegen Präsident Pérez wegen Verleumdung vor",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Nächster Abgang beim 1. FC Nürnberg: Hofmann wechselt fest zu Rot-Weiss Essen",
+      "source": "transfermarkt",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Larin rettet Kanada Unentschieden gegen Bosnien – Erster WM-Punkt überhaupt",
+      "source": "transfermarkt",
+      "sentiment": -0.6
+    },
+    {
+      "title": "USA überzeugen zum WM-Start mit höchsten Sieg – Alle Tore im Video",
+      "source": "transfermarkt",
+      "sentiment": 0.5
+    },
+    {
+      "title": "WM-Ticker: Neymar fehlt Brasilien – Diebstahl bei England",
+      "source": "transfermarkt",
+      "sentiment": 0.15
+    },
+    {
+      "title": "FC Bayern und Eintracht Frankfurt vor Einigung im Brown-Poker",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Chicago interessiert sich für Goretzka - Tzolis im Visier von Arsenal?",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Padel-Anekdote zu Demichelis: Hummels über möglichen Trainerwechsel bei RB",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Nach erfolgreicher Saison: Werners Zukunft in Leipzig überraschend offen",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
+      "title": "Yan Couto vor Leihe nach Como - Duranville mit Lyon einig",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Mainz freut sich auf \"Führungsqualität\": Gruber verlässt Nürnberg",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Günstiger als die Kaufoption: Köln verpflichtet City-Talent Simpson-Pusey fest",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Dortmunds Campbell bleibt bei der TSG nur eine Episode",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Nicht nur per Leihe: FC Bayern gibt Krattenmacher an Elversberg ab",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Vereinsrekord im Visier: Gregoritsch bleibt in Augsburg",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Jetzt muss er aber\": Neuer Vertrag und Forderung an Chiarodia",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
       "title": "Brasilien trauert um Weltmeister Brito: „Einer der größten Verteidiger“",
       "source": "transfermarkt",
       "sentiment": 0.6
@@ -49,106 +149,6 @@
       "title": "Älteste WM-Spieler: Bosniens Edin Dzeko schließt zu Roger Milla auf",
       "source": "transfermarkt",
       "sentiment": 0
-    },
-    {
-      "title": "Das nächste Schnäppchen: Schalke verpflichtet Freiburgs Adamu",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Vier Seiten Text bremsen den 1. FC Köln und machen Türoff \"fassungslos\"",
-      "source": "kicker",
-      "sentiment": -0.5
-    },
-    {
-      "title": "Undav nur der Anfang: Wer verlängert als Nächstes beim VfB?",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Deshalb glaubt Rolfes an Boniface-Comeback: \"War ein Mutmacher\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Hertha BSC: Bayer Leverkusen macht Rennen um Eichhorn – Geringe Ablöse",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "DFB: WM-Spaßvogel Ouédraogo und die besondere Nagelsmann-Frage",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "3. Schalker bei der WM: Ljubicic ersetzt Baumgartner im Österreich-Kader",
-      "source": "transfermarkt",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Beck über TSG Hoffenheims Herbstmeisterschaft und Anfragen vom BVB & FC Bayern",
-      "source": "transfermarkt",
-      "sentiment": 0.53
-    },
-    {
-      "title": "Brown-Transfer: Durchbruch zwischen FC Bayern und Eintracht Frankfurt",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Manchester City bietet Nottingham Rekordablöse für Elliot Anderson",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Neue Schiri-Regeln: Wie die WM-Spiele von „Unarten“ befreit werden sollen",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "TSG Hoffenheim: Trio um Manchester United an Bazoumana Touré dran",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Wie Ex-BVB-Trainer Mike Tullberg den FC Midtjylland umkrempelte",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "SC Freiburg verpflichtet Draufgänger Keisuke Goto vom RSC Anderlecht",
-      "source": "transfermarkt",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Zehn Millionen Euro Ablöse: Freiburg legt mit Japaner Goto nach",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Abschied nach der WM? Das Paradoxon bei Eintracht-Verteidiger Amenda",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Warum es keine Bundesliga-Freitagsspiele in Paderborn geben wird",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Speed für den Flügel: Bayer möchte Lyons Moreira verpflichten",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Streit um Ausbau des Geißbockheims: Nächster Rückschlag für Köln",
-      "source": "kicker",
-      "sentiment": -0.7
     }
   ]
 }
