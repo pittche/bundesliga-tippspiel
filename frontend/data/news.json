@@ -1,6 +1,81 @@
 {
   "news": [
     {
+      "title": "1. FC Köln: TSG Hoffenheim dementiert Vorstoß bei Said El Mala",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Manchester City: Ex-Profi Yaya Touré übernimmt ersten Trainerjob in Slowakei",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Danny Röhl vor Wechsel zu Red Bull Salzburg – Glasgow Rangers erhalten Ablöse",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "FC Arsenal bemüht sich um Christos Tzolis – Marktwert in Brügge vervierfacht",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Ralf Rangnick verlängert vor WM-Start bei Österreich",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Last-Minute-Schock für Schweiz: Katar holt ersten Punkt in WM-Geschichte",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Vinicius Junior trifft sehenswert: Brasilien verhindert Pleite im Spitzenspiel gegen Marokko",
+      "source": "transfermarkt",
+      "sentiment": 0.2
+    },
+    {
+      "title": "WM-Fehlstart: Türkei verliert gegen Australien – Schottland feiert Kilt-Party",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "WM-Ticker: Klarheit fürs DFB-Team bei Neuer – Nagelsmann verrät Detail",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Italien-Comeback rückt näher: Al-Sadd verabschiedet Roberto Mancini",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Auch HSV buhlt um Frankfurts Baum - Röhl wohl mit Salzburg einig",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Widerstandskämpfer Jatta soll Konkurrenz beim HSV bekommen",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Sollte sich RB Leipzig von Trainer Werner trennen?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Werner steht bei RB Leipzig vor dem Aus",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
+      "title": "Von Frankfurt zu Milan? Krösche will Gerücht nicht kommentieren",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
       "title": "Fink holt Kaya von Wehen Wiesbaden zu Samsunspor – Drittliga-Top-Torjäger 24/25",
       "source": "transfermarkt",
       "sentiment": 0
@@ -73,81 +148,6 @@
     {
       "title": "Mainz freut sich auf \"Führungsqualität\": Gruber verlässt Nürnberg",
       "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Günstiger als die Kaufoption: Köln verpflichtet City-Talent Simpson-Pusey fest",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Dortmunds Campbell bleibt bei der TSG nur eine Episode",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Nicht nur per Leihe: FC Bayern gibt Krattenmacher an Elversberg ab",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Vereinsrekord im Visier: Gregoritsch bleibt in Augsburg",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Jetzt muss er aber\": Neuer Vertrag und Forderung an Chiarodia",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Brasilien trauert um Weltmeister Brito: „Einer der größten Verteidiger“",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "FC Bayern: Verkaufskandidat Davies verpasst WM-Auftakt mit Kanada",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Nach WM-Aus: Japan-Kapitän Endo deutet Ende in Nationalelf an",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Mexiko-Talent Mora avanciert zum sechstjüngsten Spieler der WM-Historie",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Die Tränen von Raul Jiménez: Vom Schädelbruch zum WM-Tordebüt",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "WM-Prämien für DFB-Team: Verhandlungen mit Verband laufen weiter",
-      "source": "transfermarkt",
-      "sentiment": 0.4
-    },
-    {
-      "title": "KSC: Rapp-Transfer nach Dresden vor Abschluss",
-      "source": "transfermarkt",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Ex-Frankfurter Toppmöller Kandidat beim RC Lens – Spricht fließend Französisch",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Australien verlängert mit Nationalcoach Popovic vor WM-Auftakt",
-      "source": "transfermarkt",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Älteste WM-Spieler: Bosniens Edin Dzeko schließt zu Roger Milla auf",
-      "source": "transfermarkt",
       "sentiment": 0
     }
   ]
