@@ -1,6 +1,121 @@
 {
   "news": [
     {
+      "title": "VfL Wolfsburg & Hertha BSC wegen Reese einig - Nur Tzimas war teurer",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Neuer und der hinkende 7:1-Vergleich – Nagelsmann setzt auf Freizeit",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "WM-Ticker: Nmecha erklärt Gebet auf Platz – Die Reaktionen zum DFB-Team",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Bayer Leverkusen: Neuer Vertrag für Onyeka – Leihe an SV Elversberg",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "DFB-Team: Umstrittener Sané bleibt ohne Turniertor, Nagelsmann lobt",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Union Berlin verpflichtet Van Den Bosch – Umbruch im Abwehrzentrum",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Marc Cucurella wechselt vom FC Chelsea zu Real Madrid",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "FC Bayern und PSV einigen sich auf Saibari-Ablöse – Kann Rekordverkauf werden",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Mourinho lockt Khedira als Co-Trainer zu Real Madrid",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "FC Bayern gibt Abwehrtalent Puljic an Atalanta Bergamo ab",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Fantasie versus Fakten: Sind 30 Millionen Euro für Coulibaly realistisch?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Union verpflichtet van den Bosch als Soforthilfe",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Nächstes Talent aus dem Future Team: Bayer bindet Onyeka bis 2032",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Leihe nach Elversberg fix: Darum war Onyeka für Bayer unverkäuflich",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Itten vor Wechsel zu Werder - Cucurella wohl mit Real einig",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Neuer Werder-Vertrag: Weiser vor Verlängerung",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "In diesem Sommer: Rolfes erklärt Maza für unverkäuflich",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Krösche zu Milan? Eintracht-Aufsichtsrat bleibt gelassen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Von Hellstern bis Kastenmeier: Bei Paderborns Torwartsuche ist \"jedes Modell vorstellbar\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Atletico heiß auf Grimaldo? Warum Bayer ruhig bleibt, aber wach sein sollte",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Noch kein fixes Angebot von Bayer, aber Moreira-Deal naht",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Schalke schraubt am Torhüter-Team",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "1. FC Köln: TSG Hoffenheim dementiert Vorstoß bei Said El Mala",
       "source": "transfermarkt",
       "sentiment": 0
@@ -34,121 +149,6 @@
       "title": "Vinicius Junior trifft sehenswert: Brasilien verhindert Pleite im Spitzenspiel gegen Marokko",
       "source": "transfermarkt",
       "sentiment": 0.2
-    },
-    {
-      "title": "WM-Fehlstart: Türkei verliert gegen Australien – Schottland feiert Kilt-Party",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "WM-Ticker: Klarheit fürs DFB-Team bei Neuer – Nagelsmann verrät Detail",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Italien-Comeback rückt näher: Al-Sadd verabschiedet Roberto Mancini",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Auch HSV buhlt um Frankfurts Baum - Röhl wohl mit Salzburg einig",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Widerstandskämpfer Jatta soll Konkurrenz beim HSV bekommen",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Sollte sich RB Leipzig von Trainer Werner trennen?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Werner steht bei RB Leipzig vor dem Aus",
-      "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Von Frankfurt zu Milan? Krösche will Gerücht nicht kommentieren",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Fink holt Kaya von Wehen Wiesbaden zu Samsunspor – Drittliga-Top-Torjäger 24/25",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Aufsteiger Austria Lustenau holt Danilo Soares vom 1. FC Nürnberg zurück",
-      "source": "transfermarkt",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Trotz Interesse von FC Bayern und BVB: Nijstad bleibt beim FC Twente",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Mbappé stellt WM-Titel über Klose-Torrekord – Kommt Messi ihm zuvor?",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Real Madrid: FC Barcelona geht gegen Präsident Pérez wegen Verleumdung vor",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Nächster Abgang beim 1. FC Nürnberg: Hofmann wechselt fest zu Rot-Weiss Essen",
-      "source": "transfermarkt",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Larin rettet Kanada Unentschieden gegen Bosnien – Erster WM-Punkt überhaupt",
-      "source": "transfermarkt",
-      "sentiment": -0.6
-    },
-    {
-      "title": "USA überzeugen zum WM-Start mit höchsten Sieg – Alle Tore im Video",
-      "source": "transfermarkt",
-      "sentiment": 0.5
-    },
-    {
-      "title": "WM-Ticker: Neymar fehlt Brasilien – Diebstahl bei England",
-      "source": "transfermarkt",
-      "sentiment": 0.15
-    },
-    {
-      "title": "FC Bayern und Eintracht Frankfurt vor Einigung im Brown-Poker",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Chicago interessiert sich für Goretzka - Tzolis im Visier von Arsenal?",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Padel-Anekdote zu Demichelis: Hummels über möglichen Trainerwechsel bei RB",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Nach erfolgreicher Saison: Werners Zukunft in Leipzig überraschend offen",
-      "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Yan Couto vor Leihe nach Como - Duranville mit Lyon einig",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Mainz freut sich auf \"Führungsqualität\": Gruber verlässt Nürnberg",
-      "source": "kicker",
-      "sentiment": 0
     }
   ]
 }
