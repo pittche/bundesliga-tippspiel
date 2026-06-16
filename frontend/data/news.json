@@ -1,6 +1,91 @@
 {
   "news": [
     {
+      "title": "Kap Verdes WM-Held Vozinha: „Er hat all die Jahre dafür gekämpft“",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Nach 6. WM: Mexiko-Ikone Guillermo Ochoa will aufhören",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Eintracht Frankfurt: Ex-Trainer Dino Toppmöller beim RC Lens vorgestellt",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "WM 2026: Tunesien wirft Trainer Lamouchi raus – Renard übernimmt",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "WM-Blog: Fluch der Rocky-Statue, Presse zerlegt Spanien, Oyarzabals Negativrekord",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Juventus zieht Bogas Kaufoption – Überzeugte nach Flucht vom OGC Nizza",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Auch Appelkamp verlässt Fortuna Düsseldorf: „Fühlt sich komisch an“",
+      "source": "transfermarkt",
+      "sentiment": -0.7
+    },
+    {
+      "title": "Kastenmeier-Wechsel zu Werder geplatzt – Hannover 96 will Raab von Union Berlin",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "WM 2026 tippen: Tolle Preise beim Streak‑Game von Transfermarkt gewinnen",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Antonio Rüdiger verlängert bei Real Madrid – Bleibt inmitten des Abwehrumbruchs",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Uno und Co.: Gladbachs Schröder bleibt auf Betriebstemperatur",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kastenmeier sagt Werder ab: Kommt jetzt van Oevelen?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Ein Hincapie für rechts: Bayer sucht Doppellösung für die Abwehr",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Bayern ist sich mit Saibari einig - Verstärkung für Hürzeler - Lucic nach Dresden?",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Lockruf aus Mailand: Die Krösche-Meldungen überschlagen sich",
+      "source": "kicker",
+      "sentiment": -0.35
+    },
+    {
+      "title": "Das Wagnis mit Pechvogel Kaua Santos: Kann der Torwart Hütter überzeugen?",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Die Sommer-Fahrpläne der Bundesligisten 2026/27",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "VfL Wolfsburg & Hertha BSC wegen Reese einig - Nur Tzimas war teurer",
       "source": "transfermarkt",
       "sentiment": 0
@@ -64,91 +149,6 @@
       "title": "Nächstes Talent aus dem Future Team: Bayer bindet Onyeka bis 2032",
       "source": "kicker",
       "sentiment": 0.4
-    },
-    {
-      "title": "Leihe nach Elversberg fix: Darum war Onyeka für Bayer unverkäuflich",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Itten vor Wechsel zu Werder - Cucurella wohl mit Real einig",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Neuer Werder-Vertrag: Weiser vor Verlängerung",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "In diesem Sommer: Rolfes erklärt Maza für unverkäuflich",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Krösche zu Milan? Eintracht-Aufsichtsrat bleibt gelassen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Von Hellstern bis Kastenmeier: Bei Paderborns Torwartsuche ist \"jedes Modell vorstellbar\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Atletico heiß auf Grimaldo? Warum Bayer ruhig bleibt, aber wach sein sollte",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Noch kein fixes Angebot von Bayer, aber Moreira-Deal naht",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Schalke schraubt am Torhüter-Team",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "1. FC Köln: TSG Hoffenheim dementiert Vorstoß bei Said El Mala",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Manchester City: Ex-Profi Yaya Touré übernimmt ersten Trainerjob in Slowakei",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Danny Röhl vor Wechsel zu Red Bull Salzburg – Glasgow Rangers erhalten Ablöse",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "FC Arsenal bemüht sich um Christos Tzolis – Marktwert in Brügge vervierfacht",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Ralf Rangnick verlängert vor WM-Start bei Österreich",
-      "source": "transfermarkt",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Last-Minute-Schock für Schweiz: Katar holt ersten Punkt in WM-Geschichte",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Vinicius Junior trifft sehenswert: Brasilien verhindert Pleite im Spitzenspiel gegen Marokko",
-      "source": "transfermarkt",
-      "sentiment": 0.2
     }
   ]
 }
