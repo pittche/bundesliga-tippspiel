@@ -1,6 +1,96 @@
 {
   "news": [
     {
+      "title": "Doppelpack von Mbappé: Frankreich startet mit Sieg in Titelmission",
+      "source": "transfermarkt",
+      "sentiment": 0.5
+    },
+    {
+      "title": "WM: Messi-Gala für Argentinien zum Klose-Rekord – Haaland lässt Norwegen träumen",
+      "source": "transfermarkt",
+      "sentiment": 0.5
+    },
+    {
+      "title": "WM: Marko Arnautovic rettet Österreich gegen Jordanien",
+      "source": "transfermarkt",
+      "sentiment": 0.55
+    },
+    {
+      "title": "WM-Ticker: Transfer-Empfehlung für Olise – Reyna lässt Zukunft offen",
+      "source": "transfermarkt",
+      "sentiment": 0.45
+    },
+    {
+      "title": "Bayer Leverkusen: Afonso Moreira von Olympique Lyon vor Unterschrift",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "2. Liga: 1. FC Nürnberg gibt Flop Biron ab – Energie Cottbus bindet Rorig",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Tottenham vor Einstieg in El-Mala-Poker – 1. FC Köln will für Rekordeal keinen Druck machen",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "3. Liga: Philipp Schulze vom SC Verl zu Podolski-Klub nach Polen",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Real Madrid macht Transfer von Manchesters Bernardo Silva perfekt",
+      "source": "transfermarkt",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Fortuna Düsseldorf: Shinta Appelkamp wechselt zu Greuther Fürth",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Also doch: Philipp bleibt in Hoffenheim",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Dompé: Nochmal Vollgas oder Abfahrt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Einigung erzielt: Lyon akzeptiert Bayers 30-Millionen-Paket für Moreira",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Ryerson im Schaufenster, Couto auf dem Sprung: So plant der BVB",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "\"Eine Selbstverständlichkeit\": Mainz verlängert mit verletztem Silas",
+      "source": "kicker",
+      "sentiment": 0.17
+    },
+    {
+      "title": "Neuer Werder-Sturm: Mit Itten, wohl ohne Füllkrug - und Doppelspitze?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kehrtwende bei Paz - Hellstern-Zukunft fix - 60 Millionen für van Hecke?",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Langer Poker vor dem Ende: Laimer vor Vertragsverlängerung",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
       "title": "Kap Verdes WM-Held Vozinha: „Er hat all die Jahre dafür gekämpft“",
       "source": "transfermarkt",
       "sentiment": 0
@@ -51,104 +141,14 @@
       "sentiment": 0.4
     },
     {
+      "title": "Bei Gladbach stehen die nächsten Transfer-Entscheidungen an",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
       "title": "Uno und Co.: Gladbachs Schröder bleibt auf Betriebstemperatur",
       "source": "kicker",
       "sentiment": 0
-    },
-    {
-      "title": "Kastenmeier sagt Werder ab: Kommt jetzt van Oevelen?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Ein Hincapie für rechts: Bayer sucht Doppellösung für die Abwehr",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Bayern ist sich mit Saibari einig - Verstärkung für Hürzeler - Lucic nach Dresden?",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Lockruf aus Mailand: Die Krösche-Meldungen überschlagen sich",
-      "source": "kicker",
-      "sentiment": -0.35
-    },
-    {
-      "title": "Das Wagnis mit Pechvogel Kaua Santos: Kann der Torwart Hütter überzeugen?",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Die Sommer-Fahrpläne der Bundesligisten 2026/27",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "VfL Wolfsburg & Hertha BSC wegen Reese einig - Nur Tzimas war teurer",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Neuer und der hinkende 7:1-Vergleich – Nagelsmann setzt auf Freizeit",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "WM-Ticker: Nmecha erklärt Gebet auf Platz – Die Reaktionen zum DFB-Team",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Bayer Leverkusen: Neuer Vertrag für Onyeka – Leihe an SV Elversberg",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "DFB-Team: Umstrittener Sané bleibt ohne Turniertor, Nagelsmann lobt",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Union Berlin verpflichtet Van Den Bosch – Umbruch im Abwehrzentrum",
-      "source": "transfermarkt",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Marc Cucurella wechselt vom FC Chelsea zu Real Madrid",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "FC Bayern und PSV einigen sich auf Saibari-Ablöse – Kann Rekordverkauf werden",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Mourinho lockt Khedira als Co-Trainer zu Real Madrid",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "FC Bayern gibt Abwehrtalent Puljic an Atalanta Bergamo ab",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Fantasie versus Fakten: Sind 30 Millionen Euro für Coulibaly realistisch?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Union verpflichtet van den Bosch als Soforthilfe",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Nächstes Talent aus dem Future Team: Bayer bindet Onyeka bis 2032",
-      "source": "kicker",
-      "sentiment": 0.4
     }
   ]
 }
