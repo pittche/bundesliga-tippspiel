@@ -1,6 +1,81 @@
 {
   "news": [
     {
+      "title": "\"Spannendes Profil\": Stuttgart verpflichtet Sturmhoffnung van der Leij",
+      "source": "kicker",
+      "sentiment": 0.43
+    },
+    {
+      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Gladbach holt Uno zum Schnäppchenpreis",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Liverpool funkt bei Munoz dazwischen - Uno beim Check in Gladbach",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Klopp zum Werner-Aus: \"Wir waren in der Entscheidungsfindung mit dabei\"",
+      "source": "kicker",
+      "sentiment": -0.85
+    },
+    {
+      "title": "Nach nur einem Jahr: Leipzig trennt sich von Trainer Werner",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Werder erhält Zusage von Elversberg-Profi Günther",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Kapitän ohne Steuerrad? Warum es für Andrich eng wird",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Testspiel und Marketing: Paderborn reist im September in die USA",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Schalkes Plan mit Adamu: Kein Torjäger, aber einer für die Spielidee von Muslic",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Als Alternative zu Stage? TSG interessiert sich für Top-Talent de Cat",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Kein Wechsel zu Milan: Krösche bleibt bei Eintracht Frankfurt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "VfB-Duo Bouanani und Arevalo: Neustart in der neuen Saison",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Für Lustrinellis System: Union-Neuzugang van den Bosch muss sich umstellen",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Ausbau des Geißbockheims: \"Endlich eine Perspektive\" für den 1. FC Köln",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Doppelpack von Mbappé: Frankreich startet mit Sieg in Titelmission",
       "source": "transfermarkt",
       "sentiment": 0.5
@@ -74,81 +149,6 @@
       "title": "\"Eine Selbstverständlichkeit\": Mainz verlängert mit verletztem Silas",
       "source": "kicker",
       "sentiment": 0.17
-    },
-    {
-      "title": "Neuer Werder-Sturm: Mit Itten, wohl ohne Füllkrug - und Doppelspitze?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kehrtwende bei Paz - Hellstern-Zukunft fix - 60 Millionen für van Hecke?",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Langer Poker vor dem Ende: Laimer vor Vertragsverlängerung",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Kap Verdes WM-Held Vozinha: „Er hat all die Jahre dafür gekämpft“",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Nach 6. WM: Mexiko-Ikone Guillermo Ochoa will aufhören",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Eintracht Frankfurt: Ex-Trainer Dino Toppmöller beim RC Lens vorgestellt",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "WM 2026: Tunesien wirft Trainer Lamouchi raus – Renard übernimmt",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "WM-Blog: Fluch der Rocky-Statue, Presse zerlegt Spanien, Oyarzabals Negativrekord",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Juventus zieht Bogas Kaufoption – Überzeugte nach Flucht vom OGC Nizza",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Auch Appelkamp verlässt Fortuna Düsseldorf: „Fühlt sich komisch an“",
-      "source": "transfermarkt",
-      "sentiment": -0.7
-    },
-    {
-      "title": "Kastenmeier-Wechsel zu Werder geplatzt – Hannover 96 will Raab von Union Berlin",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "WM 2026 tippen: Tolle Preise beim Streak‑Game von Transfermarkt gewinnen",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Antonio Rüdiger verlängert bei Real Madrid – Bleibt inmitten des Abwehrumbruchs",
-      "source": "transfermarkt",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Bei Gladbach stehen die nächsten Transfer-Entscheidungen an",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Uno und Co.: Gladbachs Schröder bleibt auf Betriebstemperatur",
-      "source": "kicker",
-      "sentiment": 0
     }
   ]
 }
