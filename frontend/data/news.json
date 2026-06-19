@@ -1,6 +1,91 @@
 {
   "news": [
     {
+      "title": "Kanada feiert 1. WM-Erfolg – Schwere Koné-Verletzung trübt Stimmung",
+      "source": "transfermarkt",
+      "sentiment": 0.34
+    },
+    {
+      "title": "Fritz Schmid über Abenteuer in Malaysia, Neuseeland & Ghana",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Mexikos WM-Fiesta geht weiter: Erstes Team in K.-o.-Runde",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "WM-Aus: Drama um Kanadas Koné – „Jeder konnte hören, wie der Knochen brach“",
+      "source": "transfermarkt",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Waldhof Mannheim holt Claudio Kammerknecht von Dynamo Dresden",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "WM-Ticker: Müller preist Manzambi bei Bayern an – Fan-Unmut wegen Trinkpausen",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "WM 2026: Doués wertvollste Brüder – Vier Paare für unterschiedliche Nationen",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "FC Bayern: Talenteförderer Gaydarov wird Co-Trainer von Ex-BVB-Coach Terzic",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Nächster Abschied von 1860 München: Jesper Verlaat wechselt zum BVB",
+      "source": "transfermarkt",
+      "sentiment": -0.7
+    },
+    {
+      "title": "WM 2026 tippen: Tolle Preise beim Streak‑Game von Transfermarkt gewinnen",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "\"Kompany versteht die Prioritäten\": Wie Marokkos Trainer Saibaris Bayern-Wechsel sieht",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Besiktas buhlt wohl um Nübel - Wird Wagner Premier-League-Coach?",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "\"Kann die Zukunft von Bayern sein\": Marokkos Journalisten über möglichen Saibari-Transfer",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Werner meldet sich per Brief: \"Das muss ich respektieren\"",
+      "source": "kicker",
+      "sentiment": -0.9
+    },
+    {
+      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Ablösepaket über 33,6 Millionen: Bayer holt Lyons Afonso Moreira",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Gleich zwei Ligen höher: Ter Horst wechselt von Münster nach Paderborn",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "\"Spannendes Profil\": Stuttgart verpflichtet Sturmhoffnung van der Leij",
       "source": "kicker",
       "sentiment": 0.43
@@ -64,91 +149,6 @@
       "title": "VfB-Duo Bouanani und Arevalo: Neustart in der neuen Saison",
       "source": "kicker",
       "sentiment": 0
-    },
-    {
-      "title": "Für Lustrinellis System: Union-Neuzugang van den Bosch muss sich umstellen",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Ausbau des Geißbockheims: \"Endlich eine Perspektive\" für den 1. FC Köln",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Doppelpack von Mbappé: Frankreich startet mit Sieg in Titelmission",
-      "source": "transfermarkt",
-      "sentiment": 0.5
-    },
-    {
-      "title": "WM: Messi-Gala für Argentinien zum Klose-Rekord – Haaland lässt Norwegen träumen",
-      "source": "transfermarkt",
-      "sentiment": 0.5
-    },
-    {
-      "title": "WM: Marko Arnautovic rettet Österreich gegen Jordanien",
-      "source": "transfermarkt",
-      "sentiment": 0.55
-    },
-    {
-      "title": "WM-Ticker: Transfer-Empfehlung für Olise – Reyna lässt Zukunft offen",
-      "source": "transfermarkt",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Bayer Leverkusen: Afonso Moreira von Olympique Lyon vor Unterschrift",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "2. Liga: 1. FC Nürnberg gibt Flop Biron ab – Energie Cottbus bindet Rorig",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Tottenham vor Einstieg in El-Mala-Poker – 1. FC Köln will für Rekordeal keinen Druck machen",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "3. Liga: Philipp Schulze vom SC Verl zu Podolski-Klub nach Polen",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Real Madrid macht Transfer von Manchesters Bernardo Silva perfekt",
-      "source": "transfermarkt",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Fortuna Düsseldorf: Shinta Appelkamp wechselt zu Greuther Fürth",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Also doch: Philipp bleibt in Hoffenheim",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Dompé: Nochmal Vollgas oder Abfahrt",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Einigung erzielt: Lyon akzeptiert Bayers 30-Millionen-Paket für Moreira",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Ryerson im Schaufenster, Couto auf dem Sprung: So plant der BVB",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "\"Eine Selbstverständlichkeit\": Mainz verlängert mit verletztem Silas",
-      "source": "kicker",
-      "sentiment": 0.17
     }
   ]
 }
