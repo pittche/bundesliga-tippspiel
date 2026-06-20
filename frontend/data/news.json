@@ -1,6 +1,31 @@
 {
   "news": [
     {
+      "title": "Atletico mit Grimaldo einig: Hier liegt Bayers Schmerzgrenze",
+      "source": "kicker",
+      "sentiment": 0.05
+    },
+    {
+      "title": "Glatzel-Transfer rückt näher - Grimaldo mit Atletico einig",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Die Sommer-Fahrpläne der Bundesligisten 2026/27",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Nach vielen Jahren in Salzburg: Seonbuchner wechselt an den Bayern-Campus",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Hoffenheim hat auch Sano im Visier",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Kanada feiert 1. WM-Erfolg – Schwere Koné-Verletzung trübt Stimmung",
       "source": "transfermarkt",
       "sentiment": 0.34
@@ -122,31 +147,6 @@
     },
     {
       "title": "Kapitän ohne Steuerrad? Warum es für Andrich eng wird",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Testspiel und Marketing: Paderborn reist im September in die USA",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Schalkes Plan mit Adamu: Kein Torjäger, aber einer für die Spielidee von Muslic",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Als Alternative zu Stage? TSG interessiert sich für Top-Talent de Cat",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Kein Wechsel zu Milan: Krösche bleibt bei Eintracht Frankfurt",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "VfB-Duo Bouanani und Arevalo: Neustart in der neuen Saison",
       "source": "kicker",
       "sentiment": 0
     }
