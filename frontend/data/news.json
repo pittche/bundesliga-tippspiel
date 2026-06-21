@@ -1,6 +1,76 @@
 {
   "news": [
     {
+      "title": "Trainer Albert Riera rechnet mit Eintracht Frankfurt ab – Kritik an Team",
+      "source": "transfermarkt",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Nach Man-United-Abschied: Casemiro einigt sich mit Inter Miami",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Real Madrid beteuert: Kein Kontakt zu Olise – Gute Beziehung zum FC Bayern",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "WM-Fünferpack im Video: Niederlande düpiert harmlose Schweden",
+      "source": "transfermarkt",
+      "sentiment": -0.3
+    },
+    {
+      "title": "WM: Top-Joker Undav lässt DFB-Team spät gegen Elfenbeinküste jubeln",
+      "source": "transfermarkt",
+      "sentiment": 0.5
+    },
+    {
+      "title": "WM-Blog: Nagelsmann befürchtet Schlimmes bei Schlotterbeck – MRT folgt",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Curaçao feiert überraschenden Punkt gegen Ecuador – DFB-Team vorzeitig Gruppensieger",
+      "source": "transfermarkt",
+      "sentiment": 0.57
+    },
+    {
+      "title": "Japan schlägt Tunesien deutlich – Afrikaner verabschieden sich vorzeitig aus dem Turnier",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Viel Lob für Joker Undav – DFB-Team bangt um Abwehrchef Schlotterbeck",
+      "source": "transfermarkt",
+      "sentiment": 0.57
+    },
+    {
+      "title": "Drei Jahre nach Abstieg in die Drittklassigkeit: FC Málaga kehrt in LaLiga zurück",
+      "source": "transfermarkt",
+      "sentiment": -0.2
+    },
+    {
+      "title": "Bleibt Keitel in Augsburg? - Leeds wirbt um Elvedi - Vlahovic-Ultimatum",
+      "source": "kicker",
+      "sentiment": -0.03
+    },
+    {
+      "title": "\"Nicht das richtige Umfeld für mich\": Riera rechnet mit der Eintracht ab",
+      "source": "kicker",
+      "sentiment": -0.5
+    },
+    {
+      "title": "Der Weisheit zum Trotz: Kölns Erfahrungen mit dem \"schwierigen zweiten Jahr\"",
+      "source": "kicker",
+      "sentiment": -0.7
+    },
+    {
+      "title": "Verlängerung offiziell: Was sich Werder von Weiser verspricht",
+      "source": "kicker",
+      "sentiment": -0.2
+    },
+    {
       "title": "Atletico mit Grimaldo einig: Hier liegt Bayers Schmerzgrenze",
       "source": "kicker",
       "sentiment": 0.05
@@ -77,76 +147,6 @@
     },
     {
       "title": "\"Kompany versteht die Prioritäten\": Wie Marokkos Trainer Saibaris Bayern-Wechsel sieht",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Besiktas buhlt wohl um Nübel - Wird Wagner Premier-League-Coach?",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "\"Kann die Zukunft von Bayern sein\": Marokkos Journalisten über möglichen Saibari-Transfer",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Werner meldet sich per Brief: \"Das muss ich respektieren\"",
-      "source": "kicker",
-      "sentiment": -0.9
-    },
-    {
-      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Ablösepaket über 33,6 Millionen: Bayer holt Lyons Afonso Moreira",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Gleich zwei Ligen höher: Ter Horst wechselt von Münster nach Paderborn",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Spannendes Profil\": Stuttgart verpflichtet Sturmhoffnung van der Leij",
-      "source": "kicker",
-      "sentiment": 0.43
-    },
-    {
-      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Gladbach holt Uno zum Schnäppchenpreis",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Liverpool funkt bei Munoz dazwischen - Uno beim Check in Gladbach",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Klopp zum Werner-Aus: \"Wir waren in der Entscheidungsfindung mit dabei\"",
-      "source": "kicker",
-      "sentiment": -0.85
-    },
-    {
-      "title": "Nach nur einem Jahr: Leipzig trennt sich von Trainer Werner",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Werder erhält Zusage von Elversberg-Profi Günther",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Kapitän ohne Steuerrad? Warum es für Andrich eng wird",
       "source": "kicker",
       "sentiment": 0
     }
