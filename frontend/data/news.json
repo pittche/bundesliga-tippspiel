@@ -1,6 +1,86 @@
 {
   "news": [
     {
+      "title": "Im Video: Spanien gegen Saudi-Arabien in Torlaune – Lamine Yamal trifft",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "WM: Belgien gewinnt wieder nicht – Iraner starten mit acht Ü30-Profis",
+      "source": "transfermarkt",
+      "sentiment": 0.5
+    },
+    {
+      "title": "WM: Kap Verde überrascht auch Uruguay – Ägypten feiert wir beim Titel",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Nach WM-Fiasko: Tunesien-Spieler rechnet unter Tränen mit Verband ab",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "1860 München vor Insolvenz – Bruch mit Investor Hasan Ismaik",
+      "source": "transfermarkt",
+      "sentiment": 0.45
+    },
+    {
+      "title": "Von Manzambi bis Bouaddi: Wer spielt sich ins Schaufenster? „WM wirkt als Beschleuniger“",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "3. Liga: Hansa Rostock holt Ex-Schalke-Talent Florian Bohnert",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Liverpool lehnt auch zweites Angebot von Inter Mailand für Jones ab",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Wer wäre Stand jetzt weiter? Die besten WM-Gruppendritten auf einen Klick",
+      "source": "transfermarkt",
+      "sentiment": 0.5
+    },
+    {
+      "title": "WM-Ticker: Türkei stärkt Trainer und Team – DFB-Präsident glaubt Nmecha",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Leeds beschäftigt sich mit Brandt - 15-Millionen-Preisschild für Zoma",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "HSV: Das Dilemma um Muheim",
+      "source": "kicker",
+      "sentiment": 0.27
+    },
+    {
+      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Werder macht Itten-Transfer offiziell: \"Er weiß, wo das Tor steht\"",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Grimaldo-Poker: Rolfes erklärt Bayers klares Zeichen an Atletico",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Zweiter Versuch nach Doppel-Leihe: Bekommt Bedia bei Union jetzt mehr Minuten?",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
       "title": "Trainer Albert Riera rechnet mit Eintracht Frankfurt ab – Kritik an Team",
       "source": "transfermarkt",
       "sentiment": -0.4
@@ -69,86 +149,6 @@
       "title": "Verlängerung offiziell: Was sich Werder von Weiser verspricht",
       "source": "kicker",
       "sentiment": -0.2
-    },
-    {
-      "title": "Atletico mit Grimaldo einig: Hier liegt Bayers Schmerzgrenze",
-      "source": "kicker",
-      "sentiment": 0.05
-    },
-    {
-      "title": "Glatzel-Transfer rückt näher - Grimaldo mit Atletico einig",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Die Sommer-Fahrpläne der Bundesligisten 2026/27",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Nach vielen Jahren in Salzburg: Seonbuchner wechselt an den Bayern-Campus",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Hoffenheim hat auch Sano im Visier",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kanada feiert 1. WM-Erfolg – Schwere Koné-Verletzung trübt Stimmung",
-      "source": "transfermarkt",
-      "sentiment": 0.34
-    },
-    {
-      "title": "Fritz Schmid über Abenteuer in Malaysia, Neuseeland & Ghana",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Mexikos WM-Fiesta geht weiter: Erstes Team in K.-o.-Runde",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "WM-Aus: Drama um Kanadas Koné – „Jeder konnte hören, wie der Knochen brach“",
-      "source": "transfermarkt",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Waldhof Mannheim holt Claudio Kammerknecht von Dynamo Dresden",
-      "source": "transfermarkt",
-      "sentiment": 0.4
-    },
-    {
-      "title": "WM-Ticker: Müller preist Manzambi bei Bayern an – Fan-Unmut wegen Trinkpausen",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "WM 2026: Doués wertvollste Brüder – Vier Paare für unterschiedliche Nationen",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "FC Bayern: Talenteförderer Gaydarov wird Co-Trainer von Ex-BVB-Coach Terzic",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Nächster Abschied von 1860 München: Jesper Verlaat wechselt zum BVB",
-      "source": "transfermarkt",
-      "sentiment": -0.7
-    },
-    {
-      "title": "WM 2026 tippen: Tolle Preise beim Streak‑Game von Transfermarkt gewinnen",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "\"Kompany versteht die Prioritäten\": Wie Marokkos Trainer Saibaris Bayern-Wechsel sieht",
-      "source": "kicker",
-      "sentiment": 0
     }
   ]
 }
