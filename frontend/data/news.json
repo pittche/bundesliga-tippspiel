@@ -1,6 +1,91 @@
 {
   "news": [
     {
+      "title": "TSG Hoffenheim: Torhüter Noll vor Wechsel zum SC Paderborn – Dritte Leihe seit 2024",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Messi alleiniger WM-Rekordtorschütze – Klose gratuliert sofort",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Messis Rekordtore gegen Österreich bringen Argentinien weiter",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Fortuna Düsseldorf: Energie Cottbus verpflichtet King Manu nach Leihe fest",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Frankreich schlägt Irak im Wetter-Chao – Mbappé bleibt an Messi dran",
+      "source": "transfermarkt",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Haaland trifft bei Sieg gegen Senegal – BVB-Profi Ryerson verletzt raus",
+      "source": "transfermarkt",
+      "sentiment": 0.05
+    },
+    {
+      "title": "WM-Ticker: Algerien dreht Partie, Geschenk für Klopp, Mexiko in Unruhe",
+      "source": "transfermarkt",
+      "sentiment": 0.05
+    },
+    {
+      "title": "Nach Aus beim FC Porto: Fluminense holt Thiago Silva erneut zurück",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Real Madrid: Alvarez will Atlético nach 150-Millionen-Offerte verlassen",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Saibaris Weg vom Aussortierten zum FC Bayern: „Sagten, ich sei zu fett“",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Zahlt Inter 50 Millionen für Palestra? - Juve hofft auf Rückkehr von Kolo Muani",
+      "source": "kicker",
+      "sentiment": 0.37
+    },
+    {
+      "title": "Also doch: Union kauft Hoffenheims Nsoki",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Das sind die Bundesliga-Trainer der Saison 2026/27",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Noll vor Wechsel nach Paderborn",
+      "source": "kicker",
+      "sentiment": 0.33
+    },
+    {
+      "title": "Ausstiegsklausel aktiviert: Leipzig macht Demichelis zum Werner-Nachfolger",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Der \"mehrmonatige\" Schlotterbeck-Ausfall und die Folgen für den BVB",
+      "source": "kicker",
+      "sentiment": -0.5
+    },
+    {
+      "title": "In zwei Transferfenstern überzeugt: Schalke befördert Lüftl",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
       "title": "Im Video: Spanien gegen Saudi-Arabien in Torlaune – Lamine Yamal trifft",
       "source": "transfermarkt",
       "sentiment": 0
@@ -64,91 +149,6 @@
       "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
       "source": "kicker",
       "sentiment": 0
-    },
-    {
-      "title": "Werder macht Itten-Transfer offiziell: \"Er weiß, wo das Tor steht\"",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Grimaldo-Poker: Rolfes erklärt Bayers klares Zeichen an Atletico",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Zweiter Versuch nach Doppel-Leihe: Bekommt Bedia bei Union jetzt mehr Minuten?",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Trainer Albert Riera rechnet mit Eintracht Frankfurt ab – Kritik an Team",
-      "source": "transfermarkt",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Nach Man-United-Abschied: Casemiro einigt sich mit Inter Miami",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Real Madrid beteuert: Kein Kontakt zu Olise – Gute Beziehung zum FC Bayern",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "WM-Fünferpack im Video: Niederlande düpiert harmlose Schweden",
-      "source": "transfermarkt",
-      "sentiment": -0.3
-    },
-    {
-      "title": "WM: Top-Joker Undav lässt DFB-Team spät gegen Elfenbeinküste jubeln",
-      "source": "transfermarkt",
-      "sentiment": 0.5
-    },
-    {
-      "title": "WM-Blog: Nagelsmann befürchtet Schlimmes bei Schlotterbeck – MRT folgt",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Curaçao feiert überraschenden Punkt gegen Ecuador – DFB-Team vorzeitig Gruppensieger",
-      "source": "transfermarkt",
-      "sentiment": 0.57
-    },
-    {
-      "title": "Japan schlägt Tunesien deutlich – Afrikaner verabschieden sich vorzeitig aus dem Turnier",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Viel Lob für Joker Undav – DFB-Team bangt um Abwehrchef Schlotterbeck",
-      "source": "transfermarkt",
-      "sentiment": 0.57
-    },
-    {
-      "title": "Drei Jahre nach Abstieg in die Drittklassigkeit: FC Málaga kehrt in LaLiga zurück",
-      "source": "transfermarkt",
-      "sentiment": -0.2
-    },
-    {
-      "title": "Bleibt Keitel in Augsburg? - Leeds wirbt um Elvedi - Vlahovic-Ultimatum",
-      "source": "kicker",
-      "sentiment": -0.03
-    },
-    {
-      "title": "\"Nicht das richtige Umfeld für mich\": Riera rechnet mit der Eintracht ab",
-      "source": "kicker",
-      "sentiment": -0.5
-    },
-    {
-      "title": "Der Weisheit zum Trotz: Kölns Erfahrungen mit dem \"schwierigen zweiten Jahr\"",
-      "source": "kicker",
-      "sentiment": -0.7
-    },
-    {
-      "title": "Verlängerung offiziell: Was sich Werder von Weiser verspricht",
-      "source": "kicker",
-      "sentiment": -0.2
     }
   ]
 }
