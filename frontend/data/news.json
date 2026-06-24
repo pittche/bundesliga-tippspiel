@@ -1,6 +1,86 @@
 {
   "news": [
     {
+      "title": "Kroatien-Joker sticht: Budimirs Tor gegen Panama im Video",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Díaz glücklos, aber Muñoz trifft: Kolumbien zieht in WM-K.o.-Runde ein",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "WM-Blog: Neymar vor erstem Einsatz – Bellingham beruhigt England-Fans",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "RSC Anderlecht holt Ex-Porto-Coach Vítor Bruno als neuen Trainer",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Regionalliga Nord 1968/69 in TM-Datenbank: Osnabrück wird Meister",
+      "source": "transfermarkt",
+      "sentiment": 0.45
+    },
+    {
+      "title": "Barcelona & Real dran: Alvarez will Atlético verlassen – Präsident reagiert",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Heidenheim-Rekordspieler Schnatterer wird Schmidts Co-Trainer",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Nmecha schließt BVB-Abgang nicht aus – FC Bayern drückt Bewunderung aus",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "1. FC Kaiserslautern sichert sich Anderlecht-Talent Kanaté",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Chelsea kapert Inters Palestra-Deal: Atalanta akzeptiert höheres Angebot",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Wechselt Leweling im Sommer? \"Sollte man nie ausschließen\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Ache - und wer sonst? Kölns Fragezeichen im Sturm",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Stuttgarts Keitel: Im zweiten Anlauf raus aus der Sackgasse",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Gladbach-CEO Stegemann stößt das Thema Investoren neu an",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Schnelle Einigung? Warum beim Grimaldo-Poker die Zeit für Bayer spielt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Diese 26 Klubs starten in der neuen U-21-Liga",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "TSG Hoffenheim: Torhüter Noll vor Wechsel zum SC Paderborn – Dritte Leihe seit 2024",
       "source": "transfermarkt",
       "sentiment": 0
@@ -69,86 +149,6 @@
       "title": "Noll vor Wechsel nach Paderborn",
       "source": "kicker",
       "sentiment": 0.33
-    },
-    {
-      "title": "Ausstiegsklausel aktiviert: Leipzig macht Demichelis zum Werner-Nachfolger",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Der \"mehrmonatige\" Schlotterbeck-Ausfall und die Folgen für den BVB",
-      "source": "kicker",
-      "sentiment": -0.5
-    },
-    {
-      "title": "In zwei Transferfenstern überzeugt: Schalke befördert Lüftl",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Im Video: Spanien gegen Saudi-Arabien in Torlaune – Lamine Yamal trifft",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "WM: Belgien gewinnt wieder nicht – Iraner starten mit acht Ü30-Profis",
-      "source": "transfermarkt",
-      "sentiment": 0.5
-    },
-    {
-      "title": "WM: Kap Verde überrascht auch Uruguay – Ägypten feiert wir beim Titel",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Nach WM-Fiasko: Tunesien-Spieler rechnet unter Tränen mit Verband ab",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "1860 München vor Insolvenz – Bruch mit Investor Hasan Ismaik",
-      "source": "transfermarkt",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Von Manzambi bis Bouaddi: Wer spielt sich ins Schaufenster? „WM wirkt als Beschleuniger“",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "3. Liga: Hansa Rostock holt Ex-Schalke-Talent Florian Bohnert",
-      "source": "transfermarkt",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Liverpool lehnt auch zweites Angebot von Inter Mailand für Jones ab",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Wer wäre Stand jetzt weiter? Die besten WM-Gruppendritten auf einen Klick",
-      "source": "transfermarkt",
-      "sentiment": 0.5
-    },
-    {
-      "title": "WM-Ticker: Türkei stärkt Trainer und Team – DFB-Präsident glaubt Nmecha",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Leeds beschäftigt sich mit Brandt - 15-Millionen-Preisschild für Zoma",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "HSV: Das Dilemma um Muheim",
-      "source": "kicker",
-      "sentiment": 0.27
-    },
-    {
-      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
-      "source": "kicker",
-      "sentiment": 0
     }
   ]
 }
