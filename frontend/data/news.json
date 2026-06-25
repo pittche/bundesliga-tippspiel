@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Allsvenskan 2006 neu in TM-Datenbank: Elfsborg knapp vor Aufsteiger AIK Solna",
+      "source": "transfermarkt",
+      "sentiment": 0.45
+    },
+    {
+      "title": "Schweiz feiert gegen WM-Gastgeber Kanada Gruppensieg – Bosnien träumt  von K.o.-Runde",
+      "source": "transfermarkt",
+      "sentiment": 0.57
+    },
+    {
+      "title": "Sachsenliga 2006/07 in TM-Datenbank: Markranstädt wird Meister und steigt auf",
+      "source": "transfermarkt",
+      "sentiment": 0.45
+    },
+    {
+      "title": "Alle Tore im Video: Brasilien tanzt, Marokko entgeht Blamage – Südafrika historisch",
+      "source": "transfermarkt",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Undav bleibt Joker beim DFB: Nagelsmann macht nur erzwungene Wechsel",
+      "source": "transfermarkt",
+      "sentiment": 0.5
+    },
+    {
+      "title": "VfL Wolfsburg: Paredes wechselt mit vier Jahren Verspätung zum FC Utrecht",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "WM-Ticker: Hammer-Sperre für Madibo, nächstes Unwetter droht – Götze lobt Brown",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Neue WM-Regeln: Was die Fans in der Bundesliga erwartet und was nicht",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Neymar feiert Brasilien-Comeback nach 982 Tagen: „Ich habe in der Umkleidekabine geweint“",
+      "source": "transfermarkt",
+      "sentiment": 0.38
+    },
+    {
+      "title": "Elversberg leiht Stuttgart-Talent Darvich: „Bringt exzellente technische Anlagen mit“",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "In der Bundesliga angekommen: Darvich wechselt nach Elversberg",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Raschl landet in Dresden - Pollersbeck trainiert in Cottbus mit",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Zweite Unterschrift in fünf Monaten: Bayer bindet Culbreath bis 2031",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Reset-Taste gedrückt: Union-Verteidiger Juranovic muss endlich Fahrt aufnehmen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Darum starten sieben Bundesligisten nicht in der U-21-Liga",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Heidel: Keine Angst vor Anfragen für die Mainzer WM-Stars",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Auch PSG an Olise dran - und was die Transfers von Saibari und Brown bedeuten",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Die Sommer-Fahrpläne der Bundesligisten 2026/27",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Grimaldo-Deal vor Abschluss: Leverkusen bekommt 25-Millionen-Euro-Paket",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Unterstützung von Hansa und ManCity: Gladbach präsentiert neue Co-Trainer",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
       "title": "Kroatien-Joker sticht: Budimirs Tor gegen Panama im Video",
       "source": "transfermarkt",
       "sentiment": 0.6
@@ -49,106 +149,6 @@
       "title": "Chelsea kapert Inters Palestra-Deal: Atalanta akzeptiert höheres Angebot",
       "source": "transfermarkt",
       "sentiment": 0
-    },
-    {
-      "title": "Wechselt Leweling im Sommer? \"Sollte man nie ausschließen\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Ache - und wer sonst? Kölns Fragezeichen im Sturm",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Stuttgarts Keitel: Im zweiten Anlauf raus aus der Sackgasse",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Gladbach-CEO Stegemann stößt das Thema Investoren neu an",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Schnelle Einigung? Warum beim Grimaldo-Poker die Zeit für Bayer spielt",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Diese 26 Klubs starten in der neuen U-21-Liga",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "TSG Hoffenheim: Torhüter Noll vor Wechsel zum SC Paderborn – Dritte Leihe seit 2024",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Messi alleiniger WM-Rekordtorschütze – Klose gratuliert sofort",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Messis Rekordtore gegen Österreich bringen Argentinien weiter",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Fortuna Düsseldorf: Energie Cottbus verpflichtet King Manu nach Leihe fest",
-      "source": "transfermarkt",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Frankreich schlägt Irak im Wetter-Chao – Mbappé bleibt an Messi dran",
-      "source": "transfermarkt",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Haaland trifft bei Sieg gegen Senegal – BVB-Profi Ryerson verletzt raus",
-      "source": "transfermarkt",
-      "sentiment": 0.05
-    },
-    {
-      "title": "WM-Ticker: Algerien dreht Partie, Geschenk für Klopp, Mexiko in Unruhe",
-      "source": "transfermarkt",
-      "sentiment": 0.05
-    },
-    {
-      "title": "Nach Aus beim FC Porto: Fluminense holt Thiago Silva erneut zurück",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Real Madrid: Alvarez will Atlético nach 150-Millionen-Offerte verlassen",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Saibaris Weg vom Aussortierten zum FC Bayern: „Sagten, ich sei zu fett“",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Zahlt Inter 50 Millionen für Palestra? - Juve hofft auf Rückkehr von Kolo Muani",
-      "source": "kicker",
-      "sentiment": 0.37
-    },
-    {
-      "title": "Also doch: Union kauft Hoffenheims Nsoki",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Das sind die Bundesliga-Trainer der Saison 2026/27",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Noll vor Wechsel nach Paderborn",
-      "source": "kicker",
-      "sentiment": 0.33
     }
   ]
 }
