@@ -1,6 +1,96 @@
 {
   "news": [
     {
+      "title": "Insolvenzverfahren bei 1860 München eröffnet – Welche Folgen drohen?",
+      "source": "transfermarkt",
+      "sentiment": -0.7
+    },
+    {
+      "title": "VfL Wolfsburg: Alessio Besio kommt vom SC Freiburg",
+      "source": "transfermarkt",
+      "sentiment": 0.45
+    },
+    {
+      "title": "Hertha BSC: Michaël Cuisance sorgt für nächsten Millionenregen",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Ajax will ter Stegen vom FC Barcelona und BVB-Profi Brandt",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "WM: Ecuador ringt DFB-Team nieder – Elfenbeinküste ohne Probleme",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Drei Sieger in Gruppe F: Niederlande, Japan und Schweden jubeln über K.o.-Runde",
+      "source": "transfermarkt",
+      "sentiment": 0.57
+    },
+    {
+      "title": "Türkei verabschiedet sich mit Last-Minute-Sieg von der WM – Paraguay zittert als Dritter",
+      "source": "transfermarkt",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Wer wird Deutschland-Gegner? Nur drei Teams übrig – Ranking der WM-Gruppendritten",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "WM-Ticker: Die Reaktionen zur DFB-Niederlage – Nike deutet neues Trikot an",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Manchester City macht Anderson von Nottingham zum teuersten Engländer",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "VfB erhält hohe Rechnung vom DFB - und bangt vor der nächsten",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "ManCity zahlt wohl 134,5 Millionen Euro für Anderson - Bayern-Einigung wegen Brown",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Werder-Wechsel geplatzt: Günther verlängert langfristig in Elversberg",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Elf Einsatzminuten: Aber Chandler bekommt noch ein Jahr in Frankfurt",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Nach zwei Abstiegen in Folge: Batista Meier unterschreibt in Paderborn",
+      "source": "kicker",
+      "sentiment": -0.7
+    },
+    {
+      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Bestens vertraut: Book holt Blacha aus Elversberg zum BVB",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "WM-Gewinner Nmecha: Wo die Dortmunder Schmerzgrenze liegt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Allsvenskan 2006 neu in TM-Datenbank: Elfsborg knapp vor Aufsteiger AIK Solna",
       "source": "transfermarkt",
       "sentiment": 0.45
@@ -59,96 +149,6 @@
       "title": "Raschl landet in Dresden - Pollersbeck trainiert in Cottbus mit",
       "source": "kicker",
       "sentiment": 0.35
-    },
-    {
-      "title": "Zweite Unterschrift in fünf Monaten: Bayer bindet Culbreath bis 2031",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Reset-Taste gedrückt: Union-Verteidiger Juranovic muss endlich Fahrt aufnehmen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Darum starten sieben Bundesligisten nicht in der U-21-Liga",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Heidel: Keine Angst vor Anfragen für die Mainzer WM-Stars",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Auch PSG an Olise dran - und was die Transfers von Saibari und Brown bedeuten",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Die Sommer-Fahrpläne der Bundesligisten 2026/27",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Grimaldo-Deal vor Abschluss: Leverkusen bekommt 25-Millionen-Euro-Paket",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Unterstützung von Hansa und ManCity: Gladbach präsentiert neue Co-Trainer",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Kroatien-Joker sticht: Budimirs Tor gegen Panama im Video",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Díaz glücklos, aber Muñoz trifft: Kolumbien zieht in WM-K.o.-Runde ein",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "WM-Blog: Neymar vor erstem Einsatz – Bellingham beruhigt England-Fans",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "RSC Anderlecht holt Ex-Porto-Coach Vítor Bruno als neuen Trainer",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Regionalliga Nord 1968/69 in TM-Datenbank: Osnabrück wird Meister",
-      "source": "transfermarkt",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Barcelona & Real dran: Alvarez will Atlético verlassen – Präsident reagiert",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Heidenheim-Rekordspieler Schnatterer wird Schmidts Co-Trainer",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Nmecha schließt BVB-Abgang nicht aus – FC Bayern drückt Bewunderung aus",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "1. FC Kaiserslautern sichert sich Anderlecht-Talent Kanaté",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Chelsea kapert Inters Palestra-Deal: Atalanta akzeptiert höheres Angebot",
-      "source": "transfermarkt",
-      "sentiment": 0
     }
   ]
 }
