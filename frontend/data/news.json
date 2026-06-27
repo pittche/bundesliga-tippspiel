@@ -1,6 +1,46 @@
 {
   "news": [
     {
+      "title": "Besondere Synergien: Hoffenheims Doppelpässe mit Österreich",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Thioune bremst die Erwartungen: Werder verpflichtet Magdeburgs Stalmach",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Die Sommer-Fahrpläne der Bundesligisten 2026/27",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Neuzugang in Kiel - Arsenal wird wegen Guimaraes bei Newcastle vorstellig",
+      "source": "kicker",
+      "sentiment": 0.37
+    },
+    {
+      "title": "Zu Gast beim englischen Meister: BVB bestreitet Testspiel beim FC Arsenal",
+      "source": "kicker",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Dritte Leihe in Folge: Noll wird Paderborns Seimen-Nachfolger",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Frankfurt mit KSC-Juwel Ben Farhat einig - Transfer hakt an Ablöse",
+      "source": "kicker",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Insolvenzverfahren bei 1860 München eröffnet – Welche Folgen drohen?",
       "source": "transfermarkt",
       "sentiment": -0.7
@@ -109,46 +149,6 @@
       "title": "Alle Tore im Video: Brasilien tanzt, Marokko entgeht Blamage – Südafrika historisch",
       "source": "transfermarkt",
       "sentiment": -0.05
-    },
-    {
-      "title": "Undav bleibt Joker beim DFB: Nagelsmann macht nur erzwungene Wechsel",
-      "source": "transfermarkt",
-      "sentiment": 0.5
-    },
-    {
-      "title": "VfL Wolfsburg: Paredes wechselt mit vier Jahren Verspätung zum FC Utrecht",
-      "source": "transfermarkt",
-      "sentiment": 0.4
-    },
-    {
-      "title": "WM-Ticker: Hammer-Sperre für Madibo, nächstes Unwetter droht – Götze lobt Brown",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Neue WM-Regeln: Was die Fans in der Bundesliga erwartet und was nicht",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Neymar feiert Brasilien-Comeback nach 982 Tagen: „Ich habe in der Umkleidekabine geweint“",
-      "source": "transfermarkt",
-      "sentiment": 0.38
-    },
-    {
-      "title": "Elversberg leiht Stuttgart-Talent Darvich: „Bringt exzellente technische Anlagen mit“",
-      "source": "transfermarkt",
-      "sentiment": 0.4
-    },
-    {
-      "title": "In der Bundesliga angekommen: Darvich wechselt nach Elversberg",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Raschl landet in Dresden - Pollersbeck trainiert in Cottbus mit",
-      "source": "kicker",
-      "sentiment": 0.35
     }
   ]
 }
