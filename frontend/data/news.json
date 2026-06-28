@@ -1,6 +1,86 @@
 {
   "news": [
     {
+      "title": "AC Milan vor Transfer von PSG-Stürmer Ramos – Nie zahlten Rossoneri mehr",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Borussia Mönchengladbach verleiht Pereira Cardoso an RAAL La Louvière",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Eintracht Frankfurts Kristensen vor Rückkehr nach Dänemark – Talent Pimpong kommt im Gegenzug",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Energie Cottbus: Wollitz entscheidend für Bittencourts Rückkehr",
+      "source": "transfermarkt",
+      "sentiment": 0.35
+    },
+    {
+      "title": "ESTAC Troyes bestätigt: Detourbet wechselt zu Man City – Berichte über Leihe zu Monaco",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Xhaka mündlich mit FC Chelsea einig – Wiedervereinigung mit Trainer Alonso",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Modric dreht die Zeit zurück: „Spielt, als wäre er 20“ – Kane-Rekord",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "WM 2026, Gruppe K: Kongo weiter – Portugal enttäuscht",
+      "source": "transfermarkt",
+      "sentiment": 0.35
+    },
+    {
+      "title": "WM 2026: Österreich und Algerien liefern Spektakel – Messi trifft bei Jubiläumssieg",
+      "source": "transfermarkt",
+      "sentiment": 0.5
+    },
+    {
+      "title": "WM-Blog: Gakpo bleibt bei Oranje – Schottlands Clarke tritt ab, Hoffnung für Brown",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Verlässt Kristensen Frankfurt? - Azzouzi plant weiter mit Schroers",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "\"Bei Großkreutz und mir wurde sogar abgebrochen\": Hofmanns Trainingszoff-Anekdote",
+      "source": "kicker",
+      "sentiment": -0.65
+    },
+    {
+      "title": "Ein Angebot müsste verrückt sein, doch: Unverkäuflich ist in Augsburg niemand",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Logischer Schritt\": Gladbach verleiht Pereira Cardoso nach Belgien",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "FC Bayern gibt Kusi-Asare zum FC Fulham ab",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Verlängert Laimer beim FC Bayern? \"Schaut nicht schlecht aus\"",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
       "title": "Besondere Synergien: Hoffenheims Doppelpässe mit Österreich",
       "source": "kicker",
       "sentiment": 0
@@ -69,86 +149,6 @@
       "title": "Drei Sieger in Gruppe F: Niederlande, Japan und Schweden jubeln über K.o.-Runde",
       "source": "transfermarkt",
       "sentiment": 0.57
-    },
-    {
-      "title": "Türkei verabschiedet sich mit Last-Minute-Sieg von der WM – Paraguay zittert als Dritter",
-      "source": "transfermarkt",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Wer wird Deutschland-Gegner? Nur drei Teams übrig – Ranking der WM-Gruppendritten",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "WM-Ticker: Die Reaktionen zur DFB-Niederlage – Nike deutet neues Trikot an",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Manchester City macht Anderson von Nottingham zum teuersten Engländer",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "VfB erhält hohe Rechnung vom DFB - und bangt vor der nächsten",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "ManCity zahlt wohl 134,5 Millionen Euro für Anderson - Bayern-Einigung wegen Brown",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Werder-Wechsel geplatzt: Günther verlängert langfristig in Elversberg",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Elf Einsatzminuten: Aber Chandler bekommt noch ein Jahr in Frankfurt",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Nach zwei Abstiegen in Folge: Batista Meier unterschreibt in Paderborn",
-      "source": "kicker",
-      "sentiment": -0.7
-    },
-    {
-      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Bestens vertraut: Book holt Blacha aus Elversberg zum BVB",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "WM-Gewinner Nmecha: Wo die Dortmunder Schmerzgrenze liegt",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Allsvenskan 2006 neu in TM-Datenbank: Elfsborg knapp vor Aufsteiger AIK Solna",
-      "source": "transfermarkt",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Schweiz feiert gegen WM-Gastgeber Kanada Gruppensieg – Bosnien träumt  von K.o.-Runde",
-      "source": "transfermarkt",
-      "sentiment": 0.57
-    },
-    {
-      "title": "Sachsenliga 2006/07 in TM-Datenbank: Markranstädt wird Meister und steigt auf",
-      "source": "transfermarkt",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Alle Tore im Video: Brasilien tanzt, Marokko entgeht Blamage – Südafrika historisch",
-      "source": "transfermarkt",
-      "sentiment": -0.05
     }
   ]
 }
