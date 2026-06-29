@@ -1,6 +1,91 @@
 {
   "news": [
     {
+      "title": "Ex-Bayer Lewandowski wählt Chicago Fire – Direkt gegen Thomas Müller?",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Torfestival zum EM-Auftakt: Onykea und Stange führen deutsche U19 zum Sieg gegen Dänemark",
+      "source": "transfermarkt",
+      "sentiment": 0.57
+    },
+    {
+      "title": "Bei Davies-Comeback: Kanada gelingt Lucky Punch gegen Südafrika",
+      "source": "transfermarkt",
+      "sentiment": 0.15
+    },
+    {
+      "title": "RB Leipzig: Diomande mit PSG einig – Forderung über Bellingham-Ablöse",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Eintracht Frankfurt: Midtjylland macht Kristensen zum Rekordtransfer – Pimpong kommt",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Südkorea-Trainer Hong tritt nach WM-Aus zurück – Scharfe Kritik aus Politik",
+      "source": "transfermarkt",
+      "sentiment": 0.27
+    },
+    {
+      "title": "WM-Blog: Drohnen über Mexiko-Camp – Paraguay-Trainer zählt DFB-Team zu Favoriten",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Eintracht Frankfurt und Coventry verhandeln Amenda-Transfer",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Schäfer selbstkritisch: RB Leipzigs unwürdige Trennung von Werner",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "FC Bayern: Ex-Talent Tom Ritzy Hülsmann als Rekordtransfer nach Frankreich",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Ein wahrer Held - auch neben dem Platz",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Diomande einig mit PSG? - Asano kehrt Europa den Rücken",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Spitzname und Markenzeichen: Der \"Stopper\" ist gegangen",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Hoffenheim testet in Tottenham",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Abschied von der TSG? Wolfsburg hat Damar im Visier",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Absolut legitim\": VfB-Boss Wohlgemuth reagiert auf Transfergedanken seiner Spieler",
+      "source": "kicker",
+      "sentiment": 0.37
+    },
+    {
+      "title": "Batista Meier: Zwölf Minuten Bundesliga für den Aufsteiger",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "AC Milan vor Transfer von PSG-Stürmer Ramos – Nie zahlten Rossoneri mehr",
       "source": "transfermarkt",
       "sentiment": 0.3
@@ -64,91 +149,6 @@
       "title": "Ein Angebot müsste verrückt sein, doch: Unverkäuflich ist in Augsburg niemand",
       "source": "kicker",
       "sentiment": 0
-    },
-    {
-      "title": "\"Logischer Schritt\": Gladbach verleiht Pereira Cardoso nach Belgien",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "FC Bayern gibt Kusi-Asare zum FC Fulham ab",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Verlängert Laimer beim FC Bayern? \"Schaut nicht schlecht aus\"",
-      "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Besondere Synergien: Hoffenheims Doppelpässe mit Österreich",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Thioune bremst die Erwartungen: Werder verpflichtet Magdeburgs Stalmach",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Die Sommer-Fahrpläne der Bundesligisten 2026/27",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Neuzugang in Kiel - Arsenal wird wegen Guimaraes bei Newcastle vorstellig",
-      "source": "kicker",
-      "sentiment": 0.37
-    },
-    {
-      "title": "Zu Gast beim englischen Meister: BVB bestreitet Testspiel beim FC Arsenal",
-      "source": "kicker",
-      "sentiment": -0.05
-    },
-    {
-      "title": "Dritte Leihe in Folge: Noll wird Paderborns Seimen-Nachfolger",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Frankfurt mit KSC-Juwel Ben Farhat einig - Transfer hakt an Ablöse",
-      "source": "kicker",
-      "sentiment": -0.05
-    },
-    {
-      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Insolvenzverfahren bei 1860 München eröffnet – Welche Folgen drohen?",
-      "source": "transfermarkt",
-      "sentiment": -0.7
-    },
-    {
-      "title": "VfL Wolfsburg: Alessio Besio kommt vom SC Freiburg",
-      "source": "transfermarkt",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Hertha BSC: Michaël Cuisance sorgt für nächsten Millionenregen",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Ajax will ter Stegen vom FC Barcelona und BVB-Profi Brandt",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "WM: Ecuador ringt DFB-Team nieder – Elfenbeinküste ohne Probleme",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Drei Sieger in Gruppe F: Niederlande, Japan und Schweden jubeln über K.o.-Runde",
-      "source": "transfermarkt",
-      "sentiment": 0.57
     }
   ]
 }
