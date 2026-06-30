@@ -1,6 +1,91 @@
 {
   "news": [
     {
+      "title": "Nagelsmann will Bundestrainer bleiben: „Bin keiner, der wegläuft“",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Saibari lässt Marokko bei WM jubeln: Nach Deutschland auch Niederlande raus",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Das sagt Klopp über Bundestrainer-Frage – Völler stärkt Nagelsmanns Rücken",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Nach WM-Aus: Oranje-Coach Koeman lässt Zukunft offen – Bosz Kandidat",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Coventry City verpflichtet Ex-Augsburger Onyeka fest von Brentford",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Marktwerte Belarus: Jamaika-Stürmer Nicholson klar abgewertet",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Trotz Transferveto: RB Leipzigs Diomande bestätigt Wechselwunsch",
+      "source": "transfermarkt",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Stimmen nach DFB-Aus: Kimmich macht als Kapitän weiter – Diskussionen um VAR",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Eintracht Frankfurt erfüllt Kristensens Wunsch: Für Rekordablöse zum FC Midtjylland",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Die Nagelsmann-Ära: Wunschlösung 2023, Freude bei Heim-EM, Tiefpunkt Slowakei",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Midtjyllands neuer Rekordtransfer? Eintracht lässt Kristensen ziehen",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Bosz bei Oranje im Gespräch - Barcelona fühlt wegen Kane vor",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "\"Gehe davon aus, dass ich den Verein verlassen werde\": Diomande strebt Wechsel an",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Die Fragezeichen um Adeyemi und Guirassy",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Vor Bundesliga-Spielplan: DFL veröffentlicht Spieltage der beiden Revierderbys",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Die Sommer-Fahrpläne der Bundesligisten 2026/27",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Absolut unwürdig\": Schäfer übt nach Werner-Aus harte Selbstkritik",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
       "title": "Ex-Bayer Lewandowski wählt Chicago Fire – Direkt gegen Thomas Müller?",
       "source": "transfermarkt",
       "sentiment": 0
@@ -64,91 +149,6 @@
       "title": "Spitzname und Markenzeichen: Der \"Stopper\" ist gegangen",
       "source": "kicker",
       "sentiment": 0.6
-    },
-    {
-      "title": "Hoffenheim testet in Tottenham",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Abschied von der TSG? Wolfsburg hat Damar im Visier",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Absolut legitim\": VfB-Boss Wohlgemuth reagiert auf Transfergedanken seiner Spieler",
-      "source": "kicker",
-      "sentiment": 0.37
-    },
-    {
-      "title": "Batista Meier: Zwölf Minuten Bundesliga für den Aufsteiger",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "AC Milan vor Transfer von PSG-Stürmer Ramos – Nie zahlten Rossoneri mehr",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Borussia Mönchengladbach verleiht Pereira Cardoso an RAAL La Louvière",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Eintracht Frankfurts Kristensen vor Rückkehr nach Dänemark – Talent Pimpong kommt im Gegenzug",
-      "source": "transfermarkt",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Energie Cottbus: Wollitz entscheidend für Bittencourts Rückkehr",
-      "source": "transfermarkt",
-      "sentiment": 0.35
-    },
-    {
-      "title": "ESTAC Troyes bestätigt: Detourbet wechselt zu Man City – Berichte über Leihe zu Monaco",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Xhaka mündlich mit FC Chelsea einig – Wiedervereinigung mit Trainer Alonso",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Modric dreht die Zeit zurück: „Spielt, als wäre er 20“ – Kane-Rekord",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "WM 2026, Gruppe K: Kongo weiter – Portugal enttäuscht",
-      "source": "transfermarkt",
-      "sentiment": 0.35
-    },
-    {
-      "title": "WM 2026: Österreich und Algerien liefern Spektakel – Messi trifft bei Jubiläumssieg",
-      "source": "transfermarkt",
-      "sentiment": 0.5
-    },
-    {
-      "title": "WM-Blog: Gakpo bleibt bei Oranje – Schottlands Clarke tritt ab, Hoffnung für Brown",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Verlässt Kristensen Frankfurt? - Azzouzi plant weiter mit Schroers",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "\"Bei Großkreutz und mir wurde sogar abgebrochen\": Hofmanns Trainingszoff-Anekdote",
-      "source": "kicker",
-      "sentiment": -0.65
-    },
-    {
-      "title": "Ein Angebot müsste verrückt sein, doch: Unverkäuflich ist in Augsburg niemand",
-      "source": "kicker",
-      "sentiment": 0
     }
   ]
 }
