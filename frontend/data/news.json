@@ -1,6 +1,96 @@
 {
   "news": [
     {
+      "title": "WM-Ticker: DFB-Spieler äußern sich – Merz-Kommentar als Panne",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Saisonwechsel in der TM-Datenbank: Gordon auf den Spuren von Mbappé und Wirtz",
+      "source": "transfermarkt",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Atlético Madrid: Clément Lenglet mit kuriosem Deal zu Benfica",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Premier League: Brighton holt Pascal Struijk von Leeds United",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Ecuador: Trainer Beccacece verkündet Rücktritt nach WM-Aus",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Nsoki bleibt nach Leihe fest bei Union Berlin – Transferminus für TSG Hoffenheim",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "1. FC Heidenheim verabschiedet Omar Traoré – Wende um Udinese-Wechsel",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Uruguay-Trainer Marcelo Bielsa verblüfft mit 100-Minuten-Auftritt",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "FC Barcelona verlängert mit Christensen – Deutliche Gehaltseinbußen",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "1. FC Nürnberg: Nick Seidel wechselt zum SC Verl in die 3. Liga",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "TSG zahlte einst zwölf Millionen Euro: Union verpflichtet Nsoki fest",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "\"Ich erfülle mir meinen Lebenstraum\": Grimaldos Wechsel zu Atletico offiziell",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Diese Bundesliga-Termine stehen für 2026/27 schon fest",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Nächster BL-Termin fix: Elversberg feiert Bundesliga-Premiere gegen Leverkusen",
+      "source": "kicker",
+      "sentiment": -0.7
+    },
+    {
+      "title": "Jetzt ist Augsburg an Behrens dran",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Millionensumme für einen 18-Jährigen: Pimpong unterschreibt in Frankfurt",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Fiel, Buck und Cambursano komplettieren Leipzigs Trainerteam",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Nagelsmann will Bundestrainer bleiben: „Bin keiner, der wegläuft“",
       "source": "transfermarkt",
       "sentiment": 0
@@ -56,99 +146,9 @@
       "sentiment": 0.3
     },
     {
-      "title": "Bosz bei Oranje im Gespräch - Barcelona fühlt wegen Kane vor",
+      "title": "Bosz bei Oranje im Gespräch - Konkrete Gespräche um Augsburgs Zesiger - Spurs vor Rekordtransfer",
       "source": "kicker",
       "sentiment": 0.35
-    },
-    {
-      "title": "\"Gehe davon aus, dass ich den Verein verlassen werde\": Diomande strebt Wechsel an",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Die Fragezeichen um Adeyemi und Guirassy",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Vor Bundesliga-Spielplan: DFL veröffentlicht Spieltage der beiden Revierderbys",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Die Sommer-Fahrpläne der Bundesligisten 2026/27",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Absolut unwürdig\": Schäfer übt nach Werner-Aus harte Selbstkritik",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Ex-Bayer Lewandowski wählt Chicago Fire – Direkt gegen Thomas Müller?",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Torfestival zum EM-Auftakt: Onykea und Stange führen deutsche U19 zum Sieg gegen Dänemark",
-      "source": "transfermarkt",
-      "sentiment": 0.57
-    },
-    {
-      "title": "Bei Davies-Comeback: Kanada gelingt Lucky Punch gegen Südafrika",
-      "source": "transfermarkt",
-      "sentiment": 0.15
-    },
-    {
-      "title": "RB Leipzig: Diomande mit PSG einig – Forderung über Bellingham-Ablöse",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Eintracht Frankfurt: Midtjylland macht Kristensen zum Rekordtransfer – Pimpong kommt",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Südkorea-Trainer Hong tritt nach WM-Aus zurück – Scharfe Kritik aus Politik",
-      "source": "transfermarkt",
-      "sentiment": 0.27
-    },
-    {
-      "title": "WM-Blog: Drohnen über Mexiko-Camp – Paraguay-Trainer zählt DFB-Team zu Favoriten",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Eintracht Frankfurt und Coventry verhandeln Amenda-Transfer",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Schäfer selbstkritisch: RB Leipzigs unwürdige Trennung von Werner",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "FC Bayern: Ex-Talent Tom Ritzy Hülsmann als Rekordtransfer nach Frankreich",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Ein wahrer Held - auch neben dem Platz",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Diomande einig mit PSG? - Asano kehrt Europa den Rücken",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Spitzname und Markenzeichen: Der \"Stopper\" ist gegangen",
-      "source": "kicker",
-      "sentiment": 0.6
     }
   ]
 }
