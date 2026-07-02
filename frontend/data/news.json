@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Für 50 Millionen Euro: Newcastle macht Touré zu Hoffenheims Rekordtransfer",
+      "source": "kicker",
+      "sentiment": 0.33
+    },
+    {
+      "title": "Besondere Geste: Deshalb spielt Saibari beim FC Bayern mit der Rückennummer 34",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "\"Eckpfeiler der Aufstiegsmannschaft\": Kristof bekennt sich zur Elv",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Umfrage: Ist Saibari eine gute Verstärkung für den FC Bayern?",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
+      "title": "Trikot-Präsentation als Fingerzeig? Waldschmidt fühlt sich in Köln \"extrem wohl\"",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "\"Einer der spannendsten Offensivspieler der WM\": Bayern holt Saibari",
+      "source": "kicker",
+      "sentiment": 0.55
+    },
+    {
+      "title": "Krügers erster Tag mit ersten Botschaften",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Diese Bundesliga-Termine und -Paarungen für 2026/27 stehen schon fest",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Bundesliga-Eröffnungsspiel: Bayern startet zu Hause gegen den VfB",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Krüger über Fabio Vieira: \"Versuchen, kreative Lösung zu finden\"",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Abwehrtalent Leszczynski im Anflug auf Gladbach",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Überraschender Job für Glasner? - Brighton kurz vor Vuskovic-Verpflichtung",
+      "source": "kicker",
+      "sentiment": 0.37
+    },
+    {
+      "title": "\"Guter Spirit, Siegermentalität und viel Energie\": Trainer Lustrinelli gibt den Weg vor",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Warum Real Madrid Grimaldos Verlängerung in Leverkusen verhinderte",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Fischer wartet mit Mainz auf den ersten Domino-Stein",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Elversbergs Rasselbande gibt sich äußerst selbstbewusst",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Erstaunliche Zufälle im Prozess wegen Hoffenheim-Machtkampf",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Ein besonderer Moment\": Der Borussia-Park trägt seit Mittwoch einen neuen Namen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Wolfsburg ruft 30 Millionen Euro auf: VfB winkt bei Pejcinovic ab",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Schwere Verletzung beim Aufwärmen: Bayern-Keeper Prescott fällt lange aus",
+      "source": "kicker",
+      "sentiment": -0.05
+    },
+    {
       "title": "WM-Ticker: DFB-Spieler äußern sich – Merz-Kommentar als Panne",
       "source": "transfermarkt",
       "sentiment": 0.6
@@ -49,106 +149,6 @@
       "title": "1. FC Nürnberg: Nick Seidel wechselt zum SC Verl in die 3. Liga",
       "source": "transfermarkt",
       "sentiment": 0
-    },
-    {
-      "title": "TSG zahlte einst zwölf Millionen Euro: Union verpflichtet Nsoki fest",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "\"Ich erfülle mir meinen Lebenstraum\": Grimaldos Wechsel zu Atletico offiziell",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Diese Bundesliga-Termine stehen für 2026/27 schon fest",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Nächster BL-Termin fix: Elversberg feiert Bundesliga-Premiere gegen Leverkusen",
-      "source": "kicker",
-      "sentiment": -0.7
-    },
-    {
-      "title": "Jetzt ist Augsburg an Behrens dran",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Millionensumme für einen 18-Jährigen: Pimpong unterschreibt in Frankfurt",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Fiel, Buck und Cambursano komplettieren Leipzigs Trainerteam",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Nagelsmann will Bundestrainer bleiben: „Bin keiner, der wegläuft“",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Saibari lässt Marokko bei WM jubeln: Nach Deutschland auch Niederlande raus",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Das sagt Klopp über Bundestrainer-Frage – Völler stärkt Nagelsmanns Rücken",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Nach WM-Aus: Oranje-Coach Koeman lässt Zukunft offen – Bosz Kandidat",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Coventry City verpflichtet Ex-Augsburger Onyeka fest von Brentford",
-      "source": "transfermarkt",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Marktwerte Belarus: Jamaika-Stürmer Nicholson klar abgewertet",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Trotz Transferveto: RB Leipzigs Diomande bestätigt Wechselwunsch",
-      "source": "transfermarkt",
-      "sentiment": -0.05
-    },
-    {
-      "title": "Stimmen nach DFB-Aus: Kimmich macht als Kapitän weiter – Diskussionen um VAR",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Eintracht Frankfurt erfüllt Kristensens Wunsch: Für Rekordablöse zum FC Midtjylland",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Die Nagelsmann-Ära: Wunschlösung 2023, Freude bei Heim-EM, Tiefpunkt Slowakei",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Midtjyllands neuer Rekordtransfer? Eintracht lässt Kristensen ziehen",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Bosz bei Oranje im Gespräch - Konkrete Gespräche um Augsburgs Zesiger - Spurs vor Rekordtransfer",
-      "source": "kicker",
-      "sentiment": 0.35
     }
   ]
 }
