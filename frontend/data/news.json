@@ -1,6 +1,116 @@
 {
   "news": [
     {
+      "title": "Weg für Glasner frei: Nottingham trennt sich von Pereira – War 4. Forest-Trainer in einer Saison",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Transferduell zwischen Manchester City und Arsenal um 16-jährigen Monga",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Spanien eine Nummer zu groß für Österreich – Viertes WM-Spiel ohne Gegentreffer",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Portugal eliminiert Kroatien und fordert Spanier im Achtelfinale",
+      "source": "transfermarkt",
+      "sentiment": 0.7
+    },
+    {
+      "title": "WM-Ticker: Sperrstunde in England verschoben – Nagelsmann soll zurücktreten",
+      "source": "transfermarkt",
+      "sentiment": 0.45
+    },
+    {
+      "title": "Alle Tore im Video: Schweiz bucht Achtelfinale zum 4. Mal in Folge",
+      "source": "transfermarkt",
+      "sentiment": 0.55
+    },
+    {
+      "title": "Österreichs Tränen und Arnautovics emotionaler Abschied: „Immer vorangegangen“",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Nach DFB-Krisensitzung: Nagelsmann wird Rücktritt als Bundestrainer erklären",
+      "source": "transfermarkt",
+      "sentiment": -0.7
+    },
+    {
+      "title": "Silas Gnaka verlässt 1. FC Magdeburg in Richtung Belarus",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Elversbergs Frederik Schmahl über Tränen, Familie, Aufstieg & Asllani",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Xhaka verweist auf sein Management - Kehrt Palhinha zu Bayern zurück?",
+      "source": "kicker",
+      "sentiment": 0.33
+    },
+    {
+      "title": "Kölns Geißbockheim-Ausbau: Politischer Durchbruch nach zwölf Jahren",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Weitere Millionen für Nürnberg: Lochoshvili wechselt nach Köln",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Brown beim Medizincheck, gute Nachrichten von Karl - und das teure Problem mit Nübel",
+      "source": "kicker",
+      "sentiment": 0.05
+    },
+    {
+      "title": "Duranville verlässt BVB fest gen Lyon - und will auf Cherkis Spuren wandeln",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Bundesliga-Ranking: Wer hat das schwerste Startprogramm - wer das leichteste?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Meister? Aufsteiger? Absteiger? Die Umfrage zum Bundesliga-Sonderheft 2026/27",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Wagners \"Bremse\" bleibt: Co-Trainer Reutershahn verlängert in Köln",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Kehrtwende perfekt: Zagadou verlängert doch in Stuttgart",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Zweitliga-Spielplan 2026/27: Wolfsburg empfängt Lautern zum Auftakt - Derbyzeit am 2. Spieltag",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Der Bundesliga-Spielplan 2026/27: BVB startet gegen HSV, Klassiker am 8. Spieltag",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Top 10: Die schönsten Kane-Tore der Saison 2025/26",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Für 50 Millionen Euro: Newcastle macht Touré zu Hoffenheims Rekordtransfer",
       "source": "kicker",
       "sentiment": 0.33
@@ -38,116 +148,6 @@
     {
       "title": "Diese Bundesliga-Termine und -Paarungen für 2026/27 stehen schon fest",
       "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Bundesliga-Eröffnungsspiel: Bayern startet zu Hause gegen den VfB",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Krüger über Fabio Vieira: \"Versuchen, kreative Lösung zu finden\"",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Abwehrtalent Leszczynski im Anflug auf Gladbach",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Überraschender Job für Glasner? - Brighton kurz vor Vuskovic-Verpflichtung",
-      "source": "kicker",
-      "sentiment": 0.37
-    },
-    {
-      "title": "\"Guter Spirit, Siegermentalität und viel Energie\": Trainer Lustrinelli gibt den Weg vor",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Warum Real Madrid Grimaldos Verlängerung in Leverkusen verhinderte",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Fischer wartet mit Mainz auf den ersten Domino-Stein",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Elversbergs Rasselbande gibt sich äußerst selbstbewusst",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Erstaunliche Zufälle im Prozess wegen Hoffenheim-Machtkampf",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Ein besonderer Moment\": Der Borussia-Park trägt seit Mittwoch einen neuen Namen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wolfsburg ruft 30 Millionen Euro auf: VfB winkt bei Pejcinovic ab",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Schwere Verletzung beim Aufwärmen: Bayern-Keeper Prescott fällt lange aus",
-      "source": "kicker",
-      "sentiment": -0.05
-    },
-    {
-      "title": "WM-Ticker: DFB-Spieler äußern sich – Merz-Kommentar als Panne",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Saisonwechsel in der TM-Datenbank: Gordon auf den Spuren von Mbappé und Wirtz",
-      "source": "transfermarkt",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Atlético Madrid: Clément Lenglet mit kuriosem Deal zu Benfica",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Premier League: Brighton holt Pascal Struijk von Leeds United",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Ecuador: Trainer Beccacece verkündet Rücktritt nach WM-Aus",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Nsoki bleibt nach Leihe fest bei Union Berlin – Transferminus für TSG Hoffenheim",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "1. FC Heidenheim verabschiedet Omar Traoré – Wende um Udinese-Wechsel",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Uruguay-Trainer Marcelo Bielsa verblüfft mit 100-Minuten-Auftritt",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "FC Barcelona verlängert mit Christensen – Deutliche Gehaltseinbußen",
-      "source": "transfermarkt",
-      "sentiment": 0.4
-    },
-    {
-      "title": "1. FC Nürnberg: Nick Seidel wechselt zum SC Verl in die 3. Liga",
-      "source": "transfermarkt",
       "sentiment": 0
     }
   ]
