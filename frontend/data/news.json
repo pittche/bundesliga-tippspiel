@@ -1,6 +1,131 @@
 {
   "news": [
     {
+      "title": "Fenerbahce holt Aké von Manchester City –  Überangebot in der Abwehr",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Sunderland blockiert Xhakas Chelsea-Transfer – Schweizer bekennt sich zum Klub",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Postecoglou übernimmt bei Al-Nassr – Letzter Trainerjob endete nach 39 Tagen",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "WM im Video: Ägypten schreibt Geschichte – Sieg gegen Australien",
+      "source": "transfermarkt",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Klopp: „Es werden intensive Gespräche sein müssen“ – Timing besser denn je",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Mit Mühe und Messi: Argentinien stoppt Kap Verdes WM-Märchen",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Highlights im Video: Geheimfavorit Kolumbien schaltet Ghana aus",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "WM-Ticker: „König“ Salah, Messi zittert, Klopp ist bereit für DFB-Team",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "WM-Achtelfinale steht – was kommt danach? Diese Top-Duelle sind möglich",
+      "source": "transfermarkt",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Union oder 96? Raab vor Grundsatzentscheidung – Ablöse-Poker um Keeper läuft",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Teure Pyrotechnik: Bayer muss fast 200.000 Euro zahlen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Paderborn präsentiert Auswärtstrikot und neuen Hauptsponsor",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Newcastle hat jetzt auch ein Auge auf Stuttgarts Stiller",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Brown auf Platz 5: Die teuersten Abgänge der SGE",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Hoffenheim angelt sich kroatisches Toptalent Dedic",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "DFB-Block wächst: Bayern holt Nationalspieler Brown aus Frankfurt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Profi-Chance mit \"Augenmaß\": Eintracht bindet Talent Ilicevic langfristig",
+      "source": "kicker",
+      "sentiment": -0.5
+    },
+    {
+      "title": "Ter Stegen bei Ajax zum Check - Onana wird erneut verliehen",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Ablöse in Millionenhöhe: Gladbach verpflichtet Talent Leszczynski",
+      "source": "kicker",
+      "sentiment": 0.37
+    },
+    {
+      "title": "Schachbrett statt Streifen: So sieht Elversbergs erstes Bundesliga-Trikot aus",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Badische Toskana\": Hoffenheim stellt zwei neue Trikots vor",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Ein \"Klassiker\": Mainz 05 enthüllt sein neues Heimtrikot",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kleines Loch im Kader: Augsburg verliert Zesiger an Bern",
+      "source": "kicker",
+      "sentiment": 0.05
+    },
+    {
+      "title": "Frühstart ohne Ballast: Boniface sendet erste Signale",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Weg für Glasner frei: Nottingham trennt sich von Pereira – War 4. Forest-Trainer in einer Saison",
       "source": "transfermarkt",
       "sentiment": 0
@@ -24,131 +149,6 @@
       "title": "WM-Ticker: Sperrstunde in England verschoben – Nagelsmann soll zurücktreten",
       "source": "transfermarkt",
       "sentiment": 0.45
-    },
-    {
-      "title": "Alle Tore im Video: Schweiz bucht Achtelfinale zum 4. Mal in Folge",
-      "source": "transfermarkt",
-      "sentiment": 0.55
-    },
-    {
-      "title": "Österreichs Tränen und Arnautovics emotionaler Abschied: „Immer vorangegangen“",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Nach DFB-Krisensitzung: Nagelsmann wird Rücktritt als Bundestrainer erklären",
-      "source": "transfermarkt",
-      "sentiment": -0.7
-    },
-    {
-      "title": "Silas Gnaka verlässt 1. FC Magdeburg in Richtung Belarus",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Elversbergs Frederik Schmahl über Tränen, Familie, Aufstieg & Asllani",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Xhaka verweist auf sein Management - Kehrt Palhinha zu Bayern zurück?",
-      "source": "kicker",
-      "sentiment": 0.33
-    },
-    {
-      "title": "Kölns Geißbockheim-Ausbau: Politischer Durchbruch nach zwölf Jahren",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Weitere Millionen für Nürnberg: Lochoshvili wechselt nach Köln",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Brown beim Medizincheck, gute Nachrichten von Karl - und das teure Problem mit Nübel",
-      "source": "kicker",
-      "sentiment": 0.05
-    },
-    {
-      "title": "Duranville verlässt BVB fest gen Lyon - und will auf Cherkis Spuren wandeln",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Bundesliga-Ranking: Wer hat das schwerste Startprogramm - wer das leichteste?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Meister? Aufsteiger? Absteiger? Die Umfrage zum Bundesliga-Sonderheft 2026/27",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Wagners \"Bremse\" bleibt: Co-Trainer Reutershahn verlängert in Köln",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Kehrtwende perfekt: Zagadou verlängert doch in Stuttgart",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Zweitliga-Spielplan 2026/27: Wolfsburg empfängt Lautern zum Auftakt - Derbyzeit am 2. Spieltag",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Der Bundesliga-Spielplan 2026/27: BVB startet gegen HSV, Klassiker am 8. Spieltag",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Top 10: Die schönsten Kane-Tore der Saison 2025/26",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Für 50 Millionen Euro: Newcastle macht Touré zu Hoffenheims Rekordtransfer",
-      "source": "kicker",
-      "sentiment": 0.33
-    },
-    {
-      "title": "Besondere Geste: Deshalb spielt Saibari beim FC Bayern mit der Rückennummer 34",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "\"Eckpfeiler der Aufstiegsmannschaft\": Kristof bekennt sich zur Elv",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Umfrage: Ist Saibari eine gute Verstärkung für den FC Bayern?",
-      "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Trikot-Präsentation als Fingerzeig? Waldschmidt fühlt sich in Köln \"extrem wohl\"",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "\"Einer der spannendsten Offensivspieler der WM\": Bayern holt Saibari",
-      "source": "kicker",
-      "sentiment": 0.55
-    },
-    {
-      "title": "Krügers erster Tag mit ersten Botschaften",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Diese Bundesliga-Termine und -Paarungen für 2026/27 stehen schon fest",
-      "source": "kicker",
-      "sentiment": 0
     }
   ]
 }
