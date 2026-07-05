@@ -1,6 +1,71 @@
 {
   "news": [
     {
+      "title": "Hertha BSC: Ex-Profi John Brooks wechselt zu Viertligist Altglienicke",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Cabrals Weg von der 5. Liga zum WM-Star mit Kap Verde: „Gezeigt, wie viel ein Prozent ausmacht“",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Schalke einigt sich mit Dina Ebimbe – Annäherung mit Eintracht Frankfurt",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Messi, Mbappé & Co.: Topstars duellieren sich um Torjägerkanone – Olise vor WM-Rekord",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Spanien deklassiert DFB-Team bei U19-EM – BVB-Talent Diallo trifft",
+      "source": "transfermarkt",
+      "sentiment": 0.57
+    },
+    {
+      "title": "Besiktas und Arsenal einigen sich auf Ablöse für Trossard – Nur Kökçü war teurer",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Marokko besiegt Kanada und steht im WM-Viertelfinale – Sorgen um Bayerns Saibari",
+      "source": "transfermarkt",
+      "sentiment": 0.55
+    },
+    {
+      "title": "WM-Favorit Frankreich müht sich gegen DFB-Bezwinger Paraguay ins Viertelfinale",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Feulners Rückblick: Malträtierte Knie, Boxer-Rat von Gerland und Ziele",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "WM-Ticker: Matthäus kritisiert Nagelsmann – Tuchel dementiert Viagra-Gerücht",
+      "source": "transfermarkt",
+      "sentiment": 0.1
+    },
+    {
+      "title": "Trossard vor überraschendem Türkei-Wechsel - Dina Ebimbe zu Schalke?",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Hertha beim Aufgalopp in Torlaune",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Was das frühe deutsche WM-Aus für die Vorbereitungen von Bayern, BVB und VfB bedeutet",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Fenerbahce holt Aké von Manchester City –  Überangebot in der Abwehr",
       "source": "transfermarkt",
       "sentiment": 0
@@ -84,71 +149,6 @@
       "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
       "source": "kicker",
       "sentiment": 0
-    },
-    {
-      "title": "Profi-Chance mit \"Augenmaß\": Eintracht bindet Talent Ilicevic langfristig",
-      "source": "kicker",
-      "sentiment": -0.5
-    },
-    {
-      "title": "Ter Stegen bei Ajax zum Check - Onana wird erneut verliehen",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Ablöse in Millionenhöhe: Gladbach verpflichtet Talent Leszczynski",
-      "source": "kicker",
-      "sentiment": 0.37
-    },
-    {
-      "title": "Schachbrett statt Streifen: So sieht Elversbergs erstes Bundesliga-Trikot aus",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Badische Toskana\": Hoffenheim stellt zwei neue Trikots vor",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Ein \"Klassiker\": Mainz 05 enthüllt sein neues Heimtrikot",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kleines Loch im Kader: Augsburg verliert Zesiger an Bern",
-      "source": "kicker",
-      "sentiment": 0.05
-    },
-    {
-      "title": "Frühstart ohne Ballast: Boniface sendet erste Signale",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Weg für Glasner frei: Nottingham trennt sich von Pereira – War 4. Forest-Trainer in einer Saison",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Transferduell zwischen Manchester City und Arsenal um 16-jährigen Monga",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Spanien eine Nummer zu groß für Österreich – Viertes WM-Spiel ohne Gegentreffer",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Portugal eliminiert Kroatien und fordert Spanier im Achtelfinale",
-      "source": "transfermarkt",
-      "sentiment": 0.7
-    },
-    {
-      "title": "WM-Ticker: Sperrstunde in England verschoben – Nagelsmann soll zurücktreten",
-      "source": "transfermarkt",
-      "sentiment": 0.45
     }
   ]
 }
