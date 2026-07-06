@@ -1,6 +1,136 @@
 {
   "news": [
     {
+      "title": "TSG Hoffenheim: Newcastle kauft Touré",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "1. FC Magdeburg verstärkt sich mit Yoon von Brighton",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Haaland schießt Brasilien raus: Norwegen erstmals im WM-Viertelfinale",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "England gewinnt episches Duell mit Mexiko – Henderson sorgt für Schreckmoment",
+      "source": "transfermarkt",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Mexiko-Coach Aguirre bestätigt Abschied – Auch Ghana braucht wieder mal neuen Nationalcoach",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Neymar tritt aus Brasiliens Nationalteam zurück: „Ich habe es wirklich versucht“",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Haller wechselt nach Hiroshima – Ex-BVB-Profi verlässt Utrecht nach enttäuschender Saison",
+      "source": "transfermarkt",
+      "sentiment": -0.5
+    },
+    {
+      "title": "Werder Bremen: Polen-Shootingstar Oskar Wójcik vor Unterschrift",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "WM-Ticker: Balogun-Entscheidung polarisiert – Klopp wütet gegen Trump und Infantino",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "TSG Hoffenheim gewinnt Werben um Kroatien-Talent Jakov Dedic",
+      "source": "transfermarkt",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Packt er es noch? Gladbachs Hoffnungen auf den Machino-Durchbruch",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Stark: Konservativ zurück zur Konstante?",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
+      "title": "Touré kratzt an der Spitzengruppe: Die Rekord-Abgänge der 18 Bundesligisten",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Sankoh verlässt den VfB - Haller unterschreibt in Japan",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Hoffenheim mit RB einig: Tabakovic vor Wechsel nach Salzburg",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kaminskis Abgang naht - und verschafft Köln Möglichkeiten",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Hoffenheims Rekord-Abgang offiziell: Touré wechselt nach Newcastle",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "\"Sie waren der Gamechanger\": Tausende Zuschauer beim Schalke-Training",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Höheres Pressing, mehr Zug zum Tor: So will Lustrinelli Union ein Facelift verpassen",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Viel Vertrauen in Mainz-Keeper Zentner - wenig Erfahrung dahinter",
+      "source": "kicker",
+      "sentiment": -0.5
+    },
+    {
+      "title": "\"Er bleibt\": Upamecano beruhigt Bayern-Fans mit Olise-Aussage",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Ansage aus Paderborn: \"Wir wollen Geschichte schreiben\"",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Tauziehen um Stuttgarts Olivier",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Ehrgeiz und Ungeduld: Der Abgang von El Khannouss aus Stuttgart droht",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Gewaltige Schmerzgrenze: Warum Bayer weiter mit Kofane plant",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Hertha BSC: Ex-Profi John Brooks wechselt zu Viertligist Altglienicke",
       "source": "transfermarkt",
       "sentiment": 0.4
@@ -19,136 +149,6 @@
       "title": "Messi, Mbappé & Co.: Topstars duellieren sich um Torjägerkanone – Olise vor WM-Rekord",
       "source": "transfermarkt",
       "sentiment": 0.6
-    },
-    {
-      "title": "Spanien deklassiert DFB-Team bei U19-EM – BVB-Talent Diallo trifft",
-      "source": "transfermarkt",
-      "sentiment": 0.57
-    },
-    {
-      "title": "Besiktas und Arsenal einigen sich auf Ablöse für Trossard – Nur Kökçü war teurer",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Marokko besiegt Kanada und steht im WM-Viertelfinale – Sorgen um Bayerns Saibari",
-      "source": "transfermarkt",
-      "sentiment": 0.55
-    },
-    {
-      "title": "WM-Favorit Frankreich müht sich gegen DFB-Bezwinger Paraguay ins Viertelfinale",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Feulners Rückblick: Malträtierte Knie, Boxer-Rat von Gerland und Ziele",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "WM-Ticker: Matthäus kritisiert Nagelsmann – Tuchel dementiert Viagra-Gerücht",
-      "source": "transfermarkt",
-      "sentiment": 0.1
-    },
-    {
-      "title": "Trossard vor überraschendem Türkei-Wechsel - Dina Ebimbe zu Schalke?",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Hertha beim Aufgalopp in Torlaune",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Was das frühe deutsche WM-Aus für die Vorbereitungen von Bayern, BVB und VfB bedeutet",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Fenerbahce holt Aké von Manchester City –  Überangebot in der Abwehr",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Sunderland blockiert Xhakas Chelsea-Transfer – Schweizer bekennt sich zum Klub",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Postecoglou übernimmt bei Al-Nassr – Letzter Trainerjob endete nach 39 Tagen",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "WM im Video: Ägypten schreibt Geschichte – Sieg gegen Australien",
-      "source": "transfermarkt",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Klopp: „Es werden intensive Gespräche sein müssen“ – Timing besser denn je",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Mit Mühe und Messi: Argentinien stoppt Kap Verdes WM-Märchen",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Highlights im Video: Geheimfavorit Kolumbien schaltet Ghana aus",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "WM-Ticker: „König“ Salah, Messi zittert, Klopp ist bereit für DFB-Team",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "WM-Achtelfinale steht – was kommt danach? Diese Top-Duelle sind möglich",
-      "source": "transfermarkt",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Union oder 96? Raab vor Grundsatzentscheidung – Ablöse-Poker um Keeper läuft",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Teure Pyrotechnik: Bayer muss fast 200.000 Euro zahlen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Paderborn präsentiert Auswärtstrikot und neuen Hauptsponsor",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Newcastle hat jetzt auch ein Auge auf Stuttgarts Stiller",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Brown auf Platz 5: Die teuersten Abgänge der SGE",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Hoffenheim angelt sich kroatisches Toptalent Dedic",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "DFB-Block wächst: Bayern holt Nationalspieler Brown aus Frankfurt",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
-      "source": "kicker",
-      "sentiment": 0
     }
   ]
 }
