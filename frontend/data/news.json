@@ -1,6 +1,86 @@
 {
   "news": [
     {
+      "title": "Klopp: Darum wollte ich, dass Völler beim DFB weitermacht",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Schweiz komplettiert WM-Viertelfinale – Elfmeter-Drama gegen Kolumbien",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Arbeloa beim FC Fulham präsentiert – Erster spanischer Trainer der Klubgeschichte",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Ex-Mainzer Gruda vor RB-Leipzig-Rückkehr – Mit Kaufpflicht so teuer wie Lukeba",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Couto-Wechsel zu Como vor Abschluss – BVB kann Man-City-Ablöse wieder reinholen",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "1. FC Köln: „El Mama“ macht klare Ansage im El-Mala-Poker",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Eintracht Frankfurt: Krösche Kandidat als Klopp-Nachfolger bei Red Bull",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Golden Boy Top 100 mit 19 Bundesliga-Talenten – Quintett um Eichhorn neu dabei",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "WM-Ticker: Schweinsteiger & Co. zum DFB? Der Stand bei Manzambi",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Newcastle United bietet für Torhüter Nicolas – Gladbach lehnt erstes Angebot ab",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Zweitteuerster Verkauf der FC-Geschichte: Kaminski wechselt zu Benfica",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Kompany setzte sich für Rückkehr ein: Ibrahimovic verlängert bei Bayern",
+      "source": "kicker",
+      "sentiment": 0.47
+    },
+    {
+      "title": "Vom Aussortierten zum WM-Star - und Bayerns Neuner der Zukunft?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Hellmann: \"Wir müssen Pyrotechnik bei uns grundsätzlich infrage stellen\"",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Newcastle kontaktiert Freiburg wegen Manzambi - Endet Hannovers Torwart-Suche in der Schweiz?",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Väter des Erfolgs: Freiburg bindet Leki und Saier langfristig",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
       "title": "Nübel wohl vor Wechsel zu Besiktas - Pochettino lässt Zukunft offen",
       "source": "kicker",
       "sentiment": 0.35
@@ -68,86 +148,6 @@
     {
       "title": "Werder Bremen: Polen-Shootingstar Oskar Wójcik vor Unterschrift",
       "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "WM-Ticker: Balogun-Entscheidung polarisiert – Klopp wütet gegen Trump und Infantino",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "TSG Hoffenheim gewinnt Werben um Kroatien-Talent Jakov Dedic",
-      "source": "transfermarkt",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Packt er es noch? Gladbachs Hoffnungen auf den Machino-Durchbruch",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Stark: Konservativ zurück zur Konstante?",
-      "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Touré kratzt an der Spitzengruppe: Die Rekord-Abgänge der 18 Bundesligisten",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Sankoh verlässt den VfB - Haller unterschreibt in Japan",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Hoffenheim mit RB einig: Tabakovic vor Wechsel nach Salzburg",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kaminskis Abgang naht - und verschafft Köln Möglichkeiten",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Hoffenheims Rekord-Abgang offiziell: Touré wechselt nach Newcastle",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "\"Sie waren der Gamechanger\": Tausende Zuschauer beim Schalke-Training",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Höheres Pressing, mehr Zug zum Tor: So will Lustrinelli Union ein Facelift verpassen",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Viel Vertrauen in Mainz-Keeper Zentner - wenig Erfahrung dahinter",
-      "source": "kicker",
-      "sentiment": -0.5
-    },
-    {
-      "title": "\"Er bleibt\": Upamecano beruhigt Bayern-Fans mit Olise-Aussage",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Ansage aus Paderborn: \"Wir wollen Geschichte schreiben\"",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Tauziehen um Stuttgarts Olivier",
-      "source": "kicker",
       "sentiment": 0
     }
   ]
