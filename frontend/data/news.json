@@ -1,6 +1,136 @@
 {
   "news": [
     {
+      "title": "FC Bayern: Torhüter Nübel wechselt zu Besiktas – Niedrige Ablöse akzeptiert",
+      "source": "transfermarkt",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Leeds United macht Harry Wilson zum ersten Neuzugang",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Manchester United vor Transfer von Chelseas Andrey Santos – Plan C",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Jastrzembski auf Klubsuche: Kiel wäre „ein Traum“ – Fortuna „im Herzen geblieben“",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Dank Stange und Onyeka: Deutsche U19 steht im EM-Finale gegen Spanien",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Deportivo A Coruña kauft Asp Jensen vom FC Bayern – Ablösedetails",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Barça gibt Angebot für BVB-Stürmer Adeyemi ab – Selber Berater wie Lamine Yamal",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Fenerbahce arbeitet an Greenwood-Deal – Dreifaches Gehalt wie in Marseille",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "WM-Ticker: Ärger um Norwegens Team-Hotel – Marokkos Saibari fällt aus",
+      "source": "transfermarkt",
+      "sentiment": 0.05
+    },
+    {
+      "title": "Schalke verhandelt mit Neapel über Lindstrøm – Ohne Tor seit 30-Millionen-Transfer",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Adeyemi soll sich mit Barcelona einig sein - aber es gibt noch kein Angebot",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Vlahovic sucht Kontakt zu Juve - Greenwood vor Wechsel nach Istanbul",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Die Erkenntnis der BVB-Verantwortlichen bei Bellingham - und was sie von ihm fordern",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Verjüngungskur am Mainzer Bruchweg",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Für rund 1,6 Millionen Euro: Augsburg holt Düsseldorfs Suso",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Betonstützen zerbrochen: Tribüne im Weserstadion teilweise eingestürzt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Frankfurt mit Interesse an Bayers Andrich",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "17 Millionen Euro plus Boni: Hoffenheim angelt sich de Cat",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Poulsen: Bei der Reise in die Vergangenheit geht es um die Zukunft",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Benfica mit Interesse an Fernandez: Wann das Thema erst heiß werden kann",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Mit Bezug zur Bayer AG: Leverkusen präsentiert neues Auswärtstrikot",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Vier Wochen nach WM-Aus: Karl nimmt Lauftraining auf",
+      "source": "kicker",
+      "sentiment": 0.23
+    },
+    {
+      "title": "Umstrittene Ärmel: VfB präsentiert neues Heimtrikot",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Hoffenheims Abverkauf der zweiten Reihe: Brasilien lockt Chaves",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Für knapp 30 Millionen Euro: Leipzig schnürt Paket für Grudas Verbleib",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Eine Ära in Heidenheim endet: Müller wechselt fest zu Schalke",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Klopp: Darum wollte ich, dass Völler beim DFB weitermacht",
       "source": "transfermarkt",
       "sentiment": 0
@@ -19,136 +149,6 @@
       "title": "Ex-Mainzer Gruda vor RB-Leipzig-Rückkehr – Mit Kaufpflicht so teuer wie Lukeba",
       "source": "transfermarkt",
       "sentiment": 0.4
-    },
-    {
-      "title": "Couto-Wechsel zu Como vor Abschluss – BVB kann Man-City-Ablöse wieder reinholen",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "1. FC Köln: „El Mama“ macht klare Ansage im El-Mala-Poker",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Eintracht Frankfurt: Krösche Kandidat als Klopp-Nachfolger bei Red Bull",
-      "source": "transfermarkt",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Golden Boy Top 100 mit 19 Bundesliga-Talenten – Quintett um Eichhorn neu dabei",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "WM-Ticker: Schweinsteiger & Co. zum DFB? Der Stand bei Manzambi",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Newcastle United bietet für Torhüter Nicolas – Gladbach lehnt erstes Angebot ab",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Zweitteuerster Verkauf der FC-Geschichte: Kaminski wechselt zu Benfica",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Kompany setzte sich für Rückkehr ein: Ibrahimovic verlängert bei Bayern",
-      "source": "kicker",
-      "sentiment": 0.47
-    },
-    {
-      "title": "Vom Aussortierten zum WM-Star - und Bayerns Neuner der Zukunft?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Hellmann: \"Wir müssen Pyrotechnik bei uns grundsätzlich infrage stellen\"",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Newcastle kontaktiert Freiburg wegen Manzambi - Endet Hannovers Torwart-Suche in der Schweiz?",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Väter des Erfolgs: Freiburg bindet Leki und Saier langfristig",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Nübel wohl vor Wechsel zu Besiktas - Pochettino lässt Zukunft offen",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Schalke schickt Quartett zur U 23",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Tuchel zu Kane: \"Habe mich bei Bayern gegen andere Meinungen durchgesetzt\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Geplanter Eingriff: Musiala wurde erneut operiert",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Schickers verrücktes Jahr",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Wojcik vor Wechsel: Die Fragen vor dem Werder-Trainingsstart",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "TSG Hoffenheim: Newcastle kauft Touré",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "1. FC Magdeburg verstärkt sich mit Yoon von Brighton",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Haaland schießt Brasilien raus: Norwegen erstmals im WM-Viertelfinale",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "England gewinnt episches Duell mit Mexiko – Henderson sorgt für Schreckmoment",
-      "source": "transfermarkt",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Mexiko-Coach Aguirre bestätigt Abschied – Auch Ghana braucht wieder mal neuen Nationalcoach",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Neymar tritt aus Brasiliens Nationalteam zurück: „Ich habe es wirklich versucht“",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Haller wechselt nach Hiroshima – Ex-BVB-Profi verlässt Utrecht nach enttäuschender Saison",
-      "source": "transfermarkt",
-      "sentiment": -0.5
-    },
-    {
-      "title": "Werder Bremen: Polen-Shootingstar Oskar Wójcik vor Unterschrift",
-      "source": "transfermarkt",
-      "sentiment": 0
     }
   ]
 }
