@@ -1,6 +1,111 @@
 {
   "news": [
     {
+      "title": "Attila Szalai verlässt TSG Hoffenheim fest zu Pogon Stettin",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Frankreich knackt Marokkos Abwehrriegel – Drittes WM-Halbfinale in Serie",
+      "source": "transfermarkt",
+      "sentiment": 0.55
+    },
+    {
+      "title": "Klopp packt aus: Mbappé-Verhandlungen im Privat-Jet",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "WM-Ticker: Presse verneigt sich vor Frankreich „von anderem Planeten“",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Eintracht Frankfurt: Rieras wilder Instagram-Konter gegen Hellmann",
+      "source": "transfermarkt",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Dresden eist Rückrunden-Leihe Keller vom 1. FC Heidenheim los – 10. Neuzugang",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Fürth entspricht Wunsch: Ziereis wagt Abenteuer Australien",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "BVB: Ramaj bereitet Abgang vor – Keeper will Nummer-1-Status, BVB offen für Transfer",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "HSV verleiht Soumahoro an LaLiga-Absteiger Mallorca",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "1. FC Köln bereitet Skhiri-Rückkehr vor – Marktwert in Frankfurt mehr als halbiert",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Rieras Frontalangriff gegen SGE-Boss Hellmann: \"Du bist ein Niemand\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Bewerbung für die Premier League: Alle Manzambi-Tore in der Bundesliga 2025/26",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Positive Signale\" nach Tribüneneinsturz: Werder-Spielbetrieb ungefährdet",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Schalke will Gosens - Australischer WM-Fahrer im Anflug auf Köln?",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Mehr als eine Nummer 2? Österreich-Keeper Schlager vor Werder-Wechsel",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Freiburg winkt Rekordablöse für Manzambi",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Freiburg und Newcastle einig: Rekordablöse für Manzambi winkt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Darum will ihn Barcelona: Adeyemis schönste Bundesliga-Tore",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Neuer Rekordeinkauf: Elversberg holt Campbell fest aus Dortmund",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Pejcinovics klarer Wunsch: Ein Wechsel nach Stuttgart",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
       "title": "FC Bayern: Torhüter Nübel wechselt zu Besiktas – Niedrige Ablöse akzeptiert",
       "source": "transfermarkt",
       "sentiment": 0.5
@@ -44,111 +149,6 @@
       "title": "WM-Ticker: Ärger um Norwegens Team-Hotel – Marokkos Saibari fällt aus",
       "source": "transfermarkt",
       "sentiment": 0.05
-    },
-    {
-      "title": "Schalke verhandelt mit Neapel über Lindstrøm – Ohne Tor seit 30-Millionen-Transfer",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Adeyemi soll sich mit Barcelona einig sein - aber es gibt noch kein Angebot",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Vlahovic sucht Kontakt zu Juve - Greenwood vor Wechsel nach Istanbul",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Die Erkenntnis der BVB-Verantwortlichen bei Bellingham - und was sie von ihm fordern",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Verjüngungskur am Mainzer Bruchweg",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Für rund 1,6 Millionen Euro: Augsburg holt Düsseldorfs Suso",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Betonstützen zerbrochen: Tribüne im Weserstadion teilweise eingestürzt",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Frankfurt mit Interesse an Bayers Andrich",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "17 Millionen Euro plus Boni: Hoffenheim angelt sich de Cat",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Poulsen: Bei der Reise in die Vergangenheit geht es um die Zukunft",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Benfica mit Interesse an Fernandez: Wann das Thema erst heiß werden kann",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Mit Bezug zur Bayer AG: Leverkusen präsentiert neues Auswärtstrikot",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Vier Wochen nach WM-Aus: Karl nimmt Lauftraining auf",
-      "source": "kicker",
-      "sentiment": 0.23
-    },
-    {
-      "title": "Umstrittene Ärmel: VfB präsentiert neues Heimtrikot",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Hoffenheims Abverkauf der zweiten Reihe: Brasilien lockt Chaves",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Für knapp 30 Millionen Euro: Leipzig schnürt Paket für Grudas Verbleib",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Eine Ära in Heidenheim endet: Müller wechselt fest zu Schalke",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Klopp: Darum wollte ich, dass Völler beim DFB weitermacht",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Schweiz komplettiert WM-Viertelfinale – Elfmeter-Drama gegen Kolumbien",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Arbeloa beim FC Fulham präsentiert – Erster spanischer Trainer der Klubgeschichte",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Ex-Mainzer Gruda vor RB-Leipzig-Rückkehr – Mit Kaufpflicht so teuer wie Lukeba",
-      "source": "transfermarkt",
-      "sentiment": 0.4
     }
   ]
 }
