@@ -1,6 +1,111 @@
 {
   "news": [
     {
+      "title": "Greuther Fürth holt Ex-BVB-Talent Ole Pohlmann aus Portugal",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "FC Augsburg vermeldet Suso-Transfer – Meiser zu Fortuna Düsseldorf",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Real Madrid profitiert und knackt 100 Millionen: AC Milan holt Gila von Lazio",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "1. FC Köln: Transfertrubel nicht gut für El Mala – Stand bei Skhiri",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Nächste Leihe: 1. FC Nürnberg gibt Keeper Kukucka an Jablonec ab",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Eintracht Frankfurt und Coventry sind wegen Amenda-Transfer einig",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "RB Leipzig mit Burnley klar: Verteidiger Estève vor Unterschrift",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "WM-Blog: Simón-Rekord gestoppt, Mertesackers DFB-Update, Haaland trainingsfaul",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "WM 2026: Spaniens Joker Merino schockt Belgien kurz vor dem Ende",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "HSV: Martin Adeline im Anflug – Teuerster Zugang seit Abstiegssaison",
+      "source": "transfermarkt",
+      "sentiment": -0.15
+    },
+    {
+      "title": "Kölns großer Knackpunkt bei Alvarez - FCN verleiht Keeper - Holt United Ederson doch nicht?",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "\"Wurde ein bisschen langweilig\": Wagner über den Sommer und El Mala",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Einigung zwischen BVB und Barca: Adeyemi vor Wechsel nach Katalonien",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Augsburg holt Suso aus Düsseldorf",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Werde alles in diesem Trikot geben\": Nationaltorwart Schlager unterschreibt in Bremen",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "\"Fälschungen praktisch nicht mehr möglich\": FC Bayern lässt nur noch digitale Tickets zu",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Wagner über die El-Mala-Spekulationen: \"Tut ihm natürlich nicht gut\"",
+      "source": "kicker",
+      "sentiment": 0.05
+    },
+    {
+      "title": "Für jedes Lebensjahr eine Million Euro: De Cat unterschreibt bei der TSG Hoffenheim",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "RB Leipzig: Gewinn und höhere Schulden bei Red Bull",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Der Werder-Widerspruch bei Grüll",
+      "source": "kicker",
+      "sentiment": -0.5
+    },
+    {
       "title": "Attila Szalai verlässt TSG Hoffenheim fest zu Pogon Stettin",
       "source": "transfermarkt",
       "sentiment": 0
@@ -44,111 +149,6 @@
       "title": "HSV verleiht Soumahoro an LaLiga-Absteiger Mallorca",
       "source": "transfermarkt",
       "sentiment": 0.3
-    },
-    {
-      "title": "1. FC Köln bereitet Skhiri-Rückkehr vor – Marktwert in Frankfurt mehr als halbiert",
-      "source": "transfermarkt",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Rieras Frontalangriff gegen SGE-Boss Hellmann: \"Du bist ein Niemand\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Bewerbung für die Premier League: Alle Manzambi-Tore in der Bundesliga 2025/26",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Positive Signale\" nach Tribüneneinsturz: Werder-Spielbetrieb ungefährdet",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Schalke will Gosens - Australischer WM-Fahrer im Anflug auf Köln?",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Mehr als eine Nummer 2? Österreich-Keeper Schlager vor Werder-Wechsel",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Freiburg winkt Rekordablöse für Manzambi",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Freiburg und Newcastle einig: Rekordablöse für Manzambi winkt",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Darum will ihn Barcelona: Adeyemis schönste Bundesliga-Tore",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Neuer Rekordeinkauf: Elversberg holt Campbell fest aus Dortmund",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Pejcinovics klarer Wunsch: Ein Wechsel nach Stuttgart",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "FC Bayern: Torhüter Nübel wechselt zu Besiktas – Niedrige Ablöse akzeptiert",
-      "source": "transfermarkt",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Leeds United macht Harry Wilson zum ersten Neuzugang",
-      "source": "transfermarkt",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Manchester United vor Transfer von Chelseas Andrey Santos – Plan C",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Jastrzembski auf Klubsuche: Kiel wäre „ein Traum“ – Fortuna „im Herzen geblieben“",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Dank Stange und Onyeka: Deutsche U19 steht im EM-Finale gegen Spanien",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Deportivo A Coruña kauft Asp Jensen vom FC Bayern – Ablösedetails",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Barça gibt Angebot für BVB-Stürmer Adeyemi ab – Selber Berater wie Lamine Yamal",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Fenerbahce arbeitet an Greenwood-Deal – Dreifaches Gehalt wie in Marseille",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "WM-Ticker: Ärger um Norwegens Team-Hotel – Marokkos Saibari fällt aus",
-      "source": "transfermarkt",
-      "sentiment": 0.05
     }
   ]
 }
