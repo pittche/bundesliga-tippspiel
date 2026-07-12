@@ -1,6 +1,46 @@
 {
   "news": [
     {
+      "title": "Saad vor erneuter Leihe, Beteiligung bei Vargas",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Neuer Klub für Vasilj - Senegal trennt sich von Trainer Thiaw",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Hertha siegt erneut - und Leitl wünscht sich Zugänge",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Schalke setzt ersten \"Härtetest\" in den Sand - Muslic lobt Neuzugänge",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Er war bei Bayern eingeplant: Warum Aseko vor dem Abschied steht",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Neue Aufgabe in Mönchengladbach: Virkus scoutet jetzt Trainer",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Ein WM-Fahrer für Köln: Mensah kommt ablösefrei aus Auxerre",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
       "title": "Greuther Fürth holt Ex-BVB-Talent Ole Pohlmann aus Portugal",
       "source": "transfermarkt",
       "sentiment": 0.4
@@ -109,46 +149,6 @@
       "title": "Attila Szalai verlässt TSG Hoffenheim fest zu Pogon Stettin",
       "source": "transfermarkt",
       "sentiment": 0
-    },
-    {
-      "title": "Frankreich knackt Marokkos Abwehrriegel – Drittes WM-Halbfinale in Serie",
-      "source": "transfermarkt",
-      "sentiment": 0.55
-    },
-    {
-      "title": "Klopp packt aus: Mbappé-Verhandlungen im Privat-Jet",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "WM-Ticker: Presse verneigt sich vor Frankreich „von anderem Planeten“",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Eintracht Frankfurt: Rieras wilder Instagram-Konter gegen Hellmann",
-      "source": "transfermarkt",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Dresden eist Rückrunden-Leihe Keller vom 1. FC Heidenheim los – 10. Neuzugang",
-      "source": "transfermarkt",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Fürth entspricht Wunsch: Ziereis wagt Abenteuer Australien",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "BVB: Ramaj bereitet Abgang vor – Keeper will Nummer-1-Status, BVB offen für Transfer",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "HSV verleiht Soumahoro an LaLiga-Absteiger Mallorca",
-      "source": "transfermarkt",
-      "sentiment": 0.3
     }
   ]
 }
