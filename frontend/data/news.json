@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "\"Dreifach-Belohnung\": Ilzer über den Kader vor der Europapokal-Saison",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Laporta: \"Wir freuen uns sehr über Adeyemi\"",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Wende im Manzambi-Poker: Aston Villa grätscht Newcastle dazwischen",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Die Lehren aus Adeyemis Wechsel",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "BVB arbeitet am kostspieligen Karetsas-Deal - Asllanis Abgang rückt näher",
+      "source": "kicker",
+      "sentiment": 0.13
+    },
+    {
+      "title": "Gladbachs Kleindienst jetzt wieder im Attackemodus",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Bremen startet: \"Wer will was mit dem Abstieg zu tun haben?\"",
+      "source": "kicker",
+      "sentiment": -0.7
+    },
+    {
+      "title": "Alpaka, Hopp, neuer Rasen: So lief der Hoffenheimer Trainingsauftakt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Zu löchrig und harmlos: Union enttäuscht beim 0:2 in Jena",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Asllani vor Transfer? Schicker gibt vielsagendes Update",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Fritz und der Reset-Button bei Werder: \"Wir haben gelitten\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Backhaus gibt Japanisch-Nachhilfe und schielt zur Nationalmannschaft",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Druck auf Schuster? Yilmaz lacht wegen kicker-Frage",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "\"Die Summe ist krass\": So sehen die SCF-Fans einen Manzambi-Verkauf",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Delikate Deals in Kroatien: Die Vergangenheit holt Krösche ein",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Nicht mehr die Underdog-Rolle\": Freiburg startet in die Vorbereitung",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
+      "title": "\"Jetzt sprechen wir über diese Zahlen\": Schuster über möglichen Manzambi-Abschied",
+      "source": "kicker",
+      "sentiment": 0.2
+    },
+    {
+      "title": "HSV: Das bedeutet der Adeline-Transfer für Fabio Vieira",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Getrübte Stimmung auf Schalke nach Test-Frust",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Freiburger Auftakt: Wer dabei ist und wer fehlt",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
       "title": "Saad vor erneuter Leihe, Beteiligung bei Vargas",
       "source": "kicker",
       "sentiment": 0.4
@@ -49,106 +149,6 @@
       "title": "FC Augsburg vermeldet Suso-Transfer – Meiser zu Fortuna Düsseldorf",
       "source": "transfermarkt",
       "sentiment": 0.3
-    },
-    {
-      "title": "Real Madrid profitiert und knackt 100 Millionen: AC Milan holt Gila von Lazio",
-      "source": "transfermarkt",
-      "sentiment": 0.4
-    },
-    {
-      "title": "1. FC Köln: Transfertrubel nicht gut für El Mala – Stand bei Skhiri",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Nächste Leihe: 1. FC Nürnberg gibt Keeper Kukucka an Jablonec ab",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Eintracht Frankfurt und Coventry sind wegen Amenda-Transfer einig",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "RB Leipzig mit Burnley klar: Verteidiger Estève vor Unterschrift",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "WM-Blog: Simón-Rekord gestoppt, Mertesackers DFB-Update, Haaland trainingsfaul",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "WM 2026: Spaniens Joker Merino schockt Belgien kurz vor dem Ende",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "HSV: Martin Adeline im Anflug – Teuerster Zugang seit Abstiegssaison",
-      "source": "transfermarkt",
-      "sentiment": -0.15
-    },
-    {
-      "title": "Kölns großer Knackpunkt bei Alvarez - FCN verleiht Keeper - Holt United Ederson doch nicht?",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "\"Wurde ein bisschen langweilig\": Wagner über den Sommer und El Mala",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Einigung zwischen BVB und Barca: Adeyemi vor Wechsel nach Katalonien",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Augsburg holt Suso aus Düsseldorf",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Werde alles in diesem Trikot geben\": Nationaltorwart Schlager unterschreibt in Bremen",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "\"Fälschungen praktisch nicht mehr möglich\": FC Bayern lässt nur noch digitale Tickets zu",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wagner über die El-Mala-Spekulationen: \"Tut ihm natürlich nicht gut\"",
-      "source": "kicker",
-      "sentiment": 0.05
-    },
-    {
-      "title": "Für jedes Lebensjahr eine Million Euro: De Cat unterschreibt bei der TSG Hoffenheim",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "RB Leipzig: Gewinn und höhere Schulden bei Red Bull",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Der Werder-Widerspruch bei Grüll",
-      "source": "kicker",
-      "sentiment": -0.5
-    },
-    {
-      "title": "Attila Szalai verlässt TSG Hoffenheim fest zu Pogon Stettin",
-      "source": "transfermarkt",
-      "sentiment": 0
     }
   ]
 }
