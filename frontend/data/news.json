@@ -1,134 +1,69 @@
 {
   "news": [
     {
-      "title": "\"Dreifach-Belohnung\": Ilzer über den Kader vor der Europapokal-Saison",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Laporta: \"Wir freuen uns sehr über Adeyemi\"",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Wende im Manzambi-Poker: Aston Villa grätscht Newcastle dazwischen",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Die Lehren aus Adeyemis Wechsel",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "BVB arbeitet am kostspieligen Karetsas-Deal - Asllanis Abgang rückt näher",
-      "source": "kicker",
-      "sentiment": 0.13
-    },
-    {
-      "title": "Gladbachs Kleindienst jetzt wieder im Attackemodus",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Bremen startet: \"Wer will was mit dem Abstieg zu tun haben?\"",
-      "source": "kicker",
-      "sentiment": -0.7
-    },
-    {
-      "title": "Alpaka, Hopp, neuer Rasen: So lief der Hoffenheimer Trainingsauftakt",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Zu löchrig und harmlos: Union enttäuscht beim 0:2 in Jena",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Asllani vor Transfer? Schicker gibt vielsagendes Update",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Fritz und der Reset-Button bei Werder: \"Wir haben gelitten\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Backhaus gibt Japanisch-Nachhilfe und schielt zur Nationalmannschaft",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Druck auf Schuster? Yilmaz lacht wegen kicker-Frage",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "\"Die Summe ist krass\": So sehen die SCF-Fans einen Manzambi-Verkauf",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Delikate Deals in Kroatien: Die Vergangenheit holt Krösche ein",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Nicht mehr die Underdog-Rolle\": Freiburg startet in die Vorbereitung",
-      "source": "kicker",
+      "title": "FC Bayern verkauft Talent: Asp Jensen setzt Karriere bei A Coruña fort",
+      "source": "transfermarkt",
       "sentiment": 0.45
     },
     {
-      "title": "\"Jetzt sprechen wir über diese Zahlen\": Schuster über möglichen Manzambi-Abschied",
-      "source": "kicker",
-      "sentiment": 0.2
-    },
-    {
-      "title": "HSV: Das bedeutet der Adeline-Transfer für Fabio Vieira",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Getrübte Stimmung auf Schalke nach Test-Frust",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Freiburger Auftakt: Wer dabei ist und wer fehlt",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Saad vor erneuter Leihe, Beteiligung bei Vargas",
-      "source": "kicker",
+      "title": "HSV verpflichtet Troyes' Top-Scorer Adeline – Ausgaben übersteigen 10 Millionen",
+      "source": "transfermarkt",
       "sentiment": 0.4
     },
     {
-      "title": "Neuer Klub für Vasilj - Senegal trennt sich von Trainer Thiaw",
-      "source": "kicker",
-      "sentiment": 0.35
+      "title": "Wellenreuther im Fokus des VfL Wolfsburg – Deutschland-Rückkehr nach 9 Jahren?",
+      "source": "transfermarkt",
+      "sentiment": 0.4
     },
     {
-      "title": "Hertha siegt erneut - und Leitl wünscht sich Zugänge",
-      "source": "kicker",
-      "sentiment": 0.5
+      "title": "Regionalliga Nord 1970/71 in TM-Datenbank: Osnabrücker Meister verpassen erneut Aufstieg",
+      "source": "transfermarkt",
+      "sentiment": 0.45
     },
     {
-      "title": "Schalke setzt ersten \"Härtetest\" in den Sand - Muslic lobt Neuzugänge",
-      "source": "kicker",
+      "title": "Cramer erklärt: Deshalb braucht der BVB normale statt außergewöhnliche Transfers",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Holstein Kiel holt Balzi von Newell's Old Boys – Spendet Teil der Ablöse",
+      "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "Er war bei Bayern eingeplant: Warum Aseko vor dem Abschied steht",
-      "source": "kicker",
-      "sentiment": 0.4
+      "title": "Ex-HSV-Profi Lewis Holtby verlässt NAC Breda frustriert",
+      "source": "transfermarkt",
+      "sentiment": -0.7
     },
     {
-      "title": "Neue Aufgabe in Mönchengladbach: Virkus scoutet jetzt Trainer",
+      "title": "WM-Ticker: Haaland und ein Waschbär – Schlechtes Omen für England",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Fortuna Düsseldorf: Anouar El Azzouzi unterschreibt in der Serie A",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Schweiz-Torwart Yann Sommer unterschreibt bei Club Brügge",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Holtby verlässt Breda - Liverpools Slot-Plan",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Transfer perfekt: Polzins Vorfreude auf Adeline",
       "source": "kicker",
       "sentiment": 0.3
+    },
+    {
+      "title": "Martel in Mainz: Kleinere Bühne, größerer Reiz - und eine neue Position?",
+      "source": "kicker",
+      "sentiment": 0
     },
     {
       "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
@@ -136,19 +71,84 @@
       "sentiment": 0
     },
     {
-      "title": "Ein WM-Fahrer für Köln: Mensah kommt ablösefrei aus Auxerre",
+      "title": "Kölner Kaderfragen zum Start in die Vorbereitung",
       "source": "kicker",
-      "sentiment": 0.6
+      "sentiment": 0
     },
     {
-      "title": "Greuther Fürth holt Ex-BVB-Talent Ole Pohlmann aus Portugal",
-      "source": "transfermarkt",
+      "title": "\"Eine Ehre mit Klopp über Fußball zu sprechen\": Demichelis nimmt Arbeit als RB-Trainer auf",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Trainingsstart beim HSV - \"Poulsens Kapitänsamt ist nicht in Stein gemeißelt\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Pyro und Ausschreitungen: DFB bestraft HSV, Werder, Arminia, Hertha und Darmstadt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kessler ist \"der festen Überzeugung\", dass El Mala bleibt",
+      "source": "kicker",
       "sentiment": 0.4
     },
     {
-      "title": "FC Augsburg vermeldet Suso-Transfer – Meiser zu Fortuna Düsseldorf",
-      "source": "transfermarkt",
+      "title": "\"Viele fromme Vorsätze und ein neues, altes Gesicht\": Trainingsauftakt bei RB",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Kemlein als neuer Anführer? \"Ich glaube, dass er diese Rolle ausfüllen kann\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Seimen startet mit dem VfB: \"Es macht einfach Bock\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Das Feuer entfachen\": Hoffnungsträger Hütter erlebt einen herzlichen Empfang",
+      "source": "kicker",
+      "sentiment": 0.05
+    },
+    {
+      "title": "\"Kein Kontakt\": Hütters vielsagende Antwort bei Uzun",
+      "source": "kicker",
       "sentiment": 0.3
+    },
+    {
+      "title": "Demichelis: \"Möchte nicht 'Ich, ich, ich' hören\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Üppiges Paket: Leipzig leiht Gruda erneut aus - samt Kaufpflicht",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Deswegen habe ich unterschrieben\": 2000 Fans begrüßen Hütter in Frankfurt",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "FCA gewinnt Rennen um Hoffenheim-Talent Behrens",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Schwitzen und über Urlaub plaudern: So startet der BVB in die Vorbereitung",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Njinmah: Wechsel-Signale - und Empfänger?",
+      "source": "kicker",
+      "sentiment": -0.4
     }
   ]
 }
