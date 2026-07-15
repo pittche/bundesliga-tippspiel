@@ -1,6 +1,101 @@
 {
   "news": [
     {
+      "title": "\"Auch Eltern im Trikot\": Der kicker zu Gast bei einem VfB-Camp in New Jersey",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Einigung erzielt: Schalke vor Gosens-Verpflichtung",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Cleverer Juve-Deal - Zahlt ManCity 100 Millionen Euro für Bouaddi?",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Erster Torwart, der in der Bundesliga ein Tor schoss: Manglitz verstorben",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Länderspielpause im Blick: Schlotterbecks Comeback-Plan",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Saibari, Brown & Co.: Wann die WM-Fahrer zum FCB zurückkehren",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "So schoss er sich nach Brighton: Vuskovics Bundesligatore für den HSV",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Erstes Training unter Martinez: Ein Hauch von Xabi Alonso",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "BVB-Trainingsauftakt mit bunter Kader-Mischung - Ricken kündigt weitere Transfers an",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Adeline verleiht dem HSV eine herbeigesehnte Facette",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Neue Doppelspitze in der Knappenschmiede: Tumani wird Sportlicher Leiter",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Union verliert Torwarttalent: Augsburg holt U-19-Nationalkeeper Wisbereit",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Martinez-Auftakt in Leverkusen: Haben Sie schon Xabi Alonso kontaktiert?",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Transferstau beim BVB? Ricken: \"Kann die Ungeduld verstehen\"",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Thiounes Einfluss bei Itten und das offene Werder-Stürmerprofil",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Schwäbe über Wagner: \"Er will, dass wir uns auch mal anscheißen\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Conté in den Spuren von Asllani und Damar",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Bergamo gibt Gas: Alajbegovic hinterlegt Wechselwunsch",
+      "source": "kicker",
+      "sentiment": -0.35
+    },
+    {
+      "title": "Demichelis erklärt: So spricht man meinen Namen aus",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "FC Bayern verkauft Talent: Asp Jensen setzt Karriere bei A Coruña fort",
       "source": "transfermarkt",
       "sentiment": 0.45
@@ -54,101 +149,6 @@
       "title": "Holtby verlässt Breda - Liverpools Slot-Plan",
       "source": "kicker",
       "sentiment": 0.35
-    },
-    {
-      "title": "Transfer perfekt: Polzins Vorfreude auf Adeline",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Martel in Mainz: Kleinere Bühne, größerer Reiz - und eine neue Position?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kölner Kaderfragen zum Start in die Vorbereitung",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Eine Ehre mit Klopp über Fußball zu sprechen\": Demichelis nimmt Arbeit als RB-Trainer auf",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Trainingsstart beim HSV - \"Poulsens Kapitänsamt ist nicht in Stein gemeißelt\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Pyro und Ausschreitungen: DFB bestraft HSV, Werder, Arminia, Hertha und Darmstadt",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kessler ist \"der festen Überzeugung\", dass El Mala bleibt",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "\"Viele fromme Vorsätze und ein neues, altes Gesicht\": Trainingsauftakt bei RB",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Kemlein als neuer Anführer? \"Ich glaube, dass er diese Rolle ausfüllen kann\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Seimen startet mit dem VfB: \"Es macht einfach Bock\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Das Feuer entfachen\": Hoffnungsträger Hütter erlebt einen herzlichen Empfang",
-      "source": "kicker",
-      "sentiment": 0.05
-    },
-    {
-      "title": "\"Kein Kontakt\": Hütters vielsagende Antwort bei Uzun",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Demichelis: \"Möchte nicht 'Ich, ich, ich' hören\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Üppiges Paket: Leipzig leiht Gruda erneut aus - samt Kaufpflicht",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Deswegen habe ich unterschrieben\": 2000 Fans begrüßen Hütter in Frankfurt",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "FCA gewinnt Rennen um Hoffenheim-Talent Behrens",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Schwitzen und über Urlaub plaudern: So startet der BVB in die Vorbereitung",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Njinmah: Wechsel-Signale - und Empfänger?",
-      "source": "kicker",
-      "sentiment": -0.4
     }
   ]
 }
