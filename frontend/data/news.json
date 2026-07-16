@@ -1,6 +1,81 @@
 {
   "news": [
     {
+      "title": "Das Ende der Achterbahnfahrt? Tellas Fluch und Segen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Große Enttäuschung\": Keine Mehrheit für Leverkusens Campus",
+      "source": "kicker",
+      "sentiment": -0.5
+    },
+    {
+      "title": "Bundesliga: TV-Übertragungen und Anstoßzeiten 2026/27",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Schalke plant Testspiel-Knaller gegen Real Madrid",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "In Marmor-Optik: FC Augsburg zeigt Heimtrikot 2026/27",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Andrich zur Eintracht? Koch: \"Habe schon Werbung gemacht\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Verbotenes Feuerwerk im Nordderby: Bremen muss hohe Strafe zahlen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Koch mahnt: \"So viel Unruhe darf nicht sein\"",
+      "source": "kicker",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Der neue Werder-Künstler Chuki: \"Das werdet ihr dann sehen\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Lustrinelli trotz Unions Anlaufschwierigkeiten: \"Unsere Spieler sind Helden\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Eintracht trauert um zweimaligen Aufstiegsheld Beierle",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Bayers heikler Deal: Sechs Fragen zum Alajbegovic-Poker",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "2026/27 in Streifen: Das neue Werder-Heimtrikot",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "VfB darf sich freuen: Stillers Ausstiegsklausel läuft ab",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Erste vier Bundesliga-Spieltage angesetzt: BVB legt am Samstagabend los",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "\"Auch Eltern im Trikot\": Der kicker zu Gast bei einem VfB-Camp in New Jersey",
       "source": "kicker",
       "sentiment": 0
@@ -11,6 +86,11 @@
       "sentiment": 0.35
     },
     {
+      "title": "Adeyemi und Manzambi beim Medizincheck - Leipzig vor Esteve-Verpflichtung",
+      "source": "kicker",
+      "sentiment": 0.37
+    },
+    {
       "title": "Cleverer Juve-Deal - Zahlt ManCity 100 Millionen Euro für Bouaddi?",
       "source": "kicker",
       "sentiment": 0.35
@@ -19,6 +99,11 @@
       "title": "Erster Torwart, der in der Bundesliga ein Tor schoss: Manglitz verstorben",
       "source": "kicker",
       "sentiment": 0
+    },
+    {
+      "title": "Augsburgs Torwart-Team: Ein Mix aus frischem Wind und Bewährtem",
+      "source": "kicker",
+      "sentiment": 0.4
     },
     {
       "title": "Länderspielpause im Blick: Schlotterbecks Comeback-Plan",
@@ -64,91 +149,6 @@
       "title": "Martinez-Auftakt in Leverkusen: Haben Sie schon Xabi Alonso kontaktiert?",
       "source": "kicker",
       "sentiment": 0.3
-    },
-    {
-      "title": "Transferstau beim BVB? Ricken: \"Kann die Ungeduld verstehen\"",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Thiounes Einfluss bei Itten und das offene Werder-Stürmerprofil",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Schwäbe über Wagner: \"Er will, dass wir uns auch mal anscheißen\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Conté in den Spuren von Asllani und Damar",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Bergamo gibt Gas: Alajbegovic hinterlegt Wechselwunsch",
-      "source": "kicker",
-      "sentiment": -0.35
-    },
-    {
-      "title": "Demichelis erklärt: So spricht man meinen Namen aus",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "FC Bayern verkauft Talent: Asp Jensen setzt Karriere bei A Coruña fort",
-      "source": "transfermarkt",
-      "sentiment": 0.45
-    },
-    {
-      "title": "HSV verpflichtet Troyes' Top-Scorer Adeline – Ausgaben übersteigen 10 Millionen",
-      "source": "transfermarkt",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Wellenreuther im Fokus des VfL Wolfsburg – Deutschland-Rückkehr nach 9 Jahren?",
-      "source": "transfermarkt",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Regionalliga Nord 1970/71 in TM-Datenbank: Osnabrücker Meister verpassen erneut Aufstieg",
-      "source": "transfermarkt",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Cramer erklärt: Deshalb braucht der BVB normale statt außergewöhnliche Transfers",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Holstein Kiel holt Balzi von Newell's Old Boys – Spendet Teil der Ablöse",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Ex-HSV-Profi Lewis Holtby verlässt NAC Breda frustriert",
-      "source": "transfermarkt",
-      "sentiment": -0.7
-    },
-    {
-      "title": "WM-Ticker: Haaland und ein Waschbär – Schlechtes Omen für England",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Fortuna Düsseldorf: Anouar El Azzouzi unterschreibt in der Serie A",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Schweiz-Torwart Yann Sommer unterschreibt bei Club Brügge",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Holtby verlässt Breda - Liverpools Slot-Plan",
-      "source": "kicker",
-      "sentiment": 0.35
     }
   ]
 }
