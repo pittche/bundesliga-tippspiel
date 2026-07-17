@@ -1,6 +1,46 @@
 {
   "news": [
     {
+      "title": "Kovac schmunzelt: \"Möchte meinem Chef nicht widersprechen\"",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Hoeneß nimmt Argentinien als Vorbild",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Rashfords Ausstiegsklausel ist abgelaufen - Bedia verlässt Union endgültig",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Vierter Klub in 13 Monaten: Augsburgs Saad zieht es in die USA",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Köln-Talent vor Leihe: Frühstarter Kristal sucht den nächsten Schritt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Was die Hauptsponsoren den Bundesligisten zahlen - und wer gewechselt hat",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Curda weckt Interesse - doch Paderborn kann auch einfach Nein sagen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Mitverantwortlich für den Coup gegen die DFB-Elf: TSG schielt auf Sauer",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Das Ende der Achterbahnfahrt? Tellas Fluch und Segen",
       "source": "kicker",
       "sentiment": 0
@@ -109,46 +149,6 @@
       "title": "Länderspielpause im Blick: Schlotterbecks Comeback-Plan",
       "source": "kicker",
       "sentiment": 0.6
-    },
-    {
-      "title": "Saibari, Brown & Co.: Wann die WM-Fahrer zum FCB zurückkehren",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "So schoss er sich nach Brighton: Vuskovics Bundesligatore für den HSV",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Erstes Training unter Martinez: Ein Hauch von Xabi Alonso",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "BVB-Trainingsauftakt mit bunter Kader-Mischung - Ricken kündigt weitere Transfers an",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Adeline verleiht dem HSV eine herbeigesehnte Facette",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Neue Doppelspitze in der Knappenschmiede: Tumani wird Sportlicher Leiter",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Union verliert Torwarttalent: Augsburg holt U-19-Nationalkeeper Wisbereit",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Martinez-Auftakt in Leverkusen: Haben Sie schon Xabi Alonso kontaktiert?",
-      "source": "kicker",
-      "sentiment": 0.3
     }
   ]
 }
