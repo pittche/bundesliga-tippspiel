@@ -1,6 +1,96 @@
 {
   "news": [
     {
+      "title": "Hertha: Leitl sorgt sich um ein Trio",
+      "source": "kicker",
+      "sentiment": 0.1
+    },
+    {
+      "title": "\"Das ist die Wahrheit\": Für Gosens schließt sich auf Schalke ein besonderer Kreis",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Parallelen zu El Mala: Köln holt Heskey von Manchester City",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Nach geplatztem Wechsel: Ederson verlängert in Bergamo - Freiburg und Como wegen Engelhardt einig",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Aston Villa statt Newcastle: Manzambi beschert Freiburg Rekordablöse",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Ansprechende Frühform: Mainzer testen erfolgreich gegen schwachen FCK",
+      "source": "kicker",
+      "sentiment": 0.2
+    },
+    {
+      "title": "\"Geschichte hätte ein anderes Ende verdient\": Gosens kritisiert die Fiorentina",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Hoeneß und Wohlgemuth pro Klopp",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Wechsel zum Herzensklub perfekt: Schalke verpflichtet Gosens",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "WM-Traum geopfert, inspiriert von Ramos: Machida ist zurück bei der TSG",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Uzun? \"Keine Anzeichen, dass er uns verlassen will\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Noch zwei Spiele für die Hearts: Schwolow wechselt nach Mainz",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
+      "title": "Die Sommer-Fahrpläne der Bundesligisten 2026/27",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Für 25 Millionen Euro: Leipzig holt Esteve aus Burnley",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Inspiration Volksparkstadion: HSV stellt neues Heimtrikot vor",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Geprägt von der Arena\": Schalke präsentiert neues Heimtrikot",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Brisante Wahlen nach Fan-Zoff: Macht-Gerangel auf Schalke könnte Hefer gefährlich werden",
+      "source": "kicker",
+      "sentiment": 0.1
+    },
+    {
       "title": "Kovac schmunzelt: \"Möchte meinem Chef nicht widersprechen\"",
       "source": "kicker",
       "sentiment": 0.6
@@ -59,96 +149,6 @@
       "title": "Schalke plant Testspiel-Knaller gegen Real Madrid",
       "source": "kicker",
       "sentiment": 0
-    },
-    {
-      "title": "In Marmor-Optik: FC Augsburg zeigt Heimtrikot 2026/27",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Andrich zur Eintracht? Koch: \"Habe schon Werbung gemacht\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Verbotenes Feuerwerk im Nordderby: Bremen muss hohe Strafe zahlen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Koch mahnt: \"So viel Unruhe darf nicht sein\"",
-      "source": "kicker",
-      "sentiment": -0.1
-    },
-    {
-      "title": "Der neue Werder-Künstler Chuki: \"Das werdet ihr dann sehen\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Lustrinelli trotz Unions Anlaufschwierigkeiten: \"Unsere Spieler sind Helden\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Eintracht trauert um zweimaligen Aufstiegsheld Beierle",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Bayers heikler Deal: Sechs Fragen zum Alajbegovic-Poker",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "2026/27 in Streifen: Das neue Werder-Heimtrikot",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "VfB darf sich freuen: Stillers Ausstiegsklausel läuft ab",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Erste vier Bundesliga-Spieltage angesetzt: BVB legt am Samstagabend los",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Auch Eltern im Trikot\": Der kicker zu Gast bei einem VfB-Camp in New Jersey",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Einigung erzielt: Schalke vor Gosens-Verpflichtung",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Adeyemi und Manzambi beim Medizincheck - Leipzig vor Esteve-Verpflichtung",
-      "source": "kicker",
-      "sentiment": 0.37
-    },
-    {
-      "title": "Cleverer Juve-Deal - Zahlt ManCity 100 Millionen Euro für Bouaddi?",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Erster Torwart, der in der Bundesliga ein Tor schoss: Manglitz verstorben",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Augsburgs Torwart-Team: Ein Mix aus frischem Wind und Bewährtem",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Länderspielpause im Blick: Schlotterbecks Comeback-Plan",
-      "source": "kicker",
-      "sentiment": 0.6
     }
   ]
 }
