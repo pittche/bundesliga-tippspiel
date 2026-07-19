@@ -1,6 +1,56 @@
 {
   "news": [
     {
+      "title": "Schalker Versammlung von Fairness und Respekt geprägt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Martinez-Debüt: Moreira und Boniface mit Doppelpack - Ben Seghir muss passen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kovacs Lob für die Neuzugänge und der Plan mit Kaua Prates",
+      "source": "kicker",
+      "sentiment": 0.2
+    },
+    {
+      "title": "Rogers vor Rekordwechsel zu Chelsea - Schalke ausgestochen: Özkacar geht in die Türkei",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "\"Never change a winning team\": Schalker Mitglieder stärken Hefer",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Mitgliederversammlung: Schalke-Boss Hefer im Amt bestätigt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Vertrag über fünf Jahre: Frankfurt macht Kauf von Bayerns Aseko perfekt",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Wagners Vollgas-Ansatz schlägt auf die Stimmbänder",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Rückkehr perfekt: Freiburg verpflichtet Engelhardt",
+      "source": "kicker",
+      "sentiment": 0.37
+    },
+    {
       "title": "Hertha: Leitl sorgt sich um ein Trio",
       "source": "kicker",
       "sentiment": 0.1
@@ -97,56 +147,6 @@
     },
     {
       "title": "Hoeneß nimmt Argentinien als Vorbild",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Rashfords Ausstiegsklausel ist abgelaufen - Bedia verlässt Union endgültig",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Vierter Klub in 13 Monaten: Augsburgs Saad zieht es in die USA",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Köln-Talent vor Leihe: Frühstarter Kristal sucht den nächsten Schritt",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Was die Hauptsponsoren den Bundesligisten zahlen - und wer gewechselt hat",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Curda weckt Interesse - doch Paderborn kann auch einfach Nein sagen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Mitverantwortlich für den Coup gegen die DFB-Elf: TSG schielt auf Sauer",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Das Ende der Achterbahnfahrt? Tellas Fluch und Segen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Große Enttäuschung\": Keine Mehrheit für Leverkusens Campus",
-      "source": "kicker",
-      "sentiment": -0.5
-    },
-    {
-      "title": "Bundesliga: TV-Übertragungen und Anstoßzeiten 2026/27",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Schalke plant Testspiel-Knaller gegen Real Madrid",
       "source": "kicker",
       "sentiment": 0
     }
