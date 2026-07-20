@@ -1,6 +1,71 @@
 {
   "news": [
     {
+      "title": "Hommage an die 90er: FC Bayern präsentiert neues Auswärtstrikot",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Schalke strebt weiter nach Reform der TV-Geld-Verteilung",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "HSV buhlt wohl um Torjäger Daka - Landet Rafael Leao in der Türkei?",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Frankfurts neuem Antreiber Aseko fehlt noch der passende Partner",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Milosevic und Führich legen früh los: VfB mit Pflichtsieg zum Testspielauftakt",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Poulsen sendet ein erstes Signal aus",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Gosens in der Zuschauer-Rolle: Schalke nimmt Sieg in Aue mit ins Trainingslager",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Nach dem Alajbegovic-Modell: Bayer verkauft Sarco an Sporting Gijon",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Mini-Jobber\" Millgramm: Aus dem Abseits in die Bundesliga",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kriterien: Nur die Leistung zählt, nicht das Potenzial",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "TSG-Flop Orban vor Wechsel in die Türkei",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "VfB: Leweling und Vagnoman sind erst mal unverkäuflich",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Leipzig lockt: Die Signale im Fall Asllani",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
       "title": "Schalker Versammlung von Fairness und Respekt geprägt",
       "source": "kicker",
       "sentiment": 0
@@ -84,71 +149,6 @@
       "title": "\"Geschichte hätte ein anderes Ende verdient\": Gosens kritisiert die Fiorentina",
       "source": "kicker",
       "sentiment": -0.4
-    },
-    {
-      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Hoeneß und Wohlgemuth pro Klopp",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wechsel zum Herzensklub perfekt: Schalke verpflichtet Gosens",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "WM-Traum geopfert, inspiriert von Ramos: Machida ist zurück bei der TSG",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Uzun? \"Keine Anzeichen, dass er uns verlassen will\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Noch zwei Spiele für die Hearts: Schwolow wechselt nach Mainz",
-      "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Die Sommer-Fahrpläne der Bundesligisten 2026/27",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Für 25 Millionen Euro: Leipzig holt Esteve aus Burnley",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Inspiration Volksparkstadion: HSV stellt neues Heimtrikot vor",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Geprägt von der Arena\": Schalke präsentiert neues Heimtrikot",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Brisante Wahlen nach Fan-Zoff: Macht-Gerangel auf Schalke könnte Hefer gefährlich werden",
-      "source": "kicker",
-      "sentiment": 0.1
-    },
-    {
-      "title": "Kovac schmunzelt: \"Möchte meinem Chef nicht widersprechen\"",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Hoeneß nimmt Argentinien als Vorbild",
-      "source": "kicker",
-      "sentiment": 0
     }
   ]
 }
