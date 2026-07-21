@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Eine Etage höher: Sirch schließt sich Elversberg an",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "ManUnited will Ex-Gladbacher Koné - Wechselt Lacroix innerhalb Londons?",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "\"Der Kleinste war der Größte\": Keegans HSV-Tore aus der Meistersaison",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Reitz zu Wechsel: \"Am Ende hat jeder das Recht, seine Meinung zu teilen\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Gosens in Königsblau, Jubel für Muslic: So läuft es im Schalke-Trainingslager",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "\"DFB-Spieler weit von Weltklasse entfernt\": So entsteht die kicker-Rangliste",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Keegan: Die große Liebe auf den zweiten Blick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kobel verteidigt die Spitze - Urbig vor Neuer: Die Rangliste für das Tor",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Die Rangliste als Spiegelbild des Niedergangs",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Die Vertragslaufzeiten der Bayern-Profis",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Mighty Mouse\" traf Ton und Tor: Die Karriere des Kevin Keegan",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Lange Verhandlungen abgeschlossen: Laimer verlängert bei Bayern",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Aseko über Kompany: \"Hat ein ehrliches Gespräch mit mir geführt\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Ein \"ehrliches Gespräch\" mit Kompany und ein Hauch von Kanté: Aseko stellt sich vor",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Reitz über Wechsel-Theater: \"Spurlos geht das nicht vorbei\"",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Daka wird noch in Österreich HSV-Profi",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Der schwierige Start beim FC Bayern - und wer wann einsteigt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Spieler sind zurück: Das tut sich auf der \"Baustelle FC Bayern\"",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Hoffenheim auch an Salzburgs Daghim dran",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Hommage an die 90er: FC Bayern präsentiert neues Auswärtstrikot",
       "source": "kicker",
       "sentiment": 0
@@ -49,106 +149,6 @@
       "title": "Kriterien: Nur die Leistung zählt, nicht das Potenzial",
       "source": "kicker",
       "sentiment": 0
-    },
-    {
-      "title": "TSG-Flop Orban vor Wechsel in die Türkei",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "VfB: Leweling und Vagnoman sind erst mal unverkäuflich",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Leipzig lockt: Die Signale im Fall Asllani",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Schalker Versammlung von Fairness und Respekt geprägt",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Martinez-Debüt: Moreira und Boniface mit Doppelpack - Ben Seghir muss passen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kovacs Lob für die Neuzugänge und der Plan mit Kaua Prates",
-      "source": "kicker",
-      "sentiment": 0.2
-    },
-    {
-      "title": "Rogers vor Rekordwechsel zu Chelsea - Schalke ausgestochen: Özkacar geht in die Türkei",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "\"Never change a winning team\": Schalker Mitglieder stärken Hefer",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Mitgliederversammlung: Schalke-Boss Hefer im Amt bestätigt",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Vertrag über fünf Jahre: Frankfurt macht Kauf von Bayerns Aseko perfekt",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Wagners Vollgas-Ansatz schlägt auf die Stimmbänder",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Rückkehr perfekt: Freiburg verpflichtet Engelhardt",
-      "source": "kicker",
-      "sentiment": 0.37
-    },
-    {
-      "title": "Hertha: Leitl sorgt sich um ein Trio",
-      "source": "kicker",
-      "sentiment": 0.1
-    },
-    {
-      "title": "\"Das ist die Wahrheit\": Für Gosens schließt sich auf Schalke ein besonderer Kreis",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Parallelen zu El Mala: Köln holt Heskey von Manchester City",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Nach geplatztem Wechsel: Ederson verlängert in Bergamo - Freiburg und Como wegen Engelhardt einig",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Aston Villa statt Newcastle: Manzambi beschert Freiburg Rekordablöse",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Ansprechende Frühform: Mainzer testen erfolgreich gegen schwachen FCK",
-      "source": "kicker",
-      "sentiment": 0.2
-    },
-    {
-      "title": "\"Geschichte hätte ein anderes Ende verdient\": Gosens kritisiert die Fiorentina",
-      "source": "kicker",
-      "sentiment": -0.4
     }
   ]
 }
