@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Nach Daka ist beim HSV mit Nadir der nächste Neue im Anflug",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Daka ist der erste neue Stürmer des HSV - und in erster Linie ein Versuch",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Heidenheim winkt Geldregen wegen Dorsch - Tauziehen um Summerville",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Die Sommer-Fahrpläne der Bundesligisten 2026/27",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Was bei den 18 Bundesligisten während der WM passierte",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Die schönsten Tore von Holtby auf jeder Station in Deutschland",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Trauer um Keegan und Seeler: Bewegende Worte von HSV-Vorstand Huwer",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Yamamoto wandelt auf Kagawas Spuren",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Krüger verrät ihr Hoeneß-Geheimnis und Huwer ein Vieira-Angebot",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Ich liebe Duelle mit den Stürmern\": Geburtstagskind Wojcik und die grobe Klinge",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Lahm: \"Verstehe nicht, wieso Upamecano nicht in der Weltklasse ist\"",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Trotz Ben Seghirs Ausfall: Alajbegovic bleibt Verkaufskandidat",
+      "source": "kicker",
+      "sentiment": -0.47
+    },
+    {
+      "title": "Der \"harte\" Werder-Neuzugang Wojcik: \"Alles ist erlaubt\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Vertragslos: Diese Spieler sind ablösefrei zu haben",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Werder hat Svanberg als möglichen Stage-Ersatz im Visier",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Wann geht es wo wieder los? Der Rahmenterminkalender für die Saison 2026/27",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Upamecano und ein Sextett in der Internationalen Klasse: Die Rangliste für die Innenverteidigung",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Top-Talent Natali vor abermaligem Wechsel aus Leverkusen nach Alkmaar",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Nach dem Alajbegovic-Modell: Bayer verkauft Sarco an Sporting Gijon",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
       "source": "kicker",
       "sentiment": 0
@@ -49,106 +149,6 @@
       "title": "Die Rangliste als Spiegelbild des Niedergangs",
       "source": "kicker",
       "sentiment": -0.3
-    },
-    {
-      "title": "Die Vertragslaufzeiten der Bayern-Profis",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Mighty Mouse\" traf Ton und Tor: Die Karriere des Kevin Keegan",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Lange Verhandlungen abgeschlossen: Laimer verlängert bei Bayern",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Aseko über Kompany: \"Hat ein ehrliches Gespräch mit mir geführt\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Ein \"ehrliches Gespräch\" mit Kompany und ein Hauch von Kanté: Aseko stellt sich vor",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Reitz über Wechsel-Theater: \"Spurlos geht das nicht vorbei\"",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Daka wird noch in Österreich HSV-Profi",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Der schwierige Start beim FC Bayern - und wer wann einsteigt",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Spieler sind zurück: Das tut sich auf der \"Baustelle FC Bayern\"",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Hoffenheim auch an Salzburgs Daghim dran",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Hommage an die 90er: FC Bayern präsentiert neues Auswärtstrikot",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Schalke strebt weiter nach Reform der TV-Geld-Verteilung",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "HSV buhlt wohl um Torjäger Daka - Landet Rafael Leao in der Türkei?",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Frankfurts neuem Antreiber Aseko fehlt noch der passende Partner",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Milosevic und Führich legen früh los: VfB mit Pflichtsieg zum Testspielauftakt",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Poulsen sendet ein erstes Signal aus",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Gosens in der Zuschauer-Rolle: Schalke nimmt Sieg in Aue mit ins Trainingslager",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Nach dem Alajbegovic-Modell: Bayer verkauft Sarco an Sporting Gijon",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Mini-Jobber\" Millgramm: Aus dem Abseits in die Bundesliga",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kriterien: Nur die Leistung zählt, nicht das Potenzial",
-      "source": "kicker",
-      "sentiment": 0
     }
   ]
 }
