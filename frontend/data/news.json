@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Die Sommer-Fahrpläne der Bundesligisten 2026/27",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Die Heimtrikots der Bundesligisten für die Saison 2026/27",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Wagner lobt El Mala für seine Einstellung: \"Unheimlich beeindruckend\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Schmidts Standpauke fällt auf fruchtbaren Boden",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Chukis erste Werder-Kostprobe: \"Sein Fuß kann scharf sein\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Fritz über den Stand bei Stage: \"Nicht unmittelbar auf dem Sprung\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Neuanfang unter Hütter: Baum und Kosugi wittern ihre Chance",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Dritter Bundesligist: Wöber wechselt zur \"reizvollen Aufgabe\" Schalke",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Mehr Chips am Spieltisch: Baur und Yokota neue SCP-Objekte im Transferpoker",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Den nächsten Gang gefunden\": Muslic mit Test zufrieden - Wöber kommt aus Leeds",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Vertragslos: Diese Spieler sind ablösefrei zu haben",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Ryerson springt auf die 1 - Laimer rutscht ab: Die Rangliste für die defensive Außenbahn",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Wegen Karetsas: Treffen zwischen BVB und Genk - Foden verlängert",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Er lacht wieder: Wie weit ist Weiser bei Werder schon?",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "So geht es bei Musiala weiter",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Seimen fehlt dem VfB mindestens bis Ende September",
+      "source": "kicker",
+      "sentiment": 0.05
+    },
+    {
+      "title": "Gedrängel auf der Zehn: Kompany steht vor unangenehmen Entscheidungen",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Bei Gruda ist das Unvorhergesehene Programm",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Bundesliga-Debüt mit 16: Bayern verlängert langfristig mit Osmani",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
       "title": "Nach Daka ist beim HSV mit Nadir der nächste Neue im Anflug",
       "source": "kicker",
       "sentiment": 0
@@ -49,106 +149,6 @@
       "title": "Krüger verrät ihr Hoeneß-Geheimnis und Huwer ein Vieira-Angebot",
       "source": "kicker",
       "sentiment": 0
-    },
-    {
-      "title": "\"Ich liebe Duelle mit den Stürmern\": Geburtstagskind Wojcik und die grobe Klinge",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Lahm: \"Verstehe nicht, wieso Upamecano nicht in der Weltklasse ist\"",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Trotz Ben Seghirs Ausfall: Alajbegovic bleibt Verkaufskandidat",
-      "source": "kicker",
-      "sentiment": -0.47
-    },
-    {
-      "title": "Der \"harte\" Werder-Neuzugang Wojcik: \"Alles ist erlaubt\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Vertragslos: Diese Spieler sind ablösefrei zu haben",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Werder hat Svanberg als möglichen Stage-Ersatz im Visier",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Wann geht es wo wieder los? Der Rahmenterminkalender für die Saison 2026/27",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Upamecano und ein Sextett in der Internationalen Klasse: Die Rangliste für die Innenverteidigung",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Top-Talent Natali vor abermaligem Wechsel aus Leverkusen nach Alkmaar",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Nach dem Alajbegovic-Modell: Bayer verkauft Sarco an Sporting Gijon",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Eine Etage höher: Sirch schließt sich Elversberg an",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "ManUnited will Ex-Gladbacher Koné - Wechselt Lacroix innerhalb Londons?",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "\"Der Kleinste war der Größte\": Keegans HSV-Tore aus der Meistersaison",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Reitz zu Wechsel: \"Am Ende hat jeder das Recht, seine Meinung zu teilen\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Gosens in Königsblau, Jubel für Muslic: So läuft es im Schalke-Trainingslager",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "\"DFB-Spieler weit von Weltklasse entfernt\": So entsteht die kicker-Rangliste",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Keegan: Die große Liebe auf den zweiten Blick",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kobel verteidigt die Spitze - Urbig vor Neuer: Die Rangliste für das Tor",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Die Rangliste als Spiegelbild des Niedergangs",
-      "source": "kicker",
-      "sentiment": -0.3
     }
   ]
 }
