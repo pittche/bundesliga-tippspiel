@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Villarreal verhandelt offenbar mit Gulacsi - Embolo in die MLS?",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Vertragslos: Diese Spieler sind ablösefrei zu haben",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Lochoshvili zeigt nach sieben Minuten, wofür Köln ihn geholt hat",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Karaman im Interview: \"Wir müssen zwei Gänge hochschalten\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Es gibt mehr Fragezeichen, als es einem Trainer lieb sein kann\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Olise erneut Weltklasse - mit zwei Verfolgern: Die Rangliste der offensiven Außenbahn",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Australischer Nationalspieler: Köln verpflichtet Sechser Okon-Engstler",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Hütter verzichtet auf Quartett um Torschützenkönig Futkeu",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "So will Thioune Werder weiterentwickeln - Pieper: \"Weiten Weg vor uns\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Lockruf gefolgt: Schlager spielt wieder unter Glasner",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "WM-Star Nyland wurde dem VfB angeboten - Gerüchte um namhaftes Trio",
+      "source": "kicker",
+      "sentiment": -0.5
+    },
+    {
+      "title": "Arsenal-Fans aufgepasst: Die schönsten Tzolis-Tore für Düsseldorf",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Medizincheck bestanden: Nadir landet Donnerstagabend im HSV-Camp",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Kader deutlich zu groß: Wer Union Berlin noch verlassen könnte",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Tour durchs HSV-Trainingslager und Heuer Fernandes' Einspruch",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Die Vertragslaufzeiten der BVB-Profis",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Polizei und NRW-Klubs erneuern Vereinbarung zur Stadionsicherheit",
+      "source": "kicker",
+      "sentiment": -0.5
+    },
+    {
+      "title": "Im Retro-Design und mit altem Logo: Eintracht präsentiert neues Auswärtstrikot",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Nicht all-in gehen\": Werders Status quo bei Stark",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Die Sommer-Fahrpläne der Bundesligisten 2026/27",
       "source": "kicker",
       "sentiment": 0
@@ -47,106 +147,6 @@
     },
     {
       "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Den nächsten Gang gefunden\": Muslic mit Test zufrieden - Wöber kommt aus Leeds",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Vertragslos: Diese Spieler sind ablösefrei zu haben",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Ryerson springt auf die 1 - Laimer rutscht ab: Die Rangliste für die defensive Außenbahn",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wegen Karetsas: Treffen zwischen BVB und Genk - Foden verlängert",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Er lacht wieder: Wie weit ist Weiser bei Werder schon?",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "So geht es bei Musiala weiter",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Seimen fehlt dem VfB mindestens bis Ende September",
-      "source": "kicker",
-      "sentiment": 0.05
-    },
-    {
-      "title": "Gedrängel auf der Zehn: Kompany steht vor unangenehmen Entscheidungen",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Bei Gruda ist das Unvorhergesehene Programm",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Bundesliga-Debüt mit 16: Bayern verlängert langfristig mit Osmani",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Nach Daka ist beim HSV mit Nadir der nächste Neue im Anflug",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Daka ist der erste neue Stürmer des HSV - und in erster Linie ein Versuch",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Heidenheim winkt Geldregen wegen Dorsch - Tauziehen um Summerville",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Die Sommer-Fahrpläne der Bundesligisten 2026/27",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Was bei den 18 Bundesligisten während der WM passierte",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Die schönsten Tore von Holtby auf jeder Station in Deutschland",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Trauer um Keegan und Seeler: Bewegende Worte von HSV-Vorstand Huwer",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Yamamoto wandelt auf Kagawas Spuren",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Krüger verrät ihr Hoeneß-Geheimnis und Huwer ein Vieira-Angebot",
       "source": "kicker",
       "sentiment": 0
     }
