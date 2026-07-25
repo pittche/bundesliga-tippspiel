@@ -1,6 +1,71 @@
 {
   "news": [
     {
+      "title": "WM-Held Vozinha vor Wechsel nach Südamerika - Summerville nach Saudi-Arabien",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Selbstvertrauen für das Sorgenkind: Irié glänzt bei Freiburgs Test",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Hütter belebt die Eintracht - auch Götze freut sich: \"Sieht sehr gut aus\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Die nächsten Millionen: Bayer 04 kassiert bei Transfer von Iker Bravo kräftig mit",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Erstes Angebot da: Chelsea macht bei Alajbegovic ernst",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Das ist mein Job\": So sieht Hein das Duell gegen Schlager",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Dakas HSV-Plan: Hilfe zur Selbsthilfe",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Nummer 1 bei Werder? Hein: \"Es gibt keine Garantien\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Crystal Palace will FCA-Verteidiger Matsima",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Mit Hübers und sechs U-21-Spielern: Köln reist ins Trainingslager",
+      "source": "kicker",
+      "sentiment": 0.1
+    },
+    {
+      "title": "Stammtorwart der PSG-U-19: James wechselt ablösefrei nach Köln",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Nächste Option fürs Mittelfeld: Auch Nadir unterschreibt beim HSV",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Villarreal verhandelt offenbar mit Gulacsi - Embolo in die MLS?",
       "source": "kicker",
       "sentiment": 0.35
@@ -82,71 +147,6 @@
     },
     {
       "title": "Die Vertragslaufzeiten der BVB-Profis",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Polizei und NRW-Klubs erneuern Vereinbarung zur Stadionsicherheit",
-      "source": "kicker",
-      "sentiment": -0.5
-    },
-    {
-      "title": "Im Retro-Design und mit altem Logo: Eintracht präsentiert neues Auswärtstrikot",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Nicht all-in gehen\": Werders Status quo bei Stark",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Die Sommer-Fahrpläne der Bundesligisten 2026/27",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Die Heimtrikots der Bundesligisten für die Saison 2026/27",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wagner lobt El Mala für seine Einstellung: \"Unheimlich beeindruckend\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Schmidts Standpauke fällt auf fruchtbaren Boden",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Chukis erste Werder-Kostprobe: \"Sein Fuß kann scharf sein\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Fritz über den Stand bei Stage: \"Nicht unmittelbar auf dem Sprung\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Neuanfang unter Hütter: Baum und Kosugi wittern ihre Chance",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Dritter Bundesligist: Wöber wechselt zur \"reizvollen Aufgabe\" Schalke",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Mehr Chips am Spieltisch: Baur und Yokota neue SCP-Objekte im Transferpoker",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
       "source": "kicker",
       "sentiment": 0
     }
