@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Nachzügler Kramaric steigt nach OP verspätet ein",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Arsenal hat Vinicius Junior im Visier - Leipzig erkundigt sich wegen Dahmen",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Kane überragt alle - Undav schafft den Dreierpack: Die Rangliste für den Sturm",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Ibrahimovic sucht seine vielleicht letzte Chance beim FC Bayern",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Brisantes Statement: PSG zieht sich offenbar aus Diomande-Poker zurück",
+      "source": "kicker",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Neue Nummer, neue Rolle: Moerstedt will es jetzt wissen",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Lochoshvili: \"Ich soll Führung übernehmen bei diesem großen Klub\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "SGE beeindruckt gegen Trabzonspor: \"Das war Hütter-Fußball\"",
+      "source": "kicker",
+      "sentiment": 0.47
+    },
+    {
+      "title": "Frankfurter Sieg gegen Trabzon: Hütters Handschrift schon zu sehen",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Fünf WM-Fahrer bei Dortmunds Japan-Reise dabei - Ramaj fehlt",
+      "source": "kicker",
+      "sentiment": 0.05
+    },
+    {
+      "title": "Auch Real Madrid bietet mit: Droht RB der Verlust der Flügelzange?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Neuzugang Koné fehlt Leipzig einige Wochen",
+      "source": "kicker",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Alajbegovic: Gespräch mit Xabi Alonso, aber keine Verhandlungen mit Chelsea",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Tietz als Mainzer Blitzstarter: Torgarant, Teamplayer - und ein Sorry an die Fans",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Olise und Real Madrid: Nur ein Sommerloch-Füller",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Stuttgart vermeldet neue Rekordzahlen",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Wagner ohne Furcht vor blutigen Nasen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Große kleine Schritte: Was Rolfes bei Sorgen-Stürmer Boniface Hoffnung macht",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
+      "title": "Milliarden für die Liga? Das sind die Details",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Gosens, Sylla, Wöber und Co.: Diese Schalker standen in Österreich im Mittelpunkt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Rosige Aussichten: Wird Kleindienst wieder zur großen Nummer?",
       "source": "kicker",
       "sentiment": 0.6
@@ -49,106 +149,6 @@
       "title": "Nebenjob Dolmetscher: Backhaus und die drei Japaner",
       "source": "kicker",
       "sentiment": 0
-    },
-    {
-      "title": "Erevbenagie hinterlässt \"Eindruck\" bei Werder - auch für mehr?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "HSV-Neuzugang glänzt: Daka \"setzt das erste Ausrufezeichen\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "HSV-Neuzugang Daka: 28 Minuten, zwei Vorlagen, ein Tor",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Neue Wucht für die Eintracht: Onyedika im Anflug",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Muslics nebulöse Andeutung - Frankfurt hat zwei Neue an der Angel",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Knauff: \"Das war das, was die Fans nicht mehr sehen wollten\"",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Die Sommer-Fahrpläne der Bundesligisten 2026/27",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "U-19-Nationalspieler Erlein wechselt von der TSG nach Leverkusen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Götze macht Witze mit Reportern: \"Geht euch wahrscheinlich auch so\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "WM-Held Vozinha vor Wechsel nach Südamerika - Summerville nach Saudi-Arabien",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Selbstvertrauen für das Sorgenkind: Irié glänzt bei Freiburgs Test",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Hütter belebt die Eintracht - auch Götze freut sich: \"Sieht sehr gut aus\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Die nächsten Millionen: Bayer 04 kassiert bei Transfer von Iker Bravo kräftig mit",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Erstes Angebot da: Chelsea macht bei Alajbegovic ernst",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Das ist mein Job\": So sieht Hein das Duell gegen Schlager",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Dakas HSV-Plan: Hilfe zur Selbsthilfe",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Nummer 1 bei Werder? Hein: \"Es gibt keine Garantien\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Crystal Palace will FCA-Verteidiger Matsima",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Mit Hübers und sechs U-21-Spielern: Köln reist ins Trainingslager",
-      "source": "kicker",
-      "sentiment": 0.1
     }
   ]
 }
