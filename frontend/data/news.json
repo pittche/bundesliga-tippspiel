@@ -1,9 +1,94 @@
 {
   "news": [
     {
+      "title": "Grifo ambitioniert: \"Da oben ist die Luft sehr dünn\"",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
+      "title": "Das Bayern-Programm am Tegernsee - und Kompanys klare Empfehlung",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Orban verlässt Hoffenheim Richtung Türkei",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Karetsas vor Wechsel zum BVB: Einigung mit Genk erzielt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Esteve: \"Ich habe viel von Kompany gelernt\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Backup-Rolle für Luis Diaz? Ibrahimovic: \"Möchte mich hier beweisen\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Es wird ernster\": Die ersten Eindrücke aus dem Bayern-Trainingslager",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Davies, Saibari, die WM und die Folgen für Bayern",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "\"In keinster Weise interessant\": Paderborn blockt Angebote für Top-Spieler ab",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
+      "title": "\"Mache gerne die Drecksarbeit\": Okon-Engstler weiß, was von ihm verlangt wird",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "\"Verdient, ja\": El Mala überreicht Ache Tor-des-Jahres-Trophäe",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "So plant der FC Bayern mit seinen Talenten",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Stuttgart ist bei Feyenoords Sauer auf der Zielgeraden",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Vom Spieler in drei Tagen zum Trainer: Klopps verrückter Anfang",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Arrhov bringt Journalisten zum Lachen und spricht über \"Mentor\" Götze",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Innenbandanriss: Neuzugang Konoplia fehlt Gladbach wochenlang",
+      "source": "kicker",
+      "sentiment": 0.05
+    },
+    {
       "title": "Nachzügler Kramaric steigt nach OP verspätet ein",
       "source": "kicker",
       "sentiment": 0.3
+    },
+    {
+      "title": "Stones zieht es nach Italien - Chelsea beäugt Henderson - Menzel trainiert bei Union mit",
+      "source": "kicker",
+      "sentiment": 0.35
     },
     {
       "title": "Arsenal hat Vinicius Junior im Visier - Leipzig erkundigt sich wegen Dahmen",
@@ -62,91 +147,6 @@
     },
     {
       "title": "Alajbegovic: Gespräch mit Xabi Alonso, aber keine Verhandlungen mit Chelsea",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Tietz als Mainzer Blitzstarter: Torgarant, Teamplayer - und ein Sorry an die Fans",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Olise und Real Madrid: Nur ein Sommerloch-Füller",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Stuttgart vermeldet neue Rekordzahlen",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Wagner ohne Furcht vor blutigen Nasen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Große kleine Schritte: Was Rolfes bei Sorgen-Stürmer Boniface Hoffnung macht",
-      "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Milliarden für die Liga? Das sind die Details",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Gosens, Sylla, Wöber und Co.: Diese Schalker standen in Österreich im Mittelpunkt",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Rosige Aussichten: Wird Kleindienst wieder zur großen Nummer?",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Amiris Sprung, Musiala wieder dabei: Die Rangliste für das offensive Mittelfeld",
-      "source": "kicker",
-      "sentiment": 0.05
-    },
-    {
-      "title": "Ndiaye bekommt Goretzkas Kaderplatz",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Dortmunds Geduldsspiel um Karetsas und El Mala",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Hoeneß über Demirovic-Gerüchte: \"Ich war verärgert, was zum Teil diskutiert wurde\"",
-      "source": "kicker",
-      "sentiment": -0.5
-    },
-    {
-      "title": "Gosens’ königsblaue Premiere: \"Integration ist perfekt verlaufen\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Asllani und Toure nur Zuschauer: \"Teuerste Terrasse des ganzen Kraichgaus\"",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "\"Müssen Überzeugungsarbeit leisten\": Singt Thioune am Werder-Mannschaftsabend?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Zwei Torwartpatzer: Bayern verliert den ersten Test in Wiesbaden",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Nebenjob Dolmetscher: Backhaus und die drei Japaner",
       "source": "kicker",
       "sentiment": 0
     }
