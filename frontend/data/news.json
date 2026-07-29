@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Backhaus schwärmt vom SC: \"Das ist geil und spricht für die Gruppendynamik\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Ortega Moreno beim Medizincheck - Rekordeinnahmen für Lens?",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Jobangebot und Trikottausch: Kagawa besucht BVB im Hotel",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Mbangulas Werder-Neustart mit Familie: \"Das macht etwas mit einem\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Wer überträgt das BVB-Testspiel bei Cerezo Osaka heute live im TV & Stream?",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Was wurde eigentlich aus Shinji Kagawa?",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Otavio direkt Startelfkandidat? Krösche: \"Das liegt an ihm\"",
+      "source": "kicker",
+      "sentiment": 0.37
+    },
+    {
+      "title": "Krösche: \"Es ist für den deutschen Fußball schön, dass Brown der Bundesliga erhalten bleibt\"",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Neuers Ankündigung ist \"noch mit Vorsicht zu genießen\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Mit schelmischem Grinsen: Hier kündigt Neuer sein Karriereende an",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Es sieht schon stark danach aus\": Neuer kündigt Karriereende an",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "BVB startet in Japan: Osaka feiert aktuelle und ehemalige Dortmunder",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Hand vor dem Mund: In der Bundesliga nur Gelb statt Rot",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Dankbarer\" Weiser über Leidenszeit, Langeweile und ein Loch",
+      "source": "kicker",
+      "sentiment": 0.03
+    },
+    {
+      "title": "Müller und Schwolow bekommen Gesellschaft: Die Rangliste Ausland Mittelklasse",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Handkäs-Frühstück der SGE-Fans: Hütter isst mit Gabel und sorgt für Lacher",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Unfassbar treu\": Dreesen fühlt mit den 1860-Fans",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Orbans Wechsel in die Wüste geplatzt - Gulacsi vor Absprung aus Leipzig",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Wer landet wo? Der Tabellenrechner zur Bundesliga",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Gold-Comeback: VfB zeigt Ausweichtrikot 2026/27",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
       "title": "Grifo ambitioniert: \"Da oben ist die Luft sehr dünn\"",
       "source": "kicker",
       "sentiment": 0.45
@@ -49,106 +149,6 @@
       "title": "\"Mache gerne die Drecksarbeit\": Okon-Engstler weiß, was von ihm verlangt wird",
       "source": "kicker",
       "sentiment": 0.4
-    },
-    {
-      "title": "\"Verdient, ja\": El Mala überreicht Ache Tor-des-Jahres-Trophäe",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "So plant der FC Bayern mit seinen Talenten",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Stuttgart ist bei Feyenoords Sauer auf der Zielgeraden",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Vom Spieler in drei Tagen zum Trainer: Klopps verrückter Anfang",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Arrhov bringt Journalisten zum Lachen und spricht über \"Mentor\" Götze",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Innenbandanriss: Neuzugang Konoplia fehlt Gladbach wochenlang",
-      "source": "kicker",
-      "sentiment": 0.05
-    },
-    {
-      "title": "Nachzügler Kramaric steigt nach OP verspätet ein",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Stones zieht es nach Italien - Chelsea beäugt Henderson - Menzel trainiert bei Union mit",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Arsenal hat Vinicius Junior im Visier - Leipzig erkundigt sich wegen Dahmen",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Kane überragt alle - Undav schafft den Dreierpack: Die Rangliste für den Sturm",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Ibrahimovic sucht seine vielleicht letzte Chance beim FC Bayern",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Brisantes Statement: PSG zieht sich offenbar aus Diomande-Poker zurück",
-      "source": "kicker",
-      "sentiment": -0.05
-    },
-    {
-      "title": "Neue Nummer, neue Rolle: Moerstedt will es jetzt wissen",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Lochoshvili: \"Ich soll Führung übernehmen bei diesem großen Klub\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "SGE beeindruckt gegen Trabzonspor: \"Das war Hütter-Fußball\"",
-      "source": "kicker",
-      "sentiment": 0.47
-    },
-    {
-      "title": "Frankfurter Sieg gegen Trabzon: Hütters Handschrift schon zu sehen",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Fünf WM-Fahrer bei Dortmunds Japan-Reise dabei - Ramaj fehlt",
-      "source": "kicker",
-      "sentiment": 0.05
-    },
-    {
-      "title": "Auch Real Madrid bietet mit: Droht RB der Verlust der Flügelzange?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Neuzugang Koné fehlt Leipzig einige Wochen",
-      "source": "kicker",
-      "sentiment": -0.1
-    },
-    {
-      "title": "Alajbegovic: Gespräch mit Xabi Alonso, aber keine Verhandlungen mit Chelsea",
-      "source": "kicker",
-      "sentiment": 0
     }
   ]
 }
