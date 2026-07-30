@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Gladbach vor Hashioka-Verpflichtung - Ortega-Moreno-Wechsel fix",
+      "source": "kicker",
+      "sentiment": 0.37
+    },
+    {
+      "title": "Debüt mit Dolmetscher: Gladbachs Uno macht die ersten Schritte",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kovac: \"In Deutschland geht für uns die Vorbereitung los\"",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Im Ranking abgerutscht: Querfeld muss sich bei Union neu beweisen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Bayers Linksverteidiger-Suche: Neapels Miguel ist der zweite Kandidat",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kagawa mittendrin: Der BVB-Test gegen Osaka im Video",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Chancen im Überfluss: VfB schlägt Offenbach mit 8:1",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "\"Sie bleiben sich treu\": Freiburgs Umgang mit den Manzambi-Millionen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Wie ein Youngster Einfluss auf die Kaderpläne des HSV nimmt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Juve steigt in Alajbegovic-Poker ein - und steht vor dem Zuschlag",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Eintracht-Stürmer Burkardt: \"Es ist eine komplett andere Fußballidee\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Eintracht-Stürmer Burkardt über Hütter: \"Es ist eine komplett andere Fußballidee\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Doppeltes Bekenntnis: Schalke verlängert mit Eigengewächs Ayhan",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Zwei Scorerpunkte von Moreira: Bayers linke Seite überzeugt gegen Genk",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Ambitionierte Ziele, Klopp, Bayern-Bettwäsche: Brown beim FC Bayern vorgestellt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Matsimas Wechsel zu Crystal Palace geplatzt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Hoffenheim ausgestochen: VfB verpflichtet DFB-Schreck Sauer",
+      "source": "kicker",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Eberls Austausch mit Olise - und die Frage nach der Rückennummer",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "\"Ein ernsthafter Konkurrent für Davies\": Was sich Bayern von Brown verspricht",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
+      "title": "Rückennummer 14? Hector gab Mensah grünes Licht",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Backhaus schwärmt vom SC: \"Das ist geil und spricht für die Gruppendynamik\"",
       "source": "kicker",
       "sentiment": 0
@@ -49,106 +149,6 @@
       "title": "Mit schelmischem Grinsen: Hier kündigt Neuer sein Karriereende an",
       "source": "kicker",
       "sentiment": 0
-    },
-    {
-      "title": "\"Es sieht schon stark danach aus\": Neuer kündigt Karriereende an",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "BVB startet in Japan: Osaka feiert aktuelle und ehemalige Dortmunder",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Hand vor dem Mund: In der Bundesliga nur Gelb statt Rot",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Dankbarer\" Weiser über Leidenszeit, Langeweile und ein Loch",
-      "source": "kicker",
-      "sentiment": 0.03
-    },
-    {
-      "title": "Müller und Schwolow bekommen Gesellschaft: Die Rangliste Ausland Mittelklasse",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Handkäs-Frühstück der SGE-Fans: Hütter isst mit Gabel und sorgt für Lacher",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Unfassbar treu\": Dreesen fühlt mit den 1860-Fans",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Orbans Wechsel in die Wüste geplatzt - Gulacsi vor Absprung aus Leipzig",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Wer landet wo? Der Tabellenrechner zur Bundesliga",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Gold-Comeback: VfB zeigt Ausweichtrikot 2026/27",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Grifo ambitioniert: \"Da oben ist die Luft sehr dünn\"",
-      "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Das Bayern-Programm am Tegernsee - und Kompanys klare Empfehlung",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Orban verlässt Hoffenheim Richtung Türkei",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Karetsas vor Wechsel zum BVB: Einigung mit Genk erzielt",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Esteve: \"Ich habe viel von Kompany gelernt\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Backup-Rolle für Luis Diaz? Ibrahimovic: \"Möchte mich hier beweisen\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Es wird ernster\": Die ersten Eindrücke aus dem Bayern-Trainingslager",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Davies, Saibari, die WM und die Folgen für Bayern",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "\"In keinster Weise interessant\": Paderborn blockt Angebote für Top-Spieler ab",
-      "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "\"Mache gerne die Drecksarbeit\": Okon-Engstler weiß, was von ihm verlangt wird",
-      "source": "kicker",
-      "sentiment": 0.4
     }
   ]
 }
