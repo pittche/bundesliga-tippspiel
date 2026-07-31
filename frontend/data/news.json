@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Plötzlich \"100 Prozent\": Was die Hoeneß-Aussagen für Eberl bedeuten",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Vertragslos: Diese Spieler sind ablösefrei zu haben",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Habe mich bei Max dafür entschuldigt\": Hoeneß stellt sich hinter Eberl",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Hoeneß spricht von \"perfektem Transferfenster\" und über den Stand bei Eberl",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Asllani in Barcelona gehandelt - Bayers Faye vor Leihe nach Vigo - Real-Neuzugang",
+      "source": "kicker",
+      "sentiment": 0.37
+    },
+    {
+      "title": "Hoeneß entschuldigt sich bei Eberl - und stellt Verlängerung in Aussicht",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Zum Abschluss am Tegernsee: Bayern gegen Rottach-Egern in Torlaune",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Lila BVB-Trikot? Cramer beruhigt Fans: \"Nur, wenn wir gegen Dresden oder Aachen spielen\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Als Konoplia-Ersatz: Gladbach holt \"glücklichen\" Hashioka",
+      "source": "kicker",
+      "sentiment": -0.17
+    },
+    {
+      "title": "Kein Bekenntnis zu Mainz: Amiri \"will die Fans nicht enttäuschen\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Ex-Hoffenheimer Akpoguma verstärkt Frosinone Calcio",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Goretzka, Brandt, Sancho und Co.: Diese Spieler sind noch vereinslos",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Ungewöhnliche Hauptfarbe Lila: BVB stellt neues Ausweichtrikot vor",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "500 Plätze bei ersten drei Werder-Heimspielen nicht nutzbar",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "SGE-Neuzugang Otavio über Integrationshelfer Kaua Santos",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Real-Testspiel ein \"kleiner Traum\": Ayhan will Trikottausch mit Arda Güler",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Wer überträgt Rottach-Egern gegen FC Bayern München heute live im TV & Stream?",
+      "source": "kicker",
+      "sentiment": -0.15
+    },
+    {
+      "title": "Einigung zwischen Bayer und Juve: Alajbegovic sagt Ja zur Alten Dame",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Trotz gestiegener Preise: Bundesliga vermeldet erneuten Ticketrekord",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Was Lemperle noch verbessern muss",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Gladbach vor Hashioka-Verpflichtung - Ortega-Moreno-Wechsel fix",
       "source": "kicker",
       "sentiment": 0.37
@@ -47,106 +147,6 @@
     },
     {
       "title": "Juve steigt in Alajbegovic-Poker ein - und steht vor dem Zuschlag",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Eintracht-Stürmer Burkardt: \"Es ist eine komplett andere Fußballidee\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Eintracht-Stürmer Burkardt über Hütter: \"Es ist eine komplett andere Fußballidee\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Doppeltes Bekenntnis: Schalke verlängert mit Eigengewächs Ayhan",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Zwei Scorerpunkte von Moreira: Bayers linke Seite überzeugt gegen Genk",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Ambitionierte Ziele, Klopp, Bayern-Bettwäsche: Brown beim FC Bayern vorgestellt",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Matsimas Wechsel zu Crystal Palace geplatzt",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Hoffenheim ausgestochen: VfB verpflichtet DFB-Schreck Sauer",
-      "source": "kicker",
-      "sentiment": -0.05
-    },
-    {
-      "title": "Eberls Austausch mit Olise - und die Frage nach der Rückennummer",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "\"Ein ernsthafter Konkurrent für Davies\": Was sich Bayern von Brown verspricht",
-      "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Rückennummer 14? Hector gab Mensah grünes Licht",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Backhaus schwärmt vom SC: \"Das ist geil und spricht für die Gruppendynamik\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Ortega Moreno beim Medizincheck - Rekordeinnahmen für Lens?",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Jobangebot und Trikottausch: Kagawa besucht BVB im Hotel",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Mbangulas Werder-Neustart mit Familie: \"Das macht etwas mit einem\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wer überträgt das BVB-Testspiel bei Cerezo Osaka heute live im TV & Stream?",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Was wurde eigentlich aus Shinji Kagawa?",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Otavio direkt Startelfkandidat? Krösche: \"Das liegt an ihm\"",
-      "source": "kicker",
-      "sentiment": 0.37
-    },
-    {
-      "title": "Krösche: \"Es ist für den deutschen Fußball schön, dass Brown der Bundesliga erhalten bleibt\"",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Neuers Ankündigung ist \"noch mit Vorsicht zu genießen\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Mit schelmischem Grinsen: Hier kündigt Neuer sein Karriereende an",
       "source": "kicker",
       "sentiment": 0
     }
