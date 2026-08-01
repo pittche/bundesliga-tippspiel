@@ -1,6 +1,76 @@
 {
   "news": [
     {
+      "title": "Wer überträgt FC Tokyo gegen Borussia Dortmund live im TV und Stream?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Vertragslos: Diese Spieler sind ablösefrei zu haben",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Martel-Aus überschattet die Mainzer Siegesserie",
+      "source": "kicker",
+      "sentiment": 0.27
+    },
+    {
+      "title": "Langfristiger Vertrag: Hoffenheim setzt auf Talent Abraha",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "0:3 gegen Fürth: Freiburger Niederlage soll \"das Bewusstsein schärfen\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "\"Es ist fast alles durch\": Kovac bestätigt baldigen Karetsas-Transfer",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Beier freut sich über Klopp: \"Hoffe, dass ich ihn bald kennenlernen werde\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Hoffenheim holt Daghim aus Salzburg",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Spezieller Test gegen Osnabrück: Michel und das Paderborner Kuriosum",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Amiri, Sano, Nebel weg aus Mainz? Für Heidel \"definitiv ausgeschlossen\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Chiarodia ausgebremst: Gladbachs Abwehrmann steht \"vorerst nicht zur Verfügung\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Das Bayern-Fazit nach vier Tagen am Tegernsee",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Sechser-Suche geht weiter: Köln blitzt bei Wolfsburgs Vinicius Souza ab",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Howe kein Newcastle-Coach mehr - St. Pauli holt neuen Außenverteidiger",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
       "title": "Plötzlich \"100 Prozent\": Was die Hoeneß-Aussagen für Eberl bedeuten",
       "source": "kicker",
       "sentiment": 0
@@ -79,76 +149,6 @@
       "title": "Real-Testspiel ein \"kleiner Traum\": Ayhan will Trikottausch mit Arda Güler",
       "source": "kicker",
       "sentiment": 0.4
-    },
-    {
-      "title": "Wer überträgt Rottach-Egern gegen FC Bayern München heute live im TV & Stream?",
-      "source": "kicker",
-      "sentiment": -0.15
-    },
-    {
-      "title": "Einigung zwischen Bayer und Juve: Alajbegovic sagt Ja zur Alten Dame",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Trotz gestiegener Preise: Bundesliga vermeldet erneuten Ticketrekord",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Was Lemperle noch verbessern muss",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Gladbach vor Hashioka-Verpflichtung - Ortega-Moreno-Wechsel fix",
-      "source": "kicker",
-      "sentiment": 0.37
-    },
-    {
-      "title": "Debüt mit Dolmetscher: Gladbachs Uno macht die ersten Schritte",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kovac: \"In Deutschland geht für uns die Vorbereitung los\"",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Im Ranking abgerutscht: Querfeld muss sich bei Union neu beweisen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Bayers Linksverteidiger-Suche: Neapels Miguel ist der zweite Kandidat",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kagawa mittendrin: Der BVB-Test gegen Osaka im Video",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Chancen im Überfluss: VfB schlägt Offenbach mit 8:1",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "\"Sie bleiben sich treu\": Freiburgs Umgang mit den Manzambi-Millionen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wie ein Youngster Einfluss auf die Kaderpläne des HSV nimmt",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Juve steigt in Alajbegovic-Poker ein - und steht vor dem Zuschlag",
-      "source": "kicker",
-      "sentiment": 0
     }
   ]
 }
