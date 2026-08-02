@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Beim BVB beginnt jetzt die heiße Phase",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Tosender Applaus am Fanabend: Amiri verkündet Verbleib bei Mainz 05",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Ganzer Saal jubelt: Hier verkündet Amiri seinen Mainz-Verbleib",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Polzin gibt Entwarnung bei Capaldo - und macht eine Andeutung",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Verlässt Theate noch die Eintracht? Hütter mit vielsagenden Worten",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Sechs unter 90 Euro: Das kosten die Trikots der Bundesligisten 2026/27",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "HSV verliert, gewinnt aber \"Erkenntnisse und einen neuen Kapitän\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Baur trifft - und geht? - Sorgen um Michel und Klaas",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Das erwartet den FC Bayern in Südkorea und Hongkong",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Training für die Schreibhand: Köln feiert Saisoneröffnung",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Schalkes Sieg getrübt: Gosens muss früh angeschlagen vom Feld",
+      "source": "kicker",
+      "sentiment": 0.2
+    },
+    {
+      "title": "Thema El Mala: BVB-Boss Ricken will keine \"Ping-Pong-Spiele betreiben\"",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Kovac: \"Wir wollen gewinnen, nicht alle nur glücklich machen\"",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Aus der Drehung ins Tor: Fabio Silva schießt den BVB zum Sieg",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Diomande meldet sich krank - und reist vorerst nicht ins Leipziger Trainingslager",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Heja BVB\": Tokio feiert den BVB frenetisch",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Entscheidung gefallen: Remberg neuer HSV-Kapitän",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Stationäre Behandlung: Eichhorn leidet unter Stoffwechselstörung",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Vinicius-Junior-Poker spitzt sich zu - Welbeck zu Chelsea - Holt Leipzig Nyland zurück?",
+      "source": "kicker",
+      "sentiment": 0.33
+    },
+    {
+      "title": "Vom Flop zum Trumpf? Böving als Beruhigungspille mit Blick auf Nebel und Amiri",
+      "source": "kicker",
+      "sentiment": -0.5
+    },
+    {
       "title": "Wer überträgt FC Tokyo gegen Borussia Dortmund live im TV und Stream?",
       "source": "kicker",
       "sentiment": 0
@@ -47,106 +147,6 @@
     },
     {
       "title": "Amiri, Sano, Nebel weg aus Mainz? Für Heidel \"definitiv ausgeschlossen\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Chiarodia ausgebremst: Gladbachs Abwehrmann steht \"vorerst nicht zur Verfügung\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Das Bayern-Fazit nach vier Tagen am Tegernsee",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Sechser-Suche geht weiter: Köln blitzt bei Wolfsburgs Vinicius Souza ab",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Howe kein Newcastle-Coach mehr - St. Pauli holt neuen Außenverteidiger",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Plötzlich \"100 Prozent\": Was die Hoeneß-Aussagen für Eberl bedeuten",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Vertragslos: Diese Spieler sind ablösefrei zu haben",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Habe mich bei Max dafür entschuldigt\": Hoeneß stellt sich hinter Eberl",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Hoeneß spricht von \"perfektem Transferfenster\" und über den Stand bei Eberl",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Asllani in Barcelona gehandelt - Bayers Faye vor Leihe nach Vigo - Real-Neuzugang",
-      "source": "kicker",
-      "sentiment": 0.37
-    },
-    {
-      "title": "Hoeneß entschuldigt sich bei Eberl - und stellt Verlängerung in Aussicht",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Zum Abschluss am Tegernsee: Bayern gegen Rottach-Egern in Torlaune",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Lila BVB-Trikot? Cramer beruhigt Fans: \"Nur, wenn wir gegen Dresden oder Aachen spielen\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Als Konoplia-Ersatz: Gladbach holt \"glücklichen\" Hashioka",
-      "source": "kicker",
-      "sentiment": -0.17
-    },
-    {
-      "title": "Kein Bekenntnis zu Mainz: Amiri \"will die Fans nicht enttäuschen\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Ex-Hoffenheimer Akpoguma verstärkt Frosinone Calcio",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Goretzka, Brandt, Sancho und Co.: Diese Spieler sind noch vereinslos",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Ungewöhnliche Hauptfarbe Lila: BVB stellt neues Ausweichtrikot vor",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "500 Plätze bei ersten drei Werder-Heimspielen nicht nutzbar",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "SGE-Neuzugang Otavio über Integrationshelfer Kaua Santos",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Real-Testspiel ein \"kleiner Traum\": Ayhan will Trikottausch mit Arda Güler",
       "source": "kicker",
       "sentiment": 0.4
     }
