@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Schalkes Lindström-Deal geplatzt? - PSG will Suzuki - Nürnberg hat Linksverteidiger im Visier",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Bayern-Keeper lautstark gefeiert: Ekstase wegen Neuer in Südkorea",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Top-Bewertung für Mainz - und die Signalwirkung des Amiri-Bekenntnisses",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Hainer deutet Eberl-Verlängerung an: \"Aufsichtsrat wird eine gute Entscheidung treffen\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Gleich zwei Ex-FCSG-Knipser haben einen neuen Verein in einer Top-5-Liga",
+      "source": "kicker",
+      "sentiment": 0.33
+    },
+    {
+      "title": "\"Klarer Wunschspieler\": Daghim wechselt für 13 Millionen Euro nach Hoffenheim",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Klopp-Nachfolger Schmidt: Weniger Volkstribun, aber mit klarer Kante",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Stürmer aus Drogbas Heimatstadt: Union leiht Latte Lath aus Atlanta",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Demichelis startet mit RB ins Trainingslager - aber ohne Diomande",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Perfekt: Leverkusen verkauft Alajbegovic für 30 Millionen Euro an Juventus",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "2:2 gegen Cagliari Calcio: Union Berlin wacht erst in der Schlussphase auf",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Maksimovic in Leipzig: Durchbruch oder auf Wanderschaft?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Bayer vor Einigung mit Neapel wegen Miguel - Rolfes: \"Es ist nah, aber ...\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Reyna vor dem Absprung: Darum lässt ihn Gladbach ziehen",
+      "source": "kicker",
+      "sentiment": -0.57
+    },
+    {
+      "title": "Hainer: \"Kann nicht sein, dass der Fußball immer weiter kommerzialisiert wird\"",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Warum die Bayern wieder in Südkorea sind - und was Laimer fordert",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Eberl über seine Zukunft: \"Natürlich haben mich Hoeneß' Worte sehr gefreut\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Laimer zu seiner Verlängerung: \"Wird immer mehr geschrieben, als dran ist\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Dzeko vor der Unterschrift, aber Sorgen um zwei andere Kader-Größen",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
       "title": "Beim BVB beginnt jetzt die heiße Phase",
       "source": "kicker",
       "sentiment": 0
@@ -49,106 +149,6 @@
       "title": "Training für die Schreibhand: Köln feiert Saisoneröffnung",
       "source": "kicker",
       "sentiment": 0
-    },
-    {
-      "title": "Schalkes Sieg getrübt: Gosens muss früh angeschlagen vom Feld",
-      "source": "kicker",
-      "sentiment": 0.2
-    },
-    {
-      "title": "Thema El Mala: BVB-Boss Ricken will keine \"Ping-Pong-Spiele betreiben\"",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Kovac: \"Wir wollen gewinnen, nicht alle nur glücklich machen\"",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Aus der Drehung ins Tor: Fabio Silva schießt den BVB zum Sieg",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Diomande meldet sich krank - und reist vorerst nicht ins Leipziger Trainingslager",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Heja BVB\": Tokio feiert den BVB frenetisch",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Entscheidung gefallen: Remberg neuer HSV-Kapitän",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Stationäre Behandlung: Eichhorn leidet unter Stoffwechselstörung",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Vinicius-Junior-Poker spitzt sich zu - Welbeck zu Chelsea - Holt Leipzig Nyland zurück?",
-      "source": "kicker",
-      "sentiment": 0.33
-    },
-    {
-      "title": "Vom Flop zum Trumpf? Böving als Beruhigungspille mit Blick auf Nebel und Amiri",
-      "source": "kicker",
-      "sentiment": -0.5
-    },
-    {
-      "title": "Wer überträgt FC Tokyo gegen Borussia Dortmund live im TV und Stream?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Vertragslos: Diese Spieler sind ablösefrei zu haben",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Martel-Aus überschattet die Mainzer Siegesserie",
-      "source": "kicker",
-      "sentiment": 0.27
-    },
-    {
-      "title": "Langfristiger Vertrag: Hoffenheim setzt auf Talent Abraha",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "0:3 gegen Fürth: Freiburger Niederlage soll \"das Bewusstsein schärfen\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "\"Es ist fast alles durch\": Kovac bestätigt baldigen Karetsas-Transfer",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Beier freut sich über Klopp: \"Hoffe, dass ich ihn bald kennenlernen werde\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Hoffenheim holt Daghim aus Salzburg",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Spezieller Test gegen Osnabrück: Michel und das Paderborner Kuriosum",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Amiri, Sano, Nebel weg aus Mainz? Für Heidel \"definitiv ausgeschlossen\"",
-      "source": "kicker",
-      "sentiment": 0.4
     }
   ]
 }
