@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Leverkusen arbeitet an einer Rückholaktion von Diaby",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Schlagen die Rangers in Hannover zu? - Real Madrid gibt Duo nach England ab",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Wer überträgt Jeju SK gegen Bayern München heute live im TV & Stream?",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Schwolows Rückschritt nach Mainz - für die Familie",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Star-Verkauf im Mittelfeld? Bayer agiert ohne Druck und Denkverbote",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Karetsas verteilt Taxiteller: BVB-Fans freuen sich über Neuzugang",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "\"Ganz anderer Zugang\": Gregoritsch verrät, was er von jungen Spielern noch lernen kann",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Wegen Lindström: Neapel übt scharfe Kritik an Schalke - und droht mit rechtlichen Schritten",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Leipzigs Romulo: Über die Königsklasse in die Selecao",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Bei über dreißig Grad: So bereitet sich der Effzeh auf die Bundesliga vor",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Interviewserie: Hier spricht die Liga",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Mit diesen Toren schoss sich Dzeko in die Schalker Herzen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "DFB beschließt neuen Leitfaden für Pyrotechnik-Strafen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Stuttgarter Trainingslager ohne Seimen und El Khannouss - aber mit Prömel",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "SCP-Coach Kettemann will weiterarbeiten, \"bis der Knoten platzt\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Diks macht sich für Elvedi-Verbleib in Gladbach stark",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Ich habe noch Hunger\": Dzeko bleibt ein weiteres Jahr auf Schalke",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Kleindienst: \"Reinrammeln und sehen, ob es hält\"",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Neues Ziel Vigo: Leverkusen verleiht Faye nach Vertragsverlängerung erneut",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Schäfer wird bei Diomande deutlich: \"Nix ist 'done'\"",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
       "title": "Schalkes Lindström-Deal geplatzt? - PSG will Suzuki - Nürnberg hat Linksverteidiger im Visier",
       "source": "kicker",
       "sentiment": 0.35
@@ -47,106 +147,6 @@
     },
     {
       "title": "Demichelis startet mit RB ins Trainingslager - aber ohne Diomande",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Perfekt: Leverkusen verkauft Alajbegovic für 30 Millionen Euro an Juventus",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "2:2 gegen Cagliari Calcio: Union Berlin wacht erst in der Schlussphase auf",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Maksimovic in Leipzig: Durchbruch oder auf Wanderschaft?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Bayer vor Einigung mit Neapel wegen Miguel - Rolfes: \"Es ist nah, aber ...\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Reyna vor dem Absprung: Darum lässt ihn Gladbach ziehen",
-      "source": "kicker",
-      "sentiment": -0.57
-    },
-    {
-      "title": "Hainer: \"Kann nicht sein, dass der Fußball immer weiter kommerzialisiert wird\"",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Warum die Bayern wieder in Südkorea sind - und was Laimer fordert",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Eberl über seine Zukunft: \"Natürlich haben mich Hoeneß' Worte sehr gefreut\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Laimer zu seiner Verlängerung: \"Wird immer mehr geschrieben, als dran ist\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Dzeko vor der Unterschrift, aber Sorgen um zwei andere Kader-Größen",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Beim BVB beginnt jetzt die heiße Phase",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Tosender Applaus am Fanabend: Amiri verkündet Verbleib bei Mainz 05",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Ganzer Saal jubelt: Hier verkündet Amiri seinen Mainz-Verbleib",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Polzin gibt Entwarnung bei Capaldo - und macht eine Andeutung",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Verlässt Theate noch die Eintracht? Hütter mit vielsagenden Worten",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Sechs unter 90 Euro: Das kosten die Trikots der Bundesligisten 2026/27",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "HSV verliert, gewinnt aber \"Erkenntnisse und einen neuen Kapitän\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Baur trifft - und geht? - Sorgen um Michel und Klaas",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Das erwartet den FC Bayern in Südkorea und Hongkong",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Training für die Schreibhand: Köln feiert Saisoneröffnung",
       "source": "kicker",
       "sentiment": 0
     }
