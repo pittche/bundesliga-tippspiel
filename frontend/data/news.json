@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Talente und Rückkehrer: Wie Kompany Bayerns Vorbereitung steuert",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "\"Hatte vor Augsburg turbulente Zeiten\": Rieder will Führungsrolle übernehmen",
+      "source": "kicker",
+      "sentiment": 0.53
+    },
+    {
+      "title": "\"Hatte keinen Rückhalt mehr im Team\": HSV ohne Dompé im Trainingslager",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "\"In der Art und Weise\": Heldt kündigt Veränderungen an - und lobt Lustrinelli",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Burger bremst: \"Wir sind nicht Bayern München\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Warum die klare Niederlage im Europa-League-Finale so sehr an Schuster nagt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Gladbachs Scally: Vom Dauerbrenner zum Wechselkandidaten",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kompany scherzt: \"Ob die Journalisten wegen deiner Frage oder meiner Antwort gehen?\"",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Guimaraes-Wechsel rückt näher - Schlägt Köln bei Benfica zu?",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Fans, Essen, K League 1: Kompany gerät ins Schwärmen",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Baumgartner: Wenn Laufen Laune macht",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "\"Das war ein bisschen merkwürdig\": So lief der Korea-Test der Bayern",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Demirovic: \"Pejcinovic ist herzlich willkommen\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Muheims Perspektive: Zwischen Comeback und Zukunftsfrage",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Über vier Millionen Euro: FCA verkauft Giannoulis an PAOK",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Zwei harte Momente\": Baumgartner über seine WM-Erfahrung",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Nakuzola als Mainzer Gewinner - Sorge um Nebel",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Dzeko hatte noch \"drei Optionen\", macht aber \"nur für Schalke\" weiter",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Dzeko scherzt über seine Familie: \"Wir wollen dich nicht zu Hause haben\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Eine neue Zeitrechnung hat begonnen\": Auf Gulacsi folgt Nyland",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Leverkusen arbeitet an einer Rückholaktion von Diaby",
       "source": "kicker",
       "sentiment": 0.4
@@ -49,106 +149,6 @@
       "title": "Bei über dreißig Grad: So bereitet sich der Effzeh auf die Bundesliga vor",
       "source": "kicker",
       "sentiment": 0.4
-    },
-    {
-      "title": "Interviewserie: Hier spricht die Liga",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Mit diesen Toren schoss sich Dzeko in die Schalker Herzen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "DFB beschließt neuen Leitfaden für Pyrotechnik-Strafen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Stuttgarter Trainingslager ohne Seimen und El Khannouss - aber mit Prömel",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "SCP-Coach Kettemann will weiterarbeiten, \"bis der Knoten platzt\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Diks macht sich für Elvedi-Verbleib in Gladbach stark",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Ich habe noch Hunger\": Dzeko bleibt ein weiteres Jahr auf Schalke",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Kleindienst: \"Reinrammeln und sehen, ob es hält\"",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Neues Ziel Vigo: Leverkusen verleiht Faye nach Vertragsverlängerung erneut",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Schäfer wird bei Diomande deutlich: \"Nix ist 'done'\"",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Schalkes Lindström-Deal geplatzt? - PSG will Suzuki - Nürnberg hat Linksverteidiger im Visier",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Bayern-Keeper lautstark gefeiert: Ekstase wegen Neuer in Südkorea",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Top-Bewertung für Mainz - und die Signalwirkung des Amiri-Bekenntnisses",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Hainer deutet Eberl-Verlängerung an: \"Aufsichtsrat wird eine gute Entscheidung treffen\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Gleich zwei Ex-FCSG-Knipser haben einen neuen Verein in einer Top-5-Liga",
-      "source": "kicker",
-      "sentiment": 0.33
-    },
-    {
-      "title": "\"Klarer Wunschspieler\": Daghim wechselt für 13 Millionen Euro nach Hoffenheim",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Klopp-Nachfolger Schmidt: Weniger Volkstribun, aber mit klarer Kante",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Stürmer aus Drogbas Heimatstadt: Union leiht Latte Lath aus Atlanta",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Demichelis startet mit RB ins Trainingslager - aber ohne Diomande",
-      "source": "kicker",
-      "sentiment": 0
     }
   ]
 }
