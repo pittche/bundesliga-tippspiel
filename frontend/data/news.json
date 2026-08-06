@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "VfB beschäftigt sich mit Cherif - Asllani zum Medizincheck in Salzburg",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Begrenzte Perspektive in Hoffenheim: Ersetzt Zeitler Vorgänger Daghim bei RB?",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Blütezeit in Paderborn: Steigt Millgramm auf die nächste Sprosse?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Dann spiele ich eben dort\": Belocians Update aus dem Trainingslager",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Tillman kritisiert Bayers Führung und Fans öffentlich - und lässt seine Zukunft offen",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Neuzugang Vogt stellt sich vor: \"Meine Mutter hat mich hineingezogen\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Onyedika: \"Frankfurt ist mein Traumverein\"",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Karetsas? \"Richtig geiler Kicker\" und die \"pure Kreativität\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Undav über die WM, die Kapitänsfrage - und ein \"Verbot\" für Leweling",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Nyland: Nummer 2 mit Ambitionen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Neuer-Mania geht weiter: Fans feiern den \"GOAT\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Wie Bremens \"Boxstürmer\" Itten seinen zweiten Bundesliga-Anlauf angeht",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Itten: \"Wenn du dort unterschreibst, dann reden wir nicht mehr miteinander\"",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Der Thronteiler Urbig: \"Ein Modell habe ich jetzt nicht ausgearbeitet\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Rieder: Ein bisschen Xhaka und doch anders",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Ballkinder dürfen wieder werfen: Bundesliga passt Konzept an",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "HSV: Polzins Wunsch, Costas Kandidaten",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Der nächste 18-Jährige: Benficas Neves vor Wechsel nach Köln",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Pejcinovic? Undav: Brauchen Spieler, \"die sofort helfen können\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Diomande zurück im Training, doch der Abgang wird konkreter",
+      "source": "kicker",
+      "sentiment": 0.1
+    },
+    {
       "title": "Talente und Rückkehrer: Wie Kompany Bayerns Vorbereitung steuert",
       "source": "kicker",
       "sentiment": 0.4
@@ -49,106 +149,6 @@
       "title": "Fans, Essen, K League 1: Kompany gerät ins Schwärmen",
       "source": "kicker",
       "sentiment": 0.5
-    },
-    {
-      "title": "Baumgartner: Wenn Laufen Laune macht",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "\"Das war ein bisschen merkwürdig\": So lief der Korea-Test der Bayern",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Demirovic: \"Pejcinovic ist herzlich willkommen\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Muheims Perspektive: Zwischen Comeback und Zukunftsfrage",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Über vier Millionen Euro: FCA verkauft Giannoulis an PAOK",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Zwei harte Momente\": Baumgartner über seine WM-Erfahrung",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Nakuzola als Mainzer Gewinner - Sorge um Nebel",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Dzeko hatte noch \"drei Optionen\", macht aber \"nur für Schalke\" weiter",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Dzeko scherzt über seine Familie: \"Wir wollen dich nicht zu Hause haben\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Eine neue Zeitrechnung hat begonnen\": Auf Gulacsi folgt Nyland",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Leverkusen arbeitet an einer Rückholaktion von Diaby",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Schlagen die Rangers in Hannover zu? - Real Madrid gibt Duo nach England ab",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Wer überträgt Jeju SK gegen Bayern München heute live im TV & Stream?",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Schwolows Rückschritt nach Mainz - für die Familie",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Star-Verkauf im Mittelfeld? Bayer agiert ohne Druck und Denkverbote",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Karetsas verteilt Taxiteller: BVB-Fans freuen sich über Neuzugang",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "\"Ganz anderer Zugang\": Gregoritsch verrät, was er von jungen Spielern noch lernen kann",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wegen Lindström: Neapel übt scharfe Kritik an Schalke - und droht mit rechtlichen Schritten",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Leipzigs Romulo: Über die Königsklasse in die Selecao",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Bei über dreißig Grad: So bereitet sich der Effzeh auf die Bundesliga vor",
-      "source": "kicker",
-      "sentiment": 0.4
     }
   ]
 }
