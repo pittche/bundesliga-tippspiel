@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Mehr VAR, weniger Zeitspiel: Regeländerungen zur Saison 2026/27",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Diomande wie Wirtz: Das sind die Rekord-Verkäufe der Bundesliga",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Leeds zahlt Rekordsumme für Trafford - Barca statt Real: Rodri soll sich umentschieden haben",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Wiedersehen in der Königsklasse? BVB reicht Couto nach Como weiter",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Hütters Entscheidung steht: Abwehrboss Koch bleibt der Kapitän",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Warum das Tillman-Interview Fragen aufwirft",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Berichte: Medina vor Wechsel zu Bayer",
+      "source": "kicker",
+      "sentiment": 0.37
+    },
+    {
+      "title": "Undav macht sich für Bredlow als Stuttgarts Nummer 1 stark",
+      "source": "kicker",
+      "sentiment": -0.5
+    },
+    {
+      "title": "Wimmer: \"Einige Verrückte habe ich schon gesehen\"",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
+      "title": "Nusa: \"Der allerbeste Sommer meines Lebens\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Hlozek warnt: \"Damals hatten wir Schwierigkeiten in der Liga\"",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "\"Möchte kein Gejammere hören\": Wie Schuster Rückkehrer Yilmaz einplant",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Wagner ist trotz Kaderlücken gelassen: \"Gehört zum Geschäft\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Schulter kaputt: Castrop fehlt Gladbach für mehrere Wochen",
+      "source": "kicker",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Für mindestens 125 Millionen Euro: Diomande wechselt von Leipzig zu Real",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Wagner über Fans: \"Alle sind verrückt auf den 1. FC Köln\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "DFB oder Marokko? Mohya lässt die Entscheidung offen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Wollen die CL gewinnen\": Warum die Kompany-Aussage ein bisschen überrascht",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Bewerbung für Real Madrid: Alle Diomande-Tore in der Bundesliga 2025/26",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Lustige Anekdote: Kompany verwechselt die Stadien",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
       "title": "VfB beschäftigt sich mit Cherif - Asllani zum Medizincheck in Salzburg",
       "source": "kicker",
       "sentiment": 0.35
@@ -49,106 +149,6 @@
       "title": "Nyland: Nummer 2 mit Ambitionen",
       "source": "kicker",
       "sentiment": 0
-    },
-    {
-      "title": "Neuer-Mania geht weiter: Fans feiern den \"GOAT\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wie Bremens \"Boxstürmer\" Itten seinen zweiten Bundesliga-Anlauf angeht",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Itten: \"Wenn du dort unterschreibst, dann reden wir nicht mehr miteinander\"",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Der Thronteiler Urbig: \"Ein Modell habe ich jetzt nicht ausgearbeitet\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Rieder: Ein bisschen Xhaka und doch anders",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Ballkinder dürfen wieder werfen: Bundesliga passt Konzept an",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "HSV: Polzins Wunsch, Costas Kandidaten",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Der nächste 18-Jährige: Benficas Neves vor Wechsel nach Köln",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Pejcinovic? Undav: Brauchen Spieler, \"die sofort helfen können\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Diomande zurück im Training, doch der Abgang wird konkreter",
-      "source": "kicker",
-      "sentiment": 0.1
-    },
-    {
-      "title": "Talente und Rückkehrer: Wie Kompany Bayerns Vorbereitung steuert",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "\"Hatte vor Augsburg turbulente Zeiten\": Rieder will Führungsrolle übernehmen",
-      "source": "kicker",
-      "sentiment": 0.53
-    },
-    {
-      "title": "\"Hatte keinen Rückhalt mehr im Team\": HSV ohne Dompé im Trainingslager",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "\"In der Art und Weise\": Heldt kündigt Veränderungen an - und lobt Lustrinelli",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Burger bremst: \"Wir sind nicht Bayern München\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Warum die klare Niederlage im Europa-League-Finale so sehr an Schuster nagt",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Gladbachs Scally: Vom Dauerbrenner zum Wechselkandidaten",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kompany scherzt: \"Ob die Journalisten wegen deiner Frage oder meiner Antwort gehen?\"",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Guimaraes-Wechsel rückt näher - Schlägt Köln bei Benfica zu?",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Fans, Essen, K League 1: Kompany gerät ins Schwärmen",
-      "source": "kicker",
-      "sentiment": 0.5
     }
   ]
 }
