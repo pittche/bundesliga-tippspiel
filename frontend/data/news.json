@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Was können die Fans in der neuen Saison erwarten, Herr Hütter?",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Neuzugang Rots träumt groß: \"Hoffenheim bereitet dich auf Top-Teams vor\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Asllanis Wechsel nach Leipzig überraschend geplatzt",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Polanski trifft Kleindienst-Entscheidung: \"Tim bleibt unser Kapitän\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "\"Haben die schwere Situation nicht verstanden\": Ilzer nach Klatsche unzufrieden",
+      "source": "kicker",
+      "sentiment": -0.5
+    },
+    {
+      "title": "\"Weiß, wie schwer es ist\": Kompany beeindruckt von Bayern-Youngsters",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Härtetest bestanden: \"Dann ist der FC Bayern wieder auf einem sehr guten Weg\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Traumtor: Luis Diaz tanzt Abwehr aus und schlenzt den Ball unter die Latte",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Nach Karetsas-Transfer: Auch Konstantelias im Blickfeld des BVB",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Araujo nach Liverpool? - ManCity lehnt Barcas erstes Angebot für Rodri ab",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "\"Fußballerische Bedingungen waren nicht einfach\": Neuers Fazit nach Aston Villa",
+      "source": "kicker",
+      "sentiment": 0.18
+    },
+    {
+      "title": "Adduktorenverletzung: Mainz zum Auftakt wohl ohne Nebel",
+      "source": "kicker",
+      "sentiment": -0.2
+    },
+    {
+      "title": "Hoeneß über Kapitänsfrage, Kaderstärke und die NLZ-Talente",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Dzeko macht auf Schalke weiter: Über Rekorde und Jokerqualitäten",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Hoeneß wünscht Verstärkungen: \"Hoffe, dass wir noch aktiv werden\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Raum freut sich für Diomande: \"Froh, dass er seinen Traum erfüllen kann\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Eindrücke aus dem Trainingslager: So hart lässt Demichelis trainieren",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Diomande an der Spitze: Diese Ablösen explodierten binnen eines Jahres",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Bayern-Vorstand Kasper kritisiert die Bundesliga: \"Das ist zu wenig\"",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Hainers flammender Appell im Video: \"Kann nicht sein, dass nur Bayern den Wagen zieht\"",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
       "title": "Mehr VAR, weniger Zeitspiel: Regeländerungen zur Saison 2026/27",
       "source": "kicker",
       "sentiment": 0
@@ -47,106 +147,6 @@
     },
     {
       "title": "Nusa: \"Der allerbeste Sommer meines Lebens\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Hlozek warnt: \"Damals hatten wir Schwierigkeiten in der Liga\"",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "\"Möchte kein Gejammere hören\": Wie Schuster Rückkehrer Yilmaz einplant",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Wagner ist trotz Kaderlücken gelassen: \"Gehört zum Geschäft\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Schulter kaputt: Castrop fehlt Gladbach für mehrere Wochen",
-      "source": "kicker",
-      "sentiment": -0.1
-    },
-    {
-      "title": "Für mindestens 125 Millionen Euro: Diomande wechselt von Leipzig zu Real",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Wagner über Fans: \"Alle sind verrückt auf den 1. FC Köln\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "DFB oder Marokko? Mohya lässt die Entscheidung offen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Wollen die CL gewinnen\": Warum die Kompany-Aussage ein bisschen überrascht",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Bewerbung für Real Madrid: Alle Diomande-Tore in der Bundesliga 2025/26",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Lustige Anekdote: Kompany verwechselt die Stadien",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "VfB beschäftigt sich mit Cherif - Asllani zum Medizincheck in Salzburg",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Begrenzte Perspektive in Hoffenheim: Ersetzt Zeitler Vorgänger Daghim bei RB?",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Blütezeit in Paderborn: Steigt Millgramm auf die nächste Sprosse?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Dann spiele ich eben dort\": Belocians Update aus dem Trainingslager",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Tillman kritisiert Bayers Führung und Fans öffentlich - und lässt seine Zukunft offen",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Neuzugang Vogt stellt sich vor: \"Meine Mutter hat mich hineingezogen\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Onyedika: \"Frankfurt ist mein Traumverein\"",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Karetsas? \"Richtig geiler Kicker\" und die \"pure Kreativität\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Undav über die WM, die Kapitänsfrage - und ein \"Verbot\" für Leweling",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Nyland: Nummer 2 mit Ambitionen",
       "source": "kicker",
       "sentiment": 0
     }
