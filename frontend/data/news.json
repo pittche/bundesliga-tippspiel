@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Wer überträgt FC Arsenal gegen den BVB heute live im TV & Stream?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Sergi Roberto wechselt in die MLS - Leverkusen verleiht Mbamba",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Einigung erzielt: Wolfsburgs Stürmer Pejcinovic vor Wechsel zum VfB",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Becker über Schalker Ziele: \"Egal, was extern geredet wird\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Grönbaek: Erste Entwarnung nach dem Schock",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Kettemann lobt Spielkontrolle und hadert mit Chancenwucher",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kölner Matchwinner Maina: \"Habe Bock, anzugreifen\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Wagner freut sich über El Mala: \"Er gibt immer Gas\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Trotz Slapstick-Eigentor: Köln schlägt spanischen Pokalsieger",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Bleibt er oder geht er? \"Tadelloser\" El Mala hängt sich für Köln im Test voll rein",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Blitz-Tor von Hendriks nach Einwechslung: Stuttgart schlägt Everton",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Samardzics Geniestreich, Adamu unglücklich: Schalke versiebt die Saisoneröffnung",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Erst Schreck, dann Entwarnung: Gute Nachrichten für den HSV und Grönbaek",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Auch bei Schmid-Abgang kaum Spielraum? Fritz: \"Goldmine noch nicht gefunden\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Fritz: Trotz Schmid-Verkauf \"keine großen Sprünge\" möglich",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kaua Santos bereitet Burkardt-Treffer gegen Hull City vor",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Hütter zum SGE-Kader: \"Noch nicht so, wie ich ihn mir vorstelle\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Elvedi? Nicolas? Gladbachs Sportchef Schröder gibt ein Update",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Vorfreude auf Schalke: \"Gegen Real spielt man nicht alle Tage\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Operation nötig: Gladbach sogar mehrere Monate ohne Castrop",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
       "title": "Was können die Fans in der neuen Saison erwarten, Herr Hütter?",
       "source": "kicker",
       "sentiment": 0.4
@@ -49,106 +149,6 @@
       "title": "Araujo nach Liverpool? - ManCity lehnt Barcas erstes Angebot für Rodri ab",
       "source": "kicker",
       "sentiment": 0.35
-    },
-    {
-      "title": "\"Fußballerische Bedingungen waren nicht einfach\": Neuers Fazit nach Aston Villa",
-      "source": "kicker",
-      "sentiment": 0.18
-    },
-    {
-      "title": "Adduktorenverletzung: Mainz zum Auftakt wohl ohne Nebel",
-      "source": "kicker",
-      "sentiment": -0.2
-    },
-    {
-      "title": "Hoeneß über Kapitänsfrage, Kaderstärke und die NLZ-Talente",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Dzeko macht auf Schalke weiter: Über Rekorde und Jokerqualitäten",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Hoeneß wünscht Verstärkungen: \"Hoffe, dass wir noch aktiv werden\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Raum freut sich für Diomande: \"Froh, dass er seinen Traum erfüllen kann\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Eindrücke aus dem Trainingslager: So hart lässt Demichelis trainieren",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Diomande an der Spitze: Diese Ablösen explodierten binnen eines Jahres",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Bayern-Vorstand Kasper kritisiert die Bundesliga: \"Das ist zu wenig\"",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Hainers flammender Appell im Video: \"Kann nicht sein, dass nur Bayern den Wagen zieht\"",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Mehr VAR, weniger Zeitspiel: Regeländerungen zur Saison 2026/27",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Diomande wie Wirtz: Das sind die Rekord-Verkäufe der Bundesliga",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Leeds zahlt Rekordsumme für Trafford - Barca statt Real: Rodri soll sich umentschieden haben",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Wiedersehen in der Königsklasse? BVB reicht Couto nach Como weiter",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Hütters Entscheidung steht: Abwehrboss Koch bleibt der Kapitän",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Warum das Tillman-Interview Fragen aufwirft",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Berichte: Medina vor Wechsel zu Bayer",
-      "source": "kicker",
-      "sentiment": 0.37
-    },
-    {
-      "title": "Undav macht sich für Bredlow als Stuttgarts Nummer 1 stark",
-      "source": "kicker",
-      "sentiment": -0.5
-    },
-    {
-      "title": "Wimmer: \"Einige Verrückte habe ich schon gesehen\"",
-      "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Nusa: \"Der allerbeste Sommer meines Lebens\"",
-      "source": "kicker",
-      "sentiment": 0
     }
   ]
 }
