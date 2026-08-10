@@ -1,6 +1,76 @@
 {
   "news": [
     {
+      "title": "Neuer: \"Man hat ja gesehen, was man zurückbekommt\"",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Kemleins Transformation: \"Ich bin in der besten Verfassung, in der ich je war\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Ich weiß, woran ich bin\": Maina will in Köln erneut angreifen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "PSG holt Digne zurück - Zeitler vor Leihe nach Paderborn",
+      "source": "kicker",
+      "sentiment": 0.33
+    },
+    {
+      "title": "\"Es muss wehtun\": Arteta nach Pleite gegen den BVB",
+      "source": "kicker",
+      "sentiment": -0.55
+    },
+    {
+      "title": "Ouedraogos Pech und die Folgen für Leipzig",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Paderborns Götze mischt wieder mit - Zeitler als Verstärkung für den Angriff",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Culbreath fehlt Leverkusen zum Saisonstart - auch Andrich angeschlagen",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "VfB erfüllt Oliviers Wechselwunsch und lässt ihn zu Bröndby IF",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Muskelverletzung im Oberschenkel: Sebulonsen fehlt Köln vorerst",
+      "source": "kicker",
+      "sentiment": -0.42
+    },
+    {
+      "title": "Das Verletzungspech bleibt Stuttgarts Zagadou treu",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Banks: \"Ich will Stammspieler werden und ein Leader sein\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Hoffnung bei Zagadou: Hoeneß’ Erkenntnisse nach dem Everton-Test",
+      "source": "kicker",
+      "sentiment": 0.17
+    },
+    {
+      "title": "Blut geleckt in Mannheim: Eigengewächs Ogbemudia pocht auf ersten Union-Einsatz",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Wer überträgt FC Arsenal gegen den BVB heute live im TV & Stream?",
       "source": "kicker",
       "sentiment": 0
@@ -79,76 +149,6 @@
       "title": "Kaua Santos bereitet Burkardt-Treffer gegen Hull City vor",
       "source": "kicker",
       "sentiment": 0.5
-    },
-    {
-      "title": "Hütter zum SGE-Kader: \"Noch nicht so, wie ich ihn mir vorstelle\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Elvedi? Nicolas? Gladbachs Sportchef Schröder gibt ein Update",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Vorfreude auf Schalke: \"Gegen Real spielt man nicht alle Tage\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Operation nötig: Gladbach sogar mehrere Monate ohne Castrop",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Was können die Fans in der neuen Saison erwarten, Herr Hütter?",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Neuzugang Rots träumt groß: \"Hoffenheim bereitet dich auf Top-Teams vor\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Asllanis Wechsel nach Leipzig überraschend geplatzt",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Polanski trifft Kleindienst-Entscheidung: \"Tim bleibt unser Kapitän\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "\"Haben die schwere Situation nicht verstanden\": Ilzer nach Klatsche unzufrieden",
-      "source": "kicker",
-      "sentiment": -0.5
-    },
-    {
-      "title": "\"Weiß, wie schwer es ist\": Kompany beeindruckt von Bayern-Youngsters",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Härtetest bestanden: \"Dann ist der FC Bayern wieder auf einem sehr guten Weg\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Traumtor: Luis Diaz tanzt Abwehr aus und schlenzt den Ball unter die Latte",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Nach Karetsas-Transfer: Auch Konstantelias im Blickfeld des BVB",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Araujo nach Liverpool? - ManCity lehnt Barcas erstes Angebot für Rodri ab",
-      "source": "kicker",
-      "sentiment": 0.35
     }
   ]
 }
