@@ -1,6 +1,71 @@
 {
   "news": [
     {
+      "title": "Endrick soll bei Real bleiben - Ist Barcelonas Plan B Lautaro Martinez?",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Union Berlin buhlt um Aebischer",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Hess-Grunewald verzichtet auf Kandidatur als Werder-Präsident",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "So empfahl er sich dem VfB: Alle Pejcinovic-Tore in der Bundesliga",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Goretzkas Nachfolger: Bayern verpflichtet Ndiaye fest",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Ein tolles Signal\": VfB macht Pejcinovic-Transfer offiziell",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Wäre der BVB der passende Karriereschritt für El Mala?",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Paderborn leiht \"hochveranlagten\" Zeitler von der TSG aus",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Auch der HSV-Kapitän stützt das Dompé-Aus",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "VfB erfüllt Oliviers Wechselwunsch und lässt ihn zu Bröndby IF",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Bayern-Start ohne Kane und Olise - Quintett um Musiala zurück",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "\"Meister der unsichtbaren Momente\": Kane wird mit Goldenem Schuh ausgezeichnet",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
       "title": "Neuer: \"Man hat ja gesehen, was man zurückbekommt\"",
       "source": "kicker",
       "sentiment": 0.3
@@ -84,71 +149,6 @@
       "title": "Einigung erzielt: Wolfsburgs Stürmer Pejcinovic vor Wechsel zum VfB",
       "source": "kicker",
       "sentiment": 0
-    },
-    {
-      "title": "Becker über Schalker Ziele: \"Egal, was extern geredet wird\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Grönbaek: Erste Entwarnung nach dem Schock",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Kettemann lobt Spielkontrolle und hadert mit Chancenwucher",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kölner Matchwinner Maina: \"Habe Bock, anzugreifen\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wagner freut sich über El Mala: \"Er gibt immer Gas\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Trotz Slapstick-Eigentor: Köln schlägt spanischen Pokalsieger",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Bleibt er oder geht er? \"Tadelloser\" El Mala hängt sich für Köln im Test voll rein",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Blitz-Tor von Hendriks nach Einwechslung: Stuttgart schlägt Everton",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Samardzics Geniestreich, Adamu unglücklich: Schalke versiebt die Saisoneröffnung",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Erst Schreck, dann Entwarnung: Gute Nachrichten für den HSV und Grönbaek",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Auch bei Schmid-Abgang kaum Spielraum? Fritz: \"Goldmine noch nicht gefunden\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Fritz: Trotz Schmid-Verkauf \"keine großen Sprünge\" möglich",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kaua Santos bereitet Burkardt-Treffer gegen Hull City vor",
-      "source": "kicker",
-      "sentiment": 0.5
     }
   ]
 }
