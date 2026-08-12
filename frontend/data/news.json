@@ -1,6 +1,81 @@
 {
   "news": [
     {
+      "title": "Vlahovic angeblich mit Besiktas einig - Pogba-Abschied aus Monaco?",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Im Eröffnungsspiel: Als Lahm den verletzten Kehl tröstete",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Von medizinischen Bedenken keine Spur: So lief Asllanis Rückkehr",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Zweiter WM-Finalist im Kader: Bayer macht Medina-Transfer offiziell",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Der aktuelle Stand bei El Mala: \"Faktor Zeit spielt eine Rolle\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Das sind die Auswärtstrikots der Bundesligisten 2026/27",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Bundesliga 2026/27: Beginn, Spielplan, Infos",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "kicker-Managerspiele: Jetzt das Bundesliga-Team aufstellen",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Pejcinovic: \"Habe den schnellsten Weg nach Stuttgart gesucht\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Ich bin echt müde\": Demichelis im RB-Training verkabelt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Nächster empfindlicher Rückschlag: Zagadou fehlt dem VfB wochenlang",
+      "source": "kicker",
+      "sentiment": -0.35
+    },
+    {
+      "title": "Rosickys Gala: Noch schöner als sein erstes Tor war sein Pass auf Amoroso",
+      "source": "kicker",
+      "sentiment": 0.55
+    },
+    {
+      "title": "\"Wherever we go\": BVB stellt neues Auswärtstrikot vor",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Beklopptester Klub Europas\": Schalker Auswärtstrikot in kürzester Zeit ausverkauft",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Endrick soll bei Real bleiben - Ist Barcelonas Plan B Lautaro Martinez?",
       "source": "kicker",
       "sentiment": 0.35
@@ -72,81 +147,6 @@
     },
     {
       "title": "Kemleins Transformation: \"Ich bin in der besten Verfassung, in der ich je war\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Ich weiß, woran ich bin\": Maina will in Köln erneut angreifen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "PSG holt Digne zurück - Zeitler vor Leihe nach Paderborn",
-      "source": "kicker",
-      "sentiment": 0.33
-    },
-    {
-      "title": "\"Es muss wehtun\": Arteta nach Pleite gegen den BVB",
-      "source": "kicker",
-      "sentiment": -0.55
-    },
-    {
-      "title": "Ouedraogos Pech und die Folgen für Leipzig",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Paderborns Götze mischt wieder mit - Zeitler als Verstärkung für den Angriff",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Culbreath fehlt Leverkusen zum Saisonstart - auch Andrich angeschlagen",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "VfB erfüllt Oliviers Wechselwunsch und lässt ihn zu Bröndby IF",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Muskelverletzung im Oberschenkel: Sebulonsen fehlt Köln vorerst",
-      "source": "kicker",
-      "sentiment": -0.42
-    },
-    {
-      "title": "Das Verletzungspech bleibt Stuttgarts Zagadou treu",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Banks: \"Ich will Stammspieler werden und ein Leader sein\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Hoffnung bei Zagadou: Hoeneß’ Erkenntnisse nach dem Everton-Test",
-      "source": "kicker",
-      "sentiment": 0.17
-    },
-    {
-      "title": "Blut geleckt in Mannheim: Eigengewächs Ogbemudia pocht auf ersten Union-Einsatz",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wer überträgt FC Arsenal gegen den BVB heute live im TV & Stream?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Sergi Roberto wechselt in die MLS - Leverkusen verleiht Mbamba",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Einigung erzielt: Wolfsburgs Stürmer Pejcinovic vor Wechsel zum VfB",
       "source": "kicker",
       "sentiment": 0
     }
