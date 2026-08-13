@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Heute vor 15 Jahren: Raul und das Tor des Jahres 2011",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Gute Vorbereitung, starker Kader: Warum Mainz schon von Europa träumt",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Abwurf als Asssist und riesige Trophäe: Brahim Diaz schießt Real zum Sieg",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Bruno Fernandes vorbei, Mazraoui zum Sieg: United gewinnt im Elfmeterschießen",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Bayer unterliegt Nottingham, bekommt aber \"das, was wir brauchten\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Kader immer noch schwächer als letzte Saison\": Der Druck bei der Eintracht wächst",
+      "source": "kicker",
+      "sentiment": 0.43
+    },
+    {
+      "title": "Joao Palhinha zieht es zu Aston Villa - Chelsea setzt Fernandez-Deadline",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "\"Wichtig, da voranzugehen\": Koch über das Testspiel, Knauff und die Kapitänsbinde",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Die Tendenz bei El Mala - und ein \"No-Brainer\" bei Bayern",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Baldé bringt dem HSV eine Millionensumme",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Daka in Hamburg: Gewinn und Gewinner",
+      "source": "kicker",
+      "sentiment": -0.7
+    },
+    {
+      "title": "Watzke sieht \"bedeutenden Schritt\" - 96 ist nur überrascht vom Zeitraum",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Weiter Anlaufschwierigkeiten: Pejcinovic drückt Arevalo an den Rand",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Kind zur 50+1-Entscheidung: \"Ein Spiegelbild der deutschen Krankheit\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kaderpuzzle in Köln: Regula und Dallinga sind Kandidaten",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Freigestellt: Paderborns Baur vor Wechsel zu Celtic",
+      "source": "kicker",
+      "sentiment": -0.48
+    },
+    {
+      "title": "Für hohen einstelligen Millionenbetrag: Schmid verlässt Werder in Richtung Italien",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Passt perfekt zum VfB\": Stuttgart präsentiert neues Auswärtstrikot",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Das sind die Auswärtstrikots der Bundesligisten 2026/27",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Einigung mit Como gefunden: Mainz kauft WM-Fahrer Posch",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
       "title": "Vlahovic angeblich mit Besiktas einig - Pogba-Abschied aus Monaco?",
       "source": "kicker",
       "sentiment": 0.35
@@ -47,106 +147,6 @@
     },
     {
       "title": "Pejcinovic: \"Habe den schnellsten Weg nach Stuttgart gesucht\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Ich bin echt müde\": Demichelis im RB-Training verkabelt",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Nächster empfindlicher Rückschlag: Zagadou fehlt dem VfB wochenlang",
-      "source": "kicker",
-      "sentiment": -0.35
-    },
-    {
-      "title": "Rosickys Gala: Noch schöner als sein erstes Tor war sein Pass auf Amoroso",
-      "source": "kicker",
-      "sentiment": 0.55
-    },
-    {
-      "title": "\"Wherever we go\": BVB stellt neues Auswärtstrikot vor",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Beklopptester Klub Europas\": Schalker Auswärtstrikot in kürzester Zeit ausverkauft",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Endrick soll bei Real bleiben - Ist Barcelonas Plan B Lautaro Martinez?",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Union Berlin buhlt um Aebischer",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Hess-Grunewald verzichtet auf Kandidatur als Werder-Präsident",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "So empfahl er sich dem VfB: Alle Pejcinovic-Tore in der Bundesliga",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Goretzkas Nachfolger: Bayern verpflichtet Ndiaye fest",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Ein tolles Signal\": VfB macht Pejcinovic-Transfer offiziell",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Wäre der BVB der passende Karriereschritt für El Mala?",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Paderborn leiht \"hochveranlagten\" Zeitler von der TSG aus",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Auch der HSV-Kapitän stützt das Dompé-Aus",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "VfB erfüllt Oliviers Wechselwunsch und lässt ihn zu Bröndby IF",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Bayern-Start ohne Kane und Olise - Quintett um Musiala zurück",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "\"Meister der unsichtbaren Momente\": Kane wird mit Goldenem Schuh ausgezeichnet",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Neuer: \"Man hat ja gesehen, was man zurückbekommt\"",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Kemleins Transformation: \"Ich bin in der besten Verfassung, in der ich je war\"",
       "source": "kicker",
       "sentiment": 0
     }
