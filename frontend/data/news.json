@@ -1,6 +1,56 @@
 {
   "news": [
     {
+      "title": "Sieb zu Bayerns Partnerklub - Elvedi mit Leeds einig - BVB verhandelt wegen Ramaj",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "\"Wird dort den nächsten Schritt machen\": Bayern lässt Sieb nach Los Angeles ziehen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Fix: Baur wechselt von Paderborn zu Celtic",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Mourinho: „Die Mannschaft entwickelt sich weiter\"",
+      "source": "kicker",
+      "sentiment": 0.47
+    },
+    {
+      "title": "Warum Bayern gegen Leipzig testet - und sich das wiederholen wird",
+      "source": "kicker",
+      "sentiment": -0.7
+    },
+    {
+      "title": "Als Lionel Richie das erste Tor in der Schalke-Arena schoss",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Die Sommer-Fahrpläne der Bundesligisten 2026/27",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Fabio Vieira zum HSV? \"Da klafft noch eine sehr große Lücke\"",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Das Angebot für Joao Palhinha - und was Bayern klar bevorzugt",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Vor 15 Jahren: Raul und das Tor des Jahres 2011",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Heute vor 15 Jahren: Raul und das Tor des Jahres 2011",
       "source": "kicker",
       "sentiment": 0
@@ -99,56 +149,6 @@
       "title": "Einigung mit Como gefunden: Mainz kauft WM-Fahrer Posch",
       "source": "kicker",
       "sentiment": 0.4
-    },
-    {
-      "title": "Vlahovic angeblich mit Besiktas einig - Pogba-Abschied aus Monaco?",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Im Eröffnungsspiel: Als Lahm den verletzten Kehl tröstete",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Von medizinischen Bedenken keine Spur: So lief Asllanis Rückkehr",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Zweiter WM-Finalist im Kader: Bayer macht Medina-Transfer offiziell",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Der aktuelle Stand bei El Mala: \"Faktor Zeit spielt eine Rolle\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Das sind die Auswärtstrikots der Bundesligisten 2026/27",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Bundesliga 2026/27: Beginn, Spielplan, Infos",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "kicker-Managerspiele: Jetzt das Bundesliga-Team aufstellen",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Pejcinovic: \"Habe den schnellsten Weg nach Stuttgart gesucht\"",
-      "source": "kicker",
-      "sentiment": 0
     }
   ]
 }
