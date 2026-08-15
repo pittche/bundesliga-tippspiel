@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "\"Da möchte ich voll dabei sein\": Tohumcu verlässt die TSG Richtung Salzburg",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Zuletzt aussortiert in Brügge: Reis unterschreibt in Bremen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Das Streitthema 50+1 - und warum es zwei Ausnahmen gibt",
+      "source": "kicker",
+      "sentiment": -0.7
+    },
+    {
+      "title": "Winkt Bayern ein 250-Millionen-Euro-Deal?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Werder vor Verpflichtung von Ex-HSV-Kapitän Reis",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Gerichtsurteil: Köln darf Trainingszentrum am Geißbockheim ausbauen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Das passierte während der El-Mala-News vor Ort - und so geht es weiter",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Vor erneuter Leihe: Tohumcu soll in Salzburg durchstarten",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Saibari stellt sich vor: Klare Vorstellungen und ein Hauch von Kompany",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Arsenal an Quansah interessiert? - Eintracht wird wohl Sturmduo los - Milan streicht Nkunku",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "So planen Borussia und Partner Ista die gemeinsame Zukunft",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Saibaris emotionale Erinnerungen: \"Meine Eltern haben große Opfer gebracht\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Saibaris Lieblingsposition - und wann die Bayern überzeugt waren",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Wagner über El Mala: \"Freue mich, dass er bei uns bleibt\"",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Dortmund zieht sich aus El-Mala-Poker zurück: Die richtige Entscheidung?",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Villa-Wechsel geplatzt: Joao Palhinha bleibt vorerst bei Bayern",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "El-Mala-Wechsel zum BVB geplatzt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "FC Bayern will Kooperation mit Ulm \"auf nächste Ebene bringen\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "BVB verleiht Kabar in die Eredivisie",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Sieb zu Bayerns Partnerklub - Elvedi mit Leeds einig - BVB verhandelt wegen Ramaj",
       "source": "kicker",
       "sentiment": 0.35
@@ -49,106 +149,6 @@
       "title": "Vor 15 Jahren: Raul und das Tor des Jahres 2011",
       "source": "kicker",
       "sentiment": 0
-    },
-    {
-      "title": "Heute vor 15 Jahren: Raul und das Tor des Jahres 2011",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Gute Vorbereitung, starker Kader: Warum Mainz schon von Europa träumt",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Abwurf als Asssist und riesige Trophäe: Brahim Diaz schießt Real zum Sieg",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Bruno Fernandes vorbei, Mazraoui zum Sieg: United gewinnt im Elfmeterschießen",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Bayer unterliegt Nottingham, bekommt aber \"das, was wir brauchten\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Kader immer noch schwächer als letzte Saison\": Der Druck bei der Eintracht wächst",
-      "source": "kicker",
-      "sentiment": 0.43
-    },
-    {
-      "title": "Joao Palhinha zieht es zu Aston Villa - Chelsea setzt Fernandez-Deadline",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "\"Wichtig, da voranzugehen\": Koch über das Testspiel, Knauff und die Kapitänsbinde",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Die Tendenz bei El Mala - und ein \"No-Brainer\" bei Bayern",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Baldé bringt dem HSV eine Millionensumme",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Daka in Hamburg: Gewinn und Gewinner",
-      "source": "kicker",
-      "sentiment": -0.7
-    },
-    {
-      "title": "Watzke sieht \"bedeutenden Schritt\" - 96 ist nur überrascht vom Zeitraum",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Weiter Anlaufschwierigkeiten: Pejcinovic drückt Arevalo an den Rand",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Kind zur 50+1-Entscheidung: \"Ein Spiegelbild der deutschen Krankheit\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kaderpuzzle in Köln: Regula und Dallinga sind Kandidaten",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Freigestellt: Paderborns Baur vor Wechsel zu Celtic",
-      "source": "kicker",
-      "sentiment": -0.48
-    },
-    {
-      "title": "Für hohen einstelligen Millionenbetrag: Schmid verlässt Werder in Richtung Italien",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Passt perfekt zum VfB\": Stuttgart präsentiert neues Auswärtstrikot",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Das sind die Auswärtstrikots der Bundesligisten 2026/27",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Einigung mit Como gefunden: Mainz kauft WM-Fahrer Posch",
-      "source": "kicker",
-      "sentiment": 0.4
     }
   ]
 }
