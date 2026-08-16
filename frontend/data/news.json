@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Wer überträgt FC Schalke 04 gegen Real Madrid heute live im TV & Stream?",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "HSV vor Bornauw-Verpflichtung - Inter fixiert teuren Spence-Deal - Awoniyi vor Wechsel",
+      "source": "kicker",
+      "sentiment": 0.37
+    },
+    {
+      "title": "\"Jamaika hat eine Bobmannschaft\": Wagner über Bundesliga in Elversberg",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Lasst euch überraschen\": Kovac scherzt über BVB-Transferplanung",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Warum der \"Schalke-Style\" genau zu Neuzugang Tanaka passt",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "\"Junge, der Spaß macht\": Karetsas begeistert im BVB-Test",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Eberl mit Palhinha-Update: Können uns gegenseitig zu nichts zwingen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Hat großes Glück, dass er in Freiburg unter Vertrag ist\": Schuster zu Atubolu",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "BVB trotzt frühem 0:2 gegen die Roma - Auffälligem Karetsas fehlt nur das Tor",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Plötzlich wird die Arena still: Musiala sackt auf dem Platz zusammen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Starker Abschluss ins lange Eck: Luis Diaz sorgt für Bayern-Führung",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Schröder über Elvedi-Abschied zu Leeds: \"Wir sind vorbereitet\"",
+      "source": "kicker",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Saibari legt vor, Musiala vollendet: Bayern erhöht auf 3:1 gegen RB",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Neuers letzter Telekom Cup? \"Macht Spaß und fühlt sich gut an\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Reitz trotz RB-Pleite in München: \"Geht in die richtige Richtung\"",
+      "source": "kicker",
+      "sentiment": -0.6
+    },
+    {
+      "title": "Hein noch fraglich: Gibt es bei Werder den Pokal-Schlager?",
+      "source": "kicker",
+      "sentiment": -0.2
+    },
+    {
+      "title": "Klopp dementiert Wechsel-Rat an El Mala: \"Hat mich ein bisschen beleidigt, dass …\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Conference-League-Sieger kein Maßstab: Freiburg feiert 3:0-Sieg",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Laimer, Kim und Musiala: Drei Schreckmomente für Bayern im Test",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Thioune und das Warten auf Dinkci: \"Wenn er auf dem Markt ist ...\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
       "title": "\"Da möchte ich voll dabei sein\": Tohumcu verlässt die TSG Richtung Salzburg",
       "source": "kicker",
       "sentiment": 0
@@ -49,106 +149,6 @@
       "title": "Saibari stellt sich vor: Klare Vorstellungen und ein Hauch von Kompany",
       "source": "kicker",
       "sentiment": 0.6
-    },
-    {
-      "title": "Arsenal an Quansah interessiert? - Eintracht wird wohl Sturmduo los - Milan streicht Nkunku",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "So planen Borussia und Partner Ista die gemeinsame Zukunft",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Saibaris emotionale Erinnerungen: \"Meine Eltern haben große Opfer gebracht\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Saibaris Lieblingsposition - und wann die Bayern überzeugt waren",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Wagner über El Mala: \"Freue mich, dass er bei uns bleibt\"",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Dortmund zieht sich aus El-Mala-Poker zurück: Die richtige Entscheidung?",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Villa-Wechsel geplatzt: Joao Palhinha bleibt vorerst bei Bayern",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "El-Mala-Wechsel zum BVB geplatzt",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "FC Bayern will Kooperation mit Ulm \"auf nächste Ebene bringen\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "BVB verleiht Kabar in die Eredivisie",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Sieb zu Bayerns Partnerklub - Elvedi mit Leeds einig - BVB verhandelt wegen Ramaj",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "\"Wird dort den nächsten Schritt machen\": Bayern lässt Sieb nach Los Angeles ziehen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Fix: Baur wechselt von Paderborn zu Celtic",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Mourinho: „Die Mannschaft entwickelt sich weiter\"",
-      "source": "kicker",
-      "sentiment": 0.47
-    },
-    {
-      "title": "Warum Bayern gegen Leipzig testet - und sich das wiederholen wird",
-      "source": "kicker",
-      "sentiment": -0.7
-    },
-    {
-      "title": "Als Lionel Richie das erste Tor in der Schalke-Arena schoss",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Die Sommer-Fahrpläne der Bundesligisten 2026/27",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Fabio Vieira zum HSV? \"Da klafft noch eine sehr große Lücke\"",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Das Angebot für Joao Palhinha - und was Bayern klar bevorzugt",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Vor 15 Jahren: Raul und das Tor des Jahres 2011",
-      "source": "kicker",
-      "sentiment": 0
     }
   ]
 }
