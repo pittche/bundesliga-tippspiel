@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Herwerth, Spalt und Co.: Stuttgarts Youngster drängen in den Kader",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Viel Transferbewegung in Paderborn: Kommt noch ein Königstransfer?",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Mourinho nach Schalke-Spiel: \"Es war ein sehr guter Test\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Becker will \"das Ergebnis beiseitelassen\", Muslic \"Grenzen verschieben\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Neue Nummer 1? Frankfurts Wunschlösung heißt Atubolu",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Barca und ManCity einigen sich auf Rodri-Ablöse - Eindhovens Veerman vor Wechsel zum BVB",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Muslic nach 0:3 nicht unzufrieden: \"Es war wichtig, auch mal an unsere Grenzen zu stoßen\"",
+      "source": "kicker",
+      "sentiment": -0.5
+    },
+    {
+      "title": "Bleibt Sano etwa doch? Bungert ist \"optimistisch\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Bornauw und die Bubis: Hamburgs Talente verändern die Transferstrategie",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Werder-Neuzugang Reis: Widerstandsfähig - und direkt wettkampffähig?",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "BVB-Transfers: \"Da baut sich gerade eine spielstarke Mannschaft zusammen\"",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Die Nachwehen im El-Mala-Poker: Dortmunds Rückzug hat Kessler nicht überrascht",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Top 5 zum Genießen: Rauls schönste Schalke-Tore",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Positive Tendenz: Füllkrug-Rückkehr zu Werder nimmt Fahrt auf",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Dortmunder Doppelpack: Konstantelias und Veerman sollen kommen",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Neue Idee von VfB-Trainer Hoeneß: Die Fortsetzung des Nartey-Märchens",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Glück im Unglück für den Kapitän: Frankfurt gibt Koch-Diagnose bekannt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Ein Kapitel geht zu Ende\": Ex-Nationalspieler Max beendet die Karriere",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Dritte Leihe in zwei Jahren: Ulrich soll sich beim SCP in der Bundesliga beweisen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Wer überträgt FC Schalke 04 gegen Real Madrid heute live im TV & Stream?",
       "source": "kicker",
       "sentiment": 0.4
@@ -49,106 +149,6 @@
       "title": "Plötzlich wird die Arena still: Musiala sackt auf dem Platz zusammen",
       "source": "kicker",
       "sentiment": 0
-    },
-    {
-      "title": "Starker Abschluss ins lange Eck: Luis Diaz sorgt für Bayern-Führung",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Schröder über Elvedi-Abschied zu Leeds: \"Wir sind vorbereitet\"",
-      "source": "kicker",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Saibari legt vor, Musiala vollendet: Bayern erhöht auf 3:1 gegen RB",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Neuers letzter Telekom Cup? \"Macht Spaß und fühlt sich gut an\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Reitz trotz RB-Pleite in München: \"Geht in die richtige Richtung\"",
-      "source": "kicker",
-      "sentiment": -0.6
-    },
-    {
-      "title": "Hein noch fraglich: Gibt es bei Werder den Pokal-Schlager?",
-      "source": "kicker",
-      "sentiment": -0.2
-    },
-    {
-      "title": "Klopp dementiert Wechsel-Rat an El Mala: \"Hat mich ein bisschen beleidigt, dass …\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Conference-League-Sieger kein Maßstab: Freiburg feiert 3:0-Sieg",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Laimer, Kim und Musiala: Drei Schreckmomente für Bayern im Test",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Thioune und das Warten auf Dinkci: \"Wenn er auf dem Markt ist ...\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "\"Da möchte ich voll dabei sein\": Tohumcu verlässt die TSG Richtung Salzburg",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Zuletzt aussortiert in Brügge: Reis unterschreibt in Bremen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Das Streitthema 50+1 - und warum es zwei Ausnahmen gibt",
-      "source": "kicker",
-      "sentiment": -0.7
-    },
-    {
-      "title": "Winkt Bayern ein 250-Millionen-Euro-Deal?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Werder vor Verpflichtung von Ex-HSV-Kapitän Reis",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Gerichtsurteil: Köln darf Trainingszentrum am Geißbockheim ausbauen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Das passierte während der El-Mala-News vor Ort - und so geht es weiter",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Vor erneuter Leihe: Tohumcu soll in Salzburg durchstarten",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Saibari stellt sich vor: Klare Vorstellungen und ein Hauch von Kompany",
-      "source": "kicker",
-      "sentiment": 0.6
     }
   ]
 }
