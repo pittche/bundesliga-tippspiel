@@ -1,6 +1,96 @@
 {
   "news": [
     {
+      "title": "S04 mit Durchbruch bei Vitalie Becker - Awoniyi verstärkt PL-Aufsteiger - Milosevic vor VfB-Abgang",
+      "source": "kicker",
+      "sentiment": 0.13
+    },
+    {
+      "title": "Umfrage: Knüpft Füllkrug im Werder-Trikot an alte Zeiten an?",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Zum Medizincheck erwartet: Füllkrug vor Rückkehr nach Bremen",
+      "source": "kicker",
+      "sentiment": 0.05
+    },
+    {
+      "title": "Letztes Pflichtspiel vor über 16 Monaten: Ngoumou startet neuen Anlauf in Nizza",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Nach dem Kaminski-Modell: Köln leiht Dallinga mit Kaufoption aus",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "DFB legt fest: FIFA-Schiedsrichter Schlager pfeift Supercup zwischen Bayern und BVB",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Saibari macht Lust auf mehr, Musiala fehlt: Bayern präsentiert seine Teams",
+      "source": "kicker",
+      "sentiment": 0.13
+    },
+    {
+      "title": "\"Sieht man auch nicht alle Tage\": Kanes seltene Fehlschüsse vom Elfmeterpunkt",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "\"Ein Bremer Junge\": Dinkci-Rückkehr zu Werder fix",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Ballon d’Or für Kane? \"Wäre fantastisch, wenn es klappen würde\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Kane kündigt Start der Vertragsgespräche an",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Warum der potenzielle Manzambi-Ersatz Yamamoto noch kein Faktor ist",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Nach Rückzug im El-Mala-Poker: Dortmund holt Konstantelias",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Wie in der vorletzten Saison: BVB verleiht Ramaj nach Kopenhagen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Paderborner Perspektiven: \"Es geht nur am Limit. Aber es geht.\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Per Kopf und Dropkick: Füllkrugs beste Tore für Werder",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "PAOK-Fans protestieren gegen Konstantelias' BVB-Wechsel - Rechtfertigung am Flughafen",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
       "title": "Herwerth, Spalt und Co.: Stuttgarts Youngster drängen in den Kader",
       "source": "kicker",
       "sentiment": 0
@@ -57,96 +147,6 @@
     },
     {
       "title": "Die Nachwehen im El-Mala-Poker: Dortmunds Rückzug hat Kessler nicht überrascht",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Top 5 zum Genießen: Rauls schönste Schalke-Tore",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Positive Tendenz: Füllkrug-Rückkehr zu Werder nimmt Fahrt auf",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Dortmunder Doppelpack: Konstantelias und Veerman sollen kommen",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Neue Idee von VfB-Trainer Hoeneß: Die Fortsetzung des Nartey-Märchens",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Glück im Unglück für den Kapitän: Frankfurt gibt Koch-Diagnose bekannt",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Ein Kapitel geht zu Ende\": Ex-Nationalspieler Max beendet die Karriere",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Dritte Leihe in zwei Jahren: Ulrich soll sich beim SCP in der Bundesliga beweisen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wer überträgt FC Schalke 04 gegen Real Madrid heute live im TV & Stream?",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "HSV vor Bornauw-Verpflichtung - Inter fixiert teuren Spence-Deal - Awoniyi vor Wechsel",
-      "source": "kicker",
-      "sentiment": 0.37
-    },
-    {
-      "title": "\"Jamaika hat eine Bobmannschaft\": Wagner über Bundesliga in Elversberg",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Lasst euch überraschen\": Kovac scherzt über BVB-Transferplanung",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Warum der \"Schalke-Style\" genau zu Neuzugang Tanaka passt",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "\"Junge, der Spaß macht\": Karetsas begeistert im BVB-Test",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Eberl mit Palhinha-Update: Können uns gegenseitig zu nichts zwingen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Hat großes Glück, dass er in Freiburg unter Vertrag ist\": Schuster zu Atubolu",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "BVB trotzt frühem 0:2 gegen die Roma - Auffälligem Karetsas fehlt nur das Tor",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Plötzlich wird die Arena still: Musiala sackt auf dem Platz zusammen",
       "source": "kicker",
       "sentiment": 0
     }
