@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Eberl dementiert Schmadtke-Berichte: \"Wir sollten Menschen nicht diffamieren\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Warum Schlotterbeck umdenkt - und Matsima doch bleiben könnte",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "DFB-Schiris: Kein Ecken-Check, \"Kid's mistake\" wird bestraft und ein Spagat beim VAR",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Musialas erneuter Zusammenbruch sorgt für \"gruselige Bilder\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Union erzielt Einigung mit Pisa über Aebischer - Witsel unterschreibt in Nizza",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Elvedi-Nachfolge geklärt: Itakura vor Rückkehr nach Gladbach",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Absencen als Ursache: Musiala äußert sich nach erneutem Zusammenbruch",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Füllkrug ist \"mehr Chance als Risiko\" - El Mala nach Leipzig?",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "\"Wir wussten Bescheid\": Eberl weicht Fragen zu Musiala aus",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Sorgen beim FC Bayern: Musiala bricht schon wieder zusammen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Nach gescheitertem BVB-Deal: Leipzig prüft Verpflichtung von El Mala",
+      "source": "kicker",
+      "sentiment": 0.05
+    },
+    {
+      "title": "\"Wird dem Spiel guttun\": Siebert erklärt die Regelauslegungen der Bundesliga",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Hängepartie beendet: Schalke verlängert mit Vitalie Becker",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Für eine neue Rekordsumme: Paderborn holt Ex-Bayern-Juwel Vidovic aus Zagreb",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "DFB: Tah-Tor gegen Paraguay sollte in der Bundesliga zählen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Flüssigkeit in der Hüfte: Karaman fällt aus",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "VfB verlängert mit umworbenem Sportvorstand Wohlgemuth",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Terodde rät HSV zu neuem Stürmer - Hamann erwartet Werder im Abstiegskampf",
+      "source": "kicker",
+      "sentiment": -0.65
+    },
+    {
+      "title": "Nächste Rückkehr fix: Füllkrug geht wieder für Werder auf Torejagd",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
       "title": "S04 mit Durchbruch bei Vitalie Becker - Awoniyi verstärkt PL-Aufsteiger - Milosevic vor VfB-Abgang",
       "source": "kicker",
       "sentiment": 0.13
@@ -49,106 +149,6 @@
       "title": "\"Ein Bremer Junge\": Dinkci-Rückkehr zu Werder fix",
       "source": "kicker",
       "sentiment": 0.35
-    },
-    {
-      "title": "Ballon d’Or für Kane? \"Wäre fantastisch, wenn es klappen würde\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Kane kündigt Start der Vertragsgespräche an",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Warum der potenzielle Manzambi-Ersatz Yamamoto noch kein Faktor ist",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Nach Rückzug im El-Mala-Poker: Dortmund holt Konstantelias",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Wie in der vorletzten Saison: BVB verleiht Ramaj nach Kopenhagen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Paderborner Perspektiven: \"Es geht nur am Limit. Aber es geht.\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Per Kopf und Dropkick: Füllkrugs beste Tore für Werder",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "PAOK-Fans protestieren gegen Konstantelias' BVB-Wechsel - Rechtfertigung am Flughafen",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Herwerth, Spalt und Co.: Stuttgarts Youngster drängen in den Kader",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Viel Transferbewegung in Paderborn: Kommt noch ein Königstransfer?",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Mourinho nach Schalke-Spiel: \"Es war ein sehr guter Test\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Becker will \"das Ergebnis beiseitelassen\", Muslic \"Grenzen verschieben\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Neue Nummer 1? Frankfurts Wunschlösung heißt Atubolu",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Barca und ManCity einigen sich auf Rodri-Ablöse - Eindhovens Veerman vor Wechsel zum BVB",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Muslic nach 0:3 nicht unzufrieden: \"Es war wichtig, auch mal an unsere Grenzen zu stoßen\"",
-      "source": "kicker",
-      "sentiment": -0.5
-    },
-    {
-      "title": "Bleibt Sano etwa doch? Bungert ist \"optimistisch\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Bornauw und die Bubis: Hamburgs Talente verändern die Transferstrategie",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Werder-Neuzugang Reis: Widerstandsfähig - und direkt wettkampffähig?",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "BVB-Transfers: \"Da baut sich gerade eine spielstarke Mannschaft zusammen\"",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Die Nachwehen im El-Mala-Poker: Dortmunds Rückzug hat Kessler nicht überrascht",
-      "source": "kicker",
-      "sentiment": 0
     }
   ]
 }
