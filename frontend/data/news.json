@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Grifo über neue Saison: \"Wenn man es macht, dann richtig\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Stuttgart schließt das Kapitel Milosevic",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "HSV: Bornauw ist sofort der Boss",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Dreesen über Kane: \"Er hat auf jeder Bühne dieser Welt brilliert\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Eberl: Kane ist \"für mich ein Vorbild, wie ein Fußballer sein sollte\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Hätte mir kein anderer Klub geben können\": Füllkrug mit Liebeserklärung",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Ballon d'Or? Kane hält sich beim Golden Shoe bedeckt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Atubolu kann sich Wechsel nach Frankfurt gut vorstellen - Kaua Santos spielt im Pokal",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Die Liebe zwischen Füllkrug und Werder blüht wieder auf\"",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Wegen Pyro-Vergehen: Hohe Geldstrafe für Eintracht Frankfurt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Der Golden Shoe für Kane - und bald der Ballon d'Or?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Jetzt im Livestream: Kane bekommt vom kicker den Goldenen Schuh",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Schulterverletzung: Omari verpasst den Pokal-Auftakt des HSV",
+      "source": "kicker",
+      "sentiment": -0.55
+    },
+    {
+      "title": "Füllkrug: \"Ich werde einfach nur in einer anderen Währung bezahlt\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "\"Man kann Anfälle nicht vorhersagen\": Epileptologie-Professor im Interview",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Trotz Coulibaly-Millionen: Fritz kann nicht auf Shoppingtour gehen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Regulas Zukunft hängt auch an El Mala - und England mischt mit",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "\"Habe noch Ziele\": Rekordmann Grifo verlängert in Freiburg",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "\"Echte Borussia-Legende\": Elvedi verlässt Gladbach gen Leeds",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "\"Gehe mit dem Gedanken ins Bett und wache mit ihm auf\": Hoeneß über Musiala",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Eberl dementiert Schmadtke-Berichte: \"Wir sollten Menschen nicht diffamieren\"",
       "source": "kicker",
       "sentiment": 0
@@ -49,106 +149,6 @@
       "title": "Sorgen beim FC Bayern: Musiala bricht schon wieder zusammen",
       "source": "kicker",
       "sentiment": 0
-    },
-    {
-      "title": "Nach gescheitertem BVB-Deal: Leipzig prüft Verpflichtung von El Mala",
-      "source": "kicker",
-      "sentiment": 0.05
-    },
-    {
-      "title": "\"Wird dem Spiel guttun\": Siebert erklärt die Regelauslegungen der Bundesliga",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Hängepartie beendet: Schalke verlängert mit Vitalie Becker",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Für eine neue Rekordsumme: Paderborn holt Ex-Bayern-Juwel Vidovic aus Zagreb",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "DFB: Tah-Tor gegen Paraguay sollte in der Bundesliga zählen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Flüssigkeit in der Hüfte: Karaman fällt aus",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "VfB verlängert mit umworbenem Sportvorstand Wohlgemuth",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Terodde rät HSV zu neuem Stürmer - Hamann erwartet Werder im Abstiegskampf",
-      "source": "kicker",
-      "sentiment": -0.65
-    },
-    {
-      "title": "Nächste Rückkehr fix: Füllkrug geht wieder für Werder auf Torejagd",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "S04 mit Durchbruch bei Vitalie Becker - Awoniyi verstärkt PL-Aufsteiger - Milosevic vor VfB-Abgang",
-      "source": "kicker",
-      "sentiment": 0.13
-    },
-    {
-      "title": "Umfrage: Knüpft Füllkrug im Werder-Trikot an alte Zeiten an?",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Zum Medizincheck erwartet: Füllkrug vor Rückkehr nach Bremen",
-      "source": "kicker",
-      "sentiment": 0.05
-    },
-    {
-      "title": "Letztes Pflichtspiel vor über 16 Monaten: Ngoumou startet neuen Anlauf in Nizza",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Nach dem Kaminski-Modell: Köln leiht Dallinga mit Kaufoption aus",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "DFB legt fest: FIFA-Schiedsrichter Schlager pfeift Supercup zwischen Bayern und BVB",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Saibari macht Lust auf mehr, Musiala fehlt: Bayern präsentiert seine Teams",
-      "source": "kicker",
-      "sentiment": 0.13
-    },
-    {
-      "title": "\"Sieht man auch nicht alle Tage\": Kanes seltene Fehlschüsse vom Elfmeterpunkt",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "\"Ein Bremer Junge\": Dinkci-Rückkehr zu Werder fix",
-      "source": "kicker",
-      "sentiment": 0.35
     }
   ]
 }
