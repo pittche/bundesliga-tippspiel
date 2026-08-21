@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "El Malas berühmte Kölner Vorgänger mit der Rückennummer 10",
+      "source": "kicker",
+      "sentiment": -0.5
+    },
+    {
+      "title": "Podolski ruft bei El Mala an: \"Hatten leider nicht das Geld, dich zu kaufen\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "El Mala bleibt beim FC: Die richtige Entscheidung?",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "\"Es hat nicht funktioniert\": FC Augsburg spricht sich für das Ende des VAR aus",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Entscheidung gefallen: El Mala verlängert in Köln",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "\"Frag ruhig Said dazu\": Thielmann weicht El-Mala-Frage aus",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Effenberg und die Gelb-Rote Karte, die Geschichte schrieb",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Friedl als Kapitän bestätigt, aber kein Rat mehr: So plant Thioune die \"Leadership group\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Vidovic und Zeitler lauern: Paderborns Puzzle für die Torgefahr",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Er ist wieder der Alte\": Schicker über geplatzten Asllani-Transfer",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Ricken zu bisheriger BVB-Transferphase: \"Haben unsere Hausaufgaben gemacht\"",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Davies: \"Bin froh, dass es im Fußball keinen Salary Cap gibt\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Erschreckende Bilder\": Ricken und Kovac sprechen Mitgefühl mit Musiala aus",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Herzzerreißend\": Wie Davies Musiala helfen will",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Erfolg für den Schutz der Fans\": Bundesliga gewinnt Rechtsstreit gegen Viagogo",
+      "source": "kicker",
+      "sentiment": 0.07
+    },
+    {
+      "title": "Der Goldene Schuh für Harry Kane: Ein Blick hinter die Kulissen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kane verrät: So unterstütze ich Musiala",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Nächste Leihe: Hertha angelt sich Leverkusens Alfa-Ruprecht",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Habe den Verein sehr vermisst\": Itakura kehrt nach Gladbach zurück",
+      "source": "kicker",
+      "sentiment": 0.1
+    },
+    {
+      "title": "\"Abgezockter\" Futkeu in Elversberg auf den Spuren von Woltemade & Co.",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
       "title": "Grifo über neue Saison: \"Wenn man es macht, dann richtig\"",
       "source": "kicker",
       "sentiment": 0
@@ -47,106 +147,6 @@
     },
     {
       "title": "Wegen Pyro-Vergehen: Hohe Geldstrafe für Eintracht Frankfurt",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Der Golden Shoe für Kane - und bald der Ballon d'Or?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Jetzt im Livestream: Kane bekommt vom kicker den Goldenen Schuh",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Schulterverletzung: Omari verpasst den Pokal-Auftakt des HSV",
-      "source": "kicker",
-      "sentiment": -0.55
-    },
-    {
-      "title": "Füllkrug: \"Ich werde einfach nur in einer anderen Währung bezahlt\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "\"Man kann Anfälle nicht vorhersagen\": Epileptologie-Professor im Interview",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Trotz Coulibaly-Millionen: Fritz kann nicht auf Shoppingtour gehen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Regulas Zukunft hängt auch an El Mala - und England mischt mit",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "\"Habe noch Ziele\": Rekordmann Grifo verlängert in Freiburg",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "\"Echte Borussia-Legende\": Elvedi verlässt Gladbach gen Leeds",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "\"Gehe mit dem Gedanken ins Bett und wache mit ihm auf\": Hoeneß über Musiala",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Eberl dementiert Schmadtke-Berichte: \"Wir sollten Menschen nicht diffamieren\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Warum Schlotterbeck umdenkt - und Matsima doch bleiben könnte",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "DFB-Schiris: Kein Ecken-Check, \"Kid's mistake\" wird bestraft und ein Spagat beim VAR",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Musialas erneuter Zusammenbruch sorgt für \"gruselige Bilder\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Union erzielt Einigung mit Pisa über Aebischer - Witsel unterschreibt in Nizza",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Elvedi-Nachfolge geklärt: Itakura vor Rückkehr nach Gladbach",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Absencen als Ursache: Musiala äußert sich nach erneutem Zusammenbruch",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Füllkrug ist \"mehr Chance als Risiko\" - El Mala nach Leipzig?",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "\"Wir wussten Bescheid\": Eberl weicht Fragen zu Musiala aus",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Sorgen beim FC Bayern: Musiala bricht schon wieder zusammen",
       "source": "kicker",
       "sentiment": 0
     }
