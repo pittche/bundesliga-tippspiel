@@ -1,6 +1,96 @@
 {
   "news": [
     {
+      "title": "\"Der Junge macht Spaß\": Hoeneß sieht sich und den VfB wegen Pejcinovic bestätigt",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Fort will zum BVB - Atletico wird wegen Alvarez wieder deutlich",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "El Malas Entscheidung: Die Hintergründe und die Rolle der Familie",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Kompany: \"Es gibt nichts Schöneres, als einen Titel in Dortmund zu gewinnen\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Wenn er nicht noch ein Handy klaut\": Kettemann legt sich auf Noll als Nummer 1 fest",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Alles andere als zufriedenstellend\": Die Gründe für das dicke BVB-Minus",
+      "source": "kicker",
+      "sentiment": -0.8
+    },
+    {
+      "title": "Kompany erinnert sich an früher: \"Die Meisten sind fünf Kilo zu dick zurückgekommen\"",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Der BVB schreibt rote Zahlen: \"Komplexes Geschäftsjahr\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Andrich abgelöst: Tapsoba ist neuer Kapitän in Leverkusen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kompany: \"Freue mich auf Jamals Gegenangriff\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Bayern wusste \"die ganze letzte Saison\" Bescheid - Musiala fehlt im Supercup",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Kompany über Musiala-Szene: \"Die Bank war total ruhig\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Rückkehr nach drei Jahren: Köln verpflichtet Skhiri",
+      "source": "kicker",
+      "sentiment": 0.37
+    },
+    {
+      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Gewünschter Geldregen: Werder verkauft Coulibaly an Straßburg",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Eure Nummer 13 geht\": Köln und El Mala nahmen FC-Fans auf den Arm",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Joao Palhinha vor Wechsel zu Benfica",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Köln nimmt alte El-Mala-Trikots zurück und spendet sie",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
       "title": "El Malas berühmte Kölner Vorgänger mit der Rückennummer 10",
       "source": "kicker",
       "sentiment": -0.5
@@ -57,96 +147,6 @@
     },
     {
       "title": "Davies: \"Bin froh, dass es im Fußball keinen Salary Cap gibt\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Erschreckende Bilder\": Ricken und Kovac sprechen Mitgefühl mit Musiala aus",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Herzzerreißend\": Wie Davies Musiala helfen will",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Erfolg für den Schutz der Fans\": Bundesliga gewinnt Rechtsstreit gegen Viagogo",
-      "source": "kicker",
-      "sentiment": 0.07
-    },
-    {
-      "title": "Der Goldene Schuh für Harry Kane: Ein Blick hinter die Kulissen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kane verrät: So unterstütze ich Musiala",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Nächste Leihe: Hertha angelt sich Leverkusens Alfa-Ruprecht",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Habe den Verein sehr vermisst\": Itakura kehrt nach Gladbach zurück",
-      "source": "kicker",
-      "sentiment": 0.1
-    },
-    {
-      "title": "\"Abgezockter\" Futkeu in Elversberg auf den Spuren von Woltemade & Co.",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Grifo über neue Saison: \"Wenn man es macht, dann richtig\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Stuttgart schließt das Kapitel Milosevic",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "HSV: Bornauw ist sofort der Boss",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Dreesen über Kane: \"Er hat auf jeder Bühne dieser Welt brilliert\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Eberl: Kane ist \"für mich ein Vorbild, wie ein Fußballer sein sollte\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Hätte mir kein anderer Klub geben können\": Füllkrug mit Liebeserklärung",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Ballon d'Or? Kane hält sich beim Golden Shoe bedeckt",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Atubolu kann sich Wechsel nach Frankfurt gut vorstellen - Kaua Santos spielt im Pokal",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Die Liebe zwischen Füllkrug und Werder blüht wieder auf\"",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Wegen Pyro-Vergehen: Hohe Geldstrafe für Eintracht Frankfurt",
       "source": "kicker",
       "sentiment": 0
     }
