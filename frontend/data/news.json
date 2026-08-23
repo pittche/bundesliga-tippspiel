@@ -1,6 +1,46 @@
 {
   "news": [
     {
+      "title": "Erinnerungen an Terrier: Was die Rote Karte für Bensebaini bedeutet",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kompany und Kimmich widersprechen sich - aber warum?",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Bayern feiert: Supercup als \"Vorgeschmack auf das, was folgt\"",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Kovac nach Disput mit Bayerns Co-Trainer: \"Er sollte sich entschuldigen\"",
+      "source": "kicker",
+      "sentiment": -0.5
+    },
+    {
+      "title": "Kovac über BVB-Neulinge: \"Gezeigt, warum wir sie verpflichtet haben\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Eberl bestätigt Kane-Gespräche - Fabinho soll Salah folgen",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "VfB muss länger auf Nartey verzichten",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Der Namensgeber stand nie im Finale: 40 Jahre Supercup und seine Vorläufer",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "\"Der Junge macht Spaß\": Hoeneß sieht sich und den VfB wegen Pejcinovic bestätigt",
       "source": "kicker",
       "sentiment": 0.5
@@ -107,46 +147,6 @@
     },
     {
       "title": "\"Es hat nicht funktioniert\": FC Augsburg spricht sich für das Ende des VAR aus",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Entscheidung gefallen: El Mala verlängert in Köln",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "\"Frag ruhig Said dazu\": Thielmann weicht El-Mala-Frage aus",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Effenberg und die Gelb-Rote Karte, die Geschichte schrieb",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Friedl als Kapitän bestätigt, aber kein Rat mehr: So plant Thioune die \"Leadership group\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Vidovic und Zeitler lauern: Paderborns Puzzle für die Torgefahr",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Er ist wieder der Alte\": Schicker über geplatzten Asllani-Transfer",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Ricken zu bisheriger BVB-Transferphase: \"Haben unsere Hausaufgaben gemacht\"",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Davies: \"Bin froh, dass es im Fußball keinen Salary Cap gibt\"",
       "source": "kicker",
       "sentiment": 0
     }
