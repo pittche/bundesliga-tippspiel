@@ -1,6 +1,86 @@
 {
   "news": [
     {
+      "title": "Darum ist für die Jugend kein Platz mehr im Schalker Teamrat",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Bayerns Plan mit Karl und Gnabry",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "City schnürt Paket für Bouaddi - Marmoush vor Spurs-Leihe - Embolo in die MLS",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Von Kleindienst bis Neuhaus und Scally: Gladbachs Start mit klaren Signalen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Brassier soll die Frankfurter Abwehrnot lindern - Wahi vor Rückkehr nach Nizza",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Wiederholt sich bei Stuttgarts Demirovic die Woltemade-Geschichte?",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "\"Langwierige Geschichte\": Schlotterbeck gibt Update - und hofft auf baldiges Comeback",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "\"Würde mich sehr freuen\": Onyeka hofft auf Startelfeinsatz gegen Stammverein Leverkusen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Ich hoffe, dass es ein Statement war\": Wimmer meldet Ansprüche an",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Not macht romantisch: Leipzigs Hoffnung auf Nkunku",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Dominantes Bayern-Duo: So stimmten die Journalisten bei den kicker-Awards ab",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Die Trainer des Jahres seit 2002",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Vincent Kompany: Der Titelsammler mit dem ganz großen Ziel",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Harry Kane: Traumtore, Grätschen und eine ganz besondere Kabinen-Rede",
+      "source": "kicker",
+      "sentiment": -0.2
+    },
+    {
+      "title": "kicker-Awards: Kane ist Fußballer des Jahres, Kompany Trainer des Jahres",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Moffi als Symbol für den Fortschritt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Erinnerungen an Terrier: Was die Rote Karte für Bensebaini bedeutet",
       "source": "kicker",
       "sentiment": 0
@@ -69,86 +149,6 @@
       "title": "\"Alles andere als zufriedenstellend\": Die Gründe für das dicke BVB-Minus",
       "source": "kicker",
       "sentiment": -0.8
-    },
-    {
-      "title": "Kompany erinnert sich an früher: \"Die Meisten sind fünf Kilo zu dick zurückgekommen\"",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Der BVB schreibt rote Zahlen: \"Komplexes Geschäftsjahr\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Andrich abgelöst: Tapsoba ist neuer Kapitän in Leverkusen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kompany: \"Freue mich auf Jamals Gegenangriff\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Bayern wusste \"die ganze letzte Saison\" Bescheid - Musiala fehlt im Supercup",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Kompany über Musiala-Szene: \"Die Bank war total ruhig\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Rückkehr nach drei Jahren: Köln verpflichtet Skhiri",
-      "source": "kicker",
-      "sentiment": 0.37
-    },
-    {
-      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Gewünschter Geldregen: Werder verkauft Coulibaly an Straßburg",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Eure Nummer 13 geht\": Köln und El Mala nahmen FC-Fans auf den Arm",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Joao Palhinha vor Wechsel zu Benfica",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Köln nimmt alte El-Mala-Trikots zurück und spendet sie",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "El Malas berühmte Kölner Vorgänger mit der Rückennummer 10",
-      "source": "kicker",
-      "sentiment": -0.5
-    },
-    {
-      "title": "Podolski ruft bei El Mala an: \"Hatten leider nicht das Geld, dich zu kaufen\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "El Mala bleibt beim FC: Die richtige Entscheidung?",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "\"Es hat nicht funktioniert\": FC Augsburg spricht sich für das Ende des VAR aus",
-      "source": "kicker",
-      "sentiment": 0
     }
   ]
 }
