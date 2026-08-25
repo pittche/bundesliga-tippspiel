@@ -1,6 +1,71 @@
 {
   "news": [
     {
+      "title": "Neuer Rekordverkauf? Hull City will Union-Stürmer Ansah verpflichten",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Diesmal mit Kaufoption: Frankfurt verleiht Wahi erneut nach Nizza",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Umsatzstärkste Fußballklubs: Bayern auf dem Treppchen",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Storks leitet Eröffnungsspiel zwischen Bayern und Stuttgart",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Von 7400 bis 55.000: Das Dauerkarten-Ranking der Bundesliga",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Bayers Problem bei Wunschkandidat Doué",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Was die Sky-Übernahme durch RTL für Fans bedeutet",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "HSV-Mäzen Kühne verstorben",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Wenn die Dezibel alles verraten: Konstantelias überzeugt direkt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Wunschstürmer mit Delle: HSV verpflichtet Moffi",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Füllkrugs Plädoyer für einen Stage-Verbleib: \"Ich mag ihn sehr gerne\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Leipzig erwartet Nkunku - Goretzka mit Villa einig - ManCity zeigt Interesse an Gakpo",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
       "title": "Darum ist für die Jugend kein Platz mehr im Schalker Teamrat",
       "source": "kicker",
       "sentiment": 0
@@ -84,71 +149,6 @@
       "title": "Erinnerungen an Terrier: Was die Rote Karte für Bensebaini bedeutet",
       "source": "kicker",
       "sentiment": 0
-    },
-    {
-      "title": "Kompany und Kimmich widersprechen sich - aber warum?",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Bayern feiert: Supercup als \"Vorgeschmack auf das, was folgt\"",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Kovac nach Disput mit Bayerns Co-Trainer: \"Er sollte sich entschuldigen\"",
-      "source": "kicker",
-      "sentiment": -0.5
-    },
-    {
-      "title": "Kovac über BVB-Neulinge: \"Gezeigt, warum wir sie verpflichtet haben\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Eberl bestätigt Kane-Gespräche - Fabinho soll Salah folgen",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "VfB muss länger auf Nartey verzichten",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Der Namensgeber stand nie im Finale: 40 Jahre Supercup und seine Vorläufer",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Der Junge macht Spaß\": Hoeneß sieht sich und den VfB wegen Pejcinovic bestätigt",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Fort will zum BVB - Atletico wird wegen Alvarez wieder deutlich",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "El Malas Entscheidung: Die Hintergründe und die Rolle der Familie",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Kompany: \"Es gibt nichts Schöneres, als einen Titel in Dortmund zu gewinnen\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Wenn er nicht noch ein Handy klaut\": Kettemann legt sich auf Noll als Nummer 1 fest",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Alles andere als zufriedenstellend\": Die Gründe für das dicke BVB-Minus",
-      "source": "kicker",
-      "sentiment": -0.8
     }
   ]
 }
