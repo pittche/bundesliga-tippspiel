@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "ManCity bietet wohl 145 Millionen Euro für Fernandez - Villa will Mateta",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Bayern verlängert mit Sportvorstand Eberl und CEO Dreesen",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Drei Millionen Euro Leihgebühr: Nkunku stürmt wieder für RB",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Tapsoba über Bayers Geheimnis, die Last der Binde - und seine Zukunft",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Woltemade zurück in die Bundesliga? Wer schlägt bei Selke zu?",
+      "source": "kicker",
+      "sentiment": 0.03
+    },
+    {
+      "title": "Augsburg vor Transfer von WM-Fahrer Seol",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Albtraum-Sommer für Karazor",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Raums Loblieder auf Nkunku und Demichelis",
+      "source": "kicker",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Castanedas Tor auf dem Weg zum großen Traum",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Demirovic-Wechsel zu Galatasaray auf der Kippe",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Bayers Poku vor Unterschrift bei Besiktas",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "297 Reisekilometer im Schnitt: Wer profitiert, wen es am härtesten trifft",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Nicht nur Diaby und Doué sollen kommen: Bayer sucht auch auf der Sechs",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Umdenken bei Zetterer: Abschied nach Leeds steht offenbar bevor",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Rohes Spiel\" gegen Saibari: DFB sperrt Bensebaini für zwei Pokalspiele",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Nkunku zurück bei RB: Seine schönsten Bundesliga-Tore",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Nachfolger von Ricken: BVB befördert NLZ-Leiter Schaffran zum Direktor",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Neu: \"Match-Radio\" der Bundesliga live beim kicker",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Talent Mike vor Wechsel nach Belgien - Bayern winken weitere Millionen",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
       "title": "Neuer Rekordverkauf? Hull City will Union-Stürmer Ansah verpflichten",
       "source": "kicker",
       "sentiment": 0
@@ -49,106 +149,6 @@
       "title": "Wunschstürmer mit Delle: HSV verpflichtet Moffi",
       "source": "kicker",
       "sentiment": 0.4
-    },
-    {
-      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Füllkrugs Plädoyer für einen Stage-Verbleib: \"Ich mag ihn sehr gerne\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Leipzig erwartet Nkunku - Goretzka mit Villa einig - ManCity zeigt Interesse an Gakpo",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Darum ist für die Jugend kein Platz mehr im Schalker Teamrat",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Bayerns Plan mit Karl und Gnabry",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "City schnürt Paket für Bouaddi - Marmoush vor Spurs-Leihe - Embolo in die MLS",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Von Kleindienst bis Neuhaus und Scally: Gladbachs Start mit klaren Signalen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Brassier soll die Frankfurter Abwehrnot lindern - Wahi vor Rückkehr nach Nizza",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Wiederholt sich bei Stuttgarts Demirovic die Woltemade-Geschichte?",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "\"Langwierige Geschichte\": Schlotterbeck gibt Update - und hofft auf baldiges Comeback",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "\"Würde mich sehr freuen\": Onyeka hofft auf Startelfeinsatz gegen Stammverein Leverkusen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Ich hoffe, dass es ein Statement war\": Wimmer meldet Ansprüche an",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Not macht romantisch: Leipzigs Hoffnung auf Nkunku",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Dominantes Bayern-Duo: So stimmten die Journalisten bei den kicker-Awards ab",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Die Trainer des Jahres seit 2002",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Vincent Kompany: Der Titelsammler mit dem ganz großen Ziel",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Harry Kane: Traumtore, Grätschen und eine ganz besondere Kabinen-Rede",
-      "source": "kicker",
-      "sentiment": -0.2
-    },
-    {
-      "title": "kicker-Awards: Kane ist Fußballer des Jahres, Kompany Trainer des Jahres",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Moffi als Symbol für den Fortschritt",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Erinnerungen an Terrier: Was die Rote Karte für Bensebaini bedeutet",
-      "source": "kicker",
-      "sentiment": 0
     }
   ]
 }
