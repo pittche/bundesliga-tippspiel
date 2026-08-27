@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Leihe mit Kaufoption: Bayern gibt Zaragoza an Espanyol ab",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Atubolu in Frankfurt: Worauf sich die Fans freuen können - und was Hütter denkt",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Der HSV hat Dortmund im Visier, Fabio Vieira im Kopf",
+      "source": "kicker",
+      "sentiment": 0.33
+    },
+    {
+      "title": "Nach acht Jahren bei Bayern: Goretzka unterschreibt bei Aston Villa",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Was wird aus Stuttgarts El Khannouss und Bouanani?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kleindienst meldet sich für Leipzig fit: \"Jeder weiß, was für ein Typ Tim ist\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Wagner über Pokal-Torjäger Johannesson: \"Hatte zu kämpfen\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Wer dürfte sich besonders lohnen? 18 Tipps fürs kicker-Managerspiel",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kommt Vieira noch zum HSV? Polzin: \"Unsere Pflicht, alles zu geben\"",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
+      "title": "Dauer \"schwer einzuschätzen\": Knauff fällt mit Oberschenkelverletzung aus",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Bayerns historisches 8:0 im Eröffnungsspiel",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Das Umdenken bei Ibrahimovic - und die Fragen danach",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kovac grinsend: \"Werde nicht auf dem Zaun tanzen\"",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
+      "title": "Von Kettemann bestätigt: Götze bleibt Paderborns Kapitän",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Abwehr-Engpass beim BVB? \"Kovac muss Fragen beantworten\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Größe der Rolle noch unklar: Karl kehrt in Bayerns Kader zurück",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Rückkehr in die Bundesliga: Uduokhai unterschreibt bei Union",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "\"Thema endgültig erledigt\": Bremen schiebt Stage-Wechsel einen Riegel vor",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Profis keine Roboter: Undavs Appell für mehr Fingerspitzengefühl",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Alvarez immer noch krank - Barcelona holt Livakovic - Einigung bei Barcola?",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
       "title": "ManCity bietet wohl 145 Millionen Euro für Fernandez - Villa will Mateta",
       "source": "kicker",
       "sentiment": 0.35
@@ -49,106 +149,6 @@
       "title": "Castanedas Tor auf dem Weg zum großen Traum",
       "source": "kicker",
       "sentiment": 0
-    },
-    {
-      "title": "Demirovic-Wechsel zu Galatasaray auf der Kippe",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Bayers Poku vor Unterschrift bei Besiktas",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "297 Reisekilometer im Schnitt: Wer profitiert, wen es am härtesten trifft",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Nicht nur Diaby und Doué sollen kommen: Bayer sucht auch auf der Sechs",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Umdenken bei Zetterer: Abschied nach Leeds steht offenbar bevor",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Rohes Spiel\" gegen Saibari: DFB sperrt Bensebaini für zwei Pokalspiele",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Nkunku zurück bei RB: Seine schönsten Bundesliga-Tore",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Nachfolger von Ricken: BVB befördert NLZ-Leiter Schaffran zum Direktor",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Neu: \"Match-Radio\" der Bundesliga live beim kicker",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Talent Mike vor Wechsel nach Belgien - Bayern winken weitere Millionen",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Neuer Rekordverkauf? Hull City will Union-Stürmer Ansah verpflichten",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Diesmal mit Kaufoption: Frankfurt verleiht Wahi erneut nach Nizza",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Umsatzstärkste Fußballklubs: Bayern auf dem Treppchen",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Storks leitet Eröffnungsspiel zwischen Bayern und Stuttgart",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Von 7400 bis 55.000: Das Dauerkarten-Ranking der Bundesliga",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Bayers Problem bei Wunschkandidat Doué",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Was die Sky-Übernahme durch RTL für Fans bedeutet",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "HSV-Mäzen Kühne verstorben",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wenn die Dezibel alles verraten: Konstantelias überzeugt direkt",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wunschstürmer mit Delle: HSV verpflichtet Moffi",
-      "source": "kicker",
-      "sentiment": 0.4
     }
   ]
 }
