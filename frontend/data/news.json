@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Dinkci mit Werder nach Freiburg: Rückkehrer vor spezieller Rückkehr",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Offiziell: Hoffenheims Geiger wechselt nach Nijmegen",
+      "source": "kicker",
+      "sentiment": 0.05
+    },
+    {
+      "title": "\"Er wollte unbedingt nach Leipzig\": Demichelis über Nkunku-Rückkehr",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Was Nkunku laut Demichelis noch fehlt - und ein Tipp für Reitz gegen die Pfiffe",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Keine Werder-Überraschung bei Hein - Füllkrugs \"überraschend guter Zustand\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Martinez beantwortet Torwartfrage - und wirft sie noch einmal auf",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "RTL kommt, Khedira geht - die Bundesliga 2026/27 im TV",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Trotz Palacios-Abgang: Martinez öffnet Andrich nicht die Tür",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Lieblings-Elfmeter-Gegner, Scorer-Schwund & die Rückkehr eines Meisters",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Werder passt das Profil an: Kommt Ex-Schalker Ndiaye?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Abgang in die Türkei fix: Dompé verlässt den HSV",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Umfrage: Wird Atubolu in Frankfurt in dieser Saison zum Nationalspieler?",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Talent Bakatukanda baut auf die Chance, die er nie bekam",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "\"Außergewöhnliche Dynamik\": Frankfurt leiht Atubolu mit Kaufpflicht",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Diaby beim Medizincheck - Nürnberg schlägt in Mainz zu - Wird Frankfurt Theate los?",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Was ist anders unter Demichelis? Orban erklärt und schwärmt von Nkunku",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Wer überträgt Bayern München gegen VfB Stuttgart heute live im Free-TV & Stream?",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Der BVB hat Probleme hinten und Luxusprobleme vorne",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Das Ranking der Dauerkarten-Preise - und der Vergleich zum Vorjahr",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Leihe mit Kaufoption: Bayern gibt Zaragoza an Espanyol ab",
       "source": "kicker",
       "sentiment": 0.4
@@ -49,106 +149,6 @@
       "title": "Dauer \"schwer einzuschätzen\": Knauff fällt mit Oberschenkelverletzung aus",
       "source": "kicker",
       "sentiment": -0.4
-    },
-    {
-      "title": "Bayerns historisches 8:0 im Eröffnungsspiel",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Das Umdenken bei Ibrahimovic - und die Fragen danach",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kovac grinsend: \"Werde nicht auf dem Zaun tanzen\"",
-      "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Von Kettemann bestätigt: Götze bleibt Paderborns Kapitän",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Abwehr-Engpass beim BVB? \"Kovac muss Fragen beantworten\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Größe der Rolle noch unklar: Karl kehrt in Bayerns Kader zurück",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Rückkehr in die Bundesliga: Uduokhai unterschreibt bei Union",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "\"Thema endgültig erledigt\": Bremen schiebt Stage-Wechsel einen Riegel vor",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Profis keine Roboter: Undavs Appell für mehr Fingerspitzengefühl",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Alvarez immer noch krank - Barcelona holt Livakovic - Einigung bei Barcola?",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "ManCity bietet wohl 145 Millionen Euro für Fernandez - Villa will Mateta",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Bayern verlängert mit Sportvorstand Eberl und CEO Dreesen",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Drei Millionen Euro Leihgebühr: Nkunku stürmt wieder für RB",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Tapsoba über Bayers Geheimnis, die Last der Binde - und seine Zukunft",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Woltemade zurück in die Bundesliga? Wer schlägt bei Selke zu?",
-      "source": "kicker",
-      "sentiment": 0.03
-    },
-    {
-      "title": "Augsburg vor Transfer von WM-Fahrer Seol",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Albtraum-Sommer für Karazor",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Raums Loblieder auf Nkunku und Demichelis",
-      "source": "kicker",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Castanedas Tor auf dem Weg zum großen Traum",
-      "source": "kicker",
-      "sentiment": 0
     }
   ]
 }
