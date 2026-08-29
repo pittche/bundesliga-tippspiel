@@ -1,6 +1,81 @@
 {
   "news": [
     {
+      "title": "HSV: Zweigleisiger Plan für die rechte Schiene",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Vorbote für Doué-Transfer? Bayer verleiht Tape an Levante",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Starke Vorbereitung belohnt: Frankfurt bindet Maluze langfristig",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Bredlow beendet die Stuttgarter Torhüter-Thematik",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Schuster hat keine Lust auf ein Déjà-vu",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
+      "title": "Das Bayern-Scouting bei Saibari - und was Kane der Konkurrenz droht",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Liverpool zahlt für Barcola mindestens 125 Millionen Euro - Kane: \"Es sieht ziemlich gut aus\"",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Wer überträgt RB Leipzig gegen Borussia Mönchengladbach heute live im Free-TV & Stream?",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Wieder auf Rekordkurs? Kompany: \"In der DNA dieser Mannschaft\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Das ist zu einfach, das ist zu billig\": Hoeneß äußert Kritik",
+      "source": "kicker",
+      "sentiment": -0.5
+    },
+    {
+      "title": "Stromausfall in der Pause - und nach dem Ausgleich: Hoeneß hadert mit der Auftaktpleite",
+      "source": "kicker",
+      "sentiment": -0.55
+    },
+    {
+      "title": "Pavlovic: \"Es ist oft gegen Stuttgart so, dass die ein bisschen einbrechen\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Ein Rekordmeister, der eine Klasse besser ist als die nationale Konkurrenz\"",
+      "source": "kicker",
+      "sentiment": 0.55
+    },
+    {
+      "title": "Ja-Wort vom Wunschkandidat: Doué möchte zu Bayer",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Gwinn, Kane und Kompany: Fußballerin, Fußballer und Trainer des Jahres geehrt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Dinkci mit Werder nach Freiburg: Rückkehrer vor spezieller Rückkehr",
       "source": "kicker",
       "sentiment": 0.35
@@ -74,81 +149,6 @@
       "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
       "source": "kicker",
       "sentiment": 0
-    },
-    {
-      "title": "Diaby beim Medizincheck - Nürnberg schlägt in Mainz zu - Wird Frankfurt Theate los?",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Was ist anders unter Demichelis? Orban erklärt und schwärmt von Nkunku",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wer überträgt Bayern München gegen VfB Stuttgart heute live im Free-TV & Stream?",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Der BVB hat Probleme hinten und Luxusprobleme vorne",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Das Ranking der Dauerkarten-Preise - und der Vergleich zum Vorjahr",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Leihe mit Kaufoption: Bayern gibt Zaragoza an Espanyol ab",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Atubolu in Frankfurt: Worauf sich die Fans freuen können - und was Hütter denkt",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Der HSV hat Dortmund im Visier, Fabio Vieira im Kopf",
-      "source": "kicker",
-      "sentiment": 0.33
-    },
-    {
-      "title": "Nach acht Jahren bei Bayern: Goretzka unterschreibt bei Aston Villa",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Was wird aus Stuttgarts El Khannouss und Bouanani?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kleindienst meldet sich für Leipzig fit: \"Jeder weiß, was für ein Typ Tim ist\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Wagner über Pokal-Torjäger Johannesson: \"Hatte zu kämpfen\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wer dürfte sich besonders lohnen? 18 Tipps fürs kicker-Managerspiel",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kommt Vieira noch zum HSV? Polzin: \"Unsere Pflicht, alles zu geben\"",
-      "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Dauer \"schwer einzuschätzen\": Knauff fällt mit Oberschenkelverletzung aus",
-      "source": "kicker",
-      "sentiment": -0.4
     }
   ]
 }
