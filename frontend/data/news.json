@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Martinez gesteht Fehler bei Andrich ein",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Theate verlässt Frankfurt Richtung Bologna",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Unglaublich junge Truppe\": Kettemann über das \"Abenteuer\" Bundesliga",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Waren nicht der HSV, der wir sein wollen\": Klare Analyse, klare Transferziele",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Napoli lockt Woltemade - Martinez spielt für Chelsea - Vogt vor Leihe zum FCH",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Fischer angefressen wegen Schiri-Entscheidung: \"Bei Kane war es ein Strafstoß\"",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Vogt stürmt nun für Heidenheim",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Eben nicht nur El Mala: Dallinga mischt Kölns Offensive auf",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Tor, Geste, Pfiffe: Reitz und die \"krasse Punktlandung\" gegen Ex-Klub Gladbach",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
+      "title": "Der heimliche Punktesammler beim FC Bayern",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Wer überträgt FC Augsburg gegen Schalke 04 heute live im TV & Stream?",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Fazit nach BVB-Sieg gegen den HSV: Neue Spielfreude und offene Transfer-Baustellen",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Kovac nach Rot für Inacio: \"Der Junge saß da ... weinend\"",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
+      "title": "Kovac tröstet weinenden Inacio: \"Er war sehr geknickt\"",
+      "source": "kicker",
+      "sentiment": 0.05
+    },
+    {
+      "title": "\"Kapazität, Energie, Spielverständnis\": Flekken schimpft nach Bayer-Auftritt",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Lustrinelli: \"Das ist, wie wenn man ein Haus baut\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Hütter erklärt Kaua Santos' Degradierung: \"Er hat uns zum Zweifeln gebracht\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Millionensumme für Frankfurt: Zetterer wechselt nach Leeds",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Wagner über Elversberger Stärken: \"Das ist unsere einzige Chance\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "\"Haben Sorgen\": Konstantelias zieht sich Knieverletzung zu",
+      "source": "kicker",
+      "sentiment": -0.43
+    },
+    {
       "title": "HSV: Zweigleisiger Plan für die rechte Schiene",
       "source": "kicker",
       "sentiment": 0
@@ -49,106 +149,6 @@
       "title": "\"Das ist zu einfach, das ist zu billig\": Hoeneß äußert Kritik",
       "source": "kicker",
       "sentiment": -0.5
-    },
-    {
-      "title": "Stromausfall in der Pause - und nach dem Ausgleich: Hoeneß hadert mit der Auftaktpleite",
-      "source": "kicker",
-      "sentiment": -0.55
-    },
-    {
-      "title": "Pavlovic: \"Es ist oft gegen Stuttgart so, dass die ein bisschen einbrechen\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Ein Rekordmeister, der eine Klasse besser ist als die nationale Konkurrenz\"",
-      "source": "kicker",
-      "sentiment": 0.55
-    },
-    {
-      "title": "Ja-Wort vom Wunschkandidat: Doué möchte zu Bayer",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Gwinn, Kane und Kompany: Fußballerin, Fußballer und Trainer des Jahres geehrt",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Dinkci mit Werder nach Freiburg: Rückkehrer vor spezieller Rückkehr",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Offiziell: Hoffenheims Geiger wechselt nach Nijmegen",
-      "source": "kicker",
-      "sentiment": 0.05
-    },
-    {
-      "title": "\"Er wollte unbedingt nach Leipzig\": Demichelis über Nkunku-Rückkehr",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Was Nkunku laut Demichelis noch fehlt - und ein Tipp für Reitz gegen die Pfiffe",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Keine Werder-Überraschung bei Hein - Füllkrugs \"überraschend guter Zustand\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Martinez beantwortet Torwartfrage - und wirft sie noch einmal auf",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "RTL kommt, Khedira geht - die Bundesliga 2026/27 im TV",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Trotz Palacios-Abgang: Martinez öffnet Andrich nicht die Tür",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Lieblings-Elfmeter-Gegner, Scorer-Schwund & die Rückkehr eines Meisters",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Werder passt das Profil an: Kommt Ex-Schalker Ndiaye?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Abgang in die Türkei fix: Dompé verlässt den HSV",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Umfrage: Wird Atubolu in Frankfurt in dieser Saison zum Nationalspieler?",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Talent Bakatukanda baut auf die Chance, die er nie bekam",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "\"Außergewöhnliche Dynamik\": Frankfurt leiht Atubolu mit Kaufpflicht",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
-      "source": "kicker",
-      "sentiment": 0
     }
   ]
 }
