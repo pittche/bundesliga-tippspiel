@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Bayern gibt Ibrahimovic an Augsburg ab",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Doan-Wechsel auf der Zielgeraden: 17 Millionen für die Eintracht",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "HSV holt wohl auch WM-Fahrer Wolfe - Ibrahimovic vor FCA-Wechsel",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Eines der größten Talente Estlands: Kölns Kristal vor Leihe zum FC Thun",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Inspiration aus 1988: VfB präsentiert seine CL-Trikots",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Mbangula vor Leih-Abgang zu Atalanta - Malatini zieht es in die MLS",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Beschlossene Sache: Andrich bleibt bei Bayer",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Einigung mit Straßburg: Bayer schnappt sich Doué",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Zeitzeugen und KI: Konietzkas \"verlorenes\" Tor wird sichtbar gemacht",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Ereilt Stuttgart der Fluch der WM?",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Trauma-Tag: Moerstedt verpasst Dallingas Rolle",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Ich bin ein 60er-Fan\": Wo Muslic seine Schalker vor dem Bayern-Spiel sieht",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Köln wie Bayern und Leipzig: Die kicker-Elf des 1. Spieltags",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Fast Heimspiel-Atmosphäre\": Warum Schalke trotzdem als Verlierer vom Platz ging",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "\"Ist Kade einer für Klopp?\": Junger Augsburger mit Gala-Auftritt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Muslic: \"Werde niemanden beim ersten Fehler an die Wand nageln\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "\"Erster tabellarischer Bayern-Jäger\": Freiburg gibt das Bild eines Spitzenteams ab",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Thioune: \"Unser Spiel ist sehr, sehr Jens-lastig\"",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Schuster: \"Vieles geht Richtung Automatismen\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Aouchiche in Schalkes Kreis der 2030er - und ein wichtiges Detail",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
       "title": "Martinez gesteht Fehler bei Andrich ein",
       "source": "kicker",
       "sentiment": 0
@@ -49,106 +149,6 @@
       "title": "Der heimliche Punktesammler beim FC Bayern",
       "source": "kicker",
       "sentiment": 0
-    },
-    {
-      "title": "Wer überträgt FC Augsburg gegen Schalke 04 heute live im TV & Stream?",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Fazit nach BVB-Sieg gegen den HSV: Neue Spielfreude und offene Transfer-Baustellen",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Kovac nach Rot für Inacio: \"Der Junge saß da ... weinend\"",
-      "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Kovac tröstet weinenden Inacio: \"Er war sehr geknickt\"",
-      "source": "kicker",
-      "sentiment": 0.05
-    },
-    {
-      "title": "\"Kapazität, Energie, Spielverständnis\": Flekken schimpft nach Bayer-Auftritt",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Lustrinelli: \"Das ist, wie wenn man ein Haus baut\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Hütter erklärt Kaua Santos' Degradierung: \"Er hat uns zum Zweifeln gebracht\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Millionensumme für Frankfurt: Zetterer wechselt nach Leeds",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wagner über Elversberger Stärken: \"Das ist unsere einzige Chance\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "\"Haben Sorgen\": Konstantelias zieht sich Knieverletzung zu",
-      "source": "kicker",
-      "sentiment": -0.43
-    },
-    {
-      "title": "HSV: Zweigleisiger Plan für die rechte Schiene",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Vorbote für Doué-Transfer? Bayer verleiht Tape an Levante",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Starke Vorbereitung belohnt: Frankfurt bindet Maluze langfristig",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Bredlow beendet die Stuttgarter Torhüter-Thematik",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Schuster hat keine Lust auf ein Déjà-vu",
-      "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Das Bayern-Scouting bei Saibari - und was Kane der Konkurrenz droht",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Liverpool zahlt für Barcola mindestens 125 Millionen Euro - Kane: \"Es sieht ziemlich gut aus\"",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Wer überträgt RB Leipzig gegen Borussia Mönchengladbach heute live im Free-TV & Stream?",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Wieder auf Rekordkurs? Kompany: \"In der DNA dieser Mannschaft\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Das ist zu einfach, das ist zu billig\": Hoeneß äußert Kritik",
-      "source": "kicker",
-      "sentiment": -0.5
     }
   ]
 }
