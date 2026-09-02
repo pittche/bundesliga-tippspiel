@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Diese Spieler sind nach Transferschluss noch ohne Verein",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Mainzer Spezialdeal mit Richter: Vertragsauflösung vor Transferschluss",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Leipzigs Bitshiuabu in Istanbul gelandet - Mudryk nach Doping-Sperre zu den Spurs",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Der Aufsteiger, der sich ein Transferminus von 200 Millionen Euro gönnt",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Mit großem Gewinn für Frankfurt: Bahoya wechselt zu Leeds United",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Überblick: Die Transfers am Deadline Day",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Für über 20 Millionen Euro: Chema wechselt zu Brighton",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Nach drei Jahren in Frankfurt: Larsson zieht es auf die Insel",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Von Wirtz bis Kane: Die fünf teuersten Transfers der Bundesliga",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Spritzigkeit, Zuspiele, Flanken: Wie Gladbach den Kleindienst-Faktor herauskitzeln kann",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Die große Deadline-Day-Show: Woltemades wegweisender Wechsel und HSV-Hype",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Auf den letzten Metern: Köln leiht Ex-Stuttgarter Sosa von Crystal Palace aus",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Soforthilfe am Deadline Day: Leipzig leiht El Aynaoui aus",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Schalke holt Hwang in die Bundesliga zurück",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Fritz über Stage-Ersatz, Njinmah-Ausfall und Werder-Leihen",
+      "source": "kicker",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Als Konstantelias-Ersatz: BVB leiht Arsenals Nwaneri aus",
+      "source": "kicker",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Noch ein Ausfall: Auch Njinmah fehlt Werder mehrere Monate",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Wunschspieler kommt: Doué wechselt unters Bayer-Kreuz",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Transfer-Dreierpack perfekt: HSV holt auch WM-Fahrer Wolfe",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
       "title": "Manzambi weit vorn: Die Rekord-Abgänge der 18 Bundesligisten",
       "source": "kicker",
       "sentiment": -0.3
@@ -49,106 +149,6 @@
       "title": "\"Passt sehr gut zur RB-DNA\": Leipzig holt Guiu von Chelsea",
       "source": "kicker",
       "sentiment": 0.3
-    },
-    {
-      "title": "Diese internationalen Top-Transfers könnte der Deadline Day bringen",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Bayers Hängepartie mit Diaby: Positive Signale von Al-Ittihad",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "BVB-Durchbruch bei Nwaneri - Ben Farhat klar mit Freiburg - Doué beim Medizincheck",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Hoeneß sorgt sich um Musiala: \"Wahnsinn, was wir gerade erleben\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Hat natürlich weh getan\": Mintzlaff über Klopps RB-Abschied",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "\"Das macht Hoffnung\": Wohin Herthas Höhenflug führen kann",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Diese Transfers tätigten die Bundesligisten am Deadline Day 2025",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Ein \"ausgezeichneter\" Start: Nolls Traum geht weiter",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Ich wollte Hoeneß verprügeln\": Helmers verrückte Anekdote aus der Bayern-Kabine",
-      "source": "kicker",
-      "sentiment": -0.2
-    },
-    {
-      "title": "Wie läuft ein Transfer eigentlich genau ab?",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Bayern gibt Ibrahimovic an Augsburg ab",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Doan-Wechsel auf der Zielgeraden: 17 Millionen für die Eintracht",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "HSV holt wohl auch WM-Fahrer Wolfe - Ibrahimovic vor FCA-Wechsel",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Eines der größten Talente Estlands: Kölns Kristal vor Leihe zum FC Thun",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Inspiration aus 1988: VfB präsentiert seine CL-Trikots",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Mbangula vor Leih-Abgang zu Atalanta - Malatini zieht es in die MLS",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Beschlossene Sache: Andrich bleibt bei Bayer",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Einigung mit Straßburg: Bayer schnappt sich Doué",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Zeitzeugen und KI: Konietzkas \"verlorenes\" Tor wird sichtbar gemacht",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Ereilt Stuttgart der Fluch der WM?",
-      "source": "kicker",
-      "sentiment": 0.4
     }
   ]
 }
