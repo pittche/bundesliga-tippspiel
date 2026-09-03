@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Hiobsbotschaft für Gladbach: Leopold erleidet Kreuzbandriss",
+      "source": "kicker",
+      "sentiment": -0.2
+    },
+    {
+      "title": "Das Bundesliga-Quiz zum 2. Spieltag",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Quatscher\" Oberschulte-Beckmann nicht mehr Schalkes Stadionsprecher",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Eine Lehre aus der U 15: Warum sich Matanovic kein spezielles Ziel setzt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Elfadli per Leihe zum LASK - Wo landet Cvancara?",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "\"Geht ihm besser\": Kehrt Musiala am Samstag in den Kader zurück?",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Neuer Anlauf am Bosporus: Leipzig gibt Bitshiabu noch ab",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Mehr Wucht mit Brassier - Tür bei Kalimuendo bleibt geschlossen",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Alles, nur kein Zufall: Diaby spricht über seine Bayer-Rückkehr",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Aufsichtsratssitzung ohne großen Knall: Krösche analysiert \"anspruchsvolle Transferphase\"",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Das Hamburger Bank-Geheimnis: Drei Profis für knapp 20 Millionen Euro",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Wagner: \"Großes Lob an die Stadt Köln\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Zwei Spiele Sperre für Schalkes Schallenberg",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Atubolu: \"Sommerurlaub war nicht so genussvoll\"",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Frohe Kunde in Dortmund: Schlotterbeck kehrt auf den Rasen zurück",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Doués Debüt wackelt - trotzdem: Martinez baut Bayers Abwehr um",
+      "source": "kicker",
+      "sentiment": -0.6
+    },
+    {
+      "title": "Atubolus Umweg zur Eintracht: \"Es sind Sachen passiert, die gehen nicht\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Nwaneri: \"Jobe hat mich dazu ermutigt\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "El Mala und Dallinga wackeln für Kölns Duell mit Stuttgart",
+      "source": "kicker",
+      "sentiment": 0.1
+    },
+    {
+      "title": "Umfrage: Wie bewertest du das Transferfenster der 18 Bundesligisten?",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
       "title": "Diese Spieler sind nach Transferschluss noch ohne Verein",
       "source": "kicker",
       "sentiment": 0.35
@@ -49,106 +149,6 @@
       "title": "Spritzigkeit, Zuspiele, Flanken: Wie Gladbach den Kleindienst-Faktor herauskitzeln kann",
       "source": "kicker",
       "sentiment": -0.3
-    },
-    {
-      "title": "Die große Deadline-Day-Show: Woltemades wegweisender Wechsel und HSV-Hype",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Auf den letzten Metern: Köln leiht Ex-Stuttgarter Sosa von Crystal Palace aus",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Soforthilfe am Deadline Day: Leipzig leiht El Aynaoui aus",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Schalke holt Hwang in die Bundesliga zurück",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Fritz über Stage-Ersatz, Njinmah-Ausfall und Werder-Leihen",
-      "source": "kicker",
-      "sentiment": -0.1
-    },
-    {
-      "title": "Als Konstantelias-Ersatz: BVB leiht Arsenals Nwaneri aus",
-      "source": "kicker",
-      "sentiment": -0.05
-    },
-    {
-      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Noch ein Ausfall: Auch Njinmah fehlt Werder mehrere Monate",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Wunschspieler kommt: Doué wechselt unters Bayer-Kreuz",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Transfer-Dreierpack perfekt: HSV holt auch WM-Fahrer Wolfe",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Manzambi weit vorn: Die Rekord-Abgänge der 18 Bundesligisten",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Rekordverkauf fix: Unions Ansah wechselt zu Hull City",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Überblick: Die Transfers am Deadline Day",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Freund schließt weiteren Bayern-Einkauf aus - Gespräche wegen Boey laufen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Dynamischer Außenverteidiger\": HSV zieht Wunschspieler El Ouahdi an Land",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Die Sommer-Neuzugänge der Bundesligisten im Überblick",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kompany lacht: \"Damit Deutschland im Finale gegen Belgien verliert\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Hochspannung in Frankfurt: Gelingt Krösche mit Kalimuendo noch ein Coup?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Leihe mit Kaufoption vor Abschluss: Werder holt auch noch Ndiaye",
-      "source": "kicker",
-      "sentiment": 0.37
-    },
-    {
-      "title": "\"Passt sehr gut zur RB-DNA\": Leipzig holt Guiu von Chelsea",
-      "source": "kicker",
-      "sentiment": 0.3
     }
   ]
 }
