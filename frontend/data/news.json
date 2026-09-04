@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Kompany lacht über Transfergerücht",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Musiala-Entscheidung am Freitag: \"Andere Spieler haben auch schlechte Tage\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Wer überträgt VfB Stuttgart gegen 1. FC Köln heute live im TV und Stream?",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "\"Besser, ich schweige\": Zaragoza über seine Zeit bei den Bayern und der Roma",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "VfB verleiht strauchelnden Bouanani doch noch - mit hoher Kaufoption",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Zinglers Stadion-Update: Auszug aus der Alten Försterei erst Ende 2027",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Hoeneß beschenkt Geburtstagskind Spalt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Schuster: \"Es darf geträumt und gesponnen werden ...\"",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
+      "title": "Auf nach Cincinnati: Werder lässt Malatini ziehen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kovac stellt Albert \"viele Minuten\" in Aussicht",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Dankbar, einen weiteren Tag zu haben\": Schuster über frühe Doppelbelastung",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Köln reist ohne El Mala und Dallinga nach Stuttgart",
+      "source": "kicker",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Demichelis zu Reitz-Verletzung: \"Bitter, aber er ist ein Gewinner\"",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Keine Angst vor Bayern: Schalke zwischen Transfer-Wahnsinn und hohen Zielen",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "\"34 Sekunden waren noch auf der Uhr\": So knapp war Hwangs Schalke-Wechsel",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "\"Noch bis Samstag Zeit\": Schalke bangt vor Bayern weiter um Karaman",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Werde meine Zeit nicht verschwenden\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Hoeneß: \"War in den letzten Tagen nicht so einfach für uns\"",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "\"Zufriedenstellend und ausgewogen\": Thioune glaubt an den Bremer Kader",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Nach nur einem Bundesligaspiel: RB muss auf Zugang Reitz verzichten",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Hiobsbotschaft für Gladbach: Leopold erleidet Kreuzbandriss",
       "source": "kicker",
       "sentiment": -0.2
@@ -49,106 +149,6 @@
       "title": "Aufsichtsratssitzung ohne großen Knall: Krösche analysiert \"anspruchsvolle Transferphase\"",
       "source": "kicker",
       "sentiment": 0.3
-    },
-    {
-      "title": "Das Hamburger Bank-Geheimnis: Drei Profis für knapp 20 Millionen Euro",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Wagner: \"Großes Lob an die Stadt Köln\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Zwei Spiele Sperre für Schalkes Schallenberg",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Atubolu: \"Sommerurlaub war nicht so genussvoll\"",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Frohe Kunde in Dortmund: Schlotterbeck kehrt auf den Rasen zurück",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Doués Debüt wackelt - trotzdem: Martinez baut Bayers Abwehr um",
-      "source": "kicker",
-      "sentiment": -0.6
-    },
-    {
-      "title": "Atubolus Umweg zur Eintracht: \"Es sind Sachen passiert, die gehen nicht\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Nwaneri: \"Jobe hat mich dazu ermutigt\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "El Mala und Dallinga wackeln für Kölns Duell mit Stuttgart",
-      "source": "kicker",
-      "sentiment": 0.1
-    },
-    {
-      "title": "Umfrage: Wie bewertest du das Transferfenster der 18 Bundesligisten?",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Diese Spieler sind nach Transferschluss noch ohne Verein",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Mainzer Spezialdeal mit Richter: Vertragsauflösung vor Transferschluss",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Leipzigs Bitshiuabu in Istanbul gelandet - Mudryk nach Doping-Sperre zu den Spurs",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Der Aufsteiger, der sich ein Transferminus von 200 Millionen Euro gönnt",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Mit großem Gewinn für Frankfurt: Bahoya wechselt zu Leeds United",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Überblick: Die Transfers am Deadline Day",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Für über 20 Millionen Euro: Chema wechselt zu Brighton",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Nach drei Jahren in Frankfurt: Larsson zieht es auf die Insel",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Von Wirtz bis Kane: Die fünf teuersten Transfers der Bundesliga",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Spritzigkeit, Zuspiele, Flanken: Wie Gladbach den Kleindienst-Faktor herauskitzeln kann",
-      "source": "kicker",
-      "sentiment": -0.3
     }
   ]
 }
