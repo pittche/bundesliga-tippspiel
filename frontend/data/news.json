@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Wie im Drehbuch: Rückkehr, Romantik - und Resilienz",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Warum Bayerns Gegner genau gleich klingen - und das etwas Gutes ist",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kleindienst kritisiert Mitspieler: \"Weniger TikTok gucken\"",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Petersen räumt Fehler ein - doch rudert nicht komplett zurück",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "\"Dickes Ausrufezeichen\" von Schalke und \"ein ganz, ganz kleiner Weckruf\" für Bayern",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Sie fressen Mannschaften auf\": Muslic und der gute Bayern-Plan",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Trotz des 0:0: Kompany sieht \"schönes Fußballspiel\" auf Schalke",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kompany kann Kane und Olise nicht sagen: \"Du machst 90 Minuten, 90 Minuten, 90 Minuten\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Ilzer bemitleidet seine Spieler: \"Hat mich mehrfach beeindruckt\"",
+      "source": "kicker",
+      "sentiment": -0.6
+    },
+    {
+      "title": "Demichelis hadert nach RB-Pleite: \"Erste Niederlage kam zu früh\"",
+      "source": "kicker",
+      "sentiment": -0.6
+    },
+    {
+      "title": "Martinez' wichtiges Signal für Andrich - und für Bayer 04",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Elversberg-Coach Wagner: \"Muss klären, was stiller Protest kostet\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "\"Das sind wir\": Karius adelt Schalke-Leistung und erhält Lob von Neuer",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Für alle Fußballromantiker\": Thioune über Tor von Füllkrug",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Nwaneri überzeugt Kovac: \"Er wollte es unbedingt\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "\"Kann Aussagen nicht revidieren\": So blickt Martinez auf Andrich",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "\"Da fehlen mir die Worte\": Polanski nach Gladbach-Pleite bedient",
+      "source": "kicker",
+      "sentiment": -0.6
+    },
+    {
+      "title": "Union-Coach Lustrinelli will nach 0:4 \"keine Hexenjagd\" betreiben",
+      "source": "kicker",
+      "sentiment": -0.6
+    },
+    {
+      "title": "Werder atmet auf: \"Wie hier heute das Dach weggeflogen ist\"",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Schuster und die \"unglaublich hohe Frusttoleranz\" der Freiburger",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
       "title": "Gimme Moore! Köln hofft auf die Talente-Zange",
       "source": "kicker",
       "sentiment": 0
@@ -47,106 +147,6 @@
     },
     {
       "title": "\"Sehr, sehr happy\": Was Hütter am Doan-Verbleib beeindruckt",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Leverkusens Doué muss noch aussetzen - Diaby \"erhöht die Tor-Wahrscheinlichkeit\"",
-      "source": "kicker",
-      "sentiment": 0.13
-    },
-    {
-      "title": "Drohender Absturz oder doch ein gutes Transferfenster? Die Lage bei der Eintracht",
-      "source": "kicker",
-      "sentiment": -0.2
-    },
-    {
-      "title": "\"Soll ein Geheimnis bleiben\": Fällt Kade bei Augsburg aus?",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "5:1-Packung: Als Schalke sich an den Bayern rächte",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Wie geht es mit Boey weiter? Freund: \"Hat sich einwandfrei verhalten\"",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Kompany lacht über Transfergerücht",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Musiala-Entscheidung am Freitag: \"Andere Spieler haben auch schlechte Tage\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wer überträgt VfB Stuttgart gegen 1. FC Köln heute live im TV und Stream?",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "\"Besser, ich schweige\": Zaragoza über seine Zeit bei den Bayern und der Roma",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "VfB verleiht strauchelnden Bouanani doch noch - mit hoher Kaufoption",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Zinglers Stadion-Update: Auszug aus der Alten Försterei erst Ende 2027",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Hoeneß beschenkt Geburtstagskind Spalt",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Schuster: \"Es darf geträumt und gesponnen werden ...\"",
-      "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Auf nach Cincinnati: Werder lässt Malatini ziehen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kovac stellt Albert \"viele Minuten\" in Aussicht",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Dankbar, einen weiteren Tag zu haben\": Schuster über frühe Doppelbelastung",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Köln reist ohne El Mala und Dallinga nach Stuttgart",
-      "source": "kicker",
-      "sentiment": -0.1
-    },
-    {
-      "title": "Demichelis zu Reitz-Verletzung: \"Bitter, aber er ist ein Gewinner\"",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Keine Angst vor Bayern: Schalke zwischen Transfer-Wahnsinn und hohen Zielen",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "\"34 Sekunden waren noch auf der Uhr\": So knapp war Hwangs Schalke-Wechsel",
       "source": "kicker",
       "sentiment": 0.3
     }
