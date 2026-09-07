@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "\"Deswegen haben wir ihn verpflichtet\": Veerman stabilisiert den BVB",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Ilzers Schiri-Kritik: \"Das ist mangelndes Fußballverständnis\"",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Musialas maue Bilanz - mit dem entscheidenden Zusatz",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Baum: \"Habe mir einen Screenshot von der Tabelle gemacht\"",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
+      "title": "Hütter: \"Du kannst nicht sieben Tore in zwei Spielen kriegen\"",
+      "source": "kicker",
+      "sentiment": -0.8
+    },
+    {
+      "title": "Elf Debütanten, fünf Leverkusener: Die kicker-Elf des 2. Spieltags",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Hütter: Zwischen \"so stelle ich mir Fußball vor\" und \"fürchterlich\"",
+      "source": "kicker",
+      "sentiment": -0.55
+    },
+    {
+      "title": "Frankfurts Saison \"kann noch viel bitterer als die vergangene verlaufen\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Fischer: \"Wenn die Jungs ihren Job gut machen ...\"",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
+      "title": "Polzin: \"So hat kein Gegner in der Bundesliga Probleme gegen uns\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Remberg über Königsdörffers Jubel: \"Das gehört sich für mich nicht\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Der neue HSV sieht alt aus",
+      "source": "kicker",
+      "sentiment": -0.8
+    },
+    {
+      "title": "Ernüchterung nach Transfer-Hype: \"Vieira allein kann diesem HSV nicht helfen\"",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Krösches Eintracht-Klarstellungen: \"Da passt kein Blatt Papier dazwischen\"",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Wie Wirtz/Grimaldo 2.0: Warum Martinez vielleicht umdenken muss",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Ein stärkeres Argument als Geld: Hofmann wechselt nicht nach Saudi-Arabien",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Viel zu weit weg, oft zu spät: Uduokhai erlebt eine Union-Premiere zum Vergessen",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Demirovic kämpft um Respekt - und beklagt eine Lüge",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Avdullahu trifft und hadert: \"Dachten, das Spiel ist schon zu Ende\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Löcher in der Kette: Dortmunds Sorgen ganz hinten",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Wie im Drehbuch: Rückkehr, Romantik - und Resilienz",
       "source": "kicker",
       "sentiment": 0.4
@@ -49,106 +149,6 @@
       "title": "Demichelis hadert nach RB-Pleite: \"Erste Niederlage kam zu früh\"",
       "source": "kicker",
       "sentiment": -0.6
-    },
-    {
-      "title": "Martinez' wichtiges Signal für Andrich - und für Bayer 04",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Elversberg-Coach Wagner: \"Muss klären, was stiller Protest kostet\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "\"Das sind wir\": Karius adelt Schalke-Leistung und erhält Lob von Neuer",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Für alle Fußballromantiker\": Thioune über Tor von Füllkrug",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Nwaneri überzeugt Kovac: \"Er wollte es unbedingt\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "\"Kann Aussagen nicht revidieren\": So blickt Martinez auf Andrich",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "\"Da fehlen mir die Worte\": Polanski nach Gladbach-Pleite bedient",
-      "source": "kicker",
-      "sentiment": -0.6
-    },
-    {
-      "title": "Union-Coach Lustrinelli will nach 0:4 \"keine Hexenjagd\" betreiben",
-      "source": "kicker",
-      "sentiment": -0.6
-    },
-    {
-      "title": "Werder atmet auf: \"Wie hier heute das Dach weggeflogen ist\"",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Schuster und die \"unglaublich hohe Frusttoleranz\" der Freiburger",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Gimme Moore! Köln hofft auf die Talente-Zange",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wer überträgt Schalke 04 gegen Bayern München live im TV und Stream?",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Hoeneß legt den Finger in die Wunde: \"Ganz sicher eine Phase, die wir aufarbeiten müssen\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Mit möglicher Kaufpflicht: Hoffenheim verleiht Chaves",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Musiala reist mit den Bayern nach Gelsenkirchen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Leipzig muss in Bremen auf Gruda verzichten",
-      "source": "kicker",
-      "sentiment": 0.05
-    },
-    {
-      "title": "Kompanys England-Vergleich: \"Wenn ich jetzt Schalke sehe …\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Fabio Vieira: HSV-Rückkehr in der Startelf?",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Ilzer vor kniffliger Kramaric-Entscheidung",
-      "source": "kicker",
-      "sentiment": -0.1
-    },
-    {
-      "title": "\"Sehr, sehr happy\": Was Hütter am Doan-Verbleib beeindruckt",
-      "source": "kicker",
-      "sentiment": 0.3
     }
   ]
 }
