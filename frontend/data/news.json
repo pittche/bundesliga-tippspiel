@@ -1,6 +1,61 @@
 {
   "news": [
     {
+      "title": "\"Das kann zum Trumpf werden\": Wie Lieberknecht den neuen FCK geformt hat",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Wieder Griechenland: Augsburg gibt Jakic doch noch ab",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Einspruch abgelehnt: Elversberg-Trainer Wagner bleibt gesperrt",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Leipzigs Sani in Saudi-Arabien - Vanoli nach kurzer Zeit zurück in Florenz",
+      "source": "kicker",
+      "sentiment": 0.33
+    },
+    {
+      "title": "Nächster Rückschlag für Gladbach: Kühn fehlt wochenlang",
+      "source": "kicker",
+      "sentiment": -0.25
+    },
+    {
+      "title": "RB im Glück: Acht Millionen Euro für Ladenhüter Sani",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Elversberg legt Einspruch gegen Wagner-Sperre ein",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Elversberg und das Draufgängertum: Glücksgriffe nicht nur bei Transfers",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Remberg: \"Es ist auch meine Verantwortung\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Vertragsverlängerung bei Curda? \"Davon weiß ich nichts\"",
+      "source": "kicker",
+      "sentiment": 0.47
+    },
+    {
+      "title": "Augsburger Premiere: Wer wie oft Bundesliga-Tabellenführer war",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
       "title": "\"Deswegen haben wir ihn verpflichtet\": Veerman stabilisiert den BVB",
       "source": "kicker",
       "sentiment": 0.4
@@ -94,61 +149,6 @@
       "title": "Avdullahu trifft und hadert: \"Dachten, das Spiel ist schon zu Ende\"",
       "source": "kicker",
       "sentiment": 0
-    },
-    {
-      "title": "Löcher in der Kette: Dortmunds Sorgen ganz hinten",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wie im Drehbuch: Rückkehr, Romantik - und Resilienz",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Warum Bayerns Gegner genau gleich klingen - und das etwas Gutes ist",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kleindienst kritisiert Mitspieler: \"Weniger TikTok gucken\"",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Petersen räumt Fehler ein - doch rudert nicht komplett zurück",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "\"Dickes Ausrufezeichen\" von Schalke und \"ein ganz, ganz kleiner Weckruf\" für Bayern",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Sie fressen Mannschaften auf\": Muslic und der gute Bayern-Plan",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Trotz des 0:0: Kompany sieht \"schönes Fußballspiel\" auf Schalke",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kompany kann Kane und Olise nicht sagen: \"Du machst 90 Minuten, 90 Minuten, 90 Minuten\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Ilzer bemitleidet seine Spieler: \"Hat mich mehrfach beeindruckt\"",
-      "source": "kicker",
-      "sentiment": -0.6
-    },
-    {
-      "title": "Demichelis hadert nach RB-Pleite: \"Erste Niederlage kam zu früh\"",
-      "source": "kicker",
-      "sentiment": -0.6
     }
   ]
 }
