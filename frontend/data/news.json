@@ -1,6 +1,71 @@
 {
   "news": [
     {
+      "title": "\"Sie haben dort keine richtigen Linksverteidiger\": Hoffenheims Rots hofft auf die Nationalelf",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Elversberg legt ein zweites Mal Einspruch gegen Wagners Sperre ein",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Wieder Griechenland: Augsburg gibt Jakic doch noch ab",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Ghanas Rekordspieler Ayew wechselt nach Sheffield - Belotti wählt Modena",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Kovac atmet wegen Karetsas auf: \"Die Mitspieler machten sich auch Gedanken\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Heldt: \"Auf dem Markt geht es los, wenn die Engländer investieren\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Geburtstags-Spalier und große Lust aufs erste Tor: Prächtige Stimmung auf Schalke",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Eintracht feuert Athletik-Chef - Zeitpunkt wirft Fragen auf",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Mit Verspätung: Weiser ist zurück - und wird jetzt woanders gebraucht",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Startschuss: Im Volkspark ist künftig Platz für 60.000 Fans",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Diese Spieler sind nach Transferschluss noch ohne Verein",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Nächster Rückschlag für Gladbach: Kühn fehlt wochenlang",
+      "source": "kicker",
+      "sentiment": -0.25
+    },
+    {
+      "title": "Begehrter Kofane vor Vertragsverlängerung in Leverkusen",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
       "title": "\"Das kann zum Trumpf werden\": Wie Lieberknecht den neuen FCK geformt hat",
       "source": "kicker",
       "sentiment": 0
@@ -82,71 +147,6 @@
     },
     {
       "title": "Elf Debütanten, fünf Leverkusener: Die kicker-Elf des 2. Spieltags",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Hütter: Zwischen \"so stelle ich mir Fußball vor\" und \"fürchterlich\"",
-      "source": "kicker",
-      "sentiment": -0.55
-    },
-    {
-      "title": "Frankfurts Saison \"kann noch viel bitterer als die vergangene verlaufen\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Fischer: \"Wenn die Jungs ihren Job gut machen ...\"",
-      "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Polzin: \"So hat kein Gegner in der Bundesliga Probleme gegen uns\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Remberg über Königsdörffers Jubel: \"Das gehört sich für mich nicht\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Der neue HSV sieht alt aus",
-      "source": "kicker",
-      "sentiment": -0.8
-    },
-    {
-      "title": "Ernüchterung nach Transfer-Hype: \"Vieira allein kann diesem HSV nicht helfen\"",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Krösches Eintracht-Klarstellungen: \"Da passt kein Blatt Papier dazwischen\"",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Wie Wirtz/Grimaldo 2.0: Warum Martinez vielleicht umdenken muss",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Ein stärkeres Argument als Geld: Hofmann wechselt nicht nach Saudi-Arabien",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Viel zu weit weg, oft zu spät: Uduokhai erlebt eine Union-Premiere zum Vergessen",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Demirovic kämpft um Respekt - und beklagt eine Lüge",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Avdullahu trifft und hadert: \"Dachten, das Spiel ist schon zu Ende\"",
       "source": "kicker",
       "sentiment": 0
     }
