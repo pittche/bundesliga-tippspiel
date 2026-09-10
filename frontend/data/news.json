@@ -1,6 +1,86 @@
 {
   "news": [
     {
+      "title": "Bundesliga-Spieltage 5 bis 11 terminiert: Bayern dreimal am Samstagnachmittag",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Wichtig oder weg? Bayer-Dribbler Ben Seghir zwischen Problemfall und Problemlöser",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Werder-Neuzugang Regeer: Der schlaue Stage-Sofortersatz",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Wie Ibrahimovic in Augsburg funktionieren kann",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Nkunku: \"Ich habe eine gute Wahl getroffen\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "SGE-Neuzugang Brassier: \"Ich kontrolliere die Aggressivität\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Das Bundesliga-Quiz zum 3. Spieltag",
+      "source": "kicker",
+      "sentiment": 0.55
+    },
+    {
+      "title": "\"Müssen in der Phase das Dritte machen\": Schicker über die Lage in Hoffenheim",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Gosens ergreift das Wort, Karaman drängt in die Startelf: Schalke vor Union",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Die Vertragslaufzeiten der Bayern-Profis",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Mit einigen Aussagen drüber\": Gladbach bremst Kleindienst ein",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Paradebeispiel\" Binder unterschreibt Profivertrag beim FC Bayern",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Hauptsache, die Abstände stimmen: Schalke knüpft sein \"enges Netz\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Fragezeichen im Mittelfeld: Partnersuche für Onyedika und das Warten auf Aseko",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Reis' doppelte Liebeserklärung: \"Ich kann jede Reaktion verstehen\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Krauß' offenes Gespräch mit Wagner: \"Gesagt, was ich verbessern soll\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "\"Sie haben dort keine richtigen Linksverteidiger\": Hoffenheims Rots hofft auf die Nationalelf",
       "source": "kicker",
       "sentiment": 0
@@ -67,86 +147,6 @@
     },
     {
       "title": "\"Das kann zum Trumpf werden\": Wie Lieberknecht den neuen FCK geformt hat",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wieder Griechenland: Augsburg gibt Jakic doch noch ab",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Einspruch abgelehnt: Elversberg-Trainer Wagner bleibt gesperrt",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Leipzigs Sani in Saudi-Arabien - Vanoli nach kurzer Zeit zurück in Florenz",
-      "source": "kicker",
-      "sentiment": 0.33
-    },
-    {
-      "title": "Nächster Rückschlag für Gladbach: Kühn fehlt wochenlang",
-      "source": "kicker",
-      "sentiment": -0.25
-    },
-    {
-      "title": "RB im Glück: Acht Millionen Euro für Ladenhüter Sani",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Elversberg legt Einspruch gegen Wagner-Sperre ein",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Elversberg und das Draufgängertum: Glücksgriffe nicht nur bei Transfers",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Remberg: \"Es ist auch meine Verantwortung\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Vertragsverlängerung bei Curda? \"Davon weiß ich nichts\"",
-      "source": "kicker",
-      "sentiment": 0.47
-    },
-    {
-      "title": "Augsburger Premiere: Wer wie oft Bundesliga-Tabellenführer war",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "\"Deswegen haben wir ihn verpflichtet\": Veerman stabilisiert den BVB",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Ilzers Schiri-Kritik: \"Das ist mangelndes Fußballverständnis\"",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Musialas maue Bilanz - mit dem entscheidenden Zusatz",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Baum: \"Habe mir einen Screenshot von der Tabelle gemacht\"",
-      "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Hütter: \"Du kannst nicht sieben Tore in zwei Spielen kriegen\"",
-      "source": "kicker",
-      "sentiment": -0.8
-    },
-    {
-      "title": "Elf Debütanten, fünf Leverkusener: Die kicker-Elf des 2. Spieltags",
       "source": "kicker",
       "sentiment": 0
     }
