@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Prömels Rückkehr: Ein Insider im Außendienst",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "\"Kurzfristig lösen\": Dreesen deutet Freunds Verlängerung an",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Freiburg als Blaupause für Dortmund? Tigges kann bei Paderborn \"die Statik verändern\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Wer überträgt 1. FC Union Berlin gegen FC Schalke 04 live im TV und Stream?",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Eberl bestätigt: Boey bleibt bei Bayern - Freiburg verlängert mit Eggestein",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Königsdörffer erklärt Torjubel: \"Bin ein Jahr lang beleidigt worden\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Entscheidende Klausel: Kwasniok geht gerichtlich gegen Köln vor",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Reha beginnt jetzt\": Konstantelias erfolgreich operiert",
+      "source": "kicker",
+      "sentiment": 0.02
+    },
+    {
+      "title": "Freiburg empfängt den Lieblingsgegner: Mit drei Ex-Fohlen zum nächsten Startrekord?",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "\"Machen uns dieses Spiel kaputt\": Polanskis Lehren aus dem Elversberg-Spiel",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Augsburgs nächster Coup? Auch ein Torrekord ist möglich",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Verhält sich wie ein zukünftiger Trainer\": Schuster schwärmt von Eggestein",
+      "source": "kicker",
+      "sentiment": 0.47
+    },
+    {
+      "title": "Werder zwischen den Extremen: Kommen Fritz und Co. zu schlecht weg?",
+      "source": "kicker",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Mainz 05 muss vorerst auf Widmer verzichten",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Die musst du erst mal im Zaum halten können\": Baum warnt vor Leverkusen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Die Vergesslichkeit der Kreativspieler: Was Uzun lernen muss",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Schlotterbeck und Bensebaini sind wieder Optionen für den BVB",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Uns werfen Dinge viel zu schnell aus der Bahn\": Hütter vor Mainz-Duell",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "HSV und Sesamstraße starten Kooperation",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Maximale Unterstützung\" für Karetsas und gute Nachrichten in der BVB-Abwehr",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Bundesliga-Spieltage 5 bis 11 terminiert: Bayern dreimal am Samstagnachmittag",
       "source": "kicker",
       "sentiment": 0
@@ -47,106 +147,6 @@
     },
     {
       "title": "Die Vertragslaufzeiten der Bayern-Profis",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Mit einigen Aussagen drüber\": Gladbach bremst Kleindienst ein",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Paradebeispiel\" Binder unterschreibt Profivertrag beim FC Bayern",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Hauptsache, die Abstände stimmen: Schalke knüpft sein \"enges Netz\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Fragezeichen im Mittelfeld: Partnersuche für Onyedika und das Warten auf Aseko",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Reis' doppelte Liebeserklärung: \"Ich kann jede Reaktion verstehen\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Krauß' offenes Gespräch mit Wagner: \"Gesagt, was ich verbessern soll\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Sie haben dort keine richtigen Linksverteidiger\": Hoffenheims Rots hofft auf die Nationalelf",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Elversberg legt ein zweites Mal Einspruch gegen Wagners Sperre ein",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wieder Griechenland: Augsburg gibt Jakic doch noch ab",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Ghanas Rekordspieler Ayew wechselt nach Sheffield - Belotti wählt Modena",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Kovac atmet wegen Karetsas auf: \"Die Mitspieler machten sich auch Gedanken\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Heldt: \"Auf dem Markt geht es los, wenn die Engländer investieren\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Geburtstags-Spalier und große Lust aufs erste Tor: Prächtige Stimmung auf Schalke",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Eintracht feuert Athletik-Chef - Zeitpunkt wirft Fragen auf",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Mit Verspätung: Weiser ist zurück - und wird jetzt woanders gebraucht",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Startschuss: Im Volkspark ist künftig Platz für 60.000 Fans",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Diese Spieler sind nach Transferschluss noch ohne Verein",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Nächster Rückschlag für Gladbach: Kühn fehlt wochenlang",
-      "source": "kicker",
-      "sentiment": -0.25
-    },
-    {
-      "title": "Begehrter Kofane vor Vertragsverlängerung in Leverkusen",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "\"Das kann zum Trumpf werden\": Wie Lieberknecht den neuen FCK geformt hat",
       "source": "kicker",
       "sentiment": 0
     }
