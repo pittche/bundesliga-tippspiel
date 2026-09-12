@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Schalker wünschen Karius DFB-Nominierung: \"Er sammelt die Trophäen\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Wer überträgt 1. FC Köln gegen SV Werder Bremen live im TV und Stream?",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Unruhe bei RB Leipzig: Schäfer gibt Statement ab",
+      "source": "kicker",
+      "sentiment": -0.5
+    },
+    {
+      "title": "Ilzer: \"Prömel soll eine eklige TSG spüren\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Lustrinelli fehlen die Worte: \"Habe wirklich keine Erklärung\"",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Muslic: \"Unfassbar coole und geile Stimmung\"",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "\"Sehr besonders für mich\": Gosens' komische Gefühle nach seinem Debüt-Tor",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Als Haaland den SCP im zweiten Anlauf ausschaltete",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "HSV startet mit Teenager Nandja statt Bornauw",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Vorsichtsmaßnahme\" mit vier Wochen Pause: Tella verliert bei Bayer massiv an Boden",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Fragen und Antworten zur DFB-Entscheidung rund um Polizeikosten",
+      "source": "kicker",
+      "sentiment": -0.5
+    },
+    {
+      "title": "Effzeh-Coach Wagner: \"Wird enttäuschte Gesichter geben\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Wer landet wo? Der Tabellenrechner zur Bundesliga",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Karetsas hat Krankenhaus verlassen - Mutter spricht von Dehydrierung",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Bei El Mala reicht es nicht für die Startelf - Skhiri darf beginnen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Zweiter Einspruch erfolgreich: DFB hebt Sperre gegen Elversberg-Trainer Wagner auf",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
+      "title": "Frankfurt belohnt \"sehr großen Schritt\": Etse erhält Profivertrag",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Wagner-Vertreter Bieler debütiert gegen Bayern: \"Hätte leichter kommen können\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Grundsatzbeschluss: DFB wird Vereine an Polizeikosten beteiligen",
+      "source": "kicker",
+      "sentiment": -0.5
+    },
+    {
+      "title": "Bundesligist Mainz und Drittligist Wiesbaden vereinbaren \"ganzheitliche Kooperation\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Prömels Rückkehr: Ein Insider im Außendienst",
       "source": "kicker",
       "sentiment": 0.35
@@ -47,106 +147,6 @@
     },
     {
       "title": "\"Machen uns dieses Spiel kaputt\": Polanskis Lehren aus dem Elversberg-Spiel",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Augsburgs nächster Coup? Auch ein Torrekord ist möglich",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Verhält sich wie ein zukünftiger Trainer\": Schuster schwärmt von Eggestein",
-      "source": "kicker",
-      "sentiment": 0.47
-    },
-    {
-      "title": "Werder zwischen den Extremen: Kommen Fritz und Co. zu schlecht weg?",
-      "source": "kicker",
-      "sentiment": -0.1
-    },
-    {
-      "title": "Mainz 05 muss vorerst auf Widmer verzichten",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Die musst du erst mal im Zaum halten können\": Baum warnt vor Leverkusen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Die Vergesslichkeit der Kreativspieler: Was Uzun lernen muss",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Schlotterbeck und Bensebaini sind wieder Optionen für den BVB",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Uns werfen Dinge viel zu schnell aus der Bahn\": Hütter vor Mainz-Duell",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "HSV und Sesamstraße starten Kooperation",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Maximale Unterstützung\" für Karetsas und gute Nachrichten in der BVB-Abwehr",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Bundesliga-Spieltage 5 bis 11 terminiert: Bayern dreimal am Samstagnachmittag",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wichtig oder weg? Bayer-Dribbler Ben Seghir zwischen Problemfall und Problemlöser",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Werder-Neuzugang Regeer: Der schlaue Stage-Sofortersatz",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Wie Ibrahimovic in Augsburg funktionieren kann",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Nkunku: \"Ich habe eine gute Wahl getroffen\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "SGE-Neuzugang Brassier: \"Ich kontrolliere die Aggressivität\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Das Bundesliga-Quiz zum 3. Spieltag",
-      "source": "kicker",
-      "sentiment": 0.55
-    },
-    {
-      "title": "\"Müssen in der Phase das Dritte machen\": Schicker über die Lage in Hoffenheim",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Gosens ergreift das Wort, Karaman drängt in die Startelf: Schalke vor Union",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Die Vertragslaufzeiten der Bayern-Profis",
       "source": "kicker",
       "sentiment": 0
     }
