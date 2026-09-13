@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Offiziell: Gladbach und Trainer Polanski gehen getrennte Wege",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Um 10:20 Uhr: Hier fährt Polanski in Gladbach vom Hof",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Wagner lauter als sonst: \"Vielleicht mal bisschen mehr von mir\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Wer überträgt SV Elversberg gegen FC Bayern München live im TV und Stream?",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Sollte Gladbach an Polanski festhalten?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Hoeneß kocht wegen Elfmeter-Szene: \"Schwer zu akzeptieren\"",
+      "source": "kicker",
+      "sentiment": -0.45
+    },
+    {
+      "title": "\"Habe es sehr, sehr vermisst\": Weiser übermannen die Emotionen",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Wusste er es hier schon? Polanskis letzte PK als Gladbach-Coach",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Mainas stellvertretender Ärger: Ratlosigkeit in Köln",
+      "source": "kicker",
+      "sentiment": -0.5
+    },
+    {
+      "title": "Ratloser Maina kritisiert: \"Müssen schaffen, dass es nicht so dahinplätschert\"",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Polanski enttäuscht: \"Kann die Fans verstehen\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kovac über Schlotterbeck: \"Vorsichtiger zu Werke gegangen\"",
+      "source": "kicker",
+      "sentiment": 0.1
+    },
+    {
+      "title": "Hlozek in Topform und die Baumann-Frage",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Käsekrainer für Augsburg: Der besondere Rekord von Gregoritsch",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Der BVB marschiert: Was der Liga \"Sorgen machen sollte\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Neues System: Die Gewinner des Frankfurter Umschwungs",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "\"Nervt dann auch\": Stuttgart zwischen VAR-Ärger und Selbstkritik",
+      "source": "kicker",
+      "sentiment": -0.43
+    },
+    {
+      "title": "Sechs in Folge: Atubolu festigt Platz in den Bundesliga-Annalen",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
+      "title": "\"Fühlt sich an wie Versagen\": Gerach spricht über sein Verletzungs-Aus",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "\"Höchste Alarmstimmung\" in Gladbach, ein ackernder Held für Freiburg",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
       "title": "Schalker wünschen Karius DFB-Nominierung: \"Er sammelt die Trophäen\"",
       "source": "kicker",
       "sentiment": 0
@@ -49,106 +149,6 @@
       "title": "\"Vorsichtsmaßnahme\" mit vier Wochen Pause: Tella verliert bei Bayer massiv an Boden",
       "source": "kicker",
       "sentiment": 0.4
-    },
-    {
-      "title": "Fragen und Antworten zur DFB-Entscheidung rund um Polizeikosten",
-      "source": "kicker",
-      "sentiment": -0.5
-    },
-    {
-      "title": "Effzeh-Coach Wagner: \"Wird enttäuschte Gesichter geben\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wer landet wo? Der Tabellenrechner zur Bundesliga",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Karetsas hat Krankenhaus verlassen - Mutter spricht von Dehydrierung",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Bei El Mala reicht es nicht für die Startelf - Skhiri darf beginnen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Zweiter Einspruch erfolgreich: DFB hebt Sperre gegen Elversberg-Trainer Wagner auf",
-      "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Frankfurt belohnt \"sehr großen Schritt\": Etse erhält Profivertrag",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wagner-Vertreter Bieler debütiert gegen Bayern: \"Hätte leichter kommen können\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Grundsatzbeschluss: DFB wird Vereine an Polizeikosten beteiligen",
-      "source": "kicker",
-      "sentiment": -0.5
-    },
-    {
-      "title": "Bundesligist Mainz und Drittligist Wiesbaden vereinbaren \"ganzheitliche Kooperation\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Prömels Rückkehr: Ein Insider im Außendienst",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "\"Kurzfristig lösen\": Dreesen deutet Freunds Verlängerung an",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Freiburg als Blaupause für Dortmund? Tigges kann bei Paderborn \"die Statik verändern\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wer überträgt 1. FC Union Berlin gegen FC Schalke 04 live im TV und Stream?",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Eberl bestätigt: Boey bleibt bei Bayern - Freiburg verlängert mit Eggestein",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Königsdörffer erklärt Torjubel: \"Bin ein Jahr lang beleidigt worden\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Entscheidende Klausel: Kwasniok geht gerichtlich gegen Köln vor",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Reha beginnt jetzt\": Konstantelias erfolgreich operiert",
-      "source": "kicker",
-      "sentiment": 0.02
-    },
-    {
-      "title": "Freiburg empfängt den Lieblingsgegner: Mit drei Ex-Fohlen zum nächsten Startrekord?",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "\"Machen uns dieses Spiel kaputt\": Polanskis Lehren aus dem Elversberg-Spiel",
-      "source": "kicker",
-      "sentiment": 0
     }
   ]
 }
