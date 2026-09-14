@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Polzin-Vertrag: Die Suche nach dem richtigen Zeitpunkt",
+      "source": "kicker",
+      "sentiment": -0.7
+    },
+    {
+      "title": "Onyeka und Eichhorn erhalten Fritz-Walter-Medaille in Gold",
+      "source": "kicker",
+      "sentiment": 0.7
+    },
+    {
+      "title": "Ausgesprochen bunt: FC Bayern präsentiert Wiesn-Trikot",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Karl entschuldigt sich für Jubel-Geste: \"Das sind Emotionen\"",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Ein bekannter Leipziger und stolze fünf Freiburger: Die kicker-Elf des 3. Spieltags",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Wagner nach Bayern-Wechsel baff: \"Habe mich kaputtgelacht\"",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "\"Das darf nicht passieren\": Kompany bemängelt die erste Hälfte",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "HSV wie ein Absteiger: Fast so viele Probleme wie Gegentore",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Sorgen um Ouedraogo: \"Man muss befürchten, dass er wieder monatelang fehlt\"",
+      "source": "kicker",
+      "sentiment": -0.1
+    },
+    {
+      "title": "\"Der FC Bayern ist weit von seiner Bestform entfernt\"",
+      "source": "kicker",
+      "sentiment": 0.55
+    },
+    {
+      "title": "Erneut die Schulter: RB Leipzig bangt wieder um Ouedraogo",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "\"Der HSV hat mehr Probleme als Hamburg Regentage\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Polzin sieht das Positive: \"Das einzige, was uns helfen wird\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Bayers Kopfproblem: Tapsoba und Schick legen Mentalitätsfrage nahe",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Nur eine Prellung: VfB gibt bei Stiller Entwarnung",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Etliche Defizite im Defensivverhalten: Union befindet sich bereits in der ersten Krise",
+      "source": "kicker",
+      "sentiment": -0.7
+    },
+    {
+      "title": "Gegen Schwächen und Kritik: Werder wehrt sich in dieser Saison",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Hlozeks Befreiung nach dem \"Desaster\"",
+      "source": "kicker",
+      "sentiment": -0.25
+    },
+    {
+      "title": "Dosiert zurück zur Topform: Nmecha setzt das erste Ausrufezeichen",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Anführer in Ansätzen: Skhiri soll das Vakuum im Zentrum schließen",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
       "title": "Offiziell: Gladbach und Trainer Polanski gehen getrennte Wege",
       "source": "kicker",
       "sentiment": 0
@@ -49,106 +149,6 @@
       "title": "Ratloser Maina kritisiert: \"Müssen schaffen, dass es nicht so dahinplätschert\"",
       "source": "kicker",
       "sentiment": -0.4
-    },
-    {
-      "title": "Polanski enttäuscht: \"Kann die Fans verstehen\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kovac über Schlotterbeck: \"Vorsichtiger zu Werke gegangen\"",
-      "source": "kicker",
-      "sentiment": 0.1
-    },
-    {
-      "title": "Hlozek in Topform und die Baumann-Frage",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Käsekrainer für Augsburg: Der besondere Rekord von Gregoritsch",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Der BVB marschiert: Was der Liga \"Sorgen machen sollte\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Neues System: Die Gewinner des Frankfurter Umschwungs",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "\"Nervt dann auch\": Stuttgart zwischen VAR-Ärger und Selbstkritik",
-      "source": "kicker",
-      "sentiment": -0.43
-    },
-    {
-      "title": "Sechs in Folge: Atubolu festigt Platz in den Bundesliga-Annalen",
-      "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "\"Fühlt sich an wie Versagen\": Gerach spricht über sein Verletzungs-Aus",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "\"Höchste Alarmstimmung\" in Gladbach, ein ackernder Held für Freiburg",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Schalker wünschen Karius DFB-Nominierung: \"Er sammelt die Trophäen\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wer überträgt 1. FC Köln gegen SV Werder Bremen live im TV und Stream?",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Unruhe bei RB Leipzig: Schäfer gibt Statement ab",
-      "source": "kicker",
-      "sentiment": -0.5
-    },
-    {
-      "title": "Ilzer: \"Prömel soll eine eklige TSG spüren\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Lustrinelli fehlen die Worte: \"Habe wirklich keine Erklärung\"",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Muslic: \"Unfassbar coole und geile Stimmung\"",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "\"Sehr besonders für mich\": Gosens' komische Gefühle nach seinem Debüt-Tor",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Als Haaland den SCP im zweiten Anlauf ausschaltete",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "HSV startet mit Teenager Nandja statt Bornauw",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Vorsichtsmaßnahme\" mit vier Wochen Pause: Tella verliert bei Bayer massiv an Boden",
-      "source": "kicker",
-      "sentiment": 0.4
     }
   ]
 }
