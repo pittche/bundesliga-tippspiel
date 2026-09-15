@@ -1,6 +1,31 @@
 {
   "news": [
     {
+      "title": "Leistner macht Schluss - Der Stand bei Priske und Gladbach - Spurs stellen Richarlison kalt",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "\"Eigenbrötlerdasein\" abgelegt: Hoeneß erklärt die Wende bei Eberl",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Krattenmacher meldet in Elversberg Ansprüche an - Kompany wird SVE-Fan",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Erfolg vor Entwicklung: Ein Woltemade-Déjà-vu bei Musah?",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Engelhardts Duell mit Matanovic: \"Bei St. Pauli oder Frankfurt hätte ich ihn Igor gegeben\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
       "title": "Polzin-Vertrag: Die Suche nach dem richtigen Zeitpunkt",
       "source": "kicker",
       "sentiment": -0.7
@@ -124,31 +149,6 @@
       "title": "Sollte Gladbach an Polanski festhalten?",
       "source": "kicker",
       "sentiment": 0
-    },
-    {
-      "title": "Hoeneß kocht wegen Elfmeter-Szene: \"Schwer zu akzeptieren\"",
-      "source": "kicker",
-      "sentiment": -0.45
-    },
-    {
-      "title": "\"Habe es sehr, sehr vermisst\": Weiser übermannen die Emotionen",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Wusste er es hier schon? Polanskis letzte PK als Gladbach-Coach",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Mainas stellvertretender Ärger: Ratlosigkeit in Köln",
-      "source": "kicker",
-      "sentiment": -0.5
-    },
-    {
-      "title": "Ratloser Maina kritisiert: \"Müssen schaffen, dass es nicht so dahinplätschert\"",
-      "source": "kicker",
-      "sentiment": -0.4
     }
   ]
 }
