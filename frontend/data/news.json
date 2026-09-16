@@ -1,6 +1,81 @@
 {
   "news": [
     {
+      "title": "Zwei Rückkehrer: Neue Impulse für Gladbachs rechte Seite",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Freistoß, Volley und aus der Distanz: So traf Vuskovic bisher für den HSV",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Reis wird wohl neuer Trainer von Salah - Leistner macht Schluss",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Gregoritsch neu dabei: Die Rekordtorschützen der 18 Bundesligisten",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Bekommt Bayern bald den alten Davies?",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Freiburgs erster Gradmesser: Backhaus über das Wiedersehen mit Atubolu",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Behrens startet durch - und bald zu Klopp?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Der große Report zum Vuskovic-Comeback: \"Unglaublich emotional\"",
+      "source": "kicker",
+      "sentiment": 0.43
+    },
+    {
+      "title": "\"Wenn es einer schafft, trägt er den Namen Vuskovic\"",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
+      "title": "Sprechchöre und prominente Gäste: Emotionale Vuskovic-Rückkehr im Volkspark",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Ljubicic fehlt Schalke \"bis auf Weiteres\"",
+      "source": "kicker",
+      "sentiment": -0.35
+    },
+    {
+      "title": "\"Ich bin nicht mehr der introvertierte Eren Dinkci, der ich mal war\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Asllani: Eine Befreiung auf Bewährung",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Der nächste Rückschlag: Ouedraogo fehlt Leipzig monatelang",
+      "source": "kicker",
+      "sentiment": -0.35
+    },
+    {
+      "title": "Stammkeeper Zentner fehlt Mainz überraschend mehrere Wochen",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
       "title": "Leistner macht Schluss - Der Stand bei Priske und Gladbach - Spurs stellen Richarlison kalt",
       "source": "kicker",
       "sentiment": 0.35
@@ -74,81 +149,6 @@
       "title": "\"Der FC Bayern ist weit von seiner Bestform entfernt\"",
       "source": "kicker",
       "sentiment": 0.55
-    },
-    {
-      "title": "Erneut die Schulter: RB Leipzig bangt wieder um Ouedraogo",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "\"Der HSV hat mehr Probleme als Hamburg Regentage\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Polzin sieht das Positive: \"Das einzige, was uns helfen wird\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Bayers Kopfproblem: Tapsoba und Schick legen Mentalitätsfrage nahe",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Nur eine Prellung: VfB gibt bei Stiller Entwarnung",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Etliche Defizite im Defensivverhalten: Union befindet sich bereits in der ersten Krise",
-      "source": "kicker",
-      "sentiment": -0.7
-    },
-    {
-      "title": "Gegen Schwächen und Kritik: Werder wehrt sich in dieser Saison",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Hlozeks Befreiung nach dem \"Desaster\"",
-      "source": "kicker",
-      "sentiment": -0.25
-    },
-    {
-      "title": "Dosiert zurück zur Topform: Nmecha setzt das erste Ausrufezeichen",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Anführer in Ansätzen: Skhiri soll das Vakuum im Zentrum schließen",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Offiziell: Gladbach und Trainer Polanski gehen getrennte Wege",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Um 10:20 Uhr: Hier fährt Polanski in Gladbach vom Hof",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wagner lauter als sonst: \"Vielleicht mal bisschen mehr von mir\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Wer überträgt SV Elversberg gegen FC Bayern München live im TV und Stream?",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Sollte Gladbach an Polanski festhalten?",
-      "source": "kicker",
-      "sentiment": 0
     }
   ]
 }
