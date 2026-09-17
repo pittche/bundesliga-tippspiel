@@ -1,6 +1,86 @@
 {
   "news": [
     {
+      "title": "Kompany über Urbig: \"Wenn einer glaubt, dass er nicht Deutschlands Nummer 1 wird …\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kompany freut die Wiesn-Pause: \"Für die Trainer ist es perfekt\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Machida drängt nun auch in die Startelf",
+      "source": "kicker",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Hoeneß: Ballon d'Or für Messi wäre \"Schwachsinn\"",
+      "source": "kicker",
+      "sentiment": 0.1
+    },
+    {
+      "title": "So kann El Aynaoui in Leipzig zum Schlüsselspieler werden",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Ein Trio im Aufwind, auf das der 1. FC Köln aufbauen kann",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Nach schwerer Verletzung: Hübers erneut operiert",
+      "source": "kicker",
+      "sentiment": 0.1
+    },
+    {
+      "title": "Nächste Finanzspritze für Werder Bremen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Wir haben einige Lösungen\": Juranovic fehlt Union in München",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Bayern verlängert mit Sportdirektor Freund: \"Wichtige Anspielstation\"",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
+      "title": "\"Es kann dann bluten\": Lustrinellis kurioser Union-Vergleich",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Erfrischende Dynamik: Aseko bringt Schwung ins Eintracht-Zentrum",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Comeback in Stuttgart? Karetsas zurück im Mannschaftstraining",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
+      "title": "Simpson-Pusey erklärt seine \"No-Brainer-Entscheidung\" für Köln",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Davies verpasst Länderspiele wegen Flitterwochen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Luis Diaz prophezeit Tor gegen Union - und staunt über Brown",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
       "title": "Zwei Rückkehrer: Neue Impulse für Gladbachs rechte Seite",
       "source": "kicker",
       "sentiment": 0.4
@@ -9,6 +89,11 @@
       "title": "Freistoß, Volley und aus der Distanz: So traf Vuskovic bisher für den HSV",
       "source": "kicker",
       "sentiment": 0.3
+    },
+    {
+      "title": "Reis wird wohl neuer Trainer von Salah - Bissouma wechselt zu Ajax",
+      "source": "kicker",
+      "sentiment": 0.35
     },
     {
       "title": "Reis wird wohl neuer Trainer von Salah - Leistner macht Schluss",
@@ -64,91 +149,6 @@
       "title": "Asllani: Eine Befreiung auf Bewährung",
       "source": "kicker",
       "sentiment": 0.6
-    },
-    {
-      "title": "Der nächste Rückschlag: Ouedraogo fehlt Leipzig monatelang",
-      "source": "kicker",
-      "sentiment": -0.35
-    },
-    {
-      "title": "Stammkeeper Zentner fehlt Mainz überraschend mehrere Wochen",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Leistner macht Schluss - Der Stand bei Priske und Gladbach - Spurs stellen Richarlison kalt",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "\"Eigenbrötlerdasein\" abgelegt: Hoeneß erklärt die Wende bei Eberl",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Krattenmacher meldet in Elversberg Ansprüche an - Kompany wird SVE-Fan",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Erfolg vor Entwicklung: Ein Woltemade-Déjà-vu bei Musah?",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Engelhardts Duell mit Matanovic: \"Bei St. Pauli oder Frankfurt hätte ich ihn Igor gegeben\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Polzin-Vertrag: Die Suche nach dem richtigen Zeitpunkt",
-      "source": "kicker",
-      "sentiment": -0.7
-    },
-    {
-      "title": "Onyeka und Eichhorn erhalten Fritz-Walter-Medaille in Gold",
-      "source": "kicker",
-      "sentiment": 0.7
-    },
-    {
-      "title": "Ausgesprochen bunt: FC Bayern präsentiert Wiesn-Trikot",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Karl entschuldigt sich für Jubel-Geste: \"Das sind Emotionen\"",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Ein bekannter Leipziger und stolze fünf Freiburger: Die kicker-Elf des 3. Spieltags",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wagner nach Bayern-Wechsel baff: \"Habe mich kaputtgelacht\"",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "\"Das darf nicht passieren\": Kompany bemängelt die erste Hälfte",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "HSV wie ein Absteiger: Fast so viele Probleme wie Gegentore",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Sorgen um Ouedraogo: \"Man muss befürchten, dass er wieder monatelang fehlt\"",
-      "source": "kicker",
-      "sentiment": -0.1
-    },
-    {
-      "title": "\"Der FC Bayern ist weit von seiner Bestform entfernt\"",
-      "source": "kicker",
-      "sentiment": 0.55
     }
   ]
 }
