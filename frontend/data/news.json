@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "\"Filiale gegen Zentrale\": Paderborns Sportchef Lange erklärt den kuriosen Zufall",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Für Schalke-Elversberg: DAZN holt Kult-Kommentator Breuckmann zurück ans Mikrofon",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Wer überträgt FC Bayern München gegen 1. FC Union Berlin live im TV und Stream?",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Kane findet Ballon-d'Or-Debatte \"kompliziert\" - und hat ein \"seltsames Gefühl\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Schröder zur Trainersuche: \"Haben auch mit null Punkten was zu bieten\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Lens findet Toppmöller-Nachfolger - Real bei Gabriel in der Pole Position",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "\"Geht um Trainingsleistung\": René Wagner spricht die Härtefälle an",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Mainzer Abwehr-Puzzle: Schlägt jetzt die Stunde von Urgestein Bell?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Scherhant \"bedeutet es alles\" - Treu \"will zeigen, wer Philipp Treu ist\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Dortmunds Start: Ein Satz von Klopp und \"viele gute Sachen\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Schalke verlängert mit Vozar: \"Wunderschönes Beispiel\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Schröder: \"Den Arsch sollten wir schon hochkriegen\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Ein Fragezeichen, drei Optionen: Die Umstellung in der Eintracht-Defensive",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "So geht Lichte seine 90 Chef-Minuten in Gladbach an",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Das Bundesliga-Quiz zum 4. Spieltag",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Drei SGE-Spieler im DFB-Kader? Hütter: \"Da leuchten die Augen\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Polzin bestätigt neuen Vertrag - und schließt Nachkäufe aus",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Baum über Behrens-Nominierung: \"Wirklich logisch, dass er dabei ist\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Hoeneß: \"Sind in den letzten Jahren viel näher gekommen\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"100 Prozent fit\": El Mala ist bereit für Köln und Klopp",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
       "title": "Kompany über Urbig: \"Wenn einer glaubt, dass er nicht Deutschlands Nummer 1 wird …\"",
       "source": "kicker",
       "sentiment": 0
@@ -49,106 +149,6 @@
       "title": "Bayern verlängert mit Sportdirektor Freund: \"Wichtige Anspielstation\"",
       "source": "kicker",
       "sentiment": 0.45
-    },
-    {
-      "title": "\"Es kann dann bluten\": Lustrinellis kurioser Union-Vergleich",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Erfrischende Dynamik: Aseko bringt Schwung ins Eintracht-Zentrum",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Comeback in Stuttgart? Karetsas zurück im Mannschaftstraining",
-      "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Simpson-Pusey erklärt seine \"No-Brainer-Entscheidung\" für Köln",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Davies verpasst Länderspiele wegen Flitterwochen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Luis Diaz prophezeit Tor gegen Union - und staunt über Brown",
-      "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Zwei Rückkehrer: Neue Impulse für Gladbachs rechte Seite",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Freistoß, Volley und aus der Distanz: So traf Vuskovic bisher für den HSV",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Reis wird wohl neuer Trainer von Salah - Bissouma wechselt zu Ajax",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Reis wird wohl neuer Trainer von Salah - Leistner macht Schluss",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Gregoritsch neu dabei: Die Rekordtorschützen der 18 Bundesligisten",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Bekommt Bayern bald den alten Davies?",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Freiburgs erster Gradmesser: Backhaus über das Wiedersehen mit Atubolu",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Behrens startet durch - und bald zu Klopp?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Der große Report zum Vuskovic-Comeback: \"Unglaublich emotional\"",
-      "source": "kicker",
-      "sentiment": 0.43
-    },
-    {
-      "title": "\"Wenn es einer schafft, trägt er den Namen Vuskovic\"",
-      "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Sprechchöre und prominente Gäste: Emotionale Vuskovic-Rückkehr im Volkspark",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Ljubicic fehlt Schalke \"bis auf Weiteres\"",
-      "source": "kicker",
-      "sentiment": -0.35
-    },
-    {
-      "title": "\"Ich bin nicht mehr der introvertierte Eren Dinkci, der ich mal war\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Asllani: Eine Befreiung auf Bewährung",
-      "source": "kicker",
-      "sentiment": 0.6
     }
   ]
 }
