@@ -1,6 +1,76 @@
 {
   "news": [
     {
+      "title": "Wer überträgt VfB Stuttgart gegen Borussia Dortmund live im TV und Stream?",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Lustrinelli mit Fahrrad-Metapher: \"Wir gehen konsequent und resilient weiter\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Nicht nur der Fußballer\": Kompany erklärt, was Olise so besonders macht",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Von \"nicht gefestigt\" bis \"zu lieb\": So erklärt Union das Bayern-Debakel",
+      "source": "kicker",
+      "sentiment": -0.8
+    },
+    {
+      "title": "\"Viel besser geht es in der Bundesliga nicht\": Olise-Show gegen Union",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Verletzung im Adduktorenbereich: Bayern bestätigt Laimer-Ausfall",
+      "source": "kicker",
+      "sentiment": -0.43
+    },
+    {
+      "title": "Auf den Spuren Tabakovics: Jetzt ist Lidberg gefordert",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Der Spieler, der nie läuft, ist nie verletzt\": Demichelis verteidigt Spielstil",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Martinez wechselt die Perspektive: \"So werden wir viele Spiele gewinnen\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Gemeinsam in die Zukunft\": HSV verlängert mit Polzin",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Leipzig kämpft gegen die zwei Gesichter - Guiu fehlt mehrere Wochen",
+      "source": "kicker",
+      "sentiment": -0.35
+    },
+    {
+      "title": "Der Bayern-Plan gegen den FC Bayern",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Luis Diaz und sein unmögliches Tor gegen Union",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Heute vor 27 Jahren: Als Feldspieler Tarnat im Bayern-Tor zum Helden wurde",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
       "title": "\"Filiale gegen Zentrale\": Paderborns Sportchef Lange erklärt den kuriosen Zufall",
       "source": "kicker",
       "sentiment": 0
@@ -79,76 +149,6 @@
       "title": "Drei SGE-Spieler im DFB-Kader? Hütter: \"Da leuchten die Augen\"",
       "source": "kicker",
       "sentiment": 0
-    },
-    {
-      "title": "Polzin bestätigt neuen Vertrag - und schließt Nachkäufe aus",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Baum über Behrens-Nominierung: \"Wirklich logisch, dass er dabei ist\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Hoeneß: \"Sind in den letzten Jahren viel näher gekommen\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"100 Prozent fit\": El Mala ist bereit für Köln und Klopp",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Kompany über Urbig: \"Wenn einer glaubt, dass er nicht Deutschlands Nummer 1 wird …\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kompany freut die Wiesn-Pause: \"Für die Trainer ist es perfekt\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Machida drängt nun auch in die Startelf",
-      "source": "kicker",
-      "sentiment": -0.1
-    },
-    {
-      "title": "Hoeneß: Ballon d'Or für Messi wäre \"Schwachsinn\"",
-      "source": "kicker",
-      "sentiment": 0.1
-    },
-    {
-      "title": "So kann El Aynaoui in Leipzig zum Schlüsselspieler werden",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Ein Trio im Aufwind, auf das der 1. FC Köln aufbauen kann",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Nach schwerer Verletzung: Hübers erneut operiert",
-      "source": "kicker",
-      "sentiment": 0.1
-    },
-    {
-      "title": "Nächste Finanzspritze für Werder Bremen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Wir haben einige Lösungen\": Juranovic fehlt Union in München",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Bayern verlängert mit Sportdirektor Freund: \"Wichtige Anspielstation\"",
-      "source": "kicker",
-      "sentiment": 0.45
     }
   ]
 }
