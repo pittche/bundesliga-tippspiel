@@ -1,6 +1,96 @@
 {
   "news": [
     {
+      "title": "Baumann legt die Finger in die Wunde: \"Wir sind sehr sorglos\"",
+      "source": "kicker",
+      "sentiment": -0.7
+    },
+    {
+      "title": "Grüll bei Werder: Nicht mehr nur einer von vielen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Auffällige Laufwerte: Stuttgarts Tücken im Konzert der Großen",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Muslic verteidigt Startelfeinsatz von Dzeko: \"Da fehlen Zentimeter\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Da ging die Post ab\": Wagner über Atmosphäre in Elversberg",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Saibari kommt vor dem heißen Oktober in Form",
+      "source": "kicker",
+      "sentiment": 0.1
+    },
+    {
+      "title": "\"Es macht richtig Bock in der Kabine\": FC Bayern in Stimmung beim Wiesn-Auftakt",
+      "source": "kicker",
+      "sentiment": 0.27
+    },
+    {
+      "title": "Kanes Saisonpremiere und ein bunter Mix: Die kicker-Elf des 4. Spieltags",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Fünf Punkte und doch leicht getrübte Stimmung auf Schalke\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Wo sich Muslic und Karaman uneinig sind",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Demichelis: \"Wenn ein Trainer verliert, hat er niemals recht\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "0:2 in Leverkusen: Bei RB hakt es auch vorne",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "\"Sehr clever\": Wunschspieler Miguel verzückt bei Bayer",
+      "source": "kicker",
+      "sentiment": 0.28
+    },
+    {
+      "title": "Sorgen um Nationalspieler Gruda - Demichelis gibt leichte Entwarnung",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Ein Favorit kristallisiert sich heraus: Ordnet Blessin Gladbachs Defensiv-Chaos?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Blessin ist Favorit auf den Gladbach-Job - Raphinha vor Verlängerung",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Dominant in Frankfurt: Scherhant und Schuster erklären Freiburgs Weiterentwicklung",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Unsportlichkeit in Gladbach: Sollte der DFB Amiri sperren?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Poulsen: Energiegeber und Spieler-Trainer",
       "source": "kicker",
       "sentiment": 0.5
@@ -59,96 +149,6 @@
       "title": "\"Ich heule jetzt nicht rum\": Undav erklärt Klopp-Absage und zeigt sich kämpferisch",
       "source": "kicker",
       "sentiment": -0.3
-    },
-    {
-      "title": "Polzin nach HSV-Befreiungsschlag: \"Gab Stimmen, die uns irritiert haben\"",
-      "source": "kicker",
-      "sentiment": 0.27
-    },
-    {
-      "title": "Trainer-Legende Peter Hermann im Alter von 74 Jahren verstorben",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Krüger über Polzin-Verlängerung: \"Sind kein Fähnlein im Wind\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "\"Ein schmaler Grat\": Schuster über DFB-Nominierung",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Weisers \"Traumszenario\" tritt ein und verschafft Bremen einen \"magischen Moment\"",
-      "source": "kicker",
-      "sentiment": 0.47
-    },
-    {
-      "title": "Hütter sieht noch viel Luft nach oben: \"Das hat mich geärgert\"",
-      "source": "kicker",
-      "sentiment": -0.5
-    },
-    {
-      "title": "Lokomotive Füllkrug und Weisers Traum: \"Werder-Wahnsinn am Osterdeich\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Nach Gladbachs Negativrekord: Ullrichs Wunsch an den Neuen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wer überträgt VfB Stuttgart gegen Borussia Dortmund live im TV und Stream?",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Lustrinelli mit Fahrrad-Metapher: \"Wir gehen konsequent und resilient weiter\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Nicht nur der Fußballer\": Kompany erklärt, was Olise so besonders macht",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Von \"nicht gefestigt\" bis \"zu lieb\": So erklärt Union das Bayern-Debakel",
-      "source": "kicker",
-      "sentiment": -0.8
-    },
-    {
-      "title": "\"Viel besser geht es in der Bundesliga nicht\": Olise-Show gegen Union",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Verletzung im Adduktorenbereich: Bayern bestätigt Laimer-Ausfall",
-      "source": "kicker",
-      "sentiment": -0.43
-    },
-    {
-      "title": "Auf den Spuren Tabakovics: Jetzt ist Lidberg gefordert",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Der Spieler, der nie läuft, ist nie verletzt\": Demichelis verteidigt Spielstil",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Martinez wechselt die Perspektive: \"So werden wir viele Spiele gewinnen\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Gemeinsam in die Zukunft\": HSV verlängert mit Polzin",
-      "source": "kicker",
-      "sentiment": 0.4
     }
   ]
 }
