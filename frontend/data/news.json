@@ -1,6 +1,56 @@
 {
   "news": [
     {
+      "title": "XXL-Länderspielpause: Diese Spieler stellen die 18 Bundesligisten ab",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Wie geht es nach der Pause weiter? Simuliere hier die nächsten Bundesliga-Spieltage",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Heute vor elf Jahren: Lewandowskis Fünferpack in neun Minuten",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "\"Brüder im Geiste\": Heynckes' berührende Worte für verstorbenen Freund Hermann",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Homeoffice und Laufpläne für zwei: Wie der BVB die Ausnahmesituation handhabt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Nächster Rückschlag? Entwarnung bei Ben Seghir",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Warum die Freiburg-Profis eine Woche frei haben",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Angriff statt Abgang: Neuhaus empfiehlt sich für Gladbachs neuen Trainer",
+      "source": "kicker",
+      "sentiment": -0.5
+    },
+    {
+      "title": "\"Enttäuschter\" Kurucay wartet auf Vertragsangebot",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Premieren-Torschütze Castaneda: Sonnyboy mit steiler Lernkurve",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
       "title": "Baumann legt die Finger in die Wunde: \"Wir sind sehr sorglos\"",
       "source": "kicker",
       "sentiment": -0.7
@@ -99,56 +149,6 @@
       "title": "Der Fußball verliert einen stillen Meister",
       "source": "kicker",
       "sentiment": 0.6
-    },
-    {
-      "title": "Was Wagner El Mala vor dem DFB-Debüt rät",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Nach Aktion vor Gladbach-Elfmeter: Hamann fordert Sperre für Amiri",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Nach Tod von Hermann: Geschockter Kovac sagt Interview ab",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Kovac freut sich für Beier: \"Leben schreibt die schönsten Geschichten\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "\"Toller Mensch\": Sichtlich angefasster Kovac gedenkt Peter Hermann",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Thioune huldigt Weiser: \"Unbeschreiblicher Moment für ihn\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Sieggarant Beier: Bei Klopp nicht dabei, von Kovac \"immer\" geschätzt",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Erst ausgebootet, jetzt der Held: Beier und die Tor-Botschaft an Klopp",
-      "source": "kicker",
-      "sentiment": -0.05
-    },
-    {
-      "title": "Köln schlägt Frust entgegen - Wagner: \"Kann jeden Fan verstehen\"",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "\"Ich heule jetzt nicht rum\": Undav erklärt Klopp-Absage und zeigt sich kämpferisch",
-      "source": "kicker",
-      "sentiment": -0.3
     }
   ]
 }
