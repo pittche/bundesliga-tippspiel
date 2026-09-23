@@ -1,6 +1,66 @@
 {
   "news": [
     {
+      "title": "Die \"schöne\" Pause für Luis Diaz - und die Parallele zum Vorjahr",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Einsame Spitzen: Das enge Rennen zwischen Ache und Dallinga",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Die lange Länderspielpause ist für Gladbach Fluch und Segen zugleich",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "El Mala über Klopps Anruf: \"Das Telefonat war kurz und knapp\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "TSG: Eine \"Eidesstattliche\" rückt nun in den Fokus",
+      "source": "kicker",
+      "sentiment": -0.5
+    },
+    {
+      "title": "Blessin heuert in Gladbach an - Arteta vor Verlängerung",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Das sind die Bundesliga-Trainer der Saison 2026/27",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Debüt im Derby: Blessin ist neuer Gladbach-Trainer",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Keine unendliche Ressource\": Hessens Polizei fordert weniger Einsatzzeiten beim Fußball",
+      "source": "kicker",
+      "sentiment": -0.5
+    },
+    {
+      "title": "Alle bisherigen Start-Checks der Bundesligisten",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Das Risiko bei Asllani und Kramaric",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Castro-Montes fehlt Köln \"vorerst\"",
+      "source": "kicker",
+      "sentiment": -0.35
+    },
+    {
       "title": "XXL-Länderspielpause: Diese Spieler stellen die 18 Bundesligisten ab",
       "source": "kicker",
       "sentiment": 0
@@ -9,6 +69,11 @@
       "title": "Wie geht es nach der Pause weiter? Simuliere hier die nächsten Bundesliga-Spieltage",
       "source": "kicker",
       "sentiment": 0
+    },
+    {
+      "title": "Vor elf Jahren: Lewandowskis Fünferpack in neun Minuten",
+      "source": "kicker",
+      "sentiment": 0.5
     },
     {
       "title": "Heute vor elf Jahren: Lewandowskis Fünferpack in neun Minuten",
@@ -84,71 +149,6 @@
       "title": "\"Es macht richtig Bock in der Kabine\": FC Bayern in Stimmung beim Wiesn-Auftakt",
       "source": "kicker",
       "sentiment": 0.27
-    },
-    {
-      "title": "Kanes Saisonpremiere und ein bunter Mix: Die kicker-Elf des 4. Spieltags",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Fünf Punkte und doch leicht getrübte Stimmung auf Schalke\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wo sich Muslic und Karaman uneinig sind",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Demichelis: \"Wenn ein Trainer verliert, hat er niemals recht\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "0:2 in Leverkusen: Bei RB hakt es auch vorne",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "\"Sehr clever\": Wunschspieler Miguel verzückt bei Bayer",
-      "source": "kicker",
-      "sentiment": 0.28
-    },
-    {
-      "title": "Sorgen um Nationalspieler Gruda - Demichelis gibt leichte Entwarnung",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Ein Favorit kristallisiert sich heraus: Ordnet Blessin Gladbachs Defensiv-Chaos?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Blessin ist Favorit auf den Gladbach-Job - Raphinha vor Verlängerung",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Dominant in Frankfurt: Scherhant und Schuster erklären Freiburgs Weiterentwicklung",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Unsportlichkeit in Gladbach: Sollte der DFB Amiri sperren?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Poulsen: Energiegeber und Spieler-Trainer",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Der Fußball verliert einen stillen Meister",
-      "source": "kicker",
-      "sentiment": 0.6
     }
   ]
 }
