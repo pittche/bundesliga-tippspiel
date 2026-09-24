@@ -1,6 +1,46 @@
 {
   "news": [
     {
+      "title": "Doppelrolle in MLS und NFL? Kane denkt über die Zeit nach Bayern nach",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Demme beendet aktive Karriere: \"So viel mehr als nur mein Beruf\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Marinos Torjäger-Formel: \"Ohne Limit durch den Tag\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Bisher kaum Spielzeit: Union-Kapitän Trimmel unter Lustrinelli mit neuer Rolle",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Comeback \"in ein paar Wochen\": Doué schreibt Mainz-Spiel ab",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Blessin startet: \"Die Probleme können wir nicht wegdiskutieren\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Kein Fahrstuhl, sondern eine Treppe\": Blessins erste Schritte in Gladbach",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Kane deutet baldige Vertragsverlängerung an - Alaba steht vor Wechsel",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
       "title": "Die \"schöne\" Pause für Luis Diaz - und die Parallele zum Vorjahr",
       "source": "kicker",
       "sentiment": 0
@@ -109,46 +149,6 @@
       "title": "\"Enttäuschter\" Kurucay wartet auf Vertragsangebot",
       "source": "kicker",
       "sentiment": 0.4
-    },
-    {
-      "title": "Premieren-Torschütze Castaneda: Sonnyboy mit steiler Lernkurve",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Baumann legt die Finger in die Wunde: \"Wir sind sehr sorglos\"",
-      "source": "kicker",
-      "sentiment": -0.7
-    },
-    {
-      "title": "Grüll bei Werder: Nicht mehr nur einer von vielen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Auffällige Laufwerte: Stuttgarts Tücken im Konzert der Großen",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Muslic verteidigt Startelfeinsatz von Dzeko: \"Da fehlen Zentimeter\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Da ging die Post ab\": Wagner über Atmosphäre in Elversberg",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Saibari kommt vor dem heißen Oktober in Form",
-      "source": "kicker",
-      "sentiment": 0.1
-    },
-    {
-      "title": "\"Es macht richtig Bock in der Kabine\": FC Bayern in Stimmung beim Wiesn-Auftakt",
-      "source": "kicker",
-      "sentiment": 0.27
     }
   ]
 }
