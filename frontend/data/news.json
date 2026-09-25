@@ -1,6 +1,46 @@
 {
   "news": [
     {
+      "title": "Stegemann: 52 Personal-Bewegungen und ein Gladbach-Spiel, das \"nicht passieren darf\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Die Vereinsmottos der 18 Bundesligisten",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "HSV bangt um Top-Scorer Grönbaek",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Letztes Jahr stand ich noch in der Nordkurve\": Schalkes Vozar im Blickpunkt",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
+      "title": "Müller lässt Zukunft bei Whitecaps offen - Neuer Klub für Dahoud",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Claude-Maurice und Bah sind zu gut für die FCA-Bank",
+      "source": "kicker",
+      "sentiment": -0.5
+    },
+    {
+      "title": "Diese Spieler sind nach Transferschluss noch ohne Verein",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "HSV-Finanzen: Fünftes Plus in Folge und ein Rekord",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
       "title": "Doppelrolle in MLS und NFL? Kane denkt über die Zeit nach Bayern nach",
       "source": "kicker",
       "sentiment": 0
@@ -39,6 +79,11 @@
       "title": "Kane deutet baldige Vertragsverlängerung an - Alaba steht vor Wechsel",
       "source": "kicker",
       "sentiment": 0.4
+    },
+    {
+      "title": "War das Alabas schönstes Bundesliga-Tor?",
+      "source": "kicker",
+      "sentiment": 0.5
     },
     {
       "title": "Die \"schöne\" Pause für Luis Diaz - und die Parallele zum Vorjahr",
@@ -104,51 +149,6 @@
       "title": "XXL-Länderspielpause: Diese Spieler stellen die 18 Bundesligisten ab",
       "source": "kicker",
       "sentiment": 0
-    },
-    {
-      "title": "Wie geht es nach der Pause weiter? Simuliere hier die nächsten Bundesliga-Spieltage",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Vor elf Jahren: Lewandowskis Fünferpack in neun Minuten",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Heute vor elf Jahren: Lewandowskis Fünferpack in neun Minuten",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "\"Brüder im Geiste\": Heynckes' berührende Worte für verstorbenen Freund Hermann",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Homeoffice und Laufpläne für zwei: Wie der BVB die Ausnahmesituation handhabt",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Nächster Rückschlag? Entwarnung bei Ben Seghir",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Warum die Freiburg-Profis eine Woche frei haben",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Angriff statt Abgang: Neuhaus empfiehlt sich für Gladbachs neuen Trainer",
-      "source": "kicker",
-      "sentiment": -0.5
-    },
-    {
-      "title": "\"Enttäuschter\" Kurucay wartet auf Vertragsangebot",
-      "source": "kicker",
-      "sentiment": 0.4
     }
   ]
 }
