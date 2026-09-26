@@ -1,6 +1,56 @@
 {
   "news": [
     {
+      "title": "Bitter für den HSV: Top-Scorer Grönbaek fällt vorerst aus",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "\"Pech, dass Freiburg Dritter ist\": Schweizer U-21-Coach Frei redet Ogbus stark",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Zum Genießen: Ballacks schönste Bundesligatore",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Brentford will Schade langfristig binden - Jokanovic übernimmt beim FC Basel",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "\"Das Schalke von morgen gestalten\": Tillmann bleibt Vorstandsvorsitzender bei S04",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Rummenigge stimmte nicht für Eberls Vertragsverlängerung",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
+      "title": "Kein längerer Ausfall: Augsburg kann nach dem Gregoritsch-Schreck aufatmen",
+      "source": "kicker",
+      "sentiment": -0.45
+    },
+    {
+      "title": "\"Da bin ich kein anderer Mensch\": Bischof zwischen Binde und Bewerbung",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Funken und Faustpfand: Der Werder-Mythos soll wieder planbarer werden",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Der HSV trauert um \"Eiche\" Nogly",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Stegemann: 52 Personal-Bewegungen und ein Gladbach-Spiel, das \"nicht passieren darf\"",
       "source": "kicker",
       "sentiment": 0
@@ -99,56 +149,6 @@
       "title": "Die lange Länderspielpause ist für Gladbach Fluch und Segen zugleich",
       "source": "kicker",
       "sentiment": -0.3
-    },
-    {
-      "title": "El Mala über Klopps Anruf: \"Das Telefonat war kurz und knapp\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "TSG: Eine \"Eidesstattliche\" rückt nun in den Fokus",
-      "source": "kicker",
-      "sentiment": -0.5
-    },
-    {
-      "title": "Blessin heuert in Gladbach an - Arteta vor Verlängerung",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Das sind die Bundesliga-Trainer der Saison 2026/27",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Debüt im Derby: Blessin ist neuer Gladbach-Trainer",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Keine unendliche Ressource\": Hessens Polizei fordert weniger Einsatzzeiten beim Fußball",
-      "source": "kicker",
-      "sentiment": -0.5
-    },
-    {
-      "title": "Alle bisherigen Start-Checks der Bundesligisten",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Das Risiko bei Asllani und Kramaric",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Castro-Montes fehlt Köln \"vorerst\"",
-      "source": "kicker",
-      "sentiment": -0.35
-    },
-    {
-      "title": "XXL-Länderspielpause: Diese Spieler stellen die 18 Bundesligisten ab",
-      "source": "kicker",
-      "sentiment": 0
     }
   ]
 }
