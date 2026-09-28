@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "title": "Kanes vierjährige Serie reißt, Olise vor Rekord - und warum Saibari gesperrt fehlte",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Kramaric durchlebt die schlimmste Durststrecke seiner Hoffenheimer Zeit",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Bitter für den HSV: Top-Scorer Grönbaek fällt vorerst aus",
       "source": "kicker",
       "sentiment": -0.4
@@ -14,6 +24,11 @@
       "title": "Zum Genießen: Ballacks schönste Bundesligatore",
       "source": "kicker",
       "sentiment": 0
+    },
+    {
+      "title": "Gekas, Sokratis und ein Rekordtor: Die Top-5-Bundesligatore von Griechen",
+      "source": "kicker",
+      "sentiment": 0.6
     },
     {
       "title": "Brentford will Schade langfristig binden - Jokanovic übernimmt beim FC Basel",
@@ -134,21 +149,6 @@
       "title": "War das Alabas schönstes Bundesliga-Tor?",
       "source": "kicker",
       "sentiment": 0.5
-    },
-    {
-      "title": "Die \"schöne\" Pause für Luis Diaz - und die Parallele zum Vorjahr",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Einsame Spitzen: Das enge Rennen zwischen Ache und Dallinga",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Die lange Länderspielpause ist für Gladbach Fluch und Segen zugleich",
-      "source": "kicker",
-      "sentiment": -0.3
     }
   ]
 }
