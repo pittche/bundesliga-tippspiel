@@ -1,6 +1,36 @@
 {
   "news": [
     {
+      "title": "Monaco will mit Brunner verlängern - Gisdol unterschreibt in Bulgarien",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Stadion kein \"Event-Raum\"? Stadionvlogger werden zum Reizthema",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Neue HSV-Sorgen: Fällt nach Moffi auch Daka aus?",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Streit ums Kölner Trainingszentrum geht weiter",
+      "source": "kicker",
+      "sentiment": -0.7
+    },
+    {
+      "title": "Pflichtspieljahr beendet: Sturmtalent Musah fehlt Bremen monatelang",
+      "source": "kicker",
+      "sentiment": -0.35
+    },
+    {
+      "title": "Die Fragezeichen bei Gladbachs Problemlöser Konoplia",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
       "title": "Janelt, der Spätberufene: \"Ich bin niemandem böse\"",
       "source": "kicker",
       "sentiment": 0
@@ -117,36 +147,6 @@
     },
     {
       "title": "HSV bangt um Top-Scorer Grönbaek",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Letztes Jahr stand ich noch in der Nordkurve\": Schalkes Vozar im Blickpunkt",
-      "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Müller lässt Zukunft bei Whitecaps offen - Neuer Klub für Dahoud",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Claude-Maurice und Bah sind zu gut für die FCA-Bank",
-      "source": "kicker",
-      "sentiment": -0.5
-    },
-    {
-      "title": "Diese Spieler sind nach Transferschluss noch ohne Verein",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "HSV-Finanzen: Fünftes Plus in Folge und ein Rekord",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Doppelrolle in MLS und NFL? Kane denkt über die Zeit nach Bayern nach",
       "source": "kicker",
       "sentiment": 0
     }
