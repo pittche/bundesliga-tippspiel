@@ -1,6 +1,61 @@
 {
   "news": [
     {
+      "title": "Stagnierende Entwicklung und ein dicker Fauxpas: Findet Höjlund zurück in die Spur?",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Köln präsentiert Sondertrikot zu Ehren von Komponist Ostermann",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kane über Bayerns Ballon-d'Or-Support und seine einzigen beiden ertauschten Trikots",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Vom Problemfall zum Nationalspieler: Bayers Fernandez debütiert für Argentinien",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Chef in Ausbildung: Lochoshvili, ein Sinnbild für Kölns Wackel-Start",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Nach rund vier Monaten: Kaderplaner Pilawa verlässt Werder wieder",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Erstmals fern der Heimat: Duric wartet noch auf den zweiten großen Schritt",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Die erste Bilanz der Neuzugänge in der Bundesliga",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Ein besonderer Blick auf Fan-Liebling Lasme: \"Was der Trainer verlangt, werde ich tun\"",
+      "source": "kicker",
+      "sentiment": 0.13
+    },
+    {
+      "title": "\"Die beste Lösung\": Werder löst Vertrag mit Kownacki auf",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Monaco will mit Brunner verlängern - Smalling vor Rückkehr nach Europa",
+      "source": "kicker",
+      "sentiment": 0.37
+    },
+    {
       "title": "Monaco will mit Brunner verlängern - Gisdol unterschreibt in Bulgarien",
       "source": "kicker",
       "sentiment": 0.35
@@ -92,61 +147,6 @@
     },
     {
       "title": "Zum Genießen: Ballacks schönste Bundesligatore",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Gekas, Sokratis und ein Rekordtor: Die Top-5-Bundesligatore von Griechen",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Brentford will Schade langfristig binden - Jokanovic übernimmt beim FC Basel",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "\"Das Schalke von morgen gestalten\": Tillmann bleibt Vorstandsvorsitzender bei S04",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Rummenigge stimmte nicht für Eberls Vertragsverlängerung",
-      "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Kein längerer Ausfall: Augsburg kann nach dem Gregoritsch-Schreck aufatmen",
-      "source": "kicker",
-      "sentiment": -0.45
-    },
-    {
-      "title": "\"Da bin ich kein anderer Mensch\": Bischof zwischen Binde und Bewerbung",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Funken und Faustpfand: Der Werder-Mythos soll wieder planbarer werden",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Der HSV trauert um \"Eiche\" Nogly",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Stegemann: 52 Personal-Bewegungen und ein Gladbach-Spiel, das \"nicht passieren darf\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Die Vereinsmottos der 18 Bundesligisten",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "HSV bangt um Top-Scorer Grönbaek",
       "source": "kicker",
       "sentiment": 0
     }
