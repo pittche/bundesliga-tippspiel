@@ -1,6 +1,26 @@
 {
   "news": [
     {
+      "title": "Nach dem doppelten Verletzungsschock: Wer stürmt jetzt für den 1. FC Köln?",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Hiobsbotschaft für Köln: Torjäger Dallinga fällt mehrere Monate aus",
+      "source": "kicker",
+      "sentiment": 0.05
+    },
+    {
+      "title": "Kein \"kölsches Bloot\": Das Problem mit den Kölner Eigengewächsen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Nächster Dämpfer für Gladbach: Honorat fehlt verletzt",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
       "title": "Bayern profitiert von Upamecanos unnötigem Platzverweis",
       "source": "kicker",
       "sentiment": 0.35
@@ -9,6 +29,11 @@
       "title": "Ebnoutalib überrascht auch Hütter: \"Auf einmal trainiert ihn Jürgen Klopp\"",
       "source": "kicker",
       "sentiment": 0
+    },
+    {
+      "title": "Janßen übernimmt in Zürich - Vestergaard macht Schluss",
+      "source": "kicker",
+      "sentiment": 0.35
     },
     {
       "title": "Janßen vor Grasshopper-Engagement - Vestergaard macht Schluss",
@@ -124,31 +149,6 @@
       "title": "Ghana trennt sich von Queiroz - WM-Fahrer Diatta zu Watford",
       "source": "kicker",
       "sentiment": 0.35
-    },
-    {
-      "title": "Monaco will mit Brunner verlängern - Smalling vor Rückkehr nach Europa",
-      "source": "kicker",
-      "sentiment": 0.37
-    },
-    {
-      "title": "Monaco will mit Brunner verlängern - Gisdol unterschreibt in Bulgarien",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Stadion kein \"Event-Raum\"? Stadionvlogger werden zum Reizthema",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Neue HSV-Sorgen: Fällt nach Moffi auch Daka aus?",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Streit ums Kölner Trainingszentrum geht weiter",
-      "source": "kicker",
-      "sentiment": -0.7
     }
   ]
 }
