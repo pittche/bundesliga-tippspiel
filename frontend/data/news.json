@@ -1,6 +1,56 @@
 {
   "news": [
     {
+      "title": "Mit kleinem Kuriosum: Schick gewinnt Goldenen Ball in Tschechien",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Triebfeder Ulrich oder Techniker Vidovic: Wer findet Paderborns Weg vors Tor?",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Kane nicht dabei: Müller nennt seine beiden Ballon-d'Or-Favoriten",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Poulsen muss raus und gibt Entwarnung",
+      "source": "kicker",
+      "sentiment": 0.05
+    },
+    {
+      "title": "Banks' Ausfall verlangt Baum eine knifflige Entscheidung ab",
+      "source": "kicker",
+      "sentiment": -0.45
+    },
+    {
+      "title": "\"Müssen den Finger in die Wunde legen\": Gladbach lässt viel Luft nach oben",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Verletzung bei estnischer Nationalmannschaft: Werder bangt um Keeper Hein",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Ein Detail in der Hoffenheimer Datenaffäre wirft Fragen auf",
+      "source": "kicker",
+      "sentiment": -0.6
+    },
+    {
+      "title": "Beim BVB wird es außen eng: Die Folgen der Ryerson-Verletzung",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Ribéry: \"Kompany macht einen unglaublichen Job\"",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
       "title": "Nach dem doppelten Verletzungsschock: Wer stürmt jetzt für den 1. FC Köln?",
       "source": "kicker",
       "sentiment": -0.4
@@ -99,56 +149,6 @@
       "title": "Stagnierende Entwicklung und ein dicker Fauxpas: Findet Höjlund zurück in die Spur?",
       "source": "kicker",
       "sentiment": 0.3
-    },
-    {
-      "title": "Köln präsentiert Sondertrikot zu Ehren von Komponist Ostermann",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kane über Bayerns Ballon-d'Or-Support und seine einzigen beiden ertauschten Trikots",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Vom Problemfall zum Nationalspieler: Bayers Fernandez debütiert für Argentinien",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Chef in Ausbildung: Lochoshvili, ein Sinnbild für Kölns Wackel-Start",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Nach rund vier Monaten: Kaderplaner Pilawa verlässt Werder wieder",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Erstmals fern der Heimat: Duric wartet noch auf den zweiten großen Schritt",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Die erste Bilanz der Neuzugänge in der Bundesliga",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Ein besonderer Blick auf Fan-Liebling Lasme: \"Was der Trainer verlangt, werde ich tun\"",
-      "source": "kicker",
-      "sentiment": 0.13
-    },
-    {
-      "title": "\"Die beste Lösung\": Werder löst Vertrag mit Kownacki auf",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Ghana trennt sich von Queiroz - WM-Fahrer Diatta zu Watford",
-      "source": "kicker",
-      "sentiment": 0.35
     }
   ]
 }
