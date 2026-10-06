@@ -1,6 +1,56 @@
 {
   "news": [
     {
+      "title": "Gute Nachrichten für Mainz-Coach Fischer: Ein Trio um Nebel trainiert wieder",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Langwierige Gerichtsprozesse vermeiden: Bundesliga-Präsidium setzt bei 50+1 auf Konsens",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "\"Eine Säule unserer Mannschaft\": Ginter verlängert in Freiburg",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Bobic über Kovac: \"Die Spieler müssen Schmerzen aushalten\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Im Schatten von El Mala: Nutzt Kölns Talent Heskey seine nächste Chance?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Futkeu bald reif für Elversbergs Startelf",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Ginter verlängert in Freiburg - Einigung zwischen Kane und Bayern?",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "\"Golden Boy\": Karl, El Mala und Jeltsch unter den Top 25 - der Favorit aber kommt aus Spanien",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Nach Rücktritt nach WM: Schick öffnet Tür für Nationalelf-Comeback",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Der verletzungsanfällige Lieblingsschüler: Agu fehlt Werder erneut",
+      "source": "kicker",
+      "sentiment": -0.35
+    },
+    {
       "title": "Mit kleinem Kuriosum: Schick gewinnt Goldenen Ball in Tschechien",
       "source": "kicker",
       "sentiment": 0.6
@@ -99,56 +149,6 @@
       "title": "Hofmann: MLS statt Saudi-Arabien?",
       "source": "kicker",
       "sentiment": 0
-    },
-    {
-      "title": "\"Könnte sich ganz schnell zu einer handfesten Krise ausweiten\"",
-      "source": "kicker",
-      "sentiment": -0.7
-    },
-    {
-      "title": "Faserriss im Oberschenkel: Auch Daka fehlt dem HSV",
-      "source": "kicker",
-      "sentiment": -0.35
-    },
-    {
-      "title": "Neue Perspektive nach langer Leidenszeit: Collins ermöglicht Rückkehr zur Dreierkette",
-      "source": "kicker",
-      "sentiment": 0.17
-    },
-    {
-      "title": "\"Raus aus dem Hire-and-Fire-Mode\": Doch wie viel Geduld kann sich Köln leisten?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Hoffenheims Stresstest unter Druck: Gibt es wieder einen \"Goldenen Herbst\"?",
-      "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Schweden nominiert Gladbachs Bolin nach",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kircher: \"Die Linie mit dem VAR ist gut\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Schmidt tritt Klopp-Nachfolge bei Red Bull an",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Als Klopp mit dem BVB München eroberte - und eine neue Brille brauchte",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Stagnierende Entwicklung und ein dicker Fauxpas: Findet Höjlund zurück in die Spur?",
-      "source": "kicker",
-      "sentiment": 0.3
     }
   ]
 }
