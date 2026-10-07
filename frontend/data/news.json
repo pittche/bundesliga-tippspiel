@@ -1,6 +1,61 @@
 {
   "news": [
     {
+      "title": "Montella vor dem Aus in der Türkei - Pedro verkündet Karriereende",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "HSV: Der Not-Plan gegen die Sturm-Sorgen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Regenwolken über dem Geißbockheim: Kommt es zum Sturm beim 1. FC Köln?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Blitzstart, Traumtore, Platzverweis: Das unfassbare Rheinderby 25/26",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Köln oder Gladbach: Wer gewinnt das rheinische Derby?",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Für zwei interne Rekorde: Michel will spielen - und treffen",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Weisers 14-monatige Leidenszeit: \"Fast eine Psychose entwickelt\"",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
+      "title": "Baumgartner: Der nächste Schritt zum Comeback",
+      "source": "kicker",
+      "sentiment": 0.1
+    },
+    {
+      "title": "\"Es schmerzt mich\": Vereinspräsident Bonhof äußert sich zu Polanski-Trennung",
+      "source": "kicker",
+      "sentiment": -0.38
+    },
+    {
+      "title": "Zwangspause genutzt: Warum Can einen weiteren Eingriff vornehmen ließ",
+      "source": "kicker",
+      "sentiment": -0.8
+    },
+    {
+      "title": "Die halbe Rückkehr zur Normalität - und was die Bayern erwartet",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
       "title": "Gute Nachrichten für Mainz-Coach Fischer: Ein Trio um Nebel trainiert wieder",
       "source": "kicker",
       "sentiment": 0.4
@@ -94,61 +149,6 @@
       "title": "Beim BVB wird es außen eng: Die Folgen der Ryerson-Verletzung",
       "source": "kicker",
       "sentiment": -0.4
-    },
-    {
-      "title": "Ribéry: \"Kompany macht einen unglaublichen Job\"",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Nach dem doppelten Verletzungsschock: Wer stürmt jetzt für den 1. FC Köln?",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Hiobsbotschaft für Köln: Torjäger Dallinga fällt mehrere Monate aus",
-      "source": "kicker",
-      "sentiment": 0.05
-    },
-    {
-      "title": "Kein \"kölsches Bloot\": Das Problem mit den Kölner Eigengewächsen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Nächster Dämpfer für Gladbach: Honorat fehlt verletzt",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Bayern profitiert von Upamecanos unnötigem Platzverweis",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Ebnoutalib überrascht auch Hütter: \"Auf einmal trainiert ihn Jürgen Klopp\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Janßen übernimmt in Zürich - Vestergaard macht Schluss",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Janßen vor Grasshopper-Engagement - Vestergaard macht Schluss",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "\"Die Gretchenfrage\": Worüber sich Adi Hütter noch klar werden muss",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Hofmann: MLS statt Saudi-Arabien?",
-      "source": "kicker",
-      "sentiment": 0
     }
   ]
 }
