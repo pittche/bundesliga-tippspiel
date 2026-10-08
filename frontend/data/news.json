@@ -1,9 +1,104 @@
 {
   "news": [
     {
+      "title": "Bremens 0:7-Klatsche weckt bei Kovac Erinnerungen",
+      "source": "kicker",
+      "sentiment": -0.8
+    },
+    {
+      "title": "Vor Dortmund, nach dem Debakel: Weiser ist bereit für mehr - Hein vor Rückkehr",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "BVB stellt klar: Sammers Vertrag läuft bis 2028",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Rice vor Verlängerung - Montella verzichtet auf Abfindung - Matondo findet neuen Klub",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Fernandez' Aufstieg als Andrichs Chance? Warum Martinez in der Zwickmühle steckt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Totalausfall auf allen Ebenen\": Wie Werder mit dem Testspiel-Debakel umgeht",
+      "source": "kicker",
+      "sentiment": -0.65
+    },
+    {
+      "title": "\"Engagierter Anwalt für Menschlichkeit\": Söder ehrt Kompany mit Sonderpreis",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Mehr als nur ein Edeljoker? Krattenmacher stellt Wagner vor die Wahl",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Das Bundesliga-Quiz zum 5. Spieltag",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Bratwurst mit Maradona, Pokal-Coup mit Hannover 96: Trauer um Hans-Dieter Schmidt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Blessins neues Gladbach und das Derby als Stresstest",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Union braucht aus dem Spiel mehr Chancen und mehr Effizienz",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kovac-Verlängerung in Dortmund \"nur eine Frage der Zeit\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Zahlreiche BVB-Fragezeichen nach \"inakzeptabler\" Länderspielpause",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Vertrag läuft aus: Raum gibt Raum für Spekulationen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Sylla muss jetzt auch in der Liga seinen Lieferdienst anbieten",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Vier Spiele sind definitiv zu viel\": Kovac kritisiert Länderspielpause",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Gejagter statt Jäger? Kovac: \"Genießen im Moment die Position\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
       "title": "Montella vor dem Aus in der Türkei - Pedro verkündet Karriereende",
       "source": "kicker",
       "sentiment": 0.35
+    },
+    {
+      "title": "Torwart-Tore: Ein Derby-Held, ein brisantes Duell und 35 Sekunden für die Geschichtsbücher",
+      "source": "kicker",
+      "sentiment": 0
     },
     {
       "title": "HSV: Der Not-Plan gegen die Sturm-Sorgen",
@@ -54,101 +149,6 @@
       "title": "Die halbe Rückkehr zur Normalität - und was die Bayern erwartet",
       "source": "kicker",
       "sentiment": 0.4
-    },
-    {
-      "title": "Gute Nachrichten für Mainz-Coach Fischer: Ein Trio um Nebel trainiert wieder",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Langwierige Gerichtsprozesse vermeiden: Bundesliga-Präsidium setzt bei 50+1 auf Konsens",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "\"Eine Säule unserer Mannschaft\": Ginter verlängert in Freiburg",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Bobic über Kovac: \"Die Spieler müssen Schmerzen aushalten\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Im Schatten von El Mala: Nutzt Kölns Talent Heskey seine nächste Chance?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Futkeu bald reif für Elversbergs Startelf",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Ginter verlängert in Freiburg - Einigung zwischen Kane und Bayern?",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "\"Golden Boy\": Karl, El Mala und Jeltsch unter den Top 25 - der Favorit aber kommt aus Spanien",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Nach Rücktritt nach WM: Schick öffnet Tür für Nationalelf-Comeback",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Der verletzungsanfällige Lieblingsschüler: Agu fehlt Werder erneut",
-      "source": "kicker",
-      "sentiment": -0.35
-    },
-    {
-      "title": "Mit kleinem Kuriosum: Schick gewinnt Goldenen Ball in Tschechien",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Triebfeder Ulrich oder Techniker Vidovic: Wer findet Paderborns Weg vors Tor?",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Kane nicht dabei: Müller nennt seine beiden Ballon-d'Or-Favoriten",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Poulsen muss raus und gibt Entwarnung",
-      "source": "kicker",
-      "sentiment": 0.05
-    },
-    {
-      "title": "Banks' Ausfall verlangt Baum eine knifflige Entscheidung ab",
-      "source": "kicker",
-      "sentiment": -0.45
-    },
-    {
-      "title": "\"Müssen den Finger in die Wunde legen\": Gladbach lässt viel Luft nach oben",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Verletzung bei estnischer Nationalmannschaft: Werder bangt um Keeper Hein",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Ein Detail in der Hoffenheimer Datenaffäre wirft Fragen auf",
-      "source": "kicker",
-      "sentiment": -0.6
-    },
-    {
-      "title": "Beim BVB wird es außen eng: Die Folgen der Ryerson-Verletzung",
-      "source": "kicker",
-      "sentiment": -0.4
     }
   ]
 }
