@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "3:2 nach 0:2 in der 89. Minute: Das wundersame Werder-Comeback in Dortmund",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "\"Bestes Jahr meiner Karriere\": Füllkrug freut sich auf Rückkehr nach Dortmund",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "VfB-Spielplan bis zur nächsten Länderspielpause: Das XXL-Programm im Überblick",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Leverkusen plant mit Maza - Boniface \"eine Option\"",
+      "source": "kicker",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Bayerns XXL-Programm bis zur nächsten Länderspielpause",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Warum es für die Bayern gegen Augsburg um Wiedergutmachung geht",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Diehl und Al-Dakhil kommen beim VfB nicht auf die Beine",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "\"Dann waren da van der Vaart und de Jong und haben im Jacuzzi gesessen …\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kompany: \"Die Jungs müssen erstmal müde werden\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kompany deutlich: \"Möchte keinen Preis bekommen für eine Rede gegen Rassismus\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Wer überträgt Borussia Dortmund gegen SV Werder Bremen live im TV und Stream?",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Olise-Magie: Der spektakuläre Saisonstart von Bayerns Superstar",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Satter Millionengewinn und Rekord-Umsatz: Freiburg legt beeindruckende Zahlen vor",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
+      "title": "Bayern oder FCA: Wem drückt Baums Sohn die Daumen?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Der BVB-Spielplan bis zur Länderspielpause: Neun Spiele in gut vier Wochen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Baums Plan gegen die Bayern: \"Intensität wichtiger als Inhalt\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Jaquez ist wieder im Mannschaftstraining",
+      "source": "kicker",
+      "sentiment": -0.2
+    },
+    {
+      "title": "Wie sich beim FC Bayern Furcht in Freude verwandelte",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "TSG-Stützen als Sorgenkinder",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Dann brennt der Baum richtig\": Große Derby-Vorschau auf Köln vs. Gladbach",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Bremens 0:7-Klatsche weckt bei Kovac Erinnerungen",
       "source": "kicker",
       "sentiment": -0.8
@@ -49,106 +149,6 @@
       "title": "Bratwurst mit Maradona, Pokal-Coup mit Hannover 96: Trauer um Hans-Dieter Schmidt",
       "source": "kicker",
       "sentiment": 0
-    },
-    {
-      "title": "Blessins neues Gladbach und das Derby als Stresstest",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Union braucht aus dem Spiel mehr Chancen und mehr Effizienz",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kovac-Verlängerung in Dortmund \"nur eine Frage der Zeit\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Zahlreiche BVB-Fragezeichen nach \"inakzeptabler\" Länderspielpause",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Vertrag läuft aus: Raum gibt Raum für Spekulationen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Sylla muss jetzt auch in der Liga seinen Lieferdienst anbieten",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Vier Spiele sind definitiv zu viel\": Kovac kritisiert Länderspielpause",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Gejagter statt Jäger? Kovac: \"Genießen im Moment die Position\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Montella vor dem Aus in der Türkei - Pedro verkündet Karriereende",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Torwart-Tore: Ein Derby-Held, ein brisantes Duell und 35 Sekunden für die Geschichtsbücher",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "HSV: Der Not-Plan gegen die Sturm-Sorgen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Regenwolken über dem Geißbockheim: Kommt es zum Sturm beim 1. FC Köln?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Blitzstart, Traumtore, Platzverweis: Das unfassbare Rheinderby 25/26",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Köln oder Gladbach: Wer gewinnt das rheinische Derby?",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Für zwei interne Rekorde: Michel will spielen - und treffen",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Weisers 14-monatige Leidenszeit: \"Fast eine Psychose entwickelt\"",
-      "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Baumgartner: Der nächste Schritt zum Comeback",
-      "source": "kicker",
-      "sentiment": 0.1
-    },
-    {
-      "title": "\"Es schmerzt mich\": Vereinspräsident Bonhof äußert sich zu Polanski-Trennung",
-      "source": "kicker",
-      "sentiment": -0.38
-    },
-    {
-      "title": "Zwangspause genutzt: Warum Can einen weiteren Eingriff vornehmen ließ",
-      "source": "kicker",
-      "sentiment": -0.8
-    },
-    {
-      "title": "Die halbe Rückkehr zur Normalität - und was die Bayern erwartet",
-      "source": "kicker",
-      "sentiment": 0.4
     }
   ]
 }
