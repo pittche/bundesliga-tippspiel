@@ -1,6 +1,101 @@
 {
   "news": [
     {
+      "title": "Dortmunds Punktverlust: Zwei Klassiker und ein Ausrutscher",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Füllkrug ist 'ne richtige Kante\": Kovac kritisiert Foul-Pfiff",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Bayerns Bilanz gegen Bayern - und wo sich der FCA einreiht",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Thioune: \"Wenn meine Mannschaft eins gelernt hat, ...\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kovac enttäuscht: \"Hatten Gegner in der Ecke\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Ein völlig neues Bremer Qualitätsmerkmal\"",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Füllkrug: \"Da kommt der Champions-League-Fülle raus\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Wir hatten alles im Griff\": Schlotterbeck schwankt zwischen Stolz, Frust und Enttäuschung",
+      "source": "kicker",
+      "sentiment": 0.13
+    },
+    {
+      "title": "Palmer bindet sich acht Jahre an Chelsea - Storck wird Trainer in der Türkei",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Wagner über El Malas DFB-Debüt: \"Das hat etwas mit ihm gemacht\"",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Ausdruck \"Schweine\" nie gefallen: Schäfer und Pfannenstiel widersprechen Funkel",
+      "source": "kicker",
+      "sentiment": -0.62
+    },
+    {
+      "title": "Endspiel für Wagner? \"Intern gibt es diese Stimmen nicht\"",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Schuster: \"Von der Kabine her ein Top-Team\"",
+      "source": "kicker",
+      "sentiment": 0.1
+    },
+    {
+      "title": "\"Was erzählt einem dann Modric?\": Freiburger auf Länderspielreise",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Blessin vor dem Rheinderby: \"Wahnsinniges Vertrauen in die Jungs\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Demichelis zu Messi-Abschied: \"War ein sehr emotionaler Tag\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Den Mut habe ich\": Wird Uno Blessins Überraschungsfaktor fürs Derby?",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Muslic verärgert und hoffnungsvoll: Sylla soll die Sturmflaute beenden",
+      "source": "kicker",
+      "sentiment": -0.5
+    },
+    {
+      "title": "Wagner spürt die Skepsis: \"Es ist schwer, das nicht wahrzunehmen\"",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
       "title": "3:2 nach 0:2 in der 89. Minute: Das wundersame Werder-Comeback in Dortmund",
       "source": "kicker",
       "sentiment": 0.6
@@ -54,101 +149,6 @@
       "title": "Wer überträgt Borussia Dortmund gegen SV Werder Bremen live im TV und Stream?",
       "source": "kicker",
       "sentiment": 0.4
-    },
-    {
-      "title": "Olise-Magie: Der spektakuläre Saisonstart von Bayerns Superstar",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Satter Millionengewinn und Rekord-Umsatz: Freiburg legt beeindruckende Zahlen vor",
-      "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Bayern oder FCA: Wem drückt Baums Sohn die Daumen?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Der BVB-Spielplan bis zur Länderspielpause: Neun Spiele in gut vier Wochen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Baums Plan gegen die Bayern: \"Intensität wichtiger als Inhalt\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Jaquez ist wieder im Mannschaftstraining",
-      "source": "kicker",
-      "sentiment": -0.2
-    },
-    {
-      "title": "Wie sich beim FC Bayern Furcht in Freude verwandelte",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "TSG-Stützen als Sorgenkinder",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Dann brennt der Baum richtig\": Große Derby-Vorschau auf Köln vs. Gladbach",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Bremens 0:7-Klatsche weckt bei Kovac Erinnerungen",
-      "source": "kicker",
-      "sentiment": -0.8
-    },
-    {
-      "title": "Vor Dortmund, nach dem Debakel: Weiser ist bereit für mehr - Hein vor Rückkehr",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "BVB stellt klar: Sammers Vertrag läuft bis 2028",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Rice vor Verlängerung - Montella verzichtet auf Abfindung - Matondo findet neuen Klub",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Fernandez' Aufstieg als Andrichs Chance? Warum Martinez in der Zwickmühle steckt",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Totalausfall auf allen Ebenen\": Wie Werder mit dem Testspiel-Debakel umgeht",
-      "source": "kicker",
-      "sentiment": -0.65
-    },
-    {
-      "title": "\"Engagierter Anwalt für Menschlichkeit\": Söder ehrt Kompany mit Sonderpreis",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Mehr als nur ein Edeljoker? Krattenmacher stellt Wagner vor die Wahl",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Das Bundesliga-Quiz zum 5. Spieltag",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Bratwurst mit Maradona, Pokal-Coup mit Hannover 96: Trauer um Hans-Dieter Schmidt",
-      "source": "kicker",
-      "sentiment": 0
     }
   ]
 }
