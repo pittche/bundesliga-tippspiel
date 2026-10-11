@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Kimmichs klare Reaktion auf die Kritik",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Neuer oder Urbig: Wer darf in Stavanger ran?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Ausfall im XXL-Programm: Wimmer fehlt der TSG mit einer Oberschenkelverletzung",
+      "source": "kicker",
+      "sentiment": -0.42
+    },
+    {
+      "title": "Kreuzbandriss: Remberg fehlt dem HSV lange",
+      "source": "kicker",
+      "sentiment": -0.25
+    },
+    {
+      "title": "Darum zählte der Treffer von Luis Diaz nicht",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Verfrühter Abgang: Bayers Boniface bricht mit dem Teamgeist",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Dortmunds Triple-B-Woche mit schwierigen Vorzeichen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Der Rekord vor Fellhauer: Die Neun-Sekunden-Tore von Bellarabi und Volland",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Ambitionierte Schalker Pläne: \"Wie sieht die Arena der Zukunft aus?\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Wer überträgt 1. FC Köln gegen Borussia Mönchengladbach live im TV und Stream?",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Wer stürmt für den FC? Welcher Borusse stoppt El Mala? Letzte Fragen und Antworten vor dem Rheinderby",
+      "source": "kicker",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Plötzlich Gelb-Rot: Als Petersen seine erste Gelbe Karte verpasste",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Nagelsmann-Gerüchte in Leipzig: \"Davon sind wir ganz weit entfernt\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Martinez lobt Andrich: \"Er hat sich nicht nur um das Tor gekümmert\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Demichelis: \"Nach einem Sieg ist es einfach, zu sprechen\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Nkunku schafft Historisches, aber \"dazu gehört auch ein Gegner\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Hütter kritisiert Koch hart: \"Hat mir überhaupt nicht gefallen\"",
+      "source": "kicker",
+      "sentiment": -0.5
+    },
+    {
+      "title": "Burkardt schäumt nach Debakel: \"Die Führungsspieler haben heute wieder versagt\"",
+      "source": "kicker",
+      "sentiment": -0.7
+    },
+    {
+      "title": "Kettemann hadert mit Chancenverwertung: \"Dürfen angepisst sein\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Hoeneß trotz Sieg: \"Nicht so, wie wir uns das vorgestellt haben\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
       "title": "Dortmunds Punktverlust: Zwei Klassiker und ein Ausrutscher",
       "source": "kicker",
       "sentiment": 0
@@ -49,106 +149,6 @@
       "title": "Wagner über El Malas DFB-Debüt: \"Das hat etwas mit ihm gemacht\"",
       "source": "kicker",
       "sentiment": 0.35
-    },
-    {
-      "title": "Ausdruck \"Schweine\" nie gefallen: Schäfer und Pfannenstiel widersprechen Funkel",
-      "source": "kicker",
-      "sentiment": -0.62
-    },
-    {
-      "title": "Endspiel für Wagner? \"Intern gibt es diese Stimmen nicht\"",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Schuster: \"Von der Kabine her ein Top-Team\"",
-      "source": "kicker",
-      "sentiment": 0.1
-    },
-    {
-      "title": "\"Was erzählt einem dann Modric?\": Freiburger auf Länderspielreise",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Blessin vor dem Rheinderby: \"Wahnsinniges Vertrauen in die Jungs\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Demichelis zu Messi-Abschied: \"War ein sehr emotionaler Tag\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Den Mut habe ich\": Wird Uno Blessins Überraschungsfaktor fürs Derby?",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Muslic verärgert und hoffnungsvoll: Sylla soll die Sturmflaute beenden",
-      "source": "kicker",
-      "sentiment": -0.5
-    },
-    {
-      "title": "Wagner spürt die Skepsis: \"Es ist schwer, das nicht wahrzunehmen\"",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "3:2 nach 0:2 in der 89. Minute: Das wundersame Werder-Comeback in Dortmund",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "\"Bestes Jahr meiner Karriere\": Füllkrug freut sich auf Rückkehr nach Dortmund",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "VfB-Spielplan bis zur nächsten Länderspielpause: Das XXL-Programm im Überblick",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Leverkusen plant mit Maza - Boniface \"eine Option\"",
-      "source": "kicker",
-      "sentiment": -0.05
-    },
-    {
-      "title": "Bayerns XXL-Programm bis zur nächsten Länderspielpause",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Warum es für die Bayern gegen Augsburg um Wiedergutmachung geht",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Diehl und Al-Dakhil kommen beim VfB nicht auf die Beine",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "\"Dann waren da van der Vaart und de Jong und haben im Jacuzzi gesessen …\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kompany: \"Die Jungs müssen erstmal müde werden\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kompany deutlich: \"Möchte keinen Preis bekommen für eine Rede gegen Rassismus\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wer überträgt Borussia Dortmund gegen SV Werder Bremen live im TV und Stream?",
-      "source": "kicker",
-      "sentiment": 0.4
     }
   ]
 }
