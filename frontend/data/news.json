@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Die Bremer Bieger: Warum ist Werder nach Rückständen so stark?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Werden eine Entwicklung nehmen\": Sanders Glaube an die Wende in Gladbach",
+      "source": "kicker",
+      "sentiment": -0.5
+    },
+    {
+      "title": "Eberl fühlt mit Gladbach: \"Ich war kein Glücksbringer\"",
+      "source": "kicker",
+      "sentiment": -0.7
+    },
+    {
+      "title": "Seedorf übernimmt Corinthians - Palmer bindet sich acht Jahre an Chelsea",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Imeri deutet an, was er Union geben kann",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
+      "title": "Muslic gibt Fehler zu: \"Niederlage geht auf meine Kappe\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "RB-Quintett auf dem Debütantenball: Die kicker-Elf des 5. Spieltags",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Als wäre eine Meisterschaft unter Dach und Fach\": Freiburg in Feierstimmung",
+      "source": "kicker",
+      "sentiment": 0.55
+    },
+    {
+      "title": "Böller und Raketen im Rheinderby: \"Es ist nicht völlig aus dem Ruder gelaufen\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Löst nun Amoako die HSV-Probleme?",
+      "source": "kicker",
+      "sentiment": -0.15
+    },
+    {
+      "title": "El Mala über Befreiungsschlag und was ihm am Gladbacher Jubel missfallen hat",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Köln muss länger auf Skhiri verzichten",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Müssen da Kante zeigen und stehen bleiben\": Blessin erklärt Szene mit Fans",
+      "source": "kicker",
+      "sentiment": -0.55
+    },
+    {
+      "title": "Wagner: \"Das war brutal, die Jungs haben sich in alles reingeschmissen\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Diskriminierungsvorwürfe: Härtel legt Amt als U-19-Trainer bei Union Berlin nieder",
+      "source": "kicker",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Bah als Symbol für Augsburgs Möglichkeiten",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kein Krisenende in Sicht: Gladbach steuert auch mit Blessin Richtung Abgrund",
+      "source": "kicker",
+      "sentiment": -0.7
+    },
+    {
+      "title": "\"Fette drei Punkte\": El Mala regelt das 101. Rheinderby",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Koch reagiert auf Hütter-Kritik: \"Ändert nichts an meiner Haltung\"",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Hauptdarsteller Seimen und Führich: Wiedersehen mit Freude",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
       "title": "Kimmichs klare Reaktion auf die Kritik",
       "source": "kicker",
       "sentiment": -0.4
@@ -49,106 +149,6 @@
       "title": "Wer überträgt 1. FC Köln gegen Borussia Mönchengladbach live im TV und Stream?",
       "source": "kicker",
       "sentiment": 0.4
-    },
-    {
-      "title": "Wer stürmt für den FC? Welcher Borusse stoppt El Mala? Letzte Fragen und Antworten vor dem Rheinderby",
-      "source": "kicker",
-      "sentiment": -0.05
-    },
-    {
-      "title": "Plötzlich Gelb-Rot: Als Petersen seine erste Gelbe Karte verpasste",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Nagelsmann-Gerüchte in Leipzig: \"Davon sind wir ganz weit entfernt\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Martinez lobt Andrich: \"Er hat sich nicht nur um das Tor gekümmert\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Demichelis: \"Nach einem Sieg ist es einfach, zu sprechen\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Nkunku schafft Historisches, aber \"dazu gehört auch ein Gegner\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Hütter kritisiert Koch hart: \"Hat mir überhaupt nicht gefallen\"",
-      "source": "kicker",
-      "sentiment": -0.5
-    },
-    {
-      "title": "Burkardt schäumt nach Debakel: \"Die Führungsspieler haben heute wieder versagt\"",
-      "source": "kicker",
-      "sentiment": -0.7
-    },
-    {
-      "title": "Kettemann hadert mit Chancenverwertung: \"Dürfen angepisst sein\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Hoeneß trotz Sieg: \"Nicht so, wie wir uns das vorgestellt haben\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Dortmunds Punktverlust: Zwei Klassiker und ein Ausrutscher",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Füllkrug ist 'ne richtige Kante\": Kovac kritisiert Foul-Pfiff",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Bayerns Bilanz gegen Bayern - und wo sich der FCA einreiht",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Thioune: \"Wenn meine Mannschaft eins gelernt hat, ...\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kovac enttäuscht: \"Hatten Gegner in der Ecke\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Ein völlig neues Bremer Qualitätsmerkmal\"",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Füllkrug: \"Da kommt der Champions-League-Fülle raus\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Wir hatten alles im Griff\": Schlotterbeck schwankt zwischen Stolz, Frust und Enttäuschung",
-      "source": "kicker",
-      "sentiment": 0.13
-    },
-    {
-      "title": "Palmer bindet sich acht Jahre an Chelsea - Storck wird Trainer in der Türkei",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Wagner über El Malas DFB-Debüt: \"Das hat etwas mit ihm gemacht\"",
-      "source": "kicker",
-      "sentiment": 0.35
     }
   ]
 }
