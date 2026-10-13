@@ -1,6 +1,66 @@
 {
   "news": [
     {
+      "title": "Ricken über Kovac: \"Loyalität und Diskretion haben wir umsonst dazu bekommen\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Poulsens Quoten-Geheimnis",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Die graue Eminenz geht: Nickl löst Wenning als obersten Bayer-Kontrolleur ab",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Heins \"No-Brainer\"-Entscheidung für Werder: \"Ich lebe meinen Traum\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Nur einer vor Kovac: Die Punkteschnitte der BVB-Trainer seit 2000",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Noch vor der Abreise: Hier unterschreibt Kovac seinen neuen BVB-Vertrag",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "BVB verlängert mit Kovac - eine gute Entscheidung?",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Offiziell: BVB verlängert mit Trainer Kovac bis 2029",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Nach Diskriminierungsvorwürfen: Zwölfwöchiges Funktionsverbot für Härtel",
+      "source": "kicker",
+      "sentiment": -0.5
+    },
+    {
+      "title": "HSV: Deshalb bleibt Muheims Perspektive schwierig",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Sechs Verletzte nach Ausschreitungen beim Rheinderby",
+      "source": "kicker",
+      "sentiment": -0.45
+    },
+    {
+      "title": "Die Folgen des Skhiri-Ausfalls für Kölns Mittelfeld",
+      "source": "kicker",
+      "sentiment": -0.13
+    },
+    {
       "title": "Die Bremer Bieger: Warum ist Werder nach Rückständen so stark?",
       "source": "kicker",
       "sentiment": 0
@@ -14,6 +74,11 @@
       "title": "Eberl fühlt mit Gladbach: \"Ich war kein Glücksbringer\"",
       "source": "kicker",
       "sentiment": -0.7
+    },
+    {
+      "title": "Seedorf übernimmt Corinthians - Finks Zeit bei Samsunspor schon wieder vorbei",
+      "source": "kicker",
+      "sentiment": 0.35
     },
     {
       "title": "Seedorf übernimmt Corinthians - Palmer bindet sich acht Jahre an Chelsea",
@@ -84,71 +149,6 @@
       "title": "Kein Krisenende in Sicht: Gladbach steuert auch mit Blessin Richtung Abgrund",
       "source": "kicker",
       "sentiment": -0.7
-    },
-    {
-      "title": "\"Fette drei Punkte\": El Mala regelt das 101. Rheinderby",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Koch reagiert auf Hütter-Kritik: \"Ändert nichts an meiner Haltung\"",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Hauptdarsteller Seimen und Führich: Wiedersehen mit Freude",
-      "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Kimmichs klare Reaktion auf die Kritik",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Neuer oder Urbig: Wer darf in Stavanger ran?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Ausfall im XXL-Programm: Wimmer fehlt der TSG mit einer Oberschenkelverletzung",
-      "source": "kicker",
-      "sentiment": -0.42
-    },
-    {
-      "title": "Kreuzbandriss: Remberg fehlt dem HSV lange",
-      "source": "kicker",
-      "sentiment": -0.25
-    },
-    {
-      "title": "Darum zählte der Treffer von Luis Diaz nicht",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Verfrühter Abgang: Bayers Boniface bricht mit dem Teamgeist",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Dortmunds Triple-B-Woche mit schwierigen Vorzeichen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Der Rekord vor Fellhauer: Die Neun-Sekunden-Tore von Bellarabi und Volland",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Ambitionierte Schalker Pläne: \"Wie sieht die Arena der Zukunft aus?\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wer überträgt 1. FC Köln gegen Borussia Mönchengladbach live im TV und Stream?",
-      "source": "kicker",
-      "sentiment": 0.4
     }
   ]
 }
