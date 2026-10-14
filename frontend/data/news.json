@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "title": "Präsident Bonhof adressiert eigene Fans: \"Werte unserer Borussia verraten\"",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Schalke verzweifelt: Immer noch kein Stürmer-Tor",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
       "title": "Ricken über Kovac: \"Loyalität und Diskretion haben wir umsonst dazu bekommen\"",
       "source": "kicker",
       "sentiment": 0.5
@@ -139,16 +149,6 @@
       "title": "Diskriminierungsvorwürfe: Härtel legt Amt als U-19-Trainer bei Union Berlin nieder",
       "source": "kicker",
       "sentiment": -0.1
-    },
-    {
-      "title": "Bah als Symbol für Augsburgs Möglichkeiten",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kein Krisenende in Sicht: Gladbach steuert auch mit Blessin Richtung Abgrund",
-      "source": "kicker",
-      "sentiment": -0.7
     }
   ]
 }
