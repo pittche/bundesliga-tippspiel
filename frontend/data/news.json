@@ -1,6 +1,61 @@
 {
   "news": [
     {
+      "title": "Das Bundesliga-Quiz zum 6. Spieltag",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Zwischen Titelchance und Risiko: Warum Erfolg in der Europa League für Bayer doppelt wichtig ist",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
+      "title": "Wagner über Maina-Entwicklung: \"Einer seiner guten Freunde war überrascht\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Auf Highlight folgt Highlight: Muss Fellhauer sich umstellen?",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Mehr Schafherde als Wolfsrudel? Hütter kritisiert Bequemlichkeit und fordert neuen Biss",
+      "source": "kicker",
+      "sentiment": -0.6
+    },
+    {
+      "title": "Rolfes über einen zweiten Fall Boniface: \"Das geht nicht\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Er hat es eingesehen\": Hütter über Kochs Reaktion und warum er gegen Köln spielt",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Chuki über Füllkrug, die Bruder-WG - und sein Warten auf das erste Tor",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "HSV: Erster Auftrag für das Remberg-Double",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "\"Er darf gerne noch mehr zu Schüssen kommen\": Vidovic bleibt Kettemanns Schlüssel zum Tor",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "\"Wir wollten eine Veränderung\": Fritz erklärt das neue Werder-Mindset",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
       "title": "Präsident Bonhof adressiert eigene Fans: \"Werte unserer Borussia verraten\"",
       "source": "kicker",
       "sentiment": 0.3
@@ -94,61 +149,6 @@
       "title": "Seedorf übernimmt Corinthians - Palmer bindet sich acht Jahre an Chelsea",
       "source": "kicker",
       "sentiment": 0.35
-    },
-    {
-      "title": "Imeri deutet an, was er Union geben kann",
-      "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Muslic gibt Fehler zu: \"Niederlage geht auf meine Kappe\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "RB-Quintett auf dem Debütantenball: Die kicker-Elf des 5. Spieltags",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Als wäre eine Meisterschaft unter Dach und Fach\": Freiburg in Feierstimmung",
-      "source": "kicker",
-      "sentiment": 0.55
-    },
-    {
-      "title": "Böller und Raketen im Rheinderby: \"Es ist nicht völlig aus dem Ruder gelaufen\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Löst nun Amoako die HSV-Probleme?",
-      "source": "kicker",
-      "sentiment": -0.15
-    },
-    {
-      "title": "El Mala über Befreiungsschlag und was ihm am Gladbacher Jubel missfallen hat",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Köln muss länger auf Skhiri verzichten",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Müssen da Kante zeigen und stehen bleiben\": Blessin erklärt Szene mit Fans",
-      "source": "kicker",
-      "sentiment": -0.55
-    },
-    {
-      "title": "Wagner: \"Das war brutal, die Jungs haben sich in alles reingeschmissen\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Diskriminierungsvorwürfe: Härtel legt Amt als U-19-Trainer bei Union Berlin nieder",
-      "source": "kicker",
-      "sentiment": -0.1
     }
   ]
 }
