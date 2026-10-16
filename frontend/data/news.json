@@ -1,6 +1,71 @@
 {
   "news": [
     {
+      "title": "Kompany lacht vor Regionalligaderby: \"Dante hat viel mehr Haare als ich\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Neuer auch fürs Topspiel gegen Leipzig fraglich",
+      "source": "kicker",
+      "sentiment": -0.2
+    },
+    {
+      "title": "Nach Stoffwechselstörung: Eichhorn strebt Rückkehr in diesem Jahr an",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Wer überträgt Eintracht Frankfurt gegen 1. FC Köln live im TV und Stream?",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Nächster Ausfall im Sturm: Auch Rondic fehlt Köln",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Lob als Störfaktor? Baums Lehren aus dem Bayern-Spiel",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Profivertrag für Senkrechtstarter Nakuzola: \"Ging dann doch relativ schnell\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kommt Sancho in Spanien unter? - Cottbus verlängert mit Guwara",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Nach Remberg-Aus: Fehlt dem HSV auch Sambi Lokonga gegen Stuttgart?",
+      "source": "kicker",
+      "sentiment": 0.1
+    },
+    {
+      "title": "\"Ich weiß, dass er ungeduldig ist\": Thioune schraubt Weiser-Erwartungen zurück",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Sylla fehlt Schalke beim Duell der \"Kuschelbären\"",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Frankfurts \"Schlüsselsaison\": Droht die SGE Gladbach 2.0 zu werden?",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Parallelen zu Vorgänger Doekhi: Van den Bosch ist endgültig bei Union angekommen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Das Bundesliga-Quiz zum 6. Spieltag",
       "source": "kicker",
       "sentiment": 0
@@ -84,71 +149,6 @@
       "title": "Heins \"No-Brainer\"-Entscheidung für Werder: \"Ich lebe meinen Traum\"",
       "source": "kicker",
       "sentiment": 0
-    },
-    {
-      "title": "Nur einer vor Kovac: Die Punkteschnitte der BVB-Trainer seit 2000",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Noch vor der Abreise: Hier unterschreibt Kovac seinen neuen BVB-Vertrag",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "BVB verlängert mit Kovac - eine gute Entscheidung?",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Offiziell: BVB verlängert mit Trainer Kovac bis 2029",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Nach Diskriminierungsvorwürfen: Zwölfwöchiges Funktionsverbot für Härtel",
-      "source": "kicker",
-      "sentiment": -0.5
-    },
-    {
-      "title": "HSV: Deshalb bleibt Muheims Perspektive schwierig",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Sechs Verletzte nach Ausschreitungen beim Rheinderby",
-      "source": "kicker",
-      "sentiment": -0.45
-    },
-    {
-      "title": "Die Folgen des Skhiri-Ausfalls für Kölns Mittelfeld",
-      "source": "kicker",
-      "sentiment": -0.13
-    },
-    {
-      "title": "Die Bremer Bieger: Warum ist Werder nach Rückständen so stark?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Werden eine Entwicklung nehmen\": Sanders Glaube an die Wende in Gladbach",
-      "source": "kicker",
-      "sentiment": -0.5
-    },
-    {
-      "title": "Eberl fühlt mit Gladbach: \"Ich war kein Glücksbringer\"",
-      "source": "kicker",
-      "sentiment": -0.7
-    },
-    {
-      "title": "Seedorf übernimmt Corinthians - Finks Zeit bei Samsunspor schon wieder vorbei",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Seedorf übernimmt Corinthians - Palmer bindet sich acht Jahre an Chelsea",
-      "source": "kicker",
-      "sentiment": 0.35
     }
   ]
 }
