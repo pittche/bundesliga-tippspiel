@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Wagner bedauert: \"Deswegen waren wir in der Phase zu tief drinnen\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Hütter mit Extralob an Koch: \"Hat gezeigt, was er imstande ist zu leisten\"",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "An Zahlen nicht ablesbar: Was Beier für Kovac so wertvoll macht",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Wer überträgt FC Bayern München gegen RB Leipzig live im TV und Stream?",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Eintracht atmet auf - \"Fest verankerte Kinderkrankheiten\" beim Effzeh",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "El Mala: \"Frankfurt war so tot\"",
+      "source": "kicker",
+      "sentiment": 0.17
+    },
+    {
+      "title": "Koch nach Kritik: \"Ich bin froh, dass ich es abbekomme\"",
+      "source": "kicker",
+      "sentiment": 0.05
+    },
+    {
+      "title": "Nächster Rückschlag: Pechvogel Terrier fehlt Leverkusen wochenlang",
+      "source": "kicker",
+      "sentiment": -0.07
+    },
+    {
+      "title": "Demichelis beeindruckt von Bayern: \"Das ist nicht normal im Fußball\"",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Kübler bleibt in Freiburg - Bellingham soll vorzeitig verlängern",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Bei seiner Rückkehr nach München: Demichelis will die Flucht nach vorn suchen",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Blessin: \"Trainer, du hast gar keine Ahnung, du Vollpfosten\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Hainer zu Wirtz-Form: \"Tut mir fast leid für ihn\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Wieder etwas Neues\": Kleindiensts unendliche Leidenszeit",
+      "source": "kicker",
+      "sentiment": -0.5
+    },
+    {
+      "title": "Hainer: \"Bei mir ist die Anspannung größer, als bei den Spielern\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Der Bayern-Vorstand, den die Nazis hinrichteten: Gedenktafel für Willi Buisson",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kovacs klarer Appell - und seine Anforderung für die Startelf",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Das ist mir zu billig\": Kovac stellt sich vor Beier",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "\"Der Meister ist zum Siegen verdammt\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Als Koller, Großkreutz, Tarnat & Co. auf einmal Torhüter waren",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Kompany lacht vor Regionalligaderby: \"Dante hat viel mehr Haare als ich\"",
       "source": "kicker",
       "sentiment": 0
@@ -49,106 +149,6 @@
       "title": "\"Ich weiß, dass er ungeduldig ist\": Thioune schraubt Weiser-Erwartungen zurück",
       "source": "kicker",
       "sentiment": 0.4
-    },
-    {
-      "title": "Sylla fehlt Schalke beim Duell der \"Kuschelbären\"",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Frankfurts \"Schlüsselsaison\": Droht die SGE Gladbach 2.0 zu werden?",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Parallelen zu Vorgänger Doekhi: Van den Bosch ist endgültig bei Union angekommen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Das Bundesliga-Quiz zum 6. Spieltag",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Zwischen Titelchance und Risiko: Warum Erfolg in der Europa League für Bayer doppelt wichtig ist",
-      "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Wagner über Maina-Entwicklung: \"Einer seiner guten Freunde war überrascht\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Auf Highlight folgt Highlight: Muss Fellhauer sich umstellen?",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Mehr Schafherde als Wolfsrudel? Hütter kritisiert Bequemlichkeit und fordert neuen Biss",
-      "source": "kicker",
-      "sentiment": -0.6
-    },
-    {
-      "title": "Rolfes über einen zweiten Fall Boniface: \"Das geht nicht\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Er hat es eingesehen\": Hütter über Kochs Reaktion und warum er gegen Köln spielt",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Chuki über Füllkrug, die Bruder-WG - und sein Warten auf das erste Tor",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "HSV: Erster Auftrag für das Remberg-Double",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "\"Er darf gerne noch mehr zu Schüssen kommen\": Vidovic bleibt Kettemanns Schlüssel zum Tor",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "\"Wir wollten eine Veränderung\": Fritz erklärt das neue Werder-Mindset",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Präsident Bonhof adressiert eigene Fans: \"Werte unserer Borussia verraten\"",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Schalke verzweifelt: Immer noch kein Stürmer-Tor",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Ricken über Kovac: \"Loyalität und Diskretion haben wir umsonst dazu bekommen\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Poulsens Quoten-Geheimnis",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Die graue Eminenz geht: Nickl löst Wenning als obersten Bayer-Kontrolleur ab",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Heins \"No-Brainer\"-Entscheidung für Werder: \"Ich lebe meinen Traum\"",
-      "source": "kicker",
-      "sentiment": 0
     }
   ]
 }
