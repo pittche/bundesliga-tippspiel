@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Collins gibt Rätsel auf: Baut Hütter die Eintracht-Abwehr erneut um?",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Ist Eggestein auf dem Weg zu einem neuen Scorerbestwert?",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Kanes Sonderrolle: Wie Bayern Leipzig demontierte",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Man musste warten, bis er wieder rausläuft, um sich Hilfe zu holen\"",
+      "source": "kicker",
+      "sentiment": -0.6
+    },
+    {
+      "title": "Demichelis entschuldigt sich und will nicht über Klostermann sprechen",
+      "source": "kicker",
+      "sentiment": -0.8
+    },
+    {
+      "title": "Ungewohnter PK-Gast: Eberl vertritt Kompany und erklärt dessen Fehlen",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Polzin: \"Der Weg, dem wir uns als HSV verschrieben haben\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Kimmich: \"Die ersten 60 waren schon auf einem anderen Level\"",
+      "source": "kicker",
+      "sentiment": 0.48
+    },
+    {
+      "title": "Hoeneß hadert mit HSV-Momenten: \"Besonders gerne gegen uns\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Schäfer: \"Ein komplettes Versagen in allen Bereichen\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Saison geht jetzt erst richtig los\": Luis Diaz glänzt gegen überfordertes RB",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Überflieger Kane: Die meisten Tore in den ersten 100 Bundesliga-Spielen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kovac zu Karetsas-Verletzung: \"Nicht vom Glück geküsst\"",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Petkov nach Elfmeter-Show: \"Wusste nicht, wo oben und unten ist\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kovac unzufrieden: \"Für unsere Ansprüche zu wenig\"",
+      "source": "kicker",
+      "sentiment": -0.43
+    },
+    {
+      "title": "Füllkrug und eine Rückkehr ins DFB-Team: \"Warum nicht?\"",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
+      "title": "Offensive Flaute: Schalke und die Sehnsucht nach Stürmer-Toren",
+      "source": "kicker",
+      "sentiment": -0.6
+    },
+    {
+      "title": "Faktor Volkspark, Muheim und der \"neu erfundene HSV\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Undav legt den Finger in die Wunde: \"Wir sind gerade keine Spitzenmannschaft\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "\"Im Moment nicht vom Glück geküsst\": BVB bangt erneut um Karetsas",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
       "title": "Wagner bedauert: \"Deswegen waren wir in der Phase zu tief drinnen\"",
       "source": "kicker",
       "sentiment": 0
@@ -49,106 +149,6 @@
       "title": "Kübler bleibt in Freiburg - Bellingham soll vorzeitig verlängern",
       "source": "kicker",
       "sentiment": 0.35
-    },
-    {
-      "title": "Bei seiner Rückkehr nach München: Demichelis will die Flucht nach vorn suchen",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Blessin: \"Trainer, du hast gar keine Ahnung, du Vollpfosten\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Hainer zu Wirtz-Form: \"Tut mir fast leid für ihn\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Wieder etwas Neues\": Kleindiensts unendliche Leidenszeit",
-      "source": "kicker",
-      "sentiment": -0.5
-    },
-    {
-      "title": "Hainer: \"Bei mir ist die Anspannung größer, als bei den Spielern\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Der Bayern-Vorstand, den die Nazis hinrichteten: Gedenktafel für Willi Buisson",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kovacs klarer Appell - und seine Anforderung für die Startelf",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Das ist mir zu billig\": Kovac stellt sich vor Beier",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "\"Der Meister ist zum Siegen verdammt\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Als Koller, Großkreutz, Tarnat & Co. auf einmal Torhüter waren",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kompany lacht vor Regionalligaderby: \"Dante hat viel mehr Haare als ich\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Neuer auch fürs Topspiel gegen Leipzig fraglich",
-      "source": "kicker",
-      "sentiment": -0.2
-    },
-    {
-      "title": "Nach Stoffwechselstörung: Eichhorn strebt Rückkehr in diesem Jahr an",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Wer überträgt Eintracht Frankfurt gegen 1. FC Köln live im TV und Stream?",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Nächster Ausfall im Sturm: Auch Rondic fehlt Köln",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Lob als Störfaktor? Baums Lehren aus dem Bayern-Spiel",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Profivertrag für Senkrechtstarter Nakuzola: \"Ging dann doch relativ schnell\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kommt Sancho in Spanien unter? - Cottbus verlängert mit Guwara",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Nach Remberg-Aus: Fehlt dem HSV auch Sambi Lokonga gegen Stuttgart?",
-      "source": "kicker",
-      "sentiment": 0.1
-    },
-    {
-      "title": "\"Ich weiß, dass er ungeduldig ist\": Thioune schraubt Weiser-Erwartungen zurück",
-      "source": "kicker",
-      "sentiment": 0.4
     }
   ]
 }
