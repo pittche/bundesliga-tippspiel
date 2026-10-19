@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Becks Wiederwahl und Applaus für Krösche? Das bietet Frankfurts Mitgliederversammlung",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Mister Omnipräsent: Krauß beißt sich in Kölns Mittelfeld durch",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kurz vor einer Einigung mit Milan? Eintracht bekäme Ablöse für Krösche",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Bandverletzung: BVB muss erneut auf Karetsas verzichten",
+      "source": "kicker",
+      "sentiment": -0.37
+    },
+    {
+      "title": "Noll-Festspiele: Die Alleingänge des \"besonderen Rundumpakets\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Nach Tennisball-Protest: Schuster kritisiert Freiburger Fans",
+      "source": "kicker",
+      "sentiment": -0.45
+    },
+    {
+      "title": "\"Im Kopf ist es drin\": Was Blessin Mut macht",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Ein halbes Dutzend Bayern und dreimal die Bestnote: Die kicker-Elf des 6. Spieltags",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Aus der zweiten Reihe in den Mittelpunkt: Prass reißt die TSG-Kollegen mit",
+      "source": "kicker",
+      "sentiment": -0.7
+    },
+    {
+      "title": "Blessin wird deutlich: \"Wir brauchen keine Duckmäuser\"",
+      "source": "kicker",
+      "sentiment": -0.5
+    },
+    {
+      "title": "\"Zocken im Käfig\": Maza erklärt Zauber-Assist, Schick nimmt ein Duo ins Visier",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Total ärgerlich\": Schuster hadert mit den Gegentoren",
+      "source": "kicker",
+      "sentiment": -0.5
+    },
+    {
+      "title": "Wie findest du die Trennung von Frankfurt und Krösche?",
+      "source": "kicker",
+      "sentiment": -0.85
+    },
+    {
+      "title": "Nächster langer Ausfall: Auch De Cat fehlt Hoffenheim",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Bestes Erkenntnis: \"Wir waren zu gierig\"",
+      "source": "kicker",
+      "sentiment": -0.5
+    },
+    {
+      "title": "Eintracht Frankfurt stellt Sportvorstand Krösche frei",
+      "source": "kicker",
+      "sentiment": -0.85
+    },
+    {
+      "title": "Harte Schalker Selbsturteile - und die Erkenntnis bei Dzeko",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Rätselraten beim VfB: \"Angebliches Muster\" oder mehr?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Dortmunds Suche nach der Durchschlagskraft",
+      "source": "kicker",
+      "sentiment": -0.35
+    },
+    {
+      "title": "Das Ende der wilden Aktionen: Wie Schäfer Union jetzt stabilisiert",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
       "title": "Collins gibt Rätsel auf: Baut Hütter die Eintracht-Abwehr erneut um?",
       "source": "kicker",
       "sentiment": -0.4
@@ -49,106 +149,6 @@
       "title": "Schäfer: \"Ein komplettes Versagen in allen Bereichen\"",
       "source": "kicker",
       "sentiment": 0
-    },
-    {
-      "title": "\"Saison geht jetzt erst richtig los\": Luis Diaz glänzt gegen überfordertes RB",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Überflieger Kane: Die meisten Tore in den ersten 100 Bundesliga-Spielen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kovac zu Karetsas-Verletzung: \"Nicht vom Glück geküsst\"",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Petkov nach Elfmeter-Show: \"Wusste nicht, wo oben und unten ist\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kovac unzufrieden: \"Für unsere Ansprüche zu wenig\"",
-      "source": "kicker",
-      "sentiment": -0.43
-    },
-    {
-      "title": "Füllkrug und eine Rückkehr ins DFB-Team: \"Warum nicht?\"",
-      "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Offensive Flaute: Schalke und die Sehnsucht nach Stürmer-Toren",
-      "source": "kicker",
-      "sentiment": -0.6
-    },
-    {
-      "title": "Faktor Volkspark, Muheim und der \"neu erfundene HSV\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Undav legt den Finger in die Wunde: \"Wir sind gerade keine Spitzenmannschaft\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "\"Im Moment nicht vom Glück geküsst\": BVB bangt erneut um Karetsas",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Wagner bedauert: \"Deswegen waren wir in der Phase zu tief drinnen\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Hütter mit Extralob an Koch: \"Hat gezeigt, was er imstande ist zu leisten\"",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "An Zahlen nicht ablesbar: Was Beier für Kovac so wertvoll macht",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Wer überträgt FC Bayern München gegen RB Leipzig live im TV und Stream?",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Eintracht atmet auf - \"Fest verankerte Kinderkrankheiten\" beim Effzeh",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "El Mala: \"Frankfurt war so tot\"",
-      "source": "kicker",
-      "sentiment": 0.17
-    },
-    {
-      "title": "Koch nach Kritik: \"Ich bin froh, dass ich es abbekomme\"",
-      "source": "kicker",
-      "sentiment": 0.05
-    },
-    {
-      "title": "Nächster Rückschlag: Pechvogel Terrier fehlt Leverkusen wochenlang",
-      "source": "kicker",
-      "sentiment": -0.07
-    },
-    {
-      "title": "Demichelis beeindruckt von Bayern: \"Das ist nicht normal im Fußball\"",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Kübler bleibt in Freiburg - Bellingham soll vorzeitig verlängern",
-      "source": "kicker",
-      "sentiment": 0.35
     }
   ]
 }
