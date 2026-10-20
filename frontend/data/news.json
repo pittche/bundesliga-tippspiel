@@ -1,6 +1,71 @@
 {
   "news": [
     {
+      "title": "Eintracht-Präsident Beck: \"Müssen verstärkt auf's NLZ bauen\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kunststück, Konzept und Kilometer: Wo Werder einen \"großen Schritt\" gemacht hat",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "99 Prozent: Eintracht Präsident Beck wiedergewählt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Krösche kämpft mit den Tränen: Die emotionale Abschiedsrede im Video",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Ablaufdatum 2035: Hellmann forciert die Stadionpläne in Frankfurt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Donnernder Applaus der Mitglieder - Krösche emotional wie nie",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Gouweleeuw zieht beim FCA gleich: Die Bundesliga-Rekordspieler der 18 Erstligisten",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Gladbacher Fanverband fordert Rücktritt des Borussia-Präsidiums",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Neuer Lack oder ein Pfeifkonzert? Mainz sucht das Auswärtsgefühl",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Matthäus: Was ihm bei Olise auffiel und er in Gladbach vermisst",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Ache steigt teilintegriert ins Training ein - Schmied muss pausieren",
+      "source": "kicker",
+      "sentiment": -0.26
+    },
+    {
+      "title": "Matthäus' Plädoyer: \"Klopp sollte über Füllkrug nachdenken\"",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "\"Wir werden den Laden nicht zusperren\": Schröder beschwört in der Krise den Zusammenhalt",
+      "source": "kicker",
+      "sentiment": -0.1
+    },
+    {
       "title": "Becks Wiederwahl und Applaus für Krösche? Das bietet Frankfurts Mitgliederversammlung",
       "source": "kicker",
       "sentiment": 0
@@ -82,71 +147,6 @@
     },
     {
       "title": "Harte Schalker Selbsturteile - und die Erkenntnis bei Dzeko",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Rätselraten beim VfB: \"Angebliches Muster\" oder mehr?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Dortmunds Suche nach der Durchschlagskraft",
-      "source": "kicker",
-      "sentiment": -0.35
-    },
-    {
-      "title": "Das Ende der wilden Aktionen: Wie Schäfer Union jetzt stabilisiert",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Collins gibt Rätsel auf: Baut Hütter die Eintracht-Abwehr erneut um?",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Ist Eggestein auf dem Weg zu einem neuen Scorerbestwert?",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Kanes Sonderrolle: Wie Bayern Leipzig demontierte",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Man musste warten, bis er wieder rausläuft, um sich Hilfe zu holen\"",
-      "source": "kicker",
-      "sentiment": -0.6
-    },
-    {
-      "title": "Demichelis entschuldigt sich und will nicht über Klostermann sprechen",
-      "source": "kicker",
-      "sentiment": -0.8
-    },
-    {
-      "title": "Ungewohnter PK-Gast: Eberl vertritt Kompany und erklärt dessen Fehlen",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Polzin: \"Der Weg, dem wir uns als HSV verschrieben haben\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Kimmich: \"Die ersten 60 waren schon auf einem anderen Level\"",
-      "source": "kicker",
-      "sentiment": 0.48
-    },
-    {
-      "title": "Hoeneß hadert mit HSV-Momenten: \"Besonders gerne gegen uns\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Schäfer: \"Ein komplettes Versagen in allen Bereichen\"",
       "source": "kicker",
       "sentiment": 0
     }
