@@ -1,6 +1,31 @@
 {
   "news": [
     {
+      "title": "Teamplayer da Costa: Erst Opfer, jetzt Gewinner",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Auch Spors ist ein Kandidat für die Krösche-Nachfolge",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Gosens verteidigt Schalkes Stürmer: Wir spielen \"Slow-Motion-Pässe\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Hellmann erklärt Strategiewandel - Krösche-Nachfolger soll abgeworben werden",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Ein Protagonist der Werder-Comebacks: Wer weicht für Weiser?",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
       "title": "Eintracht-Präsident Beck: \"Müssen verstärkt auf's NLZ bauen\"",
       "source": "kicker",
       "sentiment": 0
@@ -124,31 +149,6 @@
       "title": "\"Total ärgerlich\": Schuster hadert mit den Gegentoren",
       "source": "kicker",
       "sentiment": -0.5
-    },
-    {
-      "title": "Wie findest du die Trennung von Frankfurt und Krösche?",
-      "source": "kicker",
-      "sentiment": -0.85
-    },
-    {
-      "title": "Nächster langer Ausfall: Auch De Cat fehlt Hoffenheim",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Bestes Erkenntnis: \"Wir waren zu gierig\"",
-      "source": "kicker",
-      "sentiment": -0.5
-    },
-    {
-      "title": "Eintracht Frankfurt stellt Sportvorstand Krösche frei",
-      "source": "kicker",
-      "sentiment": -0.85
-    },
-    {
-      "title": "Harte Schalker Selbsturteile - und die Erkenntnis bei Dzeko",
-      "source": "kicker",
-      "sentiment": 0
     }
   ]
 }
