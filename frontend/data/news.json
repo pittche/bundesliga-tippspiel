@@ -1,6 +1,46 @@
 {
   "news": [
     {
+      "title": "Stögers Fehlstart-Hattrick: Warum Gladbach daraus Hoffnung schöpfen kann",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Argentinien vor Scaloni-Deal - Tresoldi rückt in Arsenals Fokus",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Viessmann-Deal durch: FC Bayern verkauft weitere Anteile",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Philippes besonderes Wiedersehen mit dem HSV",
+      "source": "kicker",
+      "sentiment": 0.05
+    },
+    {
+      "title": "Auf dem Weg zum Abwehrchef: Nach dem Horrorstart hat sich Uduokhai zügig stabilisiert",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Brasilianische Blitzintegration: Wie Arthur die Werder-Baustelle schloss",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Druck auf Claude-Maurice steigt: \"Liegt an Alexis, sich ins Team zu kämpfen\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Rolfes zu Kießling-Plakat: \"Vorher das Tornetz kontrollieren\"",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
       "title": "Teamplayer da Costa: Erst Opfer, jetzt Gewinner",
       "source": "kicker",
       "sentiment": 0
@@ -109,46 +149,6 @@
       "title": "Bandverletzung: BVB muss erneut auf Karetsas verzichten",
       "source": "kicker",
       "sentiment": -0.37
-    },
-    {
-      "title": "Noll-Festspiele: Die Alleingänge des \"besonderen Rundumpakets\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Nach Tennisball-Protest: Schuster kritisiert Freiburger Fans",
-      "source": "kicker",
-      "sentiment": -0.45
-    },
-    {
-      "title": "\"Im Kopf ist es drin\": Was Blessin Mut macht",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Ein halbes Dutzend Bayern und dreimal die Bestnote: Die kicker-Elf des 6. Spieltags",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Aus der zweiten Reihe in den Mittelpunkt: Prass reißt die TSG-Kollegen mit",
-      "source": "kicker",
-      "sentiment": -0.7
-    },
-    {
-      "title": "Blessin wird deutlich: \"Wir brauchen keine Duckmäuser\"",
-      "source": "kicker",
-      "sentiment": -0.5
-    },
-    {
-      "title": "\"Zocken im Käfig\": Maza erklärt Zauber-Assist, Schick nimmt ein Duo ins Visier",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Total ärgerlich\": Schuster hadert mit den Gegentoren",
-      "source": "kicker",
-      "sentiment": -0.5
     }
   ]
 }
