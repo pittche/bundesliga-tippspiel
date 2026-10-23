@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Das Bundesliga-Quiz zum 7. Spieltag",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Bundestrainer oder noch Experte? Kahn wundert sich über Klopp",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Wer überträgt Stuttgart gegen Gladbach heute live im TV & Stream?",
+      "source": "kicker",
+      "sentiment": -0.15
+    },
+    {
+      "title": "Chukwuemekas \"positiver Auftritt\" und ein Kniff von Kovac",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Bonhof weist Rücktrittsforderungen zurück - und lässt erneute Kandidatur offen",
+      "source": "kicker",
+      "sentiment": -0.27
+    },
+    {
+      "title": "Wagners Plan um Schalke zu schlagen: \"Die Basics des Fußballs leben\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Blessin über Stimmung: \"Ist ja klar, dass hier niemand Party macht\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Plötzlich Vorstandsboss: Wie Hellmann seine neue Rolle in Frankfurt interpretiert",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Hellmann über Transferstrategie der Eintracht: \"Modifikation ist das Zauberwort\"",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Augsburgs Kampf gegen die Krise und Gegentore zum Schluss",
+      "source": "kicker",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Schalker Personalsorgen: Wöber fehlt bis Jahresende, Karaman in Köln",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Baum: \"Ein Bayern-Spieler hat mehr Bundesliga-Minuten, als unsere ganze Mannschaft\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Was beim HSV für Polzin jetzt von \"unfassbarem Wert\" ist",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Bayern im Pech: Luis Diaz erleidet kleinen Muskelbündelriss",
+      "source": "kicker",
+      "sentiment": -0.03
+    },
+    {
+      "title": "Die zwei VfB-Gesichter: Wirklich keine \"Spitzenmannschaft\"?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Verletzungen auf Schalke häufen sich: \"Situation spitzt sich zu\"",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Thioune über die aktuelle Situation von Stark: \"Das tut mir auch persönlich leid\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Gladbach vor Negativrekord: Ohne Punkte und ohne Lidberg nach Stuttgart",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Gegen Atletico ausgewechselt: Vagnoman fehlt Stuttgart vorerst",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Adidas-Boom, El-Mala-Effekt, Eigenvermarktung: Der FC erwartet ein Rekordergebnis",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Stögers Fehlstart-Hattrick: Warum Gladbach daraus Hoffnung schöpfen kann",
       "source": "kicker",
       "sentiment": 0
@@ -49,106 +149,6 @@
       "title": "Auch Spors ist ein Kandidat für die Krösche-Nachfolge",
       "source": "kicker",
       "sentiment": 0
-    },
-    {
-      "title": "Gosens verteidigt Schalkes Stürmer: Wir spielen \"Slow-Motion-Pässe\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Hellmann erklärt Strategiewandel - Krösche-Nachfolger soll abgeworben werden",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Ein Protagonist der Werder-Comebacks: Wer weicht für Weiser?",
-      "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Eintracht-Präsident Beck: \"Müssen verstärkt auf's NLZ bauen\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kunststück, Konzept und Kilometer: Wo Werder einen \"großen Schritt\" gemacht hat",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "99 Prozent: Eintracht Präsident Beck wiedergewählt",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Krösche kämpft mit den Tränen: Die emotionale Abschiedsrede im Video",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Ablaufdatum 2035: Hellmann forciert die Stadionpläne in Frankfurt",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Donnernder Applaus der Mitglieder - Krösche emotional wie nie",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Gouweleeuw zieht beim FCA gleich: Die Bundesliga-Rekordspieler der 18 Erstligisten",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Gladbacher Fanverband fordert Rücktritt des Borussia-Präsidiums",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Neuer Lack oder ein Pfeifkonzert? Mainz sucht das Auswärtsgefühl",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Matthäus: Was ihm bei Olise auffiel und er in Gladbach vermisst",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Ache steigt teilintegriert ins Training ein - Schmied muss pausieren",
-      "source": "kicker",
-      "sentiment": -0.26
-    },
-    {
-      "title": "Matthäus' Plädoyer: \"Klopp sollte über Füllkrug nachdenken\"",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "\"Wir werden den Laden nicht zusperren\": Schröder beschwört in der Krise den Zusammenhalt",
-      "source": "kicker",
-      "sentiment": -0.1
-    },
-    {
-      "title": "Becks Wiederwahl und Applaus für Krösche? Das bietet Frankfurts Mitgliederversammlung",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Mister Omnipräsent: Krauß beißt sich in Kölns Mittelfeld durch",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kurz vor einer Einigung mit Milan? Eintracht bekäme Ablöse für Krösche",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Bandverletzung: BVB muss erneut auf Karetsas verzichten",
-      "source": "kicker",
-      "sentiment": -0.37
     }
   ]
 }
