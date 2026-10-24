@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Eberl über Kompany: \"Ihn ein Stück weit vor sich selbst beschützen\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Sander sieht in Gladbach das Signal zum Aufbruch",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Eberl bestätigt: Kompany bleibt \"einige Tage im Krankenhaus\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Es braucht mehr, um ein Spiel zu gewinnnen\": Hoeneß nimmt jeden in die Pflicht",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Blessin erleichtert: \"Natürlich die Totengräberstimmung mitbekommen\"",
+      "source": "kicker",
+      "sentiment": 0.47
+    },
+    {
+      "title": "Wer überträgt Borussia Dortmund gegen Eintracht Frankfurt live im TV & Stream?",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "\"Der VfB wird sich viele Fragen anhören müssen\": In Stuttgart liegt einiges im Argen",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Hoeneß: \"Es lief zu gut für uns\"",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "\"Unbeschreiblich gut\": Gladbach feiert Matchwinner Mohya",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Nach Kompanys Zusammenbruch: Spiel der Bayern-Amateure abgesagt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kimmich fehlt dem FC Bayern wohl auch in Freiburg",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Sorgen beim FC Bayern: Kompany in Krankenhaus eingeliefert",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Nicht im Abschlusstraining: Leipzig bangt um Nkunku",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "\"Ich bin nur hier, um ihn zu unterstützen, aber auch ihm die Augen zu öffnen\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Hütter-Aus\": Versprecher lässt SGE-Trainer schmunzeln",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Kovac vor Duell mit dem Ex-Klub: \"Wo ich arbeite, lasse ich mein Herz\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Die Mutter aller Handspiele? Als Held für den größten Aufreger der Saison 97/98 sorgte",
+      "source": "kicker",
+      "sentiment": 0.07
+    },
+    {
+      "title": "Hütter über Uzun: \"Dann wird er sich möglicherweise selbst im Weg stehen\"",
+      "source": "kicker",
+      "sentiment": 0.05
+    },
+    {
+      "title": "Kein Handyverbot für die Spieler bei Kovac - mit einer Ausnahme",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Zweistellige Ausfallliste: Auch Kapitän Diks fehlt Gladbach in Stuttgart",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
       "title": "Das Bundesliga-Quiz zum 7. Spieltag",
       "source": "kicker",
       "sentiment": 0
@@ -49,106 +149,6 @@
       "title": "Augsburgs Kampf gegen die Krise und Gegentore zum Schluss",
       "source": "kicker",
       "sentiment": -0.1
-    },
-    {
-      "title": "Schalker Personalsorgen: Wöber fehlt bis Jahresende, Karaman in Köln",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Baum: \"Ein Bayern-Spieler hat mehr Bundesliga-Minuten, als unsere ganze Mannschaft\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Was beim HSV für Polzin jetzt von \"unfassbarem Wert\" ist",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Bayern im Pech: Luis Diaz erleidet kleinen Muskelbündelriss",
-      "source": "kicker",
-      "sentiment": -0.03
-    },
-    {
-      "title": "Die zwei VfB-Gesichter: Wirklich keine \"Spitzenmannschaft\"?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Verletzungen auf Schalke häufen sich: \"Situation spitzt sich zu\"",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Thioune über die aktuelle Situation von Stark: \"Das tut mir auch persönlich leid\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Gladbach vor Negativrekord: Ohne Punkte und ohne Lidberg nach Stuttgart",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Gegen Atletico ausgewechselt: Vagnoman fehlt Stuttgart vorerst",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Adidas-Boom, El-Mala-Effekt, Eigenvermarktung: Der FC erwartet ein Rekordergebnis",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Stögers Fehlstart-Hattrick: Warum Gladbach daraus Hoffnung schöpfen kann",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Argentinien vor Scaloni-Deal - Tresoldi rückt in Arsenals Fokus",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Viessmann-Deal durch: FC Bayern verkauft weitere Anteile",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Philippes besonderes Wiedersehen mit dem HSV",
-      "source": "kicker",
-      "sentiment": 0.05
-    },
-    {
-      "title": "Auf dem Weg zum Abwehrchef: Nach dem Horrorstart hat sich Uduokhai zügig stabilisiert",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Brasilianische Blitzintegration: Wie Arthur die Werder-Baustelle schloss",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Druck auf Claude-Maurice steigt: \"Liegt an Alexis, sich ins Team zu kämpfen\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Rolfes zu Kießling-Plakat: \"Vorher das Tornetz kontrollieren\"",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Teamplayer da Costa: Erst Opfer, jetzt Gewinner",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Auch Spors ist ein Kandidat für die Krösche-Nachfolge",
-      "source": "kicker",
-      "sentiment": 0
     }
   ]
 }
