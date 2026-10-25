@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Karl schockt Freiburg: Bayerns denkwürdiges Last-Minute-Comeback",
+      "source": "kicker",
+      "sentiment": 0.55
+    },
+    {
+      "title": "Kuriosum an der Bundesliga-Tabellenspitze: Das hat es noch nicht gegeben",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Das Für und Wider des Elversberger Spielstils",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Thioune erklärt Füllkrugs Ärger bei der Auswechslung",
+      "source": "kicker",
+      "sentiment": -0.5
+    },
+    {
+      "title": "Klose & Co. reagieren auf Kompany-Schock: \"Wir sind alle stur\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Wer überträgt SC Freiburg gegen Bayern München heute live im TV & Stream?",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
+      "title": "Polzin schimpft über Gegentor: \"Es ist ein klares Foulspiel\"",
+      "source": "kicker",
+      "sentiment": -0.5
+    },
+    {
+      "title": "Hütter schwärmt von Aseko: \"Das gefällt uns Trainern\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kovac gibt Darts-Ticket an Beier weiter: \"Er ist ein toller Kerl\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kovac und Hütter schicken Genesungswünsche an Kompany",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "FCA kündigt Anzeigen an: Bah nach Platzverweis rassistisch beleidigt",
+      "source": "kicker",
+      "sentiment": -0.6
+    },
+    {
+      "title": "\"Das sind die Finisher\": Kovac freut sich über seine Auswahlmöglichkeiten",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Trotz Reisestrapazen: \"Fitnessfanatiker\" Kovac beweist erneut Händchen",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
+      "title": "\"Leider Gottes hat es ihn zerlegt\": Wagner bestätigt Gyamerah-Verletzung",
+      "source": "kicker",
+      "sentiment": -0.45
+    },
+    {
+      "title": "Wagner zu Pfiffen der Fans: \"Erwartungshaltung ist riesig\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Leipzig luchst Bayern einen Bundesliga-Rekord ab",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Muslic dankt den Köln-Fans: \"Applaus zeugt von Größe\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Neuer fehlt den Bayern in Freiburg - Auch Pavlovic fällt wohl aus",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "\"Zuschauern stockte der Atem\": Zusammenprall überschattet Schalke-Remis",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Rekordsieg ohne Glanz: \"Ergebnis besser als der Vortrag\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
       "title": "Eberl über Kompany: \"Ihn ein Stück weit vor sich selbst beschützen\"",
       "source": "kicker",
       "sentiment": 0
@@ -49,106 +149,6 @@
       "title": "Nach Kompanys Zusammenbruch: Spiel der Bayern-Amateure abgesagt",
       "source": "kicker",
       "sentiment": 0
-    },
-    {
-      "title": "Kimmich fehlt dem FC Bayern wohl auch in Freiburg",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Sorgen beim FC Bayern: Kompany in Krankenhaus eingeliefert",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Nicht im Abschlusstraining: Leipzig bangt um Nkunku",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "\"Ich bin nur hier, um ihn zu unterstützen, aber auch ihm die Augen zu öffnen\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Hütter-Aus\": Versprecher lässt SGE-Trainer schmunzeln",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Kovac vor Duell mit dem Ex-Klub: \"Wo ich arbeite, lasse ich mein Herz\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Die Mutter aller Handspiele? Als Held für den größten Aufreger der Saison 97/98 sorgte",
-      "source": "kicker",
-      "sentiment": 0.07
-    },
-    {
-      "title": "Hütter über Uzun: \"Dann wird er sich möglicherweise selbst im Weg stehen\"",
-      "source": "kicker",
-      "sentiment": 0.05
-    },
-    {
-      "title": "Kein Handyverbot für die Spieler bei Kovac - mit einer Ausnahme",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Zweistellige Ausfallliste: Auch Kapitän Diks fehlt Gladbach in Stuttgart",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Das Bundesliga-Quiz zum 7. Spieltag",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Bundestrainer oder noch Experte? Kahn wundert sich über Klopp",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wer überträgt Stuttgart gegen Gladbach heute live im TV & Stream?",
-      "source": "kicker",
-      "sentiment": -0.15
-    },
-    {
-      "title": "Chukwuemekas \"positiver Auftritt\" und ein Kniff von Kovac",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Bonhof weist Rücktrittsforderungen zurück - und lässt erneute Kandidatur offen",
-      "source": "kicker",
-      "sentiment": -0.27
-    },
-    {
-      "title": "Wagners Plan um Schalke zu schlagen: \"Die Basics des Fußballs leben\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Blessin über Stimmung: \"Ist ja klar, dass hier niemand Party macht\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Plötzlich Vorstandsboss: Wie Hellmann seine neue Rolle in Frankfurt interpretiert",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Hellmann über Transferstrategie der Eintracht: \"Modifikation ist das Zauberwort\"",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Augsburgs Kampf gegen die Krise und Gegentore zum Schluss",
-      "source": "kicker",
-      "sentiment": -0.1
     }
   ]
 }
