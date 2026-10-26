@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Gouweleeuw löst beim FCA Baier ab: Die Bundesliga-Rekordspieler der 18 Erstligisten",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Vielleicht hat Hoeneß Undav damit keinen Gefallen getan\"",
+      "source": "kicker",
+      "sentiment": -0.65
+    },
+    {
+      "title": "Gomis: Auf dem besten Weg zur festen Größe",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Die 300 ist Gouweleeuws nächstes Ziel",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Historischer Kramaric? Ilzer: \"Hat ein Vermächtnis geschaffen\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Danks: Upamecano \"fast schon Harry-Kane-mäßig\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Danks: \"Vielleicht waren ein, zwei Spieler ein wenig erschöpft\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "\"Natürlich kotzt mich das an\": Freiburgs Ernüchterung nach den Top-Spielen",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "\"Mehr wert als ein Sieg\": Bayern mit \"bester Medizin\" nach schwieriger Woche",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Starke Torjäger, drei Münchner und eine Gladbacher Eins: Die kicker-Elf des 7. Spieltags",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Danks zu Kompany: \"Super, und jetzt ruh dich wieder aus\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Kein Pfiff nach Badés schlimmem Zusammenprall: Schiedsrichter Hartmann erklärt sich",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Ilzer: \"Heute dürfen wir uns auf die Schulter klopfen\"",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Kompany-Vertreter Danks: \"Als Erstes war da eine WhatsApp von Vince\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kramaric nach Prass-Jubel: \"Ein guter Spieler, aber ein bisschen dumm\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Warum Gadou in Baku und gegen Frankfurt auf der Bank saß",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Hoffenheims perfekte Woche: \"Das kann die Wende sein\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Mehr als nur Philippe: Wie auch Götze und Co. das Paderborner Spiel beleben",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Augsburgs Start verblasst: Erst das Mittelmaß, dann die Abwehrnot",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Der BVB zeigt wieder Kovac-Qualitäten - auch dessen \"Nummer-eins-Ding\"",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
       "title": "Karl schockt Freiburg: Bayerns denkwürdiges Last-Minute-Comeback",
       "source": "kicker",
       "sentiment": 0.55
@@ -47,106 +147,6 @@
     },
     {
       "title": "Kovac und Hütter schicken Genesungswünsche an Kompany",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "FCA kündigt Anzeigen an: Bah nach Platzverweis rassistisch beleidigt",
-      "source": "kicker",
-      "sentiment": -0.6
-    },
-    {
-      "title": "\"Das sind die Finisher\": Kovac freut sich über seine Auswahlmöglichkeiten",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Trotz Reisestrapazen: \"Fitnessfanatiker\" Kovac beweist erneut Händchen",
-      "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "\"Leider Gottes hat es ihn zerlegt\": Wagner bestätigt Gyamerah-Verletzung",
-      "source": "kicker",
-      "sentiment": -0.45
-    },
-    {
-      "title": "Wagner zu Pfiffen der Fans: \"Erwartungshaltung ist riesig\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Leipzig luchst Bayern einen Bundesliga-Rekord ab",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Muslic dankt den Köln-Fans: \"Applaus zeugt von Größe\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Neuer fehlt den Bayern in Freiburg - Auch Pavlovic fällt wohl aus",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "\"Zuschauern stockte der Atem\": Zusammenprall überschattet Schalke-Remis",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Rekordsieg ohne Glanz: \"Ergebnis besser als der Vortrag\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Eberl über Kompany: \"Ihn ein Stück weit vor sich selbst beschützen\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Sander sieht in Gladbach das Signal zum Aufbruch",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Eberl bestätigt: Kompany bleibt \"einige Tage im Krankenhaus\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Es braucht mehr, um ein Spiel zu gewinnnen\": Hoeneß nimmt jeden in die Pflicht",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Blessin erleichtert: \"Natürlich die Totengräberstimmung mitbekommen\"",
-      "source": "kicker",
-      "sentiment": 0.47
-    },
-    {
-      "title": "Wer überträgt Borussia Dortmund gegen Eintracht Frankfurt live im TV & Stream?",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "\"Der VfB wird sich viele Fragen anhören müssen\": In Stuttgart liegt einiges im Argen",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Hoeneß: \"Es lief zu gut für uns\"",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "\"Unbeschreiblich gut\": Gladbach feiert Matchwinner Mohya",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Nach Kompanys Zusammenbruch: Spiel der Bayern-Amateure abgesagt",
       "source": "kicker",
       "sentiment": 0
     }
