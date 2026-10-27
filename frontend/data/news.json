@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Vuskovic-Verlängerung beim HSV wohl nur Formsache",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "\"Das ist einfach das Traurige\": Baumgart äußert sich zum Union-Aus",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kane kann es nicht glauben: Ronaldo verkündet den Ballon-d'Or-Sieger",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Kane dankt Olise und Co.: \"Ermöglichen mir, der Spieler zu sein, der ich bin\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Der Ballon d'Or für die Bundesliga\": Kane versetzt London in Ekstase",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "\"Du bist verdammt nochmal brillant\": Müller gratuliert Kane zum Ballon-d'Or-Sieg",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Das Lächeln eines Siegers? Harry Kane bei der Ankunft lautstark umjubelt",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
+      "title": "\"Die Fans hatten uns das nicht zugetraut\": EM-Helden von 96 feiern Jubiläum",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "\"Halb so wild\": Prass gibt überraschende Einblicke zu seinem Platzverweis",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "\"Kurz vor einer Massenpanik\": Enges Gedränge unter Fans sorgt für \"pures Chaos\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Französisches Duo verletzt: Badé und Diaby fehlen Leverkusen",
+      "source": "kicker",
+      "sentiment": -0.45
+    },
+    {
+      "title": "Bei Union nach hinten beordert: Warum auf Haberer als Rechtsverteidiger Verlass ist",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Schuster über Trainergesundheit: Selbstkritik, Selbstpflege und kurze Amtszeiten",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Union muss zwei Spiele auf Uduokhai verzichten",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Nach grobem Foulspiel: Bah für zwei Spiele gesperrt",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "HSV: Zwei neue Schocks und Pause bei Poulsen",
+      "source": "kicker",
+      "sentiment": 0.07
+    },
+    {
+      "title": "Kompany, Kimmich & Co.: So geht es bei den Bayern in dieser Woche weiter",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Kleiner Erfolg im großen Ärger: Kölns Defensive stabilisiert sich immer weiter",
+      "source": "kicker",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Gibt es die Krönung für Kane? \"Beim FC Bayern sind sie sich nicht sicher\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Er hat keinen einfachen Stand\": Tor-Held Philippe und der kritische Blick seines Trainers",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Gouweleeuw löst beim FCA Baier ab: Die Bundesliga-Rekordspieler der 18 Erstligisten",
       "source": "kicker",
       "sentiment": 0
@@ -49,106 +149,6 @@
       "title": "Starke Torjäger, drei Münchner und eine Gladbacher Eins: Die kicker-Elf des 7. Spieltags",
       "source": "kicker",
       "sentiment": 0.6
-    },
-    {
-      "title": "Danks zu Kompany: \"Super, und jetzt ruh dich wieder aus\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Kein Pfiff nach Badés schlimmem Zusammenprall: Schiedsrichter Hartmann erklärt sich",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Ilzer: \"Heute dürfen wir uns auf die Schulter klopfen\"",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Kompany-Vertreter Danks: \"Als Erstes war da eine WhatsApp von Vince\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kramaric nach Prass-Jubel: \"Ein guter Spieler, aber ein bisschen dumm\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Warum Gadou in Baku und gegen Frankfurt auf der Bank saß",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Hoffenheims perfekte Woche: \"Das kann die Wende sein\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Mehr als nur Philippe: Wie auch Götze und Co. das Paderborner Spiel beleben",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Augsburgs Start verblasst: Erst das Mittelmaß, dann die Abwehrnot",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Der BVB zeigt wieder Kovac-Qualitäten - auch dessen \"Nummer-eins-Ding\"",
-      "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Karl schockt Freiburg: Bayerns denkwürdiges Last-Minute-Comeback",
-      "source": "kicker",
-      "sentiment": 0.55
-    },
-    {
-      "title": "Kuriosum an der Bundesliga-Tabellenspitze: Das hat es noch nicht gegeben",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Das Für und Wider des Elversberger Spielstils",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Thioune erklärt Füllkrugs Ärger bei der Auswechslung",
-      "source": "kicker",
-      "sentiment": -0.5
-    },
-    {
-      "title": "Klose & Co. reagieren auf Kompany-Schock: \"Wir sind alle stur\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wer überträgt SC Freiburg gegen Bayern München heute live im TV & Stream?",
-      "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Polzin schimpft über Gegentor: \"Es ist ein klares Foulspiel\"",
-      "source": "kicker",
-      "sentiment": -0.5
-    },
-    {
-      "title": "Hütter schwärmt von Aseko: \"Das gefällt uns Trainern\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kovac gibt Darts-Ticket an Beier weiter: \"Er ist ein toller Kerl\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kovac und Hütter schicken Genesungswünsche an Kompany",
-      "source": "kicker",
-      "sentiment": 0
     }
   ]
 }
