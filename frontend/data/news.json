@@ -1,6 +1,36 @@
 {
   "news": [
     {
+      "title": "Aufschwung und Alternativen: Gladbach bereit für Paderborn",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Wie sonst nur Harry Kane: Krauß' besondere Rolle beim 1. FC Köln",
+      "source": "kicker",
+      "sentiment": 0.7
+    },
+    {
+      "title": "Auf den Spuren des Ballon-d'Or-Siegers: Wo für Kane alles begann",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Lehrreiche Tage: Was Treu \"ankotzt\" und Freiburg lernen muss",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kramaric: \"In zwei Spielen sechs Scorerpunkte zu sammeln, ist schon krank\"",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Vuskovic-Verlängerung beim HSV wohl nur Formsache - Carrick darf bleiben",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
       "title": "Vuskovic-Verlängerung beim HSV wohl nur Formsache",
       "source": "kicker",
       "sentiment": 0.35
@@ -119,36 +149,6 @@
       "title": "Die 300 ist Gouweleeuws nächstes Ziel",
       "source": "kicker",
       "sentiment": 0
-    },
-    {
-      "title": "Historischer Kramaric? Ilzer: \"Hat ein Vermächtnis geschaffen\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Danks: Upamecano \"fast schon Harry-Kane-mäßig\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Danks: \"Vielleicht waren ein, zwei Spieler ein wenig erschöpft\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "\"Natürlich kotzt mich das an\": Freiburgs Ernüchterung nach den Top-Spielen",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "\"Mehr wert als ein Sieg\": Bayern mit \"bester Medizin\" nach schwieriger Woche",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Starke Torjäger, drei Münchner und eine Gladbacher Eins: Die kicker-Elf des 7. Spieltags",
-      "source": "kicker",
-      "sentiment": 0.6
     }
   ]
 }
