@@ -1,6 +1,51 @@
 {
   "news": [
     {
+      "title": "SGE-Kandidat Spycher verlässt Bern - aber erst im Sommer 2027",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Vom Bankdrücker zum Hoffnungsträger: Chukwuemeka deutet seine Fähigkeiten an",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Problemlöser Keitel wird gegen den Ex-Klub wichtig",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kein Krösche-Nachfolger: Spycher bleibt aus privaten Gründen bei den Young Boys",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Eberl bestätigt: Kompany nach Hirnhautreizung aus Krankenhaus entlassen",
+      "source": "kicker",
+      "sentiment": -0.9
+    },
+    {
+      "title": "Stadioneinweihung in Nairobi: Bayern trifft auf Ajax",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Schon die Trendwende? Wie \"Ausnahmespieler\" Uzun seinem Trainer ein Kompliment entlockt",
+      "source": "kicker",
+      "sentiment": 0.55
+    },
+    {
+      "title": "Nach Sieberts Verletzung: Stieler soll den Klassiker pfeifen",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Daumen schon gesenkt? Rose springt Demichelis zur Seite",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
       "title": "Aufschwung und Alternativen: Gladbach bereit für Paderborn",
       "source": "kicker",
       "sentiment": 0.5
@@ -104,51 +149,6 @@
       "title": "Nach grobem Foulspiel: Bah für zwei Spiele gesperrt",
       "source": "kicker",
       "sentiment": -0.3
-    },
-    {
-      "title": "HSV: Zwei neue Schocks und Pause bei Poulsen",
-      "source": "kicker",
-      "sentiment": 0.07
-    },
-    {
-      "title": "Kompany, Kimmich & Co.: So geht es bei den Bayern in dieser Woche weiter",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Kleiner Erfolg im großen Ärger: Kölns Defensive stabilisiert sich immer weiter",
-      "source": "kicker",
-      "sentiment": -0.05
-    },
-    {
-      "title": "Gibt es die Krönung für Kane? \"Beim FC Bayern sind sie sich nicht sicher\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Er hat keinen einfachen Stand\": Tor-Held Philippe und der kritische Blick seines Trainers",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Gouweleeuw löst beim FCA Baier ab: Die Bundesliga-Rekordspieler der 18 Erstligisten",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Vielleicht hat Hoeneß Undav damit keinen Gefallen getan\"",
-      "source": "kicker",
-      "sentiment": -0.65
-    },
-    {
-      "title": "Gomis: Auf dem besten Weg zur festen Größe",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Die 300 ist Gouweleeuws nächstes Ziel",
-      "source": "kicker",
-      "sentiment": 0
     }
   ]
 }
