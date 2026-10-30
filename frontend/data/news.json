@@ -1,6 +1,101 @@
 {
   "news": [
     {
+      "title": "Kimmich vor Comeback: \"Alltag, nichts sehnt der FC Bayern mehr herbei\"",
+      "source": "kicker",
+      "sentiment": 0.43
+    },
+    {
+      "title": "Danks wählt Tier-Vergleich: \"Wie das Zebra und der Strauß in der Savanne\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Die Bayern und die Frage: Wann ist Alltag?",
+      "source": "kicker",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Muss ein Bayern-Trainer Deutsch sprechen? Danks: \"Arbeite hart daran\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Eberl zu Kimmich-Unterstützung: \"Wir labern das nicht nur\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kimmich kehrt wohl zurück - Für Neuer kommt das BVB-Spiel \"zu früh\"",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Frankfurt erweitert Hardungs Kompetenzen und bindet Rode ein",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Blessin warnt: \"Wenn wir es zu schnell spielerisch lösen wollen\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Ein Duell auf Augenhöhe? Die Show zum Topspiel FCB vs. BVB",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Wann hat Borussia Dortmund zuletzt gegen Bayern gewonnen?",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Thioune stellt klar: \"Ich tue mich schwer, jetzt nur von einem Torwartfehler zu sprechen\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Gladbachs Lazarett lichtet sich - aber Blessin bremst bei Kleindienst",
+      "source": "kicker",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Dauerbrenner Stiller fehlt Stuttgart in Leverkusen",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Fraktur des Wadenbeins: Nächster schwerer Rückschlag für Hoffenheims Gendrey",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "BVB \"nah dran\" an Bayern - Karetsas-Entscheidung am Freitag",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kovac lobt Kane: \"Richtig großen Sprung gemacht\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kovac: \"Endlich mal ein spannendes Aufeinandertreffen\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Chatzialexiou und Frankfurt: Die Anzeichen verdichten sich",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Das Bundesliga-Quiz zum 8. Spieltag",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "SGE-Kandidat Spycher verlässt Bern - aber erst im Sommer 2027",
       "source": "kicker",
       "sentiment": 0.35
@@ -54,101 +149,6 @@
       "title": "Wie sonst nur Harry Kane: Krauß' besondere Rolle beim 1. FC Köln",
       "source": "kicker",
       "sentiment": 0.7
-    },
-    {
-      "title": "Auf den Spuren des Ballon-d'Or-Siegers: Wo für Kane alles begann",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Lehrreiche Tage: Was Treu \"ankotzt\" und Freiburg lernen muss",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kramaric: \"In zwei Spielen sechs Scorerpunkte zu sammeln, ist schon krank\"",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Vuskovic-Verlängerung beim HSV wohl nur Formsache - Carrick darf bleiben",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Vuskovic-Verlängerung beim HSV wohl nur Formsache",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "\"Das ist einfach das Traurige\": Baumgart äußert sich zum Union-Aus",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kane kann es nicht glauben: Ronaldo verkündet den Ballon-d'Or-Sieger",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Kane dankt Olise und Co.: \"Ermöglichen mir, der Spieler zu sein, der ich bin\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Der Ballon d'Or für die Bundesliga\": Kane versetzt London in Ekstase",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "\"Du bist verdammt nochmal brillant\": Müller gratuliert Kane zum Ballon-d'Or-Sieg",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Das Lächeln eines Siegers? Harry Kane bei der Ankunft lautstark umjubelt",
-      "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "\"Die Fans hatten uns das nicht zugetraut\": EM-Helden von 96 feiern Jubiläum",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "\"Halb so wild\": Prass gibt überraschende Einblicke zu seinem Platzverweis",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "\"Kurz vor einer Massenpanik\": Enges Gedränge unter Fans sorgt für \"pures Chaos\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Französisches Duo verletzt: Badé und Diaby fehlen Leverkusen",
-      "source": "kicker",
-      "sentiment": -0.45
-    },
-    {
-      "title": "Bei Union nach hinten beordert: Warum auf Haberer als Rechtsverteidiger Verlass ist",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Schuster über Trainergesundheit: Selbstkritik, Selbstpflege und kurze Amtszeiten",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Union muss zwei Spiele auf Uduokhai verzichten",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Nach grobem Foulspiel: Bah für zwei Spiele gesperrt",
-      "source": "kicker",
-      "sentiment": -0.3
     }
   ]
 }
