@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Wagner rechnet den Klassenerhalt vor: \"Höhere Mathematik\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Einigung erzielt: Chatzialexiou wird Sportvorstand in Frankfurt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Fußball mit Grusel-Faktor: Welche Partien Fans auf beiden Seiten erschauern ließen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Wagners Mahnruf nach SVE-Sieg: Junge Nationalspieler werden \"durch den Fleischwolf gedreht\"",
+      "source": "kicker",
+      "sentiment": 0.05
+    },
+    {
+      "title": "Zentner: \"Wir haben uns wie eine Schulmannschaft verkauft\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Nach Bandverletzung: Karetsas kehrt gegen den FC Bayern zurück",
+      "source": "kicker",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Schuster über Gregoritsch: \"Wahnsinnstyp und geradeheraus\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Fanszenen bestärken Forderungen zum Ende von 50+1-Ausnahmen",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "\"Andere Hausnummer, vor 60.000 zu kicken\": Hütter will Ilicevic behutsam aufbauen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Bundesliga-Rekord winkt: Eintracht-Juwel Ilicevic vor Debüt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Demichelis über Dzeko: \"Wahnsinn, dass er immer noch spielt\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Dantes \"Tor-Klau\", Kobels Bock: Die besten Duelle zwischen Bayern und dem BVB",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "BVB ohne Chance? Das sagen die Zahlen, wenn ein Spitzenreiter auf den direkten Verfolger trifft",
+      "source": "kicker",
+      "sentiment": 0.2
+    },
+    {
+      "title": "Torunarigha lindert Hamburgs Abwehrsorgen - Fragezeichen bei Bornauw",
+      "source": "kicker",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Wagner: \"Von Steffen Baumgart gibt es viele goldene Ratschläge\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Disziplin-Appell von Muslic: \"Das haben wir Hee-Chan versucht zu erklären\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "\"Option für die Startelf\": Gendreys Pech ist Abrahas Chance",
+      "source": "kicker",
+      "sentiment": -0.5
+    },
+    {
+      "title": "Wer überträgt FC Bayern München gegen den BVB live im TV und Stream?",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Erstmals seit neun Jahren: Schalker Verbindlichkeiten sinken unter 100 Millionen Euro",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Wann geht es wo wieder los? Der Rahmenterminkalender für die Saison 2027/28",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Kimmich vor Comeback: \"Alltag, nichts sehnt der FC Bayern mehr herbei\"",
       "source": "kicker",
       "sentiment": 0.43
@@ -49,106 +149,6 @@
       "title": "Wann hat Borussia Dortmund zuletzt gegen Bayern gewonnen?",
       "source": "kicker",
       "sentiment": 0.5
-    },
-    {
-      "title": "Thioune stellt klar: \"Ich tue mich schwer, jetzt nur von einem Torwartfehler zu sprechen\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Gladbachs Lazarett lichtet sich - aber Blessin bremst bei Kleindienst",
-      "source": "kicker",
-      "sentiment": -0.05
-    },
-    {
-      "title": "Dauerbrenner Stiller fehlt Stuttgart in Leverkusen",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Fraktur des Wadenbeins: Nächster schwerer Rückschlag für Hoffenheims Gendrey",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "BVB \"nah dran\" an Bayern - Karetsas-Entscheidung am Freitag",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kovac lobt Kane: \"Richtig großen Sprung gemacht\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kovac: \"Endlich mal ein spannendes Aufeinandertreffen\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Chatzialexiou und Frankfurt: Die Anzeichen verdichten sich",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Das Bundesliga-Quiz zum 8. Spieltag",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "SGE-Kandidat Spycher verlässt Bern - aber erst im Sommer 2027",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Vom Bankdrücker zum Hoffnungsträger: Chukwuemeka deutet seine Fähigkeiten an",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Problemlöser Keitel wird gegen den Ex-Klub wichtig",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kein Krösche-Nachfolger: Spycher bleibt aus privaten Gründen bei den Young Boys",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Eberl bestätigt: Kompany nach Hirnhautreizung aus Krankenhaus entlassen",
-      "source": "kicker",
-      "sentiment": -0.9
-    },
-    {
-      "title": "Stadioneinweihung in Nairobi: Bayern trifft auf Ajax",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Schon die Trendwende? Wie \"Ausnahmespieler\" Uzun seinem Trainer ein Kompliment entlockt",
-      "source": "kicker",
-      "sentiment": 0.55
-    },
-    {
-      "title": "Nach Sieberts Verletzung: Stieler soll den Klassiker pfeifen",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Daumen schon gesenkt? Rose springt Demichelis zur Seite",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Aufschwung und Alternativen: Gladbach bereit für Paderborn",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Wie sonst nur Harry Kane: Krauß' besondere Rolle beim 1. FC Köln",
-      "source": "kicker",
-      "sentiment": 0.7
     }
   ]
 }
