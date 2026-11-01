@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "Infektion international: Wie sich bei Werder alle gegenseitig anstecken",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Abraha wandelt bei der TSG auf Süles Spuren",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Gladbacher Torwartfrage: Batz reicht seine Bewerbung ein",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Kam sehr aggressiv auf mich zu\": Hwang erklärt seinen Schubser",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Bayern und BVB gleichauf: Wer wird Herbstmeister?",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Bayerns Lehren nach dem teuren Klassiker",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Maza teilt gegen Schiedsrichter Brand aus: \"Das war bodenlos\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Eberls Spitze gegen Ballack wegen Karl",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Wer überträgt Eintracht Frankfurt gegen den HSV live im TV und Stream?",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "BVB-Profis schwärmen von Kovacs \"genialem Schachzug\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kovac zu Kimmich-Umarmung: \"Geste war menschlich\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Teures Unentschieden\" für Bayern - und was dem BVB Mut macht",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Schlotterbeck: \"Wir werden in Deutschland immer noch unterschätzt\"",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Danks erklärt, warum er Karl erst so spät einwechselte",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Baum und die Brandrede: \"Was mir mega stinkt …\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Kimmich: \"Gerade auf dem Platz muss ich an meinen Vater denken\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Bayern bangt um Saibari und Gnabry - Auch Olise muss runter",
+      "source": "kicker",
+      "sentiment": -0.5
+    },
+    {
+      "title": "Ilzer trotz Pleite gelassen: \"Mir ist nicht bange um mein Team\"",
+      "source": "kicker",
+      "sentiment": -0.6
+    },
+    {
+      "title": "Muslic: \"Nur mit gut verteidigen werden wir die Ziele nicht erreichen\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Martinez nimmt es locker: \"Die Stimmung kocht manchmal hoch\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Wagner rechnet den Klassenerhalt vor: \"Höhere Mathematik\"",
       "source": "kicker",
       "sentiment": 0.5
@@ -49,106 +149,6 @@
       "title": "Bundesliga-Rekord winkt: Eintracht-Juwel Ilicevic vor Debüt",
       "source": "kicker",
       "sentiment": 0
-    },
-    {
-      "title": "Demichelis über Dzeko: \"Wahnsinn, dass er immer noch spielt\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Dantes \"Tor-Klau\", Kobels Bock: Die besten Duelle zwischen Bayern und dem BVB",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "BVB ohne Chance? Das sagen die Zahlen, wenn ein Spitzenreiter auf den direkten Verfolger trifft",
-      "source": "kicker",
-      "sentiment": 0.2
-    },
-    {
-      "title": "Torunarigha lindert Hamburgs Abwehrsorgen - Fragezeichen bei Bornauw",
-      "source": "kicker",
-      "sentiment": -0.05
-    },
-    {
-      "title": "Wagner: \"Von Steffen Baumgart gibt es viele goldene Ratschläge\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Disziplin-Appell von Muslic: \"Das haben wir Hee-Chan versucht zu erklären\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "\"Option für die Startelf\": Gendreys Pech ist Abrahas Chance",
-      "source": "kicker",
-      "sentiment": -0.5
-    },
-    {
-      "title": "Wer überträgt FC Bayern München gegen den BVB live im TV und Stream?",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Erstmals seit neun Jahren: Schalker Verbindlichkeiten sinken unter 100 Millionen Euro",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Wann geht es wo wieder los? Der Rahmenterminkalender für die Saison 2027/28",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kimmich vor Comeback: \"Alltag, nichts sehnt der FC Bayern mehr herbei\"",
-      "source": "kicker",
-      "sentiment": 0.43
-    },
-    {
-      "title": "Danks wählt Tier-Vergleich: \"Wie das Zebra und der Strauß in der Savanne\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Die Bayern und die Frage: Wann ist Alltag?",
-      "source": "kicker",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Muss ein Bayern-Trainer Deutsch sprechen? Danks: \"Arbeite hart daran\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Eberl zu Kimmich-Unterstützung: \"Wir labern das nicht nur\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kimmich kehrt wohl zurück - Für Neuer kommt das BVB-Spiel \"zu früh\"",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Frankfurt erweitert Hardungs Kompetenzen und bindet Rode ein",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Blessin warnt: \"Wenn wir es zu schnell spielerisch lösen wollen\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Ein Duell auf Augenhöhe? Die Show zum Topspiel FCB vs. BVB",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Wann hat Borussia Dortmund zuletzt gegen Bayern gewonnen?",
-      "source": "kicker",
-      "sentiment": 0.5
     }
   ]
 }
