@@ -1,6 +1,106 @@
 {
   "news": [
     {
+      "title": "HSV: Die Hoffnung auf Rückkehrer",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Rotwürdiges Foul gegen El Mala? Kamera-Panne verhindert VAR-Entscheidung",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Absolut überzeugt\": Baumann stärkt Muslic den Rücken",
+      "source": "kicker",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Auch Hranac unterm Messer: Hoffenheims Personalnot noch schlimmer",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Wie die Eintracht mit dem Hype um Ausnahmetalent Ilicevic umgehen will",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Wer bei der Kopa-Trophäe für Karl stimmte - und wie Messi die Wahl entschied",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Demirovics symbolischer Jubel: \"Ich bin froh, für den VfB zu spielen\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "RWE kündigt Koschinat-Verhandlungen an - Deutscher Trainer muss in Den Haag gehen",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "\"Weit mehr gezeigt, als man erwarten kann\": Hütter schwärmt von Ilicevic",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"War ich aufgebracht?\": Polzin hadert mit Schiri-Entscheidung",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Stuttgarter, Münchner und Leipziger Übergewicht: Die kicker-Elf des 8. Spieltags",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Er will mich nur besser machen\": Uzun sieht Hütter-Kritik gelassen",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Die Nusa-Hausse - endlich auch in der Champions League?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Er hat gezeigt, dass er den Riecher hat\": Wagner über El-Mala-Treffer",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Ilicevic zieht mit Moukoko gleich: Die jüngsten Debütanten der Bundesliga",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Angst vor Fehlern? Lustrinelli: \"Wir sind keine Maschinen\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Noch mal ein bisschen besser\": Malek El Mala übertrumpft seinen kleinen Bruder",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Eine Besserung, aber trotzdem auch weit weg von gut\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Dortmunds Viererkette wird zum Symbol - und lässt vor allem einen auffallen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Nach Patzer bei \"Wer wird Millionär\": Union verschenkt \"Spassikowski\"-Trikot",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Infektion international: Wie sich bei Werder alle gegenseitig anstecken",
       "source": "kicker",
       "sentiment": 0
@@ -47,106 +147,6 @@
     },
     {
       "title": "BVB-Profis schwärmen von Kovacs \"genialem Schachzug\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kovac zu Kimmich-Umarmung: \"Geste war menschlich\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Teures Unentschieden\" für Bayern - und was dem BVB Mut macht",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Schlotterbeck: \"Wir werden in Deutschland immer noch unterschätzt\"",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Danks erklärt, warum er Karl erst so spät einwechselte",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Baum und die Brandrede: \"Was mir mega stinkt …\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Kimmich: \"Gerade auf dem Platz muss ich an meinen Vater denken\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Bayern bangt um Saibari und Gnabry - Auch Olise muss runter",
-      "source": "kicker",
-      "sentiment": -0.5
-    },
-    {
-      "title": "Ilzer trotz Pleite gelassen: \"Mir ist nicht bange um mein Team\"",
-      "source": "kicker",
-      "sentiment": -0.6
-    },
-    {
-      "title": "Muslic: \"Nur mit gut verteidigen werden wir die Ziele nicht erreichen\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Martinez nimmt es locker: \"Die Stimmung kocht manchmal hoch\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wagner rechnet den Klassenerhalt vor: \"Höhere Mathematik\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Einigung erzielt: Chatzialexiou wird Sportvorstand in Frankfurt",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Fußball mit Grusel-Faktor: Welche Partien Fans auf beiden Seiten erschauern ließen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wagners Mahnruf nach SVE-Sieg: Junge Nationalspieler werden \"durch den Fleischwolf gedreht\"",
-      "source": "kicker",
-      "sentiment": 0.05
-    },
-    {
-      "title": "Zentner: \"Wir haben uns wie eine Schulmannschaft verkauft\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Nach Bandverletzung: Karetsas kehrt gegen den FC Bayern zurück",
-      "source": "kicker",
-      "sentiment": -0.05
-    },
-    {
-      "title": "Schuster über Gregoritsch: \"Wahnsinnstyp und geradeheraus\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Fanszenen bestärken Forderungen zum Ende von 50+1-Ausnahmen",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "\"Andere Hausnummer, vor 60.000 zu kicken\": Hütter will Ilicevic behutsam aufbauen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Bundesliga-Rekord winkt: Eintracht-Juwel Ilicevic vor Debüt",
       "source": "kicker",
       "sentiment": 0
     }
