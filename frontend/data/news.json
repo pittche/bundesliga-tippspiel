@@ -1,6 +1,86 @@
 {
   "news": [
     {
+      "title": "Angriffe in Saudi-Arabien: Asien-Cup verschoben",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Ebnoutalib im Fokus von Tottenham und Juventus – Eintracht Frankfurt bietet Gehaltsanpassung an",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Teneriffas Stürmer de Miguel verstorben – Erlitt Herz-Kreislauf-Stillstand",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "TSG Hoffenheim prüft Rückkehr von Elversberg-Angreifer Mokwa",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "West Ham entlässt Trainer Espírito Santo – Wertvollstes Championship-Team nur Achter",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "FC Bayern: Wie Kanes Ballon d’Or zur Chance für die Bundesliga wird",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Hertha BSC fordert Respekt für Reese – Keine gesonderten Fan-Gespräche",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Weiser fehlt Werder Bremen bis auf Weiteres",
+      "source": "transfermarkt",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Bakayoko kann RB Leipzig im Winter verlassen – Deutliches Transferminus droht",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "FIFA kündigt Zugang zu Dokumenten an – Keine Auskunft zu Balogun",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "\"Schlechte Nachricht\": Weiser fehlt Werder erneut",
+      "source": "kicker",
+      "sentiment": -0.03
+    },
+    {
+      "title": "Zum 31. Januar 2027: Bayern trennt sich von Scouting-Chef Schmadtke",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "\"Nicht gerade hilfreich\": Damit kämpft Bayers Torlos-Stürmer Moreira",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Der heiße Advent: Das Urteil über den 1. FC Köln fällt erst im Dezember",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Erstes individuelles Training: Eichhorn nach Stoffwechselstörung zurück",
+      "source": "kicker",
+      "sentiment": 0.47
+    },
+    {
+      "title": "HSV: Ein Thema überlagert alles",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "HSV: Die Hoffnung auf Rückkehrer",
       "source": "kicker",
       "sentiment": 0.4
@@ -67,86 +147,6 @@
     },
     {
       "title": "\"Er hat gezeigt, dass er den Riecher hat\": Wagner über El-Mala-Treffer",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Ilicevic zieht mit Moukoko gleich: Die jüngsten Debütanten der Bundesliga",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Angst vor Fehlern? Lustrinelli: \"Wir sind keine Maschinen\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Noch mal ein bisschen besser\": Malek El Mala übertrumpft seinen kleinen Bruder",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Eine Besserung, aber trotzdem auch weit weg von gut\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Dortmunds Viererkette wird zum Symbol - und lässt vor allem einen auffallen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Nach Patzer bei \"Wer wird Millionär\": Union verschenkt \"Spassikowski\"-Trikot",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Infektion international: Wie sich bei Werder alle gegenseitig anstecken",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Abraha wandelt bei der TSG auf Süles Spuren",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Gladbacher Torwartfrage: Batz reicht seine Bewerbung ein",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Kam sehr aggressiv auf mich zu\": Hwang erklärt seinen Schubser",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Bayern und BVB gleichauf: Wer wird Herbstmeister?",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Bayerns Lehren nach dem teuren Klassiker",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Maza teilt gegen Schiedsrichter Brand aus: \"Das war bodenlos\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Eberls Spitze gegen Ballack wegen Karl",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wer überträgt Eintracht Frankfurt gegen den HSV live im TV und Stream?",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "BVB-Profis schwärmen von Kovacs \"genialem Schachzug\"",
       "source": "kicker",
       "sentiment": 0
     }
