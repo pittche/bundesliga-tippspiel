@@ -1,6 +1,81 @@
 {
   "news": [
     {
+      "title": "VfB Stuttgart: Bredlow über „ungewohnte Lautstärke“ bei Galatasaray",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Manchester United feiert spätes Comeback gegen AS Rom – „Gab viele Lügen“",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "VfB Stuttgart: Deniz Undav glaubt nicht an DFB-Nominierung",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Fenerbahce: Emre Belözoğlu ist zehnter Trainer seit 2020",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Scherhants DFB-Nominierung „war schwer zu begreifen“ – Marktwert-Überflieger bei Freiburg",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "1. FC Nürnberg bestätigt Frey als Chatzialexiou-Nachfolger ab sofort",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Parker übernimmt West Ham United – Stieg bereits dreimal in die Premier League auf",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "PSG-Verfolger Lyon lässt Fonseca zu Sporting ziehen – Ablöse bestätigt",
+      "source": "transfermarkt",
+      "sentiment": 0.53
+    },
+    {
+      "title": "Martin Kind bei Hannover 96: Abrechnung mit Boldt, Vertrauen in Wagner",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Werders Reis entscheidet sich für Slowakei – Frankfurts Brassier für Togo",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Maza spricht über PSG - Fürstliche Entschädigung: Fonseca verlässt Lyon",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Wie löst Hütter das \"Luxusproblem\" in der SGE-Offensive?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Angekommen in den Top 5 der Liga: Pieper als Teil des Werder-Aufschwungs",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Kühn fehlt Gladbach erneut - Trio könnte in Hamburg zurückkehren",
+      "source": "kicker",
+      "sentiment": 0.13
+    },
+    {
+      "title": "Nur eine Ergebniskrise in Augsburg - oder mehr?",
+      "source": "kicker",
+      "sentiment": -0.1
+    },
+    {
       "title": "Angriffe in Saudi-Arabien: Asien-Cup verschoben",
       "source": "transfermarkt",
       "sentiment": 0
@@ -74,81 +149,6 @@
       "title": "Erstes individuelles Training: Eichhorn nach Stoffwechselstörung zurück",
       "source": "kicker",
       "sentiment": 0.47
-    },
-    {
-      "title": "HSV: Ein Thema überlagert alles",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "HSV: Die Hoffnung auf Rückkehrer",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Rotwürdiges Foul gegen El Mala? Kamera-Panne verhindert VAR-Entscheidung",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Absolut überzeugt\": Baumann stärkt Muslic den Rücken",
-      "source": "kicker",
-      "sentiment": -0.1
-    },
-    {
-      "title": "Auch Hranac unterm Messer: Hoffenheims Personalnot noch schlimmer",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Wie die Eintracht mit dem Hype um Ausnahmetalent Ilicevic umgehen will",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Wer bei der Kopa-Trophäe für Karl stimmte - und wie Messi die Wahl entschied",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Demirovics symbolischer Jubel: \"Ich bin froh, für den VfB zu spielen\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "RWE kündigt Koschinat-Verhandlungen an - Deutscher Trainer muss in Den Haag gehen",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "\"Weit mehr gezeigt, als man erwarten kann\": Hütter schwärmt von Ilicevic",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"War ich aufgebracht?\": Polzin hadert mit Schiri-Entscheidung",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Stuttgarter, Münchner und Leipziger Übergewicht: Die kicker-Elf des 8. Spieltags",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Er will mich nur besser machen\": Uzun sieht Hütter-Kritik gelassen",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Die Nusa-Hausse - endlich auch in der Champions League?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Er hat gezeigt, dass er den Riecher hat\": Wagner über El-Mala-Treffer",
-      "source": "kicker",
-      "sentiment": 0
     }
   ]
 }
