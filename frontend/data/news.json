@@ -1,6 +1,136 @@
 {
   "news": [
     {
+      "title": "Champions League: RB Leipzigs Baumgartner glaubt ans Weiterkommen",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Marco Rose erklärt Bournemouths Aufschwung nach Fehlstart",
+      "source": "transfermarkt",
+      "sentiment": 0.55
+    },
+    {
+      "title": "SV Elversberg: Stürmer Mokwa auch im Fokus vom FC Villarreal",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "FC Bayern: Top-Verdiener Harry Kane verlängert Vertrag",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Bundesliga: Begegnungen bis zum 18. Spieltag terminiert",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "DFB-Kader im November: So nominierte Klopp für Serbien und Niederlande",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Cristiano Ronaldo verkündet Rücktritt aus Portugals Nationalmannschaft",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Eintracht Frankfurt: Eigengewächs Scheller erhält Profivertrag",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "DFB: Mohya könnte einer der jüngsten Debütanten werden – Was Klopp sagt",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "FIFA-Präsidentenwahl: Tashima aus Japan will Infantino herausfordern",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Hoeneß erklärt das VfB-Problem am Beispiel Undav",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Klopp schwärmt von \"superschlauen\" Bayern",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Bayern macht Kane zum bestbezahlten Spieler Europas - zu Recht?",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "War das Kanes schönstes Tor für Bayern?",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Bundesliga-Spieltage 12 bis 18 angesetzt - mit Revierderby und zwei Free-TV-Spielen",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Die Vertragslaufzeiten der Bayern-Profis",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Er löst jedes Versprechen ein\": Kane verlängert bei Bayern",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Das Bundesliga-Quiz zum 9. Spieltag",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Das ist die viel zu lange Schalker Mängelliste",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Die HSV-Suche nach Säulen: Bornauw steht wieder",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Der Mann wird ja auch alt ...\": Freude auf den \"Götze-Gipfel\" in Paderborn",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Friedrich: Der erste Schritt in Richtung eigener Anspruch",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Maskenmann El-Faouzi voller Vorfreude auf \"mehr Offensivdrang\"",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Trotz Trainingsrückkehr: Kofane, Badé und Ben Seghir werden Bayers Not kaum lindern",
+      "source": "kicker",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Schmied: \"Man kann mit einem breiteren Lächeln aufstehen\"",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "\"Vorne muss auch einer treffen\": Wie Köln im Herbst erfolgreich sein will",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
       "title": "VfB Stuttgart: Bredlow über „ungewohnte Lautstärke“ bei Galatasaray",
       "source": "transfermarkt",
       "sentiment": 0
@@ -19,136 +149,6 @@
       "title": "Fenerbahce: Emre Belözoğlu ist zehnter Trainer seit 2020",
       "source": "transfermarkt",
       "sentiment": 0
-    },
-    {
-      "title": "Scherhants DFB-Nominierung „war schwer zu begreifen“ – Marktwert-Überflieger bei Freiburg",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "1. FC Nürnberg bestätigt Frey als Chatzialexiou-Nachfolger ab sofort",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Parker übernimmt West Ham United – Stieg bereits dreimal in die Premier League auf",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "PSG-Verfolger Lyon lässt Fonseca zu Sporting ziehen – Ablöse bestätigt",
-      "source": "transfermarkt",
-      "sentiment": 0.53
-    },
-    {
-      "title": "Martin Kind bei Hannover 96: Abrechnung mit Boldt, Vertrauen in Wagner",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Werders Reis entscheidet sich für Slowakei – Frankfurts Brassier für Togo",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Maza spricht über PSG - Fürstliche Entschädigung: Fonseca verlässt Lyon",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Wie löst Hütter das \"Luxusproblem\" in der SGE-Offensive?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Angekommen in den Top 5 der Liga: Pieper als Teil des Werder-Aufschwungs",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Kühn fehlt Gladbach erneut - Trio könnte in Hamburg zurückkehren",
-      "source": "kicker",
-      "sentiment": 0.13
-    },
-    {
-      "title": "Nur eine Ergebniskrise in Augsburg - oder mehr?",
-      "source": "kicker",
-      "sentiment": -0.1
-    },
-    {
-      "title": "Angriffe in Saudi-Arabien: Asien-Cup verschoben",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Ebnoutalib im Fokus von Tottenham und Juventus – Eintracht Frankfurt bietet Gehaltsanpassung an",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Teneriffas Stürmer de Miguel verstorben – Erlitt Herz-Kreislauf-Stillstand",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "TSG Hoffenheim prüft Rückkehr von Elversberg-Angreifer Mokwa",
-      "source": "transfermarkt",
-      "sentiment": 0.4
-    },
-    {
-      "title": "West Ham entlässt Trainer Espírito Santo – Wertvollstes Championship-Team nur Achter",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "FC Bayern: Wie Kanes Ballon d’Or zur Chance für die Bundesliga wird",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Hertha BSC fordert Respekt für Reese – Keine gesonderten Fan-Gespräche",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Weiser fehlt Werder Bremen bis auf Weiteres",
-      "source": "transfermarkt",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Bakayoko kann RB Leipzig im Winter verlassen – Deutliches Transferminus droht",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "FIFA kündigt Zugang zu Dokumenten an – Keine Auskunft zu Balogun",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "\"Schlechte Nachricht\": Weiser fehlt Werder erneut",
-      "source": "kicker",
-      "sentiment": -0.03
-    },
-    {
-      "title": "Zum 31. Januar 2027: Bayern trennt sich von Scouting-Chef Schmadtke",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "\"Nicht gerade hilfreich\": Damit kämpft Bayers Torlos-Stürmer Moreira",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Der heiße Advent: Das Urteil über den 1. FC Köln fällt erst im Dezember",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Erstes individuelles Training: Eichhorn nach Stoffwechselstörung zurück",
-      "source": "kicker",
-      "sentiment": 0.47
     }
   ]
 }
