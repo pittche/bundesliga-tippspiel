@@ -1,153 +1,153 @@
 {
   "news": [
     {
-      "title": "Champions League: RB Leipzigs Baumgartner glaubt ans Weiterkommen",
+      "title": "FC Bayern scoutet Porto-Talent Oskar Pietuszewski",
       "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "Marco Rose erklärt Bournemouths Aufschwung nach Fehlstart",
-      "source": "transfermarkt",
-      "sentiment": 0.55
-    },
-    {
-      "title": "SV Elversberg: Stürmer Mokwa auch im Fokus vom FC Villarreal",
+      "title": "Farke erklärt geringe Spielzeit von Eintracht Frankfurts Bahoya bei Leeds",
       "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "FC Bayern: Top-Verdiener Harry Kane verlängert Vertrag",
+      "title": "Dank SC Freiburg: Deutschland bleibt im UEFA-Ranking vor Türkei",
       "source": "transfermarkt",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Bundesliga: Begegnungen bis zum 18. Spieltag terminiert",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "DFB-Kader im November: So nominierte Klopp für Serbien und Niederlande",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Cristiano Ronaldo verkündet Rücktritt aus Portugals Nationalmannschaft",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Eintracht Frankfurt: Eigengewächs Scheller erhält Profivertrag",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "DFB: Mohya könnte einer der jüngsten Debütanten werden – Was Klopp sagt",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "FIFA-Präsidentenwahl: Tashima aus Japan will Infantino herausfordern",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Hoeneß erklärt das VfB-Problem am Beispiel Undav",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Klopp schwärmt von \"superschlauen\" Bayern",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Bayern macht Kane zum bestbezahlten Spieler Europas - zu Recht?",
-      "source": "kicker",
       "sentiment": 0.5
     },
     {
-      "title": "War das Kanes schönstes Tor für Bayern?",
+      "title": "Manchester United: Real Madrid gewinnt Rennen um Talent JJ Gabriel",
+      "source": "transfermarkt",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Eintracht Frankfurt hat PSG-Juwel Sangaré und Elches Boly im Visier",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "DFB: Behrens und Hülsmann erstmals bei U21 – Fünf Rückkehrer",
+      "source": "transfermarkt",
+      "sentiment": 0.43
+    },
+    {
+      "title": "BVB-Profi Jobe vor England-Debüt: Tuchel nominiert Bellingham-Brüder",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Kritik von Schalke: Ticket-Ärger bei Hoffenheim Heimspielen",
+      "source": "transfermarkt",
+      "sentiment": -0.45
+    },
+    {
+      "title": "FC Bayern: Freund verteidigt Karl – „Wir wollen ja auch Typen haben“",
+      "source": "transfermarkt",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Italien überrascht mit Riccardo Cassano: Neuling noch ohne Profispiel",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "El Mala sprach mit Klopp auch über Bruder Malek",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kovac mit Loblied auf Bellingham: \"Er ist ein kompletter Fußball-Freak\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "BVB muss auf Guirassy verzichten",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Danks: \"Hatte einige sehr positive Telefonate mit Kompany\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Weniger Verletzte, mehr Festnahmen und mehr Pyro in deutschen Stadien",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Nach Bayern-Aus: Schmadtke weist Vorwürfe zurück",
+      "source": "kicker",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Warum Mainz \"ein echter Angstgegner\" für die Bayern ist",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Lenny scheißt sich nichts\": Freund lobt Karl nach unruhigen Wochen",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Danks kündigt Pausen an - Wer kann bei Bayern überhaupt links spielen?",
       "source": "kicker",
       "sentiment": 0.4
     },
     {
-      "title": "Bundesliga-Spieltage 12 bis 18 angesetzt - mit Revierderby und zwei Free-TV-Spielen",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Die Vertragslaufzeiten der Bayern-Profis",
+      "title": "Barbarez über Dzeko: \"Jeder wusste, dass es nicht einfach wird\"",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "\"Er löst jedes Versprechen ein\": Kane verlängert bei Bayern",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Das Bundesliga-Quiz zum 9. Spieltag",
+      "title": "\"Könnte ein Problem werden\": Büskens über Schalker Sturm-Flaute",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "Das ist die viel zu lange Schalker Mängelliste",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Die HSV-Suche nach Säulen: Bornauw steht wieder",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Der Mann wird ja auch alt ...\": Freude auf den \"Götze-Gipfel\" in Paderborn",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Friedrich: Der erste Schritt in Richtung eigener Anspruch",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Maskenmann El-Faouzi voller Vorfreude auf \"mehr Offensivdrang\"",
+      "title": "UEFA-Ranking: Bundesliga fällt hinter Portugal und Belgien zurück",
       "source": "kicker",
       "sentiment": 0.3
     },
     {
-      "title": "Trotz Trainingsrückkehr: Kofane, Badé und Ben Seghir werden Bayers Not kaum lindern",
+      "title": "\"Sehen wir kritisch\": Schalker Ärger über hohe Ticketpreise in Hoffenheim",
       "source": "kicker",
-      "sentiment": -0.05
+      "sentiment": -0.5
     },
     {
-      "title": "Schmied: \"Man kann mit einem breiteren Lächeln aufstehen\"",
+      "title": "Wer überträgt HSV gegen Borussia Mönchengladbach heute live im TV & Stream?",
       "source": "kicker",
-      "sentiment": 0.3
+      "sentiment": 0.4
     },
     {
-      "title": "\"Vorne muss auch einer treffen\": Wie Köln im Herbst erfolgreich sein will",
+      "title": "Wehrle erhält Wirtschaftsmedaille des Landes Baden-Württemberg",
       "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "VfB Stuttgart: Bredlow über „ungewohnte Lautstärke“ bei Galatasaray",
-      "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "Manchester United feiert spätes Comeback gegen AS Rom – „Gab viele Lügen“",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "VfB Stuttgart: Deniz Undav glaubt nicht an DFB-Nominierung",
-      "source": "transfermarkt",
+      "title": "Sehnsucht nach Toren: Die Gründe für die Schalker Flaute",
+      "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "Fenerbahce: Emre Belözoğlu ist zehnter Trainer seit 2020",
-      "source": "transfermarkt",
+      "title": "Hoeneß exklusiv: \"Wir haben Atletico regelrecht vorgeführt\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Wer in England besonders über Kanes Unterschrift jubelte",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "BVB-Fan Wagner vor dem Highlight-Spiel: \"Wird der neue Nähe-Rekord\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Hütter von Ebnoutalib beeindruckt: \"Überrascht von der Entwicklung\"",
+      "source": "kicker",
       "sentiment": 0
     }
   ]
