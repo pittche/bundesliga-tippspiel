@@ -1,154 +1,154 @@
 {
   "news": [
     {
-      "title": "FC Bayern scoutet Porto-Talent Oskar Pietuszewski",
+      "title": "Osimhen fehlt Galatasaray nach VfB-Spiel: Knie-OP notwendig",
+      "source": "transfermarkt",
+      "sentiment": 0.15
+    },
+    {
+      "title": "Werder Bremen: Fritz will mit West Ham über Füllkrug verhandeln",
       "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "Farke erklärt geringe Spielzeit von Eintracht Frankfurts Bahoya bei Leeds",
+      "title": "Englands Ex-Nationalspieler Coady hört auf – Stand bei EM 2021 und WM 2022 im Kader",
       "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "Dank SC Freiburg: Deutschland bleibt im UEFA-Ranking vor Türkei",
+      "title": "2. Bundesliga: Dynamo Dresden mit Befreiungsschlag, torlos in Braunschweig",
       "source": "transfermarkt",
-      "sentiment": 0.5
+      "sentiment": 0.2
     },
     {
-      "title": "Manchester United: Real Madrid gewinnt Rennen um Talent JJ Gabriel",
+      "title": "Bundesliga: HSV-Kunstschützen überwinden Gladbach & die Minikrise",
       "source": "transfermarkt",
-      "sentiment": 0.5
+      "sentiment": -0.7
     },
     {
-      "title": "Eintracht Frankfurt hat PSG-Juwel Sangaré und Elches Boly im Visier",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "DFB: Behrens und Hülsmann erstmals bei U21 – Fünf Rückkehrer",
-      "source": "transfermarkt",
-      "sentiment": 0.43
-    },
-    {
-      "title": "BVB-Profi Jobe vor England-Debüt: Tuchel nominiert Bellingham-Brüder",
+      "title": "Schröder warnt bei Mohya: „Rucksack jetzt nicht noch voller machen“",
       "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "Kritik von Schalke: Ticket-Ärger bei Hoffenheim Heimspielen",
+      "title": "Nach Krebserkrankung: Vancouver verlängert mit Ex-Magdeburger Halbouni",
       "source": "transfermarkt",
-      "sentiment": -0.45
+      "sentiment": 0.4
     },
     {
-      "title": "FC Bayern: Freund verteidigt Karl – „Wir wollen ja auch Typen haben“",
-      "source": "transfermarkt",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Italien überrascht mit Riccardo Cassano: Neuling noch ohne Profispiel",
+      "title": "RB Leipzig: FC Arsenal an Antonio Nusa interessiert",
       "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "El Mala sprach mit Klopp auch über Bruder Malek",
+      "title": "FIFA-Präsident: Schub für Infantino: Auch Karibikverband für Wiederwahl",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "HSV-Kollegen feiern Tor-Debütant Nandja – Folgt in Bundesliga-Historie auf Arp",
+      "source": "transfermarkt",
+      "sentiment": -0.15
+    },
+    {
+      "title": "Warum die Bellingham-Berufung für den BVB zum Trumpf werden kann",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Kampf ums Gladbach-Tor: Batz übt Maximaldruck aus",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "Kovac mit Loblied auf Bellingham: \"Er ist ein kompletter Fußball-Freak\"",
+      "title": "\"Für mich eine Szene des Spiels\": Polzin lobt Reaktion auf Bornauws Fehler",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "BVB muss auf Guirassy verzichten",
+      "title": "Nur Kovacs Vita macht Mut: Endet die Neulings-Durststrecke des BVB gegen Elversberg?",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "Danks: \"Hatte einige sehr positive Telefonate mit Kompany\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Weniger Verletzte, mehr Festnahmen und mehr Pyro in deutschen Stadien",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Nach Bayern-Aus: Schmadtke weist Vorwürfe zurück",
-      "source": "kicker",
-      "sentiment": -0.1
-    },
-    {
-      "title": "Warum Mainz \"ein echter Angstgegner\" für die Bayern ist",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Lenny scheißt sich nichts\": Freund lobt Karl nach unruhigen Wochen",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Danks kündigt Pausen an - Wer kann bei Bayern überhaupt links spielen?",
+      "title": "Bärenstarker Notenschnitt: Hoffenheims Prass reitet auf der Erfolgswelle",
       "source": "kicker",
       "sentiment": 0.4
     },
     {
-      "title": "Barbarez über Dzeko: \"Jeder wusste, dass es nicht einfach wird\"",
+      "title": "Vertragsverlängerung nach Krebsdiagnose bei Müllers Teamkollege - Mainz bindet Nebel",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Hugo Almeidas Blitz-Doppelpack in 50 Sekunden",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "\"Könnte ein Problem werden\": Büskens über Schalker Sturm-Flaute",
+      "title": "Blessin über Itakuras Platzverweis: \"Dann guckst du dumm aus der Wäsche\"",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "UEFA-Ranking: Bundesliga fällt hinter Portugal und Belgien zurück",
+      "title": "Wer überträgt VfB Stuttgart gegen Werder Bremen heute live im TV & Stream?",
       "source": "kicker",
-      "sentiment": 0.3
+      "sentiment": 0.4
     },
     {
-      "title": "\"Sehen wir kritisch\": Schalker Ärger über hohe Ticketpreise in Hoffenheim",
+      "title": "\"Das Gefühl will ich jeden Tag haben\": Nandja nach Premieren-Tor den Tränen nah",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "\"Aus dem NLZ in die Torschützenliste\": HSV trotzt den Sorgen und feiert Nandja",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "\"Einfach dumm\": Blessin ärgert sich über Itakuras Platzverweis",
       "source": "kicker",
       "sentiment": -0.5
     },
     {
-      "title": "Wer überträgt HSV gegen Borussia Mönchengladbach heute live im TV & Stream?",
+      "title": "Aufatmen in Hoffenheim: Kramaric sagt Länderspiele ab",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "\"Dann hätten wir etwas Neues für die Bingo-Karte\": Wagner über Rolle von El Mala",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Fischer über Nicht-Nominierung von Amiri: \"Ich hoffe, er war enttäuscht\"",
+      "source": "kicker",
+      "sentiment": -0.7
+    },
+    {
+      "title": "Die Wade: Fragezeichen hinter Nusa",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Fischer: \"Ich bin halt langweilig\"",
       "source": "kicker",
       "sentiment": 0.4
     },
     {
-      "title": "Wehrle erhält Wirtschaftsmedaille des Landes Baden-Württemberg",
+      "title": "Nachbarduell in Hamburg: Die Top 11 der ewigen Bundesliga-Tabelle",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "Sehnsucht nach Toren: Die Gründe für die Schalker Flaute",
+      "title": "\"NLZ-Paradebeispiel\": Nebel verlängert in Mainz",
       "source": "kicker",
-      "sentiment": 0
+      "sentiment": 0.4
     },
     {
-      "title": "Hoeneß exklusiv: \"Wir haben Atletico regelrecht vorgeführt\"",
+      "title": "Gosens und El Faouzi zurück - Schlüsselspieler Ljubicic?",
       "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Wer in England besonders über Kanes Unterschrift jubelte",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "BVB-Fan Wagner vor dem Highlight-Spiel: \"Wird der neue Nähe-Rekord\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Hütter von Ebnoutalib beeindruckt: \"Überrascht von der Entwicklung\"",
-      "source": "kicker",
-      "sentiment": 0
+      "sentiment": 0.4
     }
   ]
 }
