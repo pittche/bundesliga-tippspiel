@@ -1,6 +1,121 @@
 {
   "news": [
     {
+      "title": "FC Bayern: Baumann Favorit auf Neuer-Erbe, Schalkes Karius eine Option",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Auch Thorups zweite Amtszeit beim KRC Genk endet schnell – Nur Siebter in Belgien",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Wie Ex-Nati-Spieler Vega FIFA-Boss Infantino den Posten streitig macht",
+      "source": "transfermarkt",
+      "sentiment": -0.7
+    },
+    {
+      "title": "VfL Wolfsburgs Kumbedi spricht über Nominierung für Frankreichs Nationalteam",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Real Madrid: Läuft Diomande Vini Jr. den ab? „Immer heikel, ihn auf der Bank zu haben“",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Birmingham City: Neumann im Fokus von Nottingham Forest und AC Florenz",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Niederlande ohne Kapitän van Dijk und Stürmer Brobbey gegen Deutschland",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "FC Bayern: Kompany zurück auf Gelände – Trainer mit Armschlinge nach Schulterluxation",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Kniat übernimmt nach Walter-Aus bei Holstein Kiel",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Serie A: US Sassuolo entlässt Trainer Alberto Aquilani – Roberto D'Aversa folgt",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Warum die Eintracht bis Weihnachten \"im Nebel stochern muss\"",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Bleibt Dahmen? Und wer kommt, wenn nicht?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "So geht es bei Bayerns Torhütern weiter",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kompany ist zurück an der Säbener Straße",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Der Unerschrockene: Wie sich Chabot auf seine Gegenspieler vorbereitet",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "SV Elversberg zieht positive Jahresbilanz",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Nmecha über seinen Torjubel: \"Hat zu Missverständnissen geführt\"",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Carrick offenbar abermals vor dem Aus - Raul übernimmt Real Oviedo",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Nach Schmadtke-Aus: Der Übergangsplan im Bayern-Scouting",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Homeoffice für BVB-Duo - Kovac hofft auf Gehör bei Nationaltrainern",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Knieverletzung bei Gosens: Schalke gibt vages Update",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "\"Golden Boy\"-Award: Das sind Cubarsis Vorgänger",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Knauff-Experiment und neue Sorgen: Defensive Außenbahnen bleiben Frankfurts Achillesferse",
+      "source": "kicker",
+      "sentiment": 0.12
+    },
+    {
       "title": "Juventus: Woltemade erzielt ersten Serie-A-Treffer",
       "source": "transfermarkt",
       "sentiment": 0
@@ -34,121 +149,6 @@
       "title": "1. FC Köln: Said und Malek El Mala sind 7. Brüderpaar mit Bundesliga-Tor in Co-Produktion",
       "source": "transfermarkt",
       "sentiment": 0
-    },
-    {
-      "title": "Raúl übernimmt spanischen Zweitligisten Real Oviedo – Erste Station im Profibereich",
-      "source": "transfermarkt",
-      "sentiment": -0.9
-    },
-    {
-      "title": "TSG Hoffenheim: Kaufpflicht für Orban greift – Überraschung in Süper Lig",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "VfL Wolfsburg: Zidane nominiert Kumbedi für Frankreich nach",
-      "source": "transfermarkt",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Kessler erhöht den Druck in Köln: \"Dann müssen wir die Punkte holen\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "RTL überträgt HSV gegen Schalke im Free-TV",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Mainzer Wendepunkt? Die Hoffnung heißt Abstiegskampf",
-      "source": "kicker",
-      "sentiment": -0.67
-    },
-    {
-      "title": "Muslic: \"Mit Abstand die beste Halbzeit in der Bundesliga\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Ausgleichende Gerechtigkeit\" und Asllanis besonderes Geschenk",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Asllanis Saisonpremiere: \"Eine schönere Geschichte kann ich nicht schreiben\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "HSV: Extraklasse und neue Qualität",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Dauerbrenner Upamecano und acht Premieren: Die kicker-Elf des 9. Spieltags",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Es schaut schlimm aus\": Schalke befürchtet schwere Gosens-Verletzung",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Nach der Pleite von Freiburg: Die Luft in Köpenick wird dünner",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Neuer auf Platz 6: Die ältesten Bundesliga-Spieler der Geschichte",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "\"Freut mich für die beiden\": Wagner lobt El-Mala-Brüder",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Bayers \"existenziell wichtiger\" Derbysieg und der \"schmale Grat\" beim Effzeh",
-      "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Martinez: \"Aleix hat heute perfekt gespielt\"",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Zwayer liegt meist richtig, bringt aber nicht genug Ruhe rein",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Raul vor erstem Job als Profi-Trainer - Ersetzt Kniat Walter in Kiel?",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Derby-Ärger bei El Mala: \"Ein bisschen lächerlich\"",
-      "source": "kicker",
-      "sentiment": -0.5
-    },
-    {
-      "title": "Olise, Kane und Co. als Joker: Bayern gewinnt nach 0:3-Rückstand",
-      "source": "kicker",
-      "sentiment": 0.57
-    },
-    {
-      "title": "Erster Sieg nach 30 Spielen: Als Schalke den Tasmania-Rekord abwendete",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "\"Wenn wir meinen, fußballerisch mithalten zu können …\"",
-      "source": "kicker",
-      "sentiment": -0.65
     }
   ]
 }
