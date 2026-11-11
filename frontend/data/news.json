@@ -1,6 +1,96 @@
 {
   "news": [
     {
+      "title": "Regionalliga Berlin 66/67 in TM-Datenbank: Hertha & TeBe scheitern in Bundesliga-Aufstiegsrunde",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Damar entschied: Lieber VfL Wolfsburg statt Elversberg-Rückkehr",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Werder Bremen: Manager Fritz spricht von Abschiedsgedanken",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Sportchef-Suche bei Hannover 96: Kind bindet Wagner „vollkommen“ ein",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Bundesliga: Eintracht Frankfurt gibt Talenten fünfmal so viel Spielzeit wie FC Bayern",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "England: Hill-Debüt könnte Fleetwood über 100.000 Pfund bringen",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Pochettino zu Manchester United? USA-Coach bereit für Wechsel",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "1. FC Köln: Said und Malek El Mala sind 7. Brüderpaar mit Bundesliga-Tor in Co-Produktion",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Riskiert Eintracht Frankfurt Ebnoutalib-Abgang bei Kalimuendo-Deal?",
+      "source": "transfermarkt",
+      "sentiment": 0.05
+    },
+    {
+      "title": "1. FC Köln: Allofs-Brüder mit Lob an Said und Malek El Mala",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Will etwas zurückgeben\": Mainzer Aushängeschild Nebel setzt ein Signal",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "\"Die sind doch nicht ganz dicht\": Die besten Kölner Karnevals-Outfits",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "FC Bayern trennt sich von Nachwuchs-Chefscout Zahn",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Pelka verlässt Werder - Fischer trifft wieder auf Thioune",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Auch Milan hat Tresoldi auf dem Zettel - Wechselt Gündogan im Winter?",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Mehr als ein neues Gesicht im Eintracht-Aufsichtsrat?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Bayer befasst sich konkret mit Gladbachs Top-Talent Mohya",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Kompany ist zurück an der Säbener Straße",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
       "title": "FC Bayern: Baumann Favorit auf Neuer-Erbe, Schalkes Karius eine Option",
       "source": "transfermarkt",
       "sentiment": 0
@@ -58,96 +148,6 @@
     {
       "title": "Bleibt Dahmen? Und wer kommt, wenn nicht?",
       "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "So geht es bei Bayerns Torhütern weiter",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kompany ist zurück an der Säbener Straße",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Der Unerschrockene: Wie sich Chabot auf seine Gegenspieler vorbereitet",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "SV Elversberg zieht positive Jahresbilanz",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Nmecha über seinen Torjubel: \"Hat zu Missverständnissen geführt\"",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Carrick offenbar abermals vor dem Aus - Raul übernimmt Real Oviedo",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Nach Schmadtke-Aus: Der Übergangsplan im Bayern-Scouting",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Homeoffice für BVB-Duo - Kovac hofft auf Gehör bei Nationaltrainern",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Knieverletzung bei Gosens: Schalke gibt vages Update",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "\"Golden Boy\"-Award: Das sind Cubarsis Vorgänger",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Knauff-Experiment und neue Sorgen: Defensive Außenbahnen bleiben Frankfurts Achillesferse",
-      "source": "kicker",
-      "sentiment": 0.12
-    },
-    {
-      "title": "Juventus: Woltemade erzielt ersten Serie-A-Treffer",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "TM-Tipprunde: Ex-Hannoveraner Neumann weit vorn im Experten-Ranking",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Klopp & DFB-Elf unter Siegdruck: Das bedeutet die Nations League für die EM-Qualifikation",
-      "source": "transfermarkt",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Hannover 96 entlässt auch Sportdirektor Ralf Becker",
-      "source": "transfermarkt",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Elf des 9. Spieltages: Doppelpacker Nmecha und Burkardt überzeugen – HSV-Duo erstmals dabei",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Torhüter Vozinha mit Colo-Colo Meister in Chile – Ex-Bayer Vidal mitentscheidend",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "1. FC Köln: Said und Malek El Mala sind 7. Brüderpaar mit Bundesliga-Tor in Co-Produktion",
-      "source": "transfermarkt",
       "sentiment": 0
     }
   ]
