@@ -1,6 +1,111 @@
 {
   "news": [
     {
+      "title": "Borussia Mönchengladbach: Warum Marokko trotz DFB-Debüt um Wael Mohya wirbt",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "PSV Eindhoven arbeitet an Wintertransfer von De Bruyne – Bosz ist Fan",
+      "source": "transfermarkt",
+      "sentiment": 0.43
+    },
+    {
+      "title": "FIFA: Blatters schwere Vorwürfe gegen „Diktator“ Infantino",
+      "source": "transfermarkt",
+      "sentiment": -0.45
+    },
+    {
+      "title": "Hoher Marktwert, kaum Spielzeit: Top-Klubs leisten sich Stars für die Bank",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "1. FC Nürnberg: Torhüter Reichert beim FC Augsburg Thema – Vertrag endet",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Manchester United trennt sich von Trainer Carrick – Pochettino bereit",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "U17-WM 2026: USA ziehen Nationalelf aus Sicherheitsgründen zurück",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Borussia Mönchengladbach: Trio um Scally zum Verkauf – Letzte Chance auf Ablöse",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "HSV: Levin Öztunali kommt in 3. Liga bei Sonnenhof Großaspach unter",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Crystal Palace trennt sich von Trainer Sage",
+      "source": "transfermarkt",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Watzke appelliert an Nmecha: \"Wir setzen immer eher auf Einsicht\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Hose gerissen: RB verliert Testspiel gegen Boleslav",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Dauerstreit zwischen Gräfe und dem DFB: Urteil im Dezember oder Einigung?",
+      "source": "kicker",
+      "sentiment": -0.7
+    },
+    {
+      "title": "Kade, Kömür und Co.: Die Jugend im FCA-Kader entwickelt sich international",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Gegen den HSV: Pantelic und das Meisterwerk der Provokation",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Pochettino vor ManUnited-Engagement - Nachfolgekandidat Guardiola?",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "US-Boy Castaneda vor Nationalelf-Debüt: \"Da gibt's gerade ganz viele Gefühle\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Leipzigs El Aynaoui reist vorzeitig von Marokkos Nationalmannschaft ab",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Trotz schneller Karius-Rückkehr: Schalke auf der Intensivstation",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Angebrochene Rippen oder außer Form: Stuttgarts Probleme rechts hinten",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Mainzer Fastnachtstrikot im Schnorres-Design",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Regionalliga Berlin 66/67 in TM-Datenbank: Hertha & TeBe scheitern in Bundesliga-Aufstiegsrunde",
       "source": "transfermarkt",
       "sentiment": 0.3
@@ -44,111 +149,6 @@
       "title": "Riskiert Eintracht Frankfurt Ebnoutalib-Abgang bei Kalimuendo-Deal?",
       "source": "transfermarkt",
       "sentiment": 0.05
-    },
-    {
-      "title": "1. FC Köln: Allofs-Brüder mit Lob an Said und Malek El Mala",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Will etwas zurückgeben\": Mainzer Aushängeschild Nebel setzt ein Signal",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "\"Die sind doch nicht ganz dicht\": Die besten Kölner Karnevals-Outfits",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "FC Bayern trennt sich von Nachwuchs-Chefscout Zahn",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Pelka verlässt Werder - Fischer trifft wieder auf Thioune",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Auch Milan hat Tresoldi auf dem Zettel - Wechselt Gündogan im Winter?",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Mehr als ein neues Gesicht im Eintracht-Aufsichtsrat?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Bayer befasst sich konkret mit Gladbachs Top-Talent Mohya",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Kompany ist zurück an der Säbener Straße",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "FC Bayern: Baumann Favorit auf Neuer-Erbe, Schalkes Karius eine Option",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Auch Thorups zweite Amtszeit beim KRC Genk endet schnell – Nur Siebter in Belgien",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Wie Ex-Nati-Spieler Vega FIFA-Boss Infantino den Posten streitig macht",
-      "source": "transfermarkt",
-      "sentiment": -0.7
-    },
-    {
-      "title": "VfL Wolfsburgs Kumbedi spricht über Nominierung für Frankreichs Nationalteam",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Real Madrid: Läuft Diomande Vini Jr. den ab? „Immer heikel, ihn auf der Bank zu haben“",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Birmingham City: Neumann im Fokus von Nottingham Forest und AC Florenz",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Niederlande ohne Kapitän van Dijk und Stürmer Brobbey gegen Deutschland",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "FC Bayern: Kompany zurück auf Gelände – Trainer mit Armschlinge nach Schulterluxation",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Kniat übernimmt nach Walter-Aus bei Holstein Kiel",
-      "source": "transfermarkt",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Serie A: US Sassuolo entlässt Trainer Alberto Aquilani – Roberto D'Aversa folgt",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Warum die Eintracht bis Weihnachten \"im Nebel stochern muss\"",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Bleibt Dahmen? Und wer kommt, wenn nicht?",
-      "source": "kicker",
-      "sentiment": 0
     }
   ]
 }
