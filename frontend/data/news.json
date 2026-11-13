@@ -1,6 +1,121 @@
 {
   "news": [
     {
+      "title": "Scaloni verlängert als Nationaltrainer von Argentinien: „Nun beginnt ein neuer Prozess“",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Kane schießt England in Rekordspiel zum Sieg – Italien schlägt Frankreich spektakulär",
+      "source": "transfermarkt",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Transfermarkt: RB Leipzig will Offensivtalent Viggo Gebel verleihen",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Ex-Leverkusener Alario schießt Estudiantes zur Supercopa Argentina",
+      "source": "transfermarkt",
+      "sentiment": 0.05
+    },
+    {
+      "title": "Mario Vuskovic im Testspiel vor erstem HSV-Einsatz seit 1.467 Tagen",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "FC Bayerns Upamecano reist von Nationalteam ab – Wolfsburgs Kumbedi gibt Debüt",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "VfB Stuttgart: Talent Yanik Spalt für ÖFB-Team nachnominiert",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Inter Mailands Pio Esposito: Das ist Italiens Hoffnungsträger",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Jogi Löw: Daran krankt der deutsche Fußball – Seine Meinung über Klopp",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Manchester United: Klausel für Pochettino gezogen – Carrick-Nachfolger",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Daumenverletzung bei Backhaus - doch keine Panik in Freiburg",
+      "source": "kicker",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Jovic spektakulär: Die schönsten Bundesliga-Tore von Serben",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Upamecano von Frankreichs Nationalmannschaft abgereist",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Liga-Präsidium möchte \"ordnungspolitische Voraussetzung\" verankern",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Im Test gegen Split: Vuskovic feiert nach 1467 Tagen HSV-Comeback vor 50.000 Fans",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Ismael findet neuen Job in Frankreich - Pochettino vor ManUnited-Engagement",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Bericht: RB Leipzig plant erneute Gründung eines U-23-Teams",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Top-Torjäger bei Werders erster Meisterschaft: Matischak ist tot",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "\"Das fand ich schon cool\": Sorgt Strobl für die große Arnold-Überraschung?",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Assist gegen Lüttich: Gladbach freut sich auf Rückkehrer Kühn",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Köln meldet Rekorde bei Umsatz und Mitgliedern, aber weniger Gewinn",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Irgendwann ist der physische Tank leer\": Wundenlecken in Hoffenheim",
+      "source": "kicker",
+      "sentiment": 0.1
+    },
+    {
+      "title": "Luis Diaz trainiert mit Musiala",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
       "title": "Borussia Mönchengladbach: Warum Marokko trotz DFB-Debüt um Wael Mohya wirbt",
       "source": "transfermarkt",
       "sentiment": 0
@@ -34,121 +149,6 @@
       "title": "U17-WM 2026: USA ziehen Nationalelf aus Sicherheitsgründen zurück",
       "source": "transfermarkt",
       "sentiment": 0.3
-    },
-    {
-      "title": "Borussia Mönchengladbach: Trio um Scally zum Verkauf – Letzte Chance auf Ablöse",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "HSV: Levin Öztunali kommt in 3. Liga bei Sonnenhof Großaspach unter",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Crystal Palace trennt sich von Trainer Sage",
-      "source": "transfermarkt",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Watzke appelliert an Nmecha: \"Wir setzen immer eher auf Einsicht\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Hose gerissen: RB verliert Testspiel gegen Boleslav",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Dauerstreit zwischen Gräfe und dem DFB: Urteil im Dezember oder Einigung?",
-      "source": "kicker",
-      "sentiment": -0.7
-    },
-    {
-      "title": "Kade, Kömür und Co.: Die Jugend im FCA-Kader entwickelt sich international",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Gegen den HSV: Pantelic und das Meisterwerk der Provokation",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Pochettino vor ManUnited-Engagement - Nachfolgekandidat Guardiola?",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "US-Boy Castaneda vor Nationalelf-Debüt: \"Da gibt's gerade ganz viele Gefühle\"",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Leipzigs El Aynaoui reist vorzeitig von Marokkos Nationalmannschaft ab",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Trotz schneller Karius-Rückkehr: Schalke auf der Intensivstation",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Angebrochene Rippen oder außer Form: Stuttgarts Probleme rechts hinten",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Mainzer Fastnachtstrikot im Schnorres-Design",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Regionalliga Berlin 66/67 in TM-Datenbank: Hertha & TeBe scheitern in Bundesliga-Aufstiegsrunde",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Damar entschied: Lieber VfL Wolfsburg statt Elversberg-Rückkehr",
-      "source": "transfermarkt",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Werder Bremen: Manager Fritz spricht von Abschiedsgedanken",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Sportchef-Suche bei Hannover 96: Kind bindet Wagner „vollkommen“ ein",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Bundesliga: Eintracht Frankfurt gibt Talenten fünfmal so viel Spielzeit wie FC Bayern",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "England: Hill-Debüt könnte Fleetwood über 100.000 Pfund bringen",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Pochettino zu Manchester United? USA-Coach bereit für Wechsel",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "1. FC Köln: Said und Malek El Mala sind 7. Brüderpaar mit Bundesliga-Tor in Co-Produktion",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Riskiert Eintracht Frankfurt Ebnoutalib-Abgang bei Kalimuendo-Deal?",
-      "source": "transfermarkt",
-      "sentiment": 0.05
     }
   ]
 }
