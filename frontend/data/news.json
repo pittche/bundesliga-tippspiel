@@ -1,6 +1,81 @@
 {
   "news": [
     {
+      "title": "Deutschlands U21 verliert gegen Belgien – Ex-Dortmunder Duranville trifft",
+      "source": "transfermarkt",
+      "sentiment": 0.53
+    },
+    {
+      "title": "DFB-Team schlägt Serbien in Regenschlacht – Niederlande schießt Griechenland ab",
+      "source": "transfermarkt",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Werder Bremens Trainer im Interview: Thiounes zäher Weg zum Bundesliga-Job",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Nach Foul mit Todesfolge: Keeper Owono lange gesperrt",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Niederländischer „Monstersieg“: Griechenland erlebt „Tragödie“",
+      "source": "transfermarkt",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Deutsche Nationalmannschaft: „Wundervoller Fußballer“ Gruda begeistert Klopp",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "So packt Deutschland das Viertelfinale in der Nations League",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Digard übernimmt Trainerposten in Lens – Dritter Coach der Saison",
+      "source": "transfermarkt",
+      "sentiment": -0.9
+    },
+    {
+      "title": "Nächste Verletzung: HSV-Routinier Poulsen fehlt wochenlang",
+      "source": "transfermarkt",
+      "sentiment": -0.35
+    },
+    {
+      "title": "FC Bayern in Sorge: Davies bei Kanada früh ausgewechselt",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Streich über Rückkehr in Profi-Fußball: \"Ich will nicht mehr\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Muskulärer Schaden? Davies verlässt Kanada und fliegt zurück nach München",
+      "source": "kicker",
+      "sentiment": -0.05
+    },
+    {
+      "title": "So ist der Stand bei Konstantelias wirklich",
+      "source": "kicker",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Japan und Moriyasu trennen sich vorzeitig - Bruno Fernandes lehnt Vertragsangebot ab",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Reaktion auf Kritik: BVB verlängert Rheinmetall-Vertrag nicht",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Scaloni verlängert als Nationaltrainer von Argentinien: „Nun beginnt ein neuer Prozess“",
       "source": "transfermarkt",
       "sentiment": 0.4
@@ -74,81 +149,6 @@
       "title": "Im Test gegen Split: Vuskovic feiert nach 1467 Tagen HSV-Comeback vor 50.000 Fans",
       "source": "kicker",
       "sentiment": 0.6
-    },
-    {
-      "title": "Ismael findet neuen Job in Frankreich - Pochettino vor ManUnited-Engagement",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Bericht: RB Leipzig plant erneute Gründung eines U-23-Teams",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Top-Torjäger bei Werders erster Meisterschaft: Matischak ist tot",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "\"Das fand ich schon cool\": Sorgt Strobl für die große Arnold-Überraschung?",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Assist gegen Lüttich: Gladbach freut sich auf Rückkehrer Kühn",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Köln meldet Rekorde bei Umsatz und Mitgliedern, aber weniger Gewinn",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Irgendwann ist der physische Tank leer\": Wundenlecken in Hoffenheim",
-      "source": "kicker",
-      "sentiment": 0.1
-    },
-    {
-      "title": "Luis Diaz trainiert mit Musiala",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Borussia Mönchengladbach: Warum Marokko trotz DFB-Debüt um Wael Mohya wirbt",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "PSV Eindhoven arbeitet an Wintertransfer von De Bruyne – Bosz ist Fan",
-      "source": "transfermarkt",
-      "sentiment": 0.43
-    },
-    {
-      "title": "FIFA: Blatters schwere Vorwürfe gegen „Diktator“ Infantino",
-      "source": "transfermarkt",
-      "sentiment": -0.45
-    },
-    {
-      "title": "Hoher Marktwert, kaum Spielzeit: Top-Klubs leisten sich Stars für die Bank",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "1. FC Nürnberg: Torhüter Reichert beim FC Augsburg Thema – Vertrag endet",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Manchester United trennt sich von Trainer Carrick – Pochettino bereit",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "U17-WM 2026: USA ziehen Nationalelf aus Sicherheitsgründen zurück",
-      "source": "transfermarkt",
-      "sentiment": 0.3
     }
   ]
 }
