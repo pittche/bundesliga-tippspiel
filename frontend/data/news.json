@@ -1,6 +1,101 @@
 {
   "news": [
     {
+      "title": "Watzke fordert neuen FIFA-Präsidenten – Wenger „wäre top“",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Raphinha fliegt bei Brasilien-Pleite – Kritik am Schiedsrichter",
+      "source": "transfermarkt",
+      "sentiment": 0.05
+    },
+    {
+      "title": "Österreich: Wie sich Felix Bacher in Ralf Rangnicks ÖFB-Kader spielte",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Trotz zweifacher Führung: Deutschlands U19 verliert gegen Portugal in EM-Qualifikation",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Mario Vuskovic: Neuer Marktwert vor HSV-Comeback nach Dopingsperre",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Spiel eins nach Ronaldo: Portugal geht gegen Dänemark unter – Applaus in Minute sieben",
+      "source": "transfermarkt",
+      "sentiment": -0.6
+    },
+    {
+      "title": "Zweifel an Wengers Kandidatur als Infantino-Gegner",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Bradley Fink im Interview: Über Haaland-Vergleiche beim BVB und den Dundee FC",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Mohya erklärt Entscheidung für DFB – Bayern-Interesse „schöne Bestätigung“",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "DFB auch gegen Niederlande ohne Mohya – Bei nächstem Länderspiel älter als Seeler & Karl",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Ist Stiller ein Kandidat für die Modric-Nachfolge bei Milan?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Dunkle Phasen, aber aufgeben war keine Option\": Vuskovic feiert sein Comeback",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
+      "title": "Rolfes über Boniface-Abschied im Winter: \"Auf jeden Fall eine Option\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Matsima-Ausfall droht: Mit dem Personal ging die Augsburger Stabilität flöten",
+      "source": "kicker",
+      "sentiment": -0.17
+    },
+    {
+      "title": "Neues Profil im RB-Angriff: Guiu und der zweite Start",
+      "source": "kicker",
+      "sentiment": 0.1
+    },
+    {
+      "title": "Vertragsgespräche angestoßen: Kann Paderborn Kettemann halten?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Baumgart hofft auf neue Chance: \"Ich könnte wieder\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Neuer-Entscheidung im Winter? - Ito dürfte gehen",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Nächster Rückschlag: Poulsen fehlt dem HSV erneut",
+      "source": "kicker",
+      "sentiment": -0.35
+    },
+    {
       "title": "Deutschlands U21 verliert gegen Belgien – Ex-Dortmunder Duranville trifft",
       "source": "transfermarkt",
       "sentiment": 0.53
@@ -54,101 +149,6 @@
       "title": "Streich über Rückkehr in Profi-Fußball: \"Ich will nicht mehr\"",
       "source": "kicker",
       "sentiment": 0
-    },
-    {
-      "title": "Muskulärer Schaden? Davies verlässt Kanada und fliegt zurück nach München",
-      "source": "kicker",
-      "sentiment": -0.05
-    },
-    {
-      "title": "So ist der Stand bei Konstantelias wirklich",
-      "source": "kicker",
-      "sentiment": -0.1
-    },
-    {
-      "title": "Japan und Moriyasu trennen sich vorzeitig - Bruno Fernandes lehnt Vertragsangebot ab",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Reaktion auf Kritik: BVB verlängert Rheinmetall-Vertrag nicht",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Scaloni verlängert als Nationaltrainer von Argentinien: „Nun beginnt ein neuer Prozess“",
-      "source": "transfermarkt",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Kane schießt England in Rekordspiel zum Sieg – Italien schlägt Frankreich spektakulär",
-      "source": "transfermarkt",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Transfermarkt: RB Leipzig will Offensivtalent Viggo Gebel verleihen",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Ex-Leverkusener Alario schießt Estudiantes zur Supercopa Argentina",
-      "source": "transfermarkt",
-      "sentiment": 0.05
-    },
-    {
-      "title": "Mario Vuskovic im Testspiel vor erstem HSV-Einsatz seit 1.467 Tagen",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "FC Bayerns Upamecano reist von Nationalteam ab – Wolfsburgs Kumbedi gibt Debüt",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "VfB Stuttgart: Talent Yanik Spalt für ÖFB-Team nachnominiert",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Inter Mailands Pio Esposito: Das ist Italiens Hoffnungsträger",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Jogi Löw: Daran krankt der deutsche Fußball – Seine Meinung über Klopp",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Manchester United: Klausel für Pochettino gezogen – Carrick-Nachfolger",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Daumenverletzung bei Backhaus - doch keine Panik in Freiburg",
-      "source": "kicker",
-      "sentiment": -0.05
-    },
-    {
-      "title": "Jovic spektakulär: Die schönsten Bundesliga-Tore von Serben",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Upamecano von Frankreichs Nationalmannschaft abgereist",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Liga-Präsidium möchte \"ordnungspolitische Voraussetzung\" verankern",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Im Test gegen Split: Vuskovic feiert nach 1467 Tagen HSV-Comeback vor 50.000 Fans",
-      "source": "kicker",
-      "sentiment": 0.6
     }
   ]
 }
