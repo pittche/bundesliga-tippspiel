@@ -1,6 +1,91 @@
 {
   "news": [
     {
+      "title": "Ex-Profi des VfL Bochum: Jürgen Locadia von FIFA gesperrt",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "3. Liga: Ex-Profi Schieber und Großaspach trennen sich vorzeitig",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Tim Oermann Kandidat bei Schalke – Spielt bei Bayer Leverkusen nicht",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Foul mit tödlichem Ausgang: Piqué kritisiert Owono-Strafe",
+      "source": "transfermarkt",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Bayer Leverkusen betroffen: Diese Spieler sind noch ohne Bundesliga-Minute",
+      "source": "transfermarkt",
+      "sentiment": -0.4
+    },
+    {
+      "title": "VfB Stuttgart: Klausel verlängert Vertrag von Torwart Bredlow",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "1. FC Köln & Schalke gewinnen 20.000 Mitglieder – FC Bayern weltweite Nr. 1",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Ex-PSG-Profi Kurzawa beendet Karriere – 2026 zum Abschluss Meister in Indonesien",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Brasilien schießt Singapur ab – 12-Minuten-Hattrick von Vinicius Junior",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Klopp wollte DFB-Keeper ter Stegen einst nach Liverpool holen: „Bin ja nicht nachtragend“",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Demichelis: \"Jetzt spürt auch Gruda, wie geil das ist\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Kader, Sportdirektor, Nachwuchs: Chatzialexiou steht vor wichtigen Entscheidungen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Klausel greift: Bredlow verlängert beim VfB",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Vor dem Nordderby: Bremens Innensenatorin nimmt DFL in die Pflicht",
+      "source": "kicker",
+      "sentiment": -0.6
+    },
+    {
+      "title": "Polzin gehen die Optionen aus: Auch Sambi Lokonga fällt verletzt aus",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Kompany leitet erstmals wieder das Training beim FC Bayern",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Weg nach Frankfurt frei: Chatzialexious FCN-Vertrag endet vorzeitig",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "So packt Deutschland das Viertelfinale in der Nations League",
       "source": "transfermarkt",
       "sentiment": 0
@@ -64,91 +149,6 @@
       "title": "Altersbeschränkungen in Top-Ligen: Ausnahmen bestätigen die Regel",
       "source": "kicker",
       "sentiment": 0
-    },
-    {
-      "title": "Bojan, Pato, Arp, Adu: Top-Talente, die früh verglühten",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Mohya, Wirtz und zwei Dortmunder: Die jüngsten Bundesliga-Torschützen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Freiburgs \"Schönspieler\" Suzuki und die Selbsterkenntnis",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Wehrle kontert Uli Hoeneß' Kritik am VfB",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Zufall? System! \"Libero\" Kristof ist Elversbergs elfter Feldspieler",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Stars wie Kane und Olise bleiben im Stress: Bayerns Kraftakt bis Weihnachten",
-      "source": "kicker",
-      "sentiment": -0.7
-    },
-    {
-      "title": "Eichhorns kleine Schritte: Warum der Weg zurück für das Top-Talent lang ist",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Vuskovic: \"Die ganze Welt weiß, dass ich unschuldig bin\"",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Gänsehaut-Stimmung und Jatta-Ausgleich: Vuskovics Comeback im Video",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Vuskovic: Große Emotionen, kleine nächste Schritte",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Vuskovic richtet sich an die Fans: \"Das Wichtigste ist, das Derby zu gewinnen\"",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Vuskovic-Comeback: \"Ein Auftritt, der Lust auf mehr gemacht hat\"",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Fritz räumt Fehler ein, aber \"hatte nie den Gedanken, wegzulaufen\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Nach Verlust im Vorjahr: Werder Bremen erzielt 2,1 Millionen Euro Gewinn",
-      "source": "kicker",
-      "sentiment": 0.05
-    },
-    {
-      "title": "Gänsehaut vor Anpfiff: Luka Vuskovic lässt HSV-Fans Marios Namen skandieren",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Nach zwölf Jahren Hess-Grunewald: Mehrtens ist neuer Werder-Präsident",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Rolfes bestätigt geplante Vertragsverlängerung mit Maza",
-      "source": "kicker",
-      "sentiment": 0.5
     }
   ]
 }
