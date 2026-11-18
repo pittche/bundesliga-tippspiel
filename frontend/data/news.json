@@ -1,6 +1,126 @@
 {
   "news": [
     {
+      "title": "2. Bundesliga: Scobel hoch, Hertha mit Millionen-Plus? Marktwerte mitbestimmen",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Gruda toppt DFB-Vorgänger Gnabry, Wagner & Gómez – Thompsons Rekord für die Ewigkeit",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Spanien-Legende Juan Mata verkündet Karriereende mit 38 Jahren",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "U21-Trainer Di Salvo kündigt Gespräche mit DFB an – 35 Siege in 50 Spielen",
+      "source": "transfermarkt",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Real Madrid verlängert mit Arda Güler – Wertvollster Türke der Historie",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Ex-HSV-Profi Amadou Onana verlängert bei Aston Villa",
+      "source": "transfermarkt",
+      "sentiment": 0.07
+    },
+    {
+      "title": "Chatzialexiou wechselt früher vom 1. FC Nürnberg zu Eintracht Frankfurt – Kleiner Nachschlag",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "VfB Stuttgart: Interne Kritik an Angelo Stiller – Trennung von Berater",
+      "source": "transfermarkt",
+      "sentiment": -0.07
+    },
+    {
+      "title": "Wende bei Reform der Regionalliga: 22/5-Lösung statt Kompassmodell?",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "BVB vor FC Bayern: Die 50 größten Fan-Magnete der Welt mit HSV & Schalke",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Comeback rückt näher: Kompany nimmt wieder an Pressekonferenz teil",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
+      "title": "Frankfurt bestätigt: Chatzialexiou beginnt bereits in zwei Wochen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Torgefährlich in beide Richtungen: Kann Le Joncour Pinckert ersetzen?",
+      "source": "kicker",
+      "sentiment": 0.1
+    },
+    {
+      "title": "Nach Rot in der Regionalliga: Yilmaz fehlt Freiburg auch bei den Profis",
+      "source": "kicker",
+      "sentiment": 0.05
+    },
+    {
+      "title": "Mata beendet Karriere - Di Salvo entscheidet sich erst nächstes Jahr",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Keine Trainerdiskussion beim FCA, aber ein wegweisendes Programm",
+      "source": "kicker",
+      "sentiment": -0.7
+    },
+    {
+      "title": "Vuskovic und Co. machen sich fit fürs Nordderby",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Wie der FC Bayern seine Klubführung verjüngen - und Olise halten will",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Präsident Beck entsendet Ex-Profi Kraaz und einen Ultra in den Eintracht-Aufsichtsrat",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Union-Sportchef Heldt schwört ein: \"Der Weg der Geschlossenheit wird elementar sein\"",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "\"Viel Zeit hat Hütter nicht\": Bei der Eintracht bleibt es spannend",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Gladbach ohne Ullrich: Blessins Optionen auf der linken Schiene",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Kompany, Musiala, Diaz: So steht es um Bayerns Rückkehrer",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Günstige Zeichen bei Maza: Bayer mit fünf Rückkehrern gegen Paderborn?",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
       "title": "Ex-Profi des VfL Bochum: Jürgen Locadia von FIFA gesperrt",
       "source": "transfermarkt",
       "sentiment": 0.6
@@ -29,126 +149,6 @@
       "title": "VfB Stuttgart: Klausel verlängert Vertrag von Torwart Bredlow",
       "source": "transfermarkt",
       "sentiment": 0.4
-    },
-    {
-      "title": "1. FC Köln & Schalke gewinnen 20.000 Mitglieder – FC Bayern weltweite Nr. 1",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Ex-PSG-Profi Kurzawa beendet Karriere – 2026 zum Abschluss Meister in Indonesien",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Brasilien schießt Singapur ab – 12-Minuten-Hattrick von Vinicius Junior",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Klopp wollte DFB-Keeper ter Stegen einst nach Liverpool holen: „Bin ja nicht nachtragend“",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Demichelis: \"Jetzt spürt auch Gruda, wie geil das ist\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Kader, Sportdirektor, Nachwuchs: Chatzialexiou steht vor wichtigen Entscheidungen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Klausel greift: Bredlow verlängert beim VfB",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Vor dem Nordderby: Bremens Innensenatorin nimmt DFL in die Pflicht",
-      "source": "kicker",
-      "sentiment": -0.6
-    },
-    {
-      "title": "Polzin gehen die Optionen aus: Auch Sambi Lokonga fällt verletzt aus",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Kompany leitet erstmals wieder das Training beim FC Bayern",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Weg nach Frankfurt frei: Chatzialexious FCN-Vertrag endet vorzeitig",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "So packt Deutschland das Viertelfinale in der Nations League",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "FC Bayerns Davies wieder verletzt - In Kanada-Umkleide ausgetickt",
-      "source": "transfermarkt",
-      "sentiment": -0.4
-    },
-    {
-      "title": "VfB Stuttgart: Wehrle kontert Kritik von Bayern-Patron Uli Hoeneß",
-      "source": "transfermarkt",
-      "sentiment": -0.4
-    },
-    {
-      "title": "16 Jahre & 135 Spiele: Rekordtorschütze Lukaku verabschiedet sich aus Belgiens Nationalteam",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Seit Sommer bei Norwich City: Gabor Ruhr erklärt modernes Scouting",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Hannover 96 macht Norwichs Gabor Ruhr zum Sportdirektor",
-      "source": "transfermarkt",
-      "sentiment": -0.9
-    },
-    {
-      "title": "FC Bayern-Talent Bastian Assomo: Tore am Fließband für DFB-U17-Team",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Ex-Tottenham-Trainer Thomas Frank soll Crystal Palace übernehmen",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Wie beim DFB-Team: Adidas verliert auch Champions-League-Deal",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Italiens Neustart überzeugt: „Ordentliches Hintern versohlen kann lehrreich sein“",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Davies erleidet vierten Muskelfaserriss in zwei Jahren",
-      "source": "kicker",
-      "sentiment": -0.5
-    },
-    {
-      "title": "Lemperles große Sehnsucht nach Frankfurt",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Altersbeschränkungen in Top-Ligen: Ausnahmen bestätigen die Regel",
-      "source": "kicker",
-      "sentiment": 0
     }
   ]
 }
