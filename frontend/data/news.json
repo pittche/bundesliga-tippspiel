@@ -1,154 +1,154 @@
 {
   "news": [
     {
-      "title": "2. Bundesliga: Scobel hoch, Hertha mit Millionen-Plus? Marktwerte mitbestimmen",
+      "title": "Straßburg holt Trainer Matos von Swansea – Fast so teuer wie United-Coach Pochettino",
       "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "Gruda toppt DFB-Vorgänger Gnabry, Wagner & Gómez – Thompsons Rekord für die Ewigkeit",
+      "title": "VfB Stuttgart muss 20-Millionen-Loch im Winter stopfen",
       "source": "transfermarkt",
-      "sentiment": 0
+      "sentiment": 0.3
     },
     {
-      "title": "Spanien-Legende Juan Mata verkündet Karriereende mit 38 Jahren",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "U21-Trainer Di Salvo kündigt Gespräche mit DFB an – 35 Siege in 50 Spielen",
+      "title": "Scobel über Nürnbergs Aufschwung und erstes Treffen mit Klose: „Da war ich schon nervös“",
       "source": "transfermarkt",
       "sentiment": 0.5
     },
     {
-      "title": "Real Madrid verlängert mit Arda Güler – Wertvollster Türke der Historie",
-      "source": "transfermarkt",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Ex-HSV-Profi Amadou Onana verlängert bei Aston Villa",
-      "source": "transfermarkt",
-      "sentiment": 0.07
-    },
-    {
-      "title": "Chatzialexiou wechselt früher vom 1. FC Nürnberg zu Eintracht Frankfurt – Kleiner Nachschlag",
+      "title": "BVB: FC Barcelona erneut an Schlotterbeck dran – Deco vermeidet Aussage",
       "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "VfB Stuttgart: Interne Kritik an Angelo Stiller – Trennung von Berater",
+      "title": "FC Bayern: Kompany spricht vor Comeback über Schock-Ausfall",
       "source": "transfermarkt",
-      "sentiment": -0.07
+      "sentiment": 0.05
     },
     {
-      "title": "Wende bei Reform der Regionalliga: 22/5-Lösung statt Kompassmodell?",
+      "title": "Hannover 96: Reinhold erhält Profivertrag",
       "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "BVB vor FC Bayern: Die 50 größten Fan-Magnete der Welt mit HSV & Schalke",
+      "title": "Bericht über VfB-Transfer falsch? Sarajevos Ivanisevic kommt wohl noch nicht nach Stuttgart",
       "source": "transfermarkt",
       "sentiment": 0.3
     },
     {
-      "title": "Comeback rückt näher: Kompany nimmt wieder an Pressekonferenz teil",
+      "title": "FC Bayern: Upamecano seit 53 Spielen unbesiegt – Boateng-Rekord naht",
+      "source": "transfermarkt",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Nach Güler: Real Madrid verlängert auch mit Tchouaméni",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Ex-Barça-Kapitän Puyol unterstützt Andorra-Erstligist Inter Escaldes",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "\"Ich freue mich sehr für ihn, aber ...\": Demichelis' mahnende Worte an Gruda",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Bei Zieler deutet sich ein Verbleib beim 1. FC Köln an",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Vor Borussen-Duell: Drei Fragezeichen beim BVB",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Es ist deutlich entspannter\": BVB-Vorfreude auf die nächsten acht Spiele",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Kovac über GTA 6: \"Hoffe nicht, dass meine Jungs bis in die Nacht gespielt haben\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Tchouameni verlängert schon wieder - Mata beendet Karriere",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Zu teuer für die Bank: Für Esteve spricht in Leipzig die Zeit",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Das Bundesliga-Quiz zum 10. Spieltag",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Sogar der Kaiser schimpfte: Wieses Kung-Fu-Tritt gegen Olic",
+      "source": "kicker",
+      "sentiment": -0.6
+    },
+    {
+      "title": "Fritz schafft den Turnaround in Bremen - doch verlängert er auch?",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Zu wenig Stühle, viel Anteilnahme: So lief das Kompany-Comeback bei Bayern",
       "source": "kicker",
       "sentiment": 0.45
     },
     {
-      "title": "Frankfurt bestätigt: Chatzialexiou beginnt bereits in zwei Wochen",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Torgefährlich in beide Richtungen: Kann Le Joncour Pinckert ersetzen?",
-      "source": "kicker",
-      "sentiment": 0.1
-    },
-    {
-      "title": "Nach Rot in der Regionalliga: Yilmaz fehlt Freiburg auch bei den Profis",
-      "source": "kicker",
-      "sentiment": 0.05
-    },
-    {
-      "title": "Mata beendet Karriere - Di Salvo entscheidet sich erst nächstes Jahr",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Keine Trainerdiskussion beim FCA, aber ein wegweisendes Programm",
-      "source": "kicker",
-      "sentiment": -0.7
-    },
-    {
-      "title": "Vuskovic und Co. machen sich fit fürs Nordderby",
+      "title": "Kompany: \"Und du bist zu Hause auf der Couch, das macht nicht viel Spaß\"",
       "source": "kicker",
       "sentiment": 0.4
     },
     {
-      "title": "Wie der FC Bayern seine Klubführung verjüngen - und Olise halten will",
+      "title": "Beim Thema Musiala hat Kompany etwas klarzustellen",
       "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Präsident Beck entsendet Ex-Profi Kraaz und einen Ultra in den Eintracht-Aufsichtsrat",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Union-Sportchef Heldt schwört ein: \"Der Weg der Geschlossenheit wird elementar sein\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "\"Viel Zeit hat Hütter nicht\": Bei der Eintracht bleibt es spannend",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Gladbach ohne Ullrich: Blessins Optionen auf der linken Schiene",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Kompany, Musiala, Diaz: So steht es um Bayerns Rückkehrer",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Günstige Zeichen bei Maza: Bayer mit fünf Rückkehrern gegen Paderborn?",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Ex-Profi des VfL Bochum: Jürgen Locadia von FIFA gesperrt",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "3. Liga: Ex-Profi Schieber und Großaspach trennen sich vorzeitig",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Tim Oermann Kandidat bei Schalke – Spielt bei Bayer Leverkusen nicht",
-      "source": "transfermarkt",
       "sentiment": 0.3
     },
     {
-      "title": "Foul mit tödlichem Ausgang: Piqué kritisiert Owono-Strafe",
-      "source": "transfermarkt",
-      "sentiment": -0.4
+      "title": "Kompany: \"Ich will noch einmal sagen, wie dankbar ich bin\"",
+      "source": "kicker",
+      "sentiment": 0
     },
     {
-      "title": "Bayer Leverkusen betroffen: Diese Spieler sind noch ohne Bundesliga-Minute",
-      "source": "transfermarkt",
-      "sentiment": -0.4
+      "title": "Kompany vergleicht sich mit Musiala: \"Das sind Momente ...\"",
+      "source": "kicker",
+      "sentiment": 0.45
     },
     {
-      "title": "VfB Stuttgart: Klausel verlängert Vertrag von Torwart Bredlow",
-      "source": "transfermarkt",
+      "title": "\"Bin sehr gesund\": So lief Kompanys erste PK seit seinem Zusammenbruch",
+      "source": "kicker",
       "sentiment": 0.4
+    },
+    {
+      "title": "Heute vor zehn Jahren: Als Risse zum Derbyhelden wurde",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Nun trifft er auch noch: SCP-Dauerbrenner Obermair dreht auf",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Neustart Nummer 3: Kleindienst benötigt weiter Geduld",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Comeback gegen Köln: Kompany sitzt wieder auf der Bayern-Bank",
+      "source": "kicker",
+      "sentiment": 0.45
     }
   ]
 }
