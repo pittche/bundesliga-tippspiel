@@ -1,154 +1,154 @@
 {
   "news": [
     {
-      "title": "Straßburg holt Trainer Matos von Swansea – Fast so teuer wie United-Coach Pochettino",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "VfB Stuttgart muss 20-Millionen-Loch im Winter stopfen",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Scobel über Nürnbergs Aufschwung und erstes Treffen mit Klose: „Da war ich schon nervös“",
-      "source": "transfermarkt",
-      "sentiment": 0.5
-    },
-    {
-      "title": "BVB: FC Barcelona erneut an Schlotterbeck dran – Deco vermeidet Aussage",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "FC Bayern: Kompany spricht vor Comeback über Schock-Ausfall",
-      "source": "transfermarkt",
-      "sentiment": 0.05
-    },
-    {
-      "title": "Hannover 96: Reinhold erhält Profivertrag",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Bericht über VfB-Transfer falsch? Sarajevos Ivanisevic kommt wohl noch nicht nach Stuttgart",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "FC Bayern: Upamecano seit 53 Spielen unbesiegt – Boateng-Rekord naht",
-      "source": "transfermarkt",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Nach Güler: Real Madrid verlängert auch mit Tchouaméni",
-      "source": "transfermarkt",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Ex-Barça-Kapitän Puyol unterstützt Andorra-Erstligist Inter Escaldes",
+      "title": "Thomas Müller: „Alles offen, von Karriereende bis hin zu Fünfjahresvertrag“",
       "source": "transfermarkt",
       "sentiment": 0.6
     },
     {
-      "title": "\"Ich freue mich sehr für ihn, aber ...\": Demichelis' mahnende Worte an Gruda",
+      "title": "Dynamo Dresden holt auch Aaron Riedel zu den Profis",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Borussia Mönchengladbach: Batz bleibt Nr. 1 - Geht Nicolas?",
+      "source": "transfermarkt",
+      "sentiment": -0.4
+    },
+    {
+      "title": "BVB-Talent Inácio muss operiert werden und fehlt monatelang",
+      "source": "transfermarkt",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Nations-League-Auslosung: Deutschlands Gegner fürs Viertelfinale steht fest",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Real Madrid meldet Courtois-Verlängerung, Valverde soll folgen",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Achillessehne gerissen: Saisonaus für Fulham-Torwart Lecomte",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Bundesliga zahlt Millionen an 128 Amateurklubs für El Mala und Karl",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "FC Bayern: Ibrahimovic bereut Wechsel zum FC Augsburg überhaupt nicht",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Wollitz kritisiert Nike-Deal des DFB – Verweis auf 50+1",
+      "source": "transfermarkt",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Die ganze Abwehr stehen gelassen: Als El Mala den Bayern davonlief",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Fans vor dem Nordderby: \"Füllkrug macht pro Halbzeit mindestens eins\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Verletzung bei Italiens U 21: Inacio fehlt dem BVB monatelang",
+      "source": "kicker",
+      "sentiment": -0.37
+    },
+    {
+      "title": "Kimmichs Traumtor gegen den 1. FC Köln",
       "source": "kicker",
       "sentiment": 0.3
     },
     {
-      "title": "Bei Zieler deutet sich ein Verbleib beim 1. FC Köln an",
+      "title": "Bei Müller ist \"alles offen\" - Real-Kapitän Fede Valverde vor Verlängerung",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Der verflixte 10. Spieltag: Stürzt Köln die Bayern erneut vom Thron?",
       "source": "kicker",
       "sentiment": 0.6
     },
     {
-      "title": "Vor Borussen-Duell: Drei Fragezeichen beim BVB",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Es ist deutlich entspannter\": BVB-Vorfreude auf die nächsten acht Spiele",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Kovac über GTA 6: \"Hoffe nicht, dass meine Jungs bis in die Nacht gespielt haben\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Tchouameni verlängert schon wieder - Mata beendet Karriere",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Zu teuer für die Bank: Für Esteve spricht in Leipzig die Zeit",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Das Bundesliga-Quiz zum 10. Spieltag",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Sogar der Kaiser schimpfte: Wieses Kung-Fu-Tritt gegen Olic",
-      "source": "kicker",
-      "sentiment": -0.6
-    },
-    {
-      "title": "Fritz schafft den Turnaround in Bremen - doch verlängert er auch?",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Zu wenig Stühle, viel Anteilnahme: So lief das Kompany-Comeback bei Bayern",
-      "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Kompany: \"Und du bist zu Hause auf der Couch, das macht nicht viel Spaß\"",
+      "title": "Wer überträgt FC Bayern München gegen 1. FC Köln live im TV und Stream?",
       "source": "kicker",
       "sentiment": 0.4
     },
     {
-      "title": "Beim Thema Musiala hat Kompany etwas klarzustellen",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Kompany: \"Ich will noch einmal sagen, wie dankbar ich bin\"",
+      "title": "Bundesliga-Trio dabei: Die effizientesten Torschützen der Top-5-Ligen",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "Kompany vergleicht sich mit Musiala: \"Das sind Momente ...\"",
+      "title": "Aus der Misere ins Überangebot: Gladbachs Konkurrenzkampf in der Offensive",
       "source": "kicker",
-      "sentiment": 0.45
+      "sentiment": 0
     },
     {
-      "title": "\"Bin sehr gesund\": So lief Kompanys erste PK seit seinem Zusammenbruch",
+      "title": "Guardiola: \"So seid ihr Deutschen schon immer gewesen\"",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Dortmunds doppelt auffällige Werte",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Nur einer ließ mehr liegen: Kanes überraschend schwacher xGoals-Wert",
+      "source": "kicker",
+      "sentiment": 0.1
+    },
+    {
+      "title": "Schuster über Lob für Scherhant und Treu: \"Hilft nicht automatisch\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Dzekos besondere Rolle rund um die nervige Heimtor-Flaute",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Die große Nordderby-Reportage: Vorteil Werder oder Vuskovic-Boost für den HSV?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Scherhant und Treu: Hochgelobte sollen am Boden bleiben",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Blessin vergleicht Kleindienst mit Füllkrug: \"Sehe ihn in der gleichen Position\"",
+      "source": "kicker",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Reis vor dem Derby über seine Form, Hasskommentare und Vuskovic",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Hütter über Vergangenheit mit Ilzer: \"Da mochten wir uns noch nicht so\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Unglaubliche\" Jahre: Potulski verlängert vorzeitig in Mainz",
       "source": "kicker",
       "sentiment": 0.4
-    },
-    {
-      "title": "Heute vor zehn Jahren: Als Risse zum Derbyhelden wurde",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Nun trifft er auch noch: SCP-Dauerbrenner Obermair dreht auf",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Neustart Nummer 3: Kleindienst benötigt weiter Geduld",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Comeback gegen Köln: Kompany sitzt wieder auf der Bayern-Bank",
-      "source": "kicker",
-      "sentiment": 0.45
     }
   ]
 }
