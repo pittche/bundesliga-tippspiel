@@ -1,154 +1,154 @@
 {
   "news": [
     {
-      "title": "Thomas Müller: „Alles offen, von Karriereende bis hin zu Fünfjahresvertrag“",
+      "title": "2. Liga: Darmstadt 98 verschafft sich Luft – 1. FC Magdeburg bleibt oben",
       "source": "transfermarkt",
-      "sentiment": 0.6
+      "sentiment": -0.7
     },
     {
-      "title": "Dynamo Dresden holt auch Aaron Riedel zu den Profis",
+      "title": "FC Bayern: Upamecano kurz vor Ungeschlagen-Rekord von Boateng",
       "source": "transfermarkt",
-      "sentiment": 0
+      "sentiment": 0.5
     },
     {
-      "title": "Borussia Mönchengladbach: Batz bleibt Nr. 1 - Geht Nicolas?",
+      "title": "Bundesliga: 1. FC Köln überrascht FC Bayern – Kane und Olise verletzt",
       "source": "transfermarkt",
-      "sentiment": -0.4
+      "sentiment": 0.1
     },
     {
-      "title": "BVB-Talent Inácio muss operiert werden und fehlt monatelang",
+      "title": "FC Bayern: Rummenigge stellt Musiala-Zukunft heftig infrage",
       "source": "transfermarkt",
-      "sentiment": -0.3
+      "sentiment": 0.1
     },
     {
-      "title": "Nations-League-Auslosung: Deutschlands Gegner fürs Viertelfinale steht fest",
+      "title": "Werder Bremen verlängert mit Trainer Daniel Thioune",
       "source": "transfermarkt",
-      "sentiment": 0
+      "sentiment": 0.4
     },
     {
-      "title": "Real Madrid meldet Courtois-Verlängerung, Valverde soll folgen",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Achillessehne gerissen: Saisonaus für Fulham-Torwart Lecomte",
+      "title": "3. Liga: Viktoria Köln schießt TSV Havelse ab – Torrekord pulverisiert",
       "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "Bundesliga zahlt Millionen an 128 Amateurklubs für El Mala und Karl",
+      "title": "Wie Arslan Ex-BVB-Stürmer Haller zu Sanfrecce Hiroshima nach Japan lockte",
       "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "FC Bayern: Ibrahimovic bereut Wechsel zum FC Augsburg überhaupt nicht",
+      "title": "Kane wird FC Bayern monatelang fehlen – Entwarnung bei Olise",
       "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Wollitz kritisiert Nike-Deal des DFB – Verweis auf 50+1",
-      "source": "transfermarkt",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Die ganze Abwehr stehen gelassen: Als El Mala den Bayern davonlief",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Fans vor dem Nordderby: \"Füllkrug macht pro Halbzeit mindestens eins\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Verletzung bei Italiens U 21: Inacio fehlt dem BVB monatelang",
-      "source": "kicker",
-      "sentiment": -0.37
-    },
-    {
-      "title": "Kimmichs Traumtor gegen den 1. FC Köln",
-      "source": "kicker",
       "sentiment": 0.3
     },
     {
-      "title": "Bei Müller ist \"alles offen\" - Real-Kapitän Fede Valverde vor Verlängerung",
-      "source": "kicker",
-      "sentiment": 0.35
+      "title": "MLS-Gehälter: Lewandowski kriegt das Vierfache von Müller",
+      "source": "transfermarkt",
+      "sentiment": 0
     },
     {
-      "title": "Der verflixte 10. Spieltag: Stürzt Köln die Bayern erneut vom Thron?",
-      "source": "kicker",
-      "sentiment": 0.6
+      "title": "Tennis-Ikone Nadal nun Vorstandmitglied bei Real Madrid",
+      "source": "transfermarkt",
+      "sentiment": 0
     },
     {
-      "title": "Wer überträgt FC Bayern München gegen 1. FC Köln live im TV und Stream?",
+      "title": "Bayern vermeldet 500.000 Mitglieder - und nähert sich \"magischer\" Umsatz-Marke",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Moore besiegt die Angst und zerstreut alle Gerüchte",
+      "source": "kicker",
+      "sentiment": 0.2
+    },
+    {
+      "title": "Vertragsverlängerung vor dem Derby: Thioune bleibt in Bremen",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Inacios Verletzung und die Folgen beim BVB - auch für den Transfermarkt?",
+      "source": "kicker",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Pressestimmen nach dem Kane-Aus: \"Nacht des Schreckens\"",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Wer überträgt FC Schalke 04 gegen VfB Stuttgart live im TV und Stream?",
       "source": "kicker",
       "sentiment": 0.4
     },
     {
-      "title": "Bundesliga-Trio dabei: Die effizientesten Torschützen der Top-5-Ligen",
+      "title": "Kompany kämpferisch: \"Mit dem Messer zwischen den Zähnen\"",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Nach harter Rummenigge-Kritik: Kompany stellt sich vor Musiala",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Bayerns schwarzer Freitag: Die Hintergründe zu Rummenigge und Musiala",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "Aus der Misere ins Überangebot: Gladbachs Konkurrenzkampf in der Offensive",
+      "title": "Kompany: \"Haben andere Jungs, die die Mannschaft jetzt tragen müssen\"",
       "source": "kicker",
-      "sentiment": 0
+      "sentiment": -0.4
     },
     {
-      "title": "Guardiola: \"So seid ihr Deutschen schon immer gewesen\"",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Dortmunds doppelt auffällige Werte",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Nur einer ließ mehr liegen: Kanes überraschend schwacher xGoals-Wert",
+      "title": "FC Bayern atmet auf: Leichte Entwarnung bei Olise",
       "source": "kicker",
       "sentiment": 0.1
     },
     {
-      "title": "Schuster über Lob für Scherhant und Treu: \"Hilft nicht automatisch\"",
+      "title": "El Mala zwischen den Welten: \"Da hättest du dich feiern lassen können\"",
+      "source": "kicker",
+      "sentiment": -0.5
+    },
+    {
+      "title": "\"Kann mir nicht vorstellen, dass irgendein Verein Musiala unter diesen Voraussetzungen kaufen wird\"",
+      "source": "kicker",
+      "sentiment": 0.23
+    },
+    {
+      "title": "Torjäger bereits operiert: Kane erleidet Syndesmoseriss",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "Dzekos besondere Rolle rund um die nervige Heimtor-Flaute",
+      "title": "Sorgen in der Offensive werden größer: Kane und Olise verletzt raus",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Polzin trifft auf Freund Thioune: \"Für uns beide etwas Besonderes\"",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "Die große Nordderby-Reportage: Vorteil Werder oder Vuskovic-Boost für den HSV?",
+      "title": "Vor der Nordtribüne: Als Wiese für Werder zum Pokalhelden wurde",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "Scherhant und Treu: Hochgelobte sollen am Boden bleiben",
+      "title": "Pyro-Show vor dem Nordderby: Fans heizen HSV ein",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "Blessin vergleicht Kleindienst mit Füllkrug: \"Sehe ihn in der gleichen Position\"",
-      "source": "kicker",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Reis vor dem Derby über seine Form, Hasskommentare und Vuskovic",
+      "title": "Das ist auf der JHV des FC Bayern zu erwarten",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "Hütter über Vergangenheit mit Ilzer: \"Da mochten wir uns noch nicht so\"",
+      "title": "Warum Neuer gerade in Brasilien weilt",
       "source": "kicker",
       "sentiment": 0
-    },
-    {
-      "title": "\"Unglaubliche\" Jahre: Potulski verlängert vorzeitig in Mainz",
-      "source": "kicker",
-      "sentiment": 0.4
     }
   ]
 }
