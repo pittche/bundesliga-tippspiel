@@ -1,152 +1,152 @@
 {
   "news": [
     {
-      "title": "Schalke: Kurucay enttäuscht über Vertragsstillstand – Baumann bremst",
+      "title": "FC Bayern: Choupo-Moting als Kane-Ersatz? Welche Alternativen gibt es?",
       "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "BVB-Interesse an Linus Gechter: Hertha BSC spricht Machtwort",
-      "source": "transfermarkt",
-      "sentiment": 0.5
-    },
-    {
-      "title": "FC Bayern: Karriereende im Sommer? Ulreich macht nicht „alles abhängig“ von Neuer",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Elf des Spieltages mit fünf Bremer Derbyhelden – Brown trotz Bayern-Remis dabei",
-      "source": "transfermarkt",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Rekordsieg: Atlético-Trainer Simeone schreibt LaLiga-Geschichte – Aragonés übertrumpft",
-      "source": "transfermarkt",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Eintracht Frankfurt: Wechsel von Krösche zur AC Milan vor Abschluss – Millionenablöse",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "FC Augsburg: Tim Schnitzer überzeugt beim Startelfdebüt gegen Mainz",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Emre Mor unterbricht Karriere: Ex-BVB-Profi verlässt NEC Nijmegen",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Schalke: Finn Porath vor Wechsel zum VfL Osnabrück",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Sparta Prag trennt sich von Ex-BVB-Profi Tomas Rosicky",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Ex-Dortmunder Mor mit vorläufigem Karriereende - Mohya \"im Winter unverkäuflich\"",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Ohne Neuer und Kane: Wer führt diese Bayern-Mannschaft?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Cramer: \"Kann man aus diesem Stadion noch mehr machen?\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Mutige BVB-Pläne: 130 Millionen Euro mehr Umsatz - und ein größeres Stadion?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Uneitel, pragmatisch, erfolgreich: Sinnbild Scherhant und Freiburgs Plan",
-      "source": "kicker",
-      "sentiment": 0.47
-    },
-    {
-      "title": "Nur zwei nicht nach England: Die Top 10 der Bayer-Verkäufe",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "VfB-Dresden neu dabei: Vier DFB-Pokal-Achtelfinals im Free-TV",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "\"Brutale Qualität\": Leipzig hat die beste Bank der Liga",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Thioune schwärmt von Reis: \"Hat sich für unsere Farben zerrissen\"",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Polzin über 24 Gegentore: \"Jungs sind unzufrieden mit sich\"",
-      "source": "kicker",
       "sentiment": -0.5
     },
     {
-      "title": "Ein Adjektiv verringert und verkürzt VAR-Einsätze in der Bundesliga deutlich",
-      "source": "kicker",
-      "sentiment": -0.5
+      "title": "TSG Hoffenheim bindet Offensivtalent Oskar Hencke langfristig",
+      "source": "transfermarkt",
+      "sentiment": 0
     },
     {
-      "title": "Thioune: \"Füllkrug wollte das Tor beim 4:0 kaputt schießen\"",
-      "source": "kicker",
-      "sentiment": 0.5
+      "title": "„Erfreuliche Nachricht“: Disney+ zeigt ab Januar Bundesliga-Highlights – Dank Sublizenz",
+      "source": "transfermarkt",
+      "sentiment": 0
     },
     {
-      "title": "Gregoritsch und der FCA: Mit Rekorden aus der Krise",
-      "source": "kicker",
-      "sentiment": -0.1
+      "title": "Wie der Fall Jamal Musiala den FC Bayern spaltet – Kritik an Max Eberl",
+      "source": "transfermarkt",
+      "sentiment": -0.4
     },
     {
-      "title": "Elversberger Ergebnisdelle: Erneut Komplimente, aber keine Punkte",
+      "title": "VfL Wolfsburg: Fabian Reese zieht Bilanz – Würde Hertha BSC wieder verlassen",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "FC Augsburg: DFB sperrt Trainer Manuel Baum - Klub stimmt Urteil zu",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Reece Oxford: Comeback und Marktwertsturz von 12 Mio. Euro",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "CAS fällt Urteil: Senegal ist nach Skandal-Finale doch Afrika-Cup-Gewinner",
+      "source": "transfermarkt",
+      "sentiment": -0.8
+    },
+    {
+      "title": "1. FC Köln: Waldschmidt hinterlegt Wechselwunsch – Thailand-Transfer vom Tisch",
+      "source": "transfermarkt",
+      "sentiment": -0.05
+    },
+    {
+      "title": "BVB verliert in Youth League gegen Arsenal – Keeper sieht Rot",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Eberl berichtet von Gespräch mit Musiala: \"Konsens gefunden\"",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Stuttgarts Leihspieler Catovic verletzt sich im Barca-Trikot schwer",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Strahlendes Lächeln: Musiala lässt sich im Training nichts anmerken",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "Ulreich scherzt über Nachfolger: \"Ob sie jemals einen wie mich finden\"",
+      "title": "Okon-Engstler zu seinen Deutsch-Kenntnissen: \"Mein Opa will, dass ich es lerne\"",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "\"Jahre danach nicht erklärbar\": Ulreich über seinen Patzer gegen Real",
+      "title": "Nach Tätlichkeit in Frankfurt: Kabak vom DFB für vier Spiele gesperrt",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Ein Spiel Sperre: Baum fehlt dem FCA in Hoffenheim",
+      "source": "kicker",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Via Sublizenz: Bundesliga-Highlights ab Januar auch bei Disney+",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "\"Loyal sollte man schon sein\": Ulreich und die Rolle hinter Neuer",
+      "title": "\"Betroffener\" Freund attackiert Bayern: \"Moralisch schwach\"",
+      "source": "kicker",
+      "sentiment": -0.07
+    },
+    {
+      "title": "FC Harmlos 04: Einfach Pech oder doch ein klares Qualitätsproblem?",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "Brennende Sitze und zerstörte Sanitäranlage in Bremen",
+      "title": "Matthäus sieht Bayern-Zerreißprobe - und korrigiert sich",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "Bayer und Bremen führen die Riege an: Die kicker-Elf des 10. Spieltags",
+      "title": "Brisantes Detail im Musiala-Vertrag veröffentlicht",
       "source": "kicker",
-      "sentiment": 0.5
+      "sentiment": 0
     },
     {
-      "title": "Werder-Ärger trotz Derby-Coup: \"Mit dem Ball einfach schlecht\"",
+      "title": "Von der Jokerrolle in den Verletztenstatus: Castro-Montes fehlt Köln erneut",
+      "source": "kicker",
+      "sentiment": -0.37
+    },
+    {
+      "title": "Werder nennt Sachbeschädigung \"inakzeptabel\" - und reicht Kosten an den HSV weiter",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Ein Derbyheld und eine Erinnerung an Zirkzee: FCB-Novizen unverhofft im Rampenlicht",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Darum kann Bayer Alajbegovic ab 2028 für fünf Jahre binden",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Njinmah \"im Flow\" - und nach dem Doppelpack schnell im Krankenhaus",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "DFB äußert sich: Warum Gladbach keinen Handelfmeter bekam",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Dreesen kontert Kritik im Fall Musiala: \"Habe mich einfach nur gewundert\"",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Wadenverletzung: Muheim steht dem HSV \"vorerst nicht zur Verfügung\"",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Beim Thema Nmecha: Cramer kassiert Buh-Rufe",
       "source": "kicker",
       "sentiment": 0
     }
