@@ -1,6 +1,116 @@
 {
   "news": [
     {
+      "title": "Joane Gadou glänzt beim BVB gegen Arsenal – nächstes Marktwert-Plus",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Wirtz bei Liverpool im Formhoch: Was Trainer Iraola anders macht",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "FC Bayern erklärt: Wann Musialas Probleme erstmals untersucht wurden",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Premieren-Tor, dann OP: Galatasaray feiert blutenden Matchwinner Gül",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "FC Bayerns Sturm-Not: Wird Kompany kreativ? – Upamecano bietet sich an",
+      "source": "transfermarkt",
+      "sentiment": -0.5
+    },
+    {
+      "title": "Borussia Mönchengladbach: Konoplya Taktik-Opfer im Blessin-System?",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Der BVB und der „große Punkt“ bei Arsenal: Können „auf dem Niveau mithalten“",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "VfB Stuttgart: Catovic-Kaufoption für FC Barcelona nach Verletzung vom Tisch",
+      "source": "transfermarkt",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Arsenals Juwel Muñoz: Mit 14 schon „Weltklasse“ – was ihn auszeichnet",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Pep Guardiola: „Schäme mich, zu einem Land wie Italien Nein zu sagen“",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Nach Kanes Verletzung: Wer holt die Kanone?",
+      "source": "kicker",
+      "sentiment": -0.37
+    },
+    {
+      "title": "Wucht und Risiko? Fleiß und Stabilität? Kölns Stürmer-Frage vor dem Elversberg-Spiel",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Rolfes' Verständnis für Tillman: \"Wenn du davor ausgepfiffen wirst ...\"",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Ex-Dortmunder Mor mit vorläufigem Karriereende - Bühl-Entscheidung naht",
+      "source": "kicker",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Drei Jahre nach Eintracht-Krawallen gegen Stuttgart: 82 Urteile und zahlreiche Freiheitsstrafen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Lob von ganz oben: Chiarodia als Konstante im Gladbacher Abwehrpuzzle",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Bayern-Statement zu Musiala: Erste Symptome im April 2025",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Der Eiswürfel-Pinkler, der Baum die Entscheidungen erschwert",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Rössing-Lelesiit: Hamburgs Hoffnung aus dem Lazarett",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Gute Nachrichten von Kleindienst und Bolin, aber Sorgen um Hack",
+      "source": "kicker",
+      "sentiment": -0.55
+    },
+    {
+      "title": "Kommt eine neue Anstoßzeit am Bundesliga-Samstag?",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Mehr als eine Verlegenheitslösung: Knauff überzeugt auch als Rechtsverteidiger",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
       "title": "FC Bayern: Choupo-Moting als Kane-Ersatz? Welche Alternativen gibt es?",
       "source": "transfermarkt",
       "sentiment": -0.5
@@ -39,116 +149,6 @@
       "title": "CAS fällt Urteil: Senegal ist nach Skandal-Finale doch Afrika-Cup-Gewinner",
       "source": "transfermarkt",
       "sentiment": -0.8
-    },
-    {
-      "title": "1. FC Köln: Waldschmidt hinterlegt Wechselwunsch – Thailand-Transfer vom Tisch",
-      "source": "transfermarkt",
-      "sentiment": -0.05
-    },
-    {
-      "title": "BVB verliert in Youth League gegen Arsenal – Keeper sieht Rot",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Eberl berichtet von Gespräch mit Musiala: \"Konsens gefunden\"",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Stuttgarts Leihspieler Catovic verletzt sich im Barca-Trikot schwer",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Strahlendes Lächeln: Musiala lässt sich im Training nichts anmerken",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Okon-Engstler zu seinen Deutsch-Kenntnissen: \"Mein Opa will, dass ich es lerne\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Nach Tätlichkeit in Frankfurt: Kabak vom DFB für vier Spiele gesperrt",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Ein Spiel Sperre: Baum fehlt dem FCA in Hoffenheim",
-      "source": "kicker",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Via Sublizenz: Bundesliga-Highlights ab Januar auch bei Disney+",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Betroffener\" Freund attackiert Bayern: \"Moralisch schwach\"",
-      "source": "kicker",
-      "sentiment": -0.07
-    },
-    {
-      "title": "FC Harmlos 04: Einfach Pech oder doch ein klares Qualitätsproblem?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Matthäus sieht Bayern-Zerreißprobe - und korrigiert sich",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Brisantes Detail im Musiala-Vertrag veröffentlicht",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Von der Jokerrolle in den Verletztenstatus: Castro-Montes fehlt Köln erneut",
-      "source": "kicker",
-      "sentiment": -0.37
-    },
-    {
-      "title": "Werder nennt Sachbeschädigung \"inakzeptabel\" - und reicht Kosten an den HSV weiter",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Ein Derbyheld und eine Erinnerung an Zirkzee: FCB-Novizen unverhofft im Rampenlicht",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Darum kann Bayer Alajbegovic ab 2028 für fünf Jahre binden",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Njinmah \"im Flow\" - und nach dem Doppelpack schnell im Krankenhaus",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "DFB äußert sich: Warum Gladbach keinen Handelfmeter bekam",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Dreesen kontert Kritik im Fall Musiala: \"Habe mich einfach nur gewundert\"",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Wadenverletzung: Muheim steht dem HSV \"vorerst nicht zur Verfügung\"",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Beim Thema Nmecha: Cramer kassiert Buh-Rufe",
-      "source": "kicker",
-      "sentiment": 0
     }
   ]
 }
