@@ -1,154 +1,154 @@
 {
   "news": [
     {
-      "title": "Joane Gadou glänzt beim BVB gegen Arsenal – nächstes Marktwert-Plus",
+      "title": "VfB Stuttgart hadert nach Pleite bei Inter: „Wahnsinn“ und „wie verhext“",
+      "source": "transfermarkt",
+      "sentiment": -0.6
+    },
+    {
+      "title": "FC Liverpool: Englische Presse feiert Wirtz – Harmoniert immer besser mit Isak",
+      "source": "transfermarkt",
+      "sentiment": 0.45
+    },
+    {
+      "title": "Bundesliga-Marktwerte: Was passiert mit Musialas Marktwert? Jetzt mitreden",
       "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "Wirtz bei Liverpool im Formhoch: Was Trainer Iraola anders macht",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "FC Bayern erklärt: Wann Musialas Probleme erstmals untersucht wurden",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Premieren-Tor, dann OP: Galatasaray feiert blutenden Matchwinner Gül",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "FC Bayerns Sturm-Not: Wird Kompany kreativ? – Upamecano bietet sich an",
-      "source": "transfermarkt",
-      "sentiment": -0.5
-    },
-    {
-      "title": "Borussia Mönchengladbach: Konoplya Taktik-Opfer im Blessin-System?",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Der BVB und der „große Punkt“ bei Arsenal: Können „auf dem Niveau mithalten“",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "VfB Stuttgart: Catovic-Kaufoption für FC Barcelona nach Verletzung vom Tisch",
-      "source": "transfermarkt",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Arsenals Juwel Muñoz: Mit 14 schon „Weltklasse“ – was ihn auszeichnet",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Pep Guardiola: „Schäme mich, zu einem Land wie Italien Nein zu sagen“",
+      "title": "SC Freiburg bricht Louey Ben Farhats Rückleihe zum KSC ab",
       "source": "transfermarkt",
       "sentiment": 0.4
     },
     {
-      "title": "Nach Kanes Verletzung: Wer holt die Kanone?",
-      "source": "kicker",
-      "sentiment": -0.37
+      "title": "Nottingham: Glasner kritisiert Englisch-Kenntnisse seiner Spieler – Pläne gegen den Frust",
+      "source": "transfermarkt",
+      "sentiment": -0.4
     },
     {
-      "title": "Wucht und Risiko? Fleiß und Stabilität? Kölns Stürmer-Frage vor dem Elversberg-Spiel",
+      "title": "Borussia Mönchengladbach beurlaubt Geschäftsführer Stefan Stegemann",
+      "source": "transfermarkt",
+      "sentiment": -0.85
+    },
+    {
+      "title": "Tottenham: Richarlison will Saudi-Transfer – Kein Kontakt zu Trabzonspor",
+      "source": "transfermarkt",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Umgang mit Musiala: Kimmich attackiert Bosse – „Absolutes No-Go“",
+      "source": "transfermarkt",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Reagiert FC Bayern auf die Stürmernot? Kandidaten von Choupo-Moting bis Icardi im Check",
+      "source": "transfermarkt",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Eintracht Frankfurt erwägt Otávio-Ausleihe – Welche Rolle Collins spielt",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Das Bundesliga-Quiz zum 11. Spieltag",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "Rolfes' Verständnis für Tillman: \"Wenn du davor ausgepfiffen wirst ...\"",
+      "title": "\"Aktuell sehe ich es sehr kritisch\": Derbyheld Njinmah wackelt",
       "source": "kicker",
-      "sentiment": 0.3
+      "sentiment": -0.6
     },
     {
-      "title": "Ex-Dortmunder Mor mit vorläufigem Karriereende - Bühl-Entscheidung naht",
+      "title": "\"Als Turm\": Kleindienst vor Comeback",
+      "source": "kicker",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Verlängert er? Kettemann noch zurückhaltend nach ersten Sondierungsgesprächen",
+      "source": "kicker",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Rückenprobleme: Köln bangt um Torhüter und Kapitän Schwäbe",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Gladbach beurlaubt Geschäftsführer Stegemann mit sofortiger Wirkung",
+      "source": "kicker",
+      "sentiment": -0.85
+    },
+    {
+      "title": "Bellingham lobt, hadert und stichelt: So lief seine England-Rückkehr",
+      "source": "kicker",
+      "sentiment": -0.05
+    },
+    {
+      "title": "So soll Vuskovic zum Problemlöser des HSV werden",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Die Luft wird langsam dünner beim FC Bayern\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Völlig unverständlich\": Kimmich kritisiert Bayern-Bosse wegen Musiala",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Kompany kennt \"diese Momente\" - und zieht PSG-Vergleich",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Heute vor 21 Jahren: Sahin wird zum jüngsten Bundesliga-Torschützen",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Absolutes No-Go\": Kimmichs Statement Richtung Bayern-Führung im Video",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Ein kleiner Hoffnungsschimmer für Unions harmloses Offensivspiel",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Freund bekräftigt: Bayern planen keine Transfers im Winter",
+      "source": "kicker",
+      "sentiment": 0.17
+    },
+    {
+      "title": "\"Ohne Denkverbote\": Das sind Krügers Aufgaben rund ums Wiedersehen mit Bayern",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Krüger blickt auf Bayern-Duell: \"Dann ist ganz viel möglich\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Überrascht\" und \"enttäuscht\": So reagieren die FCB-Fans auf die Causa Musiala",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Luxussituation für Thioune: \"Normalerweise wird die Mannschaft noch besser\"",
       "source": "kicker",
       "sentiment": 0.35
     },
     {
-      "title": "Drei Jahre nach Eintracht-Krawallen gegen Stuttgart: 82 Urteile und zahlreiche Freiheitsstrafen",
+      "title": "Wer mehr von Schalkes Systemumstellung profitiert und wer weniger",
       "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Lob von ganz oben: Chiarodia als Konstante im Gladbacher Abwehrpuzzle",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Bayern-Statement zu Musiala: Erste Symptome im April 2025",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Der Eiswürfel-Pinkler, der Baum die Entscheidungen erschwert",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Rössing-Lelesiit: Hamburgs Hoffnung aus dem Lazarett",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Gute Nachrichten von Kleindienst und Bolin, aber Sorgen um Hack",
-      "source": "kicker",
-      "sentiment": -0.55
-    },
-    {
-      "title": "Kommt eine neue Anstoßzeit am Bundesliga-Samstag?",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Mehr als eine Verlegenheitslösung: Knauff überzeugt auch als Rechtsverteidiger",
-      "source": "kicker",
-      "sentiment": 0.5
-    },
-    {
-      "title": "FC Bayern: Choupo-Moting als Kane-Ersatz? Welche Alternativen gibt es?",
-      "source": "transfermarkt",
-      "sentiment": -0.5
-    },
-    {
-      "title": "TSG Hoffenheim bindet Offensivtalent Oskar Hencke langfristig",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "„Erfreuliche Nachricht“: Disney+ zeigt ab Januar Bundesliga-Highlights – Dank Sublizenz",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Wie der Fall Jamal Musiala den FC Bayern spaltet – Kritik an Max Eberl",
-      "source": "transfermarkt",
-      "sentiment": -0.4
-    },
-    {
-      "title": "VfL Wolfsburg: Fabian Reese zieht Bilanz – Würde Hertha BSC wieder verlassen",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "FC Augsburg: DFB sperrt Trainer Manuel Baum - Klub stimmt Urteil zu",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Reece Oxford: Comeback und Marktwertsturz von 12 Mio. Euro",
-      "source": "transfermarkt",
-      "sentiment": 0.6
-    },
-    {
-      "title": "CAS fällt Urteil: Senegal ist nach Skandal-Finale doch Afrika-Cup-Gewinner",
-      "source": "transfermarkt",
-      "sentiment": -0.8
+      "sentiment": 0.4
     }
   ]
 }
