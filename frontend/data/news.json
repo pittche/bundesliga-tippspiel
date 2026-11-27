@@ -1,154 +1,154 @@
 {
   "news": [
     {
-      "title": "VfB Stuttgart hadert nach Pleite bei Inter: „Wahnsinn“ und „wie verhext“",
-      "source": "transfermarkt",
-      "sentiment": -0.6
-    },
-    {
-      "title": "FC Liverpool: Englische Presse feiert Wirtz – Harmoniert immer besser mit Isak",
-      "source": "transfermarkt",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Bundesliga-Marktwerte: Was passiert mit Musialas Marktwert? Jetzt mitreden",
+      "title": "Torwart Jónsson mit 37 verstorben – Erreichte mit Island EM-Viertelfinale 2016",
       "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "SC Freiburg bricht Louey Ben Farhats Rückleihe zum KSC ab",
+      "title": "VfB Stuttgart: Herwerth lehnt Angebot ab – Interesse im In- und Ausland",
       "source": "transfermarkt",
-      "sentiment": 0.4
+      "sentiment": 0.6
     },
     {
-      "title": "Nottingham: Glasner kritisiert Englisch-Kenntnisse seiner Spieler – Pläne gegen den Frust",
-      "source": "transfermarkt",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Borussia Mönchengladbach beurlaubt Geschäftsführer Stefan Stegemann",
-      "source": "transfermarkt",
-      "sentiment": -0.85
-    },
-    {
-      "title": "Tottenham: Richarlison will Saudi-Transfer – Kein Kontakt zu Trabzonspor",
-      "source": "transfermarkt",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Umgang mit Musiala: Kimmich attackiert Bosse – „Absolutes No-Go“",
-      "source": "transfermarkt",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Reagiert FC Bayern auf die Stürmernot? Kandidaten von Choupo-Moting bis Icardi im Check",
-      "source": "transfermarkt",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Eintracht Frankfurt erwägt Otávio-Ausleihe – Welche Rolle Collins spielt",
+      "title": "Gerücht: FC Bayern beschäftigt sich mit Derry Scherhant vom SC Freiburg",
       "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "Das Bundesliga-Quiz zum 11. Spieltag",
-      "source": "kicker",
+      "title": "Nach Diskriminierungsvorfällen: Union Berlin hält an Jens Härtel fest",
+      "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "\"Aktuell sehe ich es sehr kritisch\": Derbyheld Njinmah wackelt",
-      "source": "kicker",
-      "sentiment": -0.6
-    },
-    {
-      "title": "\"Als Turm\": Kleindienst vor Comeback",
-      "source": "kicker",
-      "sentiment": -0.1
-    },
-    {
-      "title": "Verlängert er? Kettemann noch zurückhaltend nach ersten Sondierungsgesprächen",
-      "source": "kicker",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Rückenprobleme: Köln bangt um Torhüter und Kapitän Schwäbe",
-      "source": "kicker",
+      "title": "Marktwerte Schweden: Leverkusen-Ziel Bo Hegland an Spitze",
+      "source": "transfermarkt",
       "sentiment": 0
     },
     {
-      "title": "Gladbach beurlaubt Geschäftsführer Stegemann mit sofortiger Wirkung",
-      "source": "kicker",
-      "sentiment": -0.85
-    },
-    {
-      "title": "Bellingham lobt, hadert und stichelt: So lief seine England-Rückkehr",
-      "source": "kicker",
+      "title": "Neuer zurück beim FC Bayern – Personal-Update vor HSV-Spiel",
+      "source": "transfermarkt",
       "sentiment": -0.05
     },
     {
-      "title": "So soll Vuskovic zum Problemlöser des HSV werden",
+      "title": "Calvert-Lewin verlängert in Leeds – Auch Ex-Düsseldorfer Tanaka bleibt",
+      "source": "transfermarkt",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Real Madrid: Auch Joker Brahim Díaz unterschreibt langfristig",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Burnleys Sieglosserie stellt deutschen Heim-Negativrekord in Schatten",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "FC Bayern: Musiala erneut verletzt – Alte Verletzung in Champions League aufgebrochen",
+      "source": "transfermarkt",
+      "sentiment": -0.43
+    },
+    {
+      "title": "Wieder Muskelfaserriss: Musiala fällt erneut aus",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "\"Die Luft wird langsam dünner beim FC Bayern\"",
+      "title": "BVB vor Reifeprüfung: \"Standortbestimmung für Titelambitionen\"",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "\"Völlig unverständlich\": Kimmich kritisiert Bayern-Bosse wegen Musiala",
+      "title": "\"Keine Gründe für Kritik\": El Mala stärkt Kölns Trainer Wagner",
       "source": "kicker",
       "sentiment": -0.4
     },
     {
-      "title": "Kompany kennt \"diese Momente\" - und zieht PSG-Vergleich",
+      "title": "El Mala: \"Moore und ich können uns noch viel mehr finden auf dem Platz\"",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "Heute vor 21 Jahren: Sahin wird zum jüngsten Bundesliga-Torschützen",
+      "title": "\"Guter Trick, aber ich bin schon länger in diesem Geschäft\"",
       "source": "kicker",
       "sentiment": 0
     },
     {
-      "title": "\"Absolutes No-Go\": Kimmichs Statement Richtung Bayern-Führung im Video",
+      "title": "El Mala mit emotionalen Worten über seinen Rauswurf bei Gladbach",
       "source": "kicker",
-      "sentiment": -0.4
+      "sentiment": -0.9
     },
     {
-      "title": "Ein kleiner Hoffnungsschimmer für Unions harmloses Offensivspiel",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Freund bekräftigt: Bayern planen keine Transfers im Winter",
-      "source": "kicker",
-      "sentiment": 0.17
-    },
-    {
-      "title": "\"Ohne Denkverbote\": Das sind Krügers Aufgaben rund ums Wiedersehen mit Bayern",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Krüger blickt auf Bayern-Duell: \"Dann ist ganz viel möglich\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Überrascht\" und \"enttäuscht\": So reagieren die FCB-Fans auf die Causa Musiala",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Luxussituation für Thioune: \"Normalerweise wird die Mannschaft noch besser\"",
+      "title": "Brahim Diaz bindet sich bis 2031 an Real - Ex-Fortune Tanaka bleibt in Leeds",
       "source": "kicker",
       "sentiment": 0.35
     },
     {
-      "title": "Wer mehr von Schalkes Systemumstellung profitiert und wer weniger",
+      "title": "Burger fehlt wohl länger: Ilzer bricht die nächste Säule weg",
       "source": "kicker",
-      "sentiment": 0.4
+      "sentiment": -0.1
+    },
+    {
+      "title": "Freund zu Neuer: \"Nicht ganz einfache Phase in seinem Leben\"",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Kompanys leise Drohung",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Geldstrafe für Kimmich? Freund: \"Es war nie ein Thema\"",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Fast 16 Jahre bei Dzeko: Diese Bundesliga-Spieler warten am längsten auf ihr nächstes Tor",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Kompany: \"Könnten heute 340 Themen besprechen\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Bayern auch in Hamburg ohne Olise",
+      "source": "kicker",
+      "sentiment": -0.45
+    },
+    {
+      "title": "Kahn und Matthäus loben Kimmich: \"Sollte die Bosse wachrütteln\"",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Nach Diskriminierungsvorfällen: Härtel zurück bei Union",
+      "source": "kicker",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Wintertransfers bei Bayern? \"Ich teile die Meinung der Verantwortlichen nicht\"",
+      "source": "kicker",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Wer überträgt Werder Bremen gegen Borussia Mönchengladbach live im TV und Stream?",
+      "source": "kicker",
+      "sentiment": 0.45
+    },
+    {
+      "title": "Im Schatten der Musiala-Debatte: Bayerns \"Fehler, die nicht passieren dürfen\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "\"Zwei geile Spiele\": Andrich freut sich auf BVB und Leipzig",
+      "source": "kicker",
+      "sentiment": 0
     }
   ]
 }
