@@ -1,6 +1,146 @@
 {
   "news": [
     {
+      "title": "Schöttel-Nachfolge geklärt: Nachwuchsleiter Prödl neuer ÖFB-Sportdirektor",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Nmechas Vertrag bei Leeds United automatisch verlängert – Klausel greift",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "2. Bundesliga: Nächster Nürnberg-Dämpfer beim 1. FC Heidenheim",
+      "source": "transfermarkt",
+      "sentiment": -0.7
+    },
+    {
+      "title": "Stade Rennes trennt sich von Haise – Fünfter Trainerwechsel in einem Monat in Ligue 1",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Dinkci & Füllkrug retten Werder einen Punkt – Gladbach verspielt Zwei-Tore-Führung in Bremen",
+      "source": "transfermarkt",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Müller mit Vancouver in MLS-Playoffs weiter – Messi und Miami in erster Runde ausgeschieden",
+      "source": "transfermarkt",
+      "sentiment": 0
+    },
+    {
+      "title": "Thiago Silva verlängert mit 42 noch einmal bei Fluminense",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Chelsea-Krise unter Alonso hält an – Glasner fordert nach Nottinghams Sieg Bescheidenheit",
+      "source": "transfermarkt",
+      "sentiment": -0.07
+    },
+    {
+      "title": "Mbappé-Bruder Ethan verlängert bei LOSC – Leitete Bayerns Slapstick-Tor in Königsklasse ein",
+      "source": "transfermarkt",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Vom Amateurfußball zum Rapid-Kapitän: Matthias Seidls steiniger Weg nach oben",
+      "source": "transfermarkt",
+      "sentiment": 0.6
+    },
+    {
+      "title": "LIVE! Vuskovic startet gegen Bayern - Kompany bringt Codjo-Evora - Schalke mit Dzeko",
+      "source": "kicker",
+      "sentiment": -0.7
+    },
+    {
+      "title": "Batz spricht über Nicolas und die Gladbacher Torwartfrage",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Assomo und Cardozo gegen den HSV im Bayern-Kader",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Im zweiten Anlauf zur Stammkraft? Sonderlob für TSG-Joker Moerstedt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Andrich vor dem Topspiel: \"Dortmund kann sich gerne als Spitzenreiter fühlen\"",
+      "source": "kicker",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Zwei Aufsteiger vorn: Welche Bundesliga-Keeper mehr halten als erwartet",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Wer überträgt VfB Stuttgart gegen Eintracht Frankfurt heute live im TV & Stream?",
+      "source": "kicker",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Thioune ordnet ein: \"Wahrheit liegt ein bisschen dazwischen\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Blessin will Bremen schon gratulieren: \"Fühlt sich wie eine Niederlage an\"",
+      "source": "kicker",
+      "sentiment": -0.6
+    },
+    {
+      "title": "Mohya kritisiert \"Nachlässigkeiten\" - und sieht \"total ärgerliches\" Remis",
+      "source": "kicker",
+      "sentiment": -0.34
+    },
+    {
+      "title": "Füllkrug: \"Jetzt kam es so, dass ich durchspielen durfte - toll!\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Bonhof bestätigt Gespräch mit der Fanszene: \"Ein ehrlicher Schlagabtausch\"",
+      "source": "kicker",
+      "sentiment": -0.77
+    },
+    {
+      "title": "\"Es ist kompliziert\": Ben Seghirs Chancen in Leverkusen schwinden",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Fischers Rat an Lustrinelli: \"Er muss lernen, damit umzugehen\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "HSV und Bayern im Duell der Extreme: Die Laufleistung der 18 Bundesligisten",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Sperre bis zur Winterpause: Hoffenheim kämpft um Kabak",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Ryerson: Viele Flanken, wenig Ertrag und woran es liegt",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
+      "title": "Lacher im Interview: \"Was ist jetzt besser - 'ja' oder 'nein' zu sagen?\"",
+      "source": "kicker",
+      "sentiment": 0
+    },
+    {
       "title": "Torwart Jónsson mit 37 verstorben – Erreichte mit Island EM-Viertelfinale 2016",
       "source": "transfermarkt",
       "sentiment": 0
@@ -9,146 +149,6 @@
       "title": "VfB Stuttgart: Herwerth lehnt Angebot ab – Interesse im In- und Ausland",
       "source": "transfermarkt",
       "sentiment": 0.6
-    },
-    {
-      "title": "Gerücht: FC Bayern beschäftigt sich mit Derry Scherhant vom SC Freiburg",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Nach Diskriminierungsvorfällen: Union Berlin hält an Jens Härtel fest",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Marktwerte Schweden: Leverkusen-Ziel Bo Hegland an Spitze",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Neuer zurück beim FC Bayern – Personal-Update vor HSV-Spiel",
-      "source": "transfermarkt",
-      "sentiment": -0.05
-    },
-    {
-      "title": "Calvert-Lewin verlängert in Leeds – Auch Ex-Düsseldorfer Tanaka bleibt",
-      "source": "transfermarkt",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Real Madrid: Auch Joker Brahim Díaz unterschreibt langfristig",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "Burnleys Sieglosserie stellt deutschen Heim-Negativrekord in Schatten",
-      "source": "transfermarkt",
-      "sentiment": 0
-    },
-    {
-      "title": "FC Bayern: Musiala erneut verletzt – Alte Verletzung in Champions League aufgebrochen",
-      "source": "transfermarkt",
-      "sentiment": -0.43
-    },
-    {
-      "title": "Wieder Muskelfaserriss: Musiala fällt erneut aus",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "BVB vor Reifeprüfung: \"Standortbestimmung für Titelambitionen\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Keine Gründe für Kritik\": El Mala stärkt Kölns Trainer Wagner",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "El Mala: \"Moore und ich können uns noch viel mehr finden auf dem Platz\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Guter Trick, aber ich bin schon länger in diesem Geschäft\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "El Mala mit emotionalen Worten über seinen Rauswurf bei Gladbach",
-      "source": "kicker",
-      "sentiment": -0.9
-    },
-    {
-      "title": "Brahim Diaz bindet sich bis 2031 an Real - Ex-Fortune Tanaka bleibt in Leeds",
-      "source": "kicker",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Burger fehlt wohl länger: Ilzer bricht die nächste Säule weg",
-      "source": "kicker",
-      "sentiment": -0.1
-    },
-    {
-      "title": "Freund zu Neuer: \"Nicht ganz einfache Phase in seinem Leben\"",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Kompanys leise Drohung",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Geldstrafe für Kimmich? Freund: \"Es war nie ein Thema\"",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Fast 16 Jahre bei Dzeko: Diese Bundesliga-Spieler warten am längsten auf ihr nächstes Tor",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Kompany: \"Könnten heute 340 Themen besprechen\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "Bayern auch in Hamburg ohne Olise",
-      "source": "kicker",
-      "sentiment": -0.45
-    },
-    {
-      "title": "Kahn und Matthäus loben Kimmich: \"Sollte die Bosse wachrütteln\"",
-      "source": "kicker",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Nach Diskriminierungsvorfällen: Härtel zurück bei Union",
-      "source": "kicker",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Wintertransfers bei Bayern? \"Ich teile die Meinung der Verantwortlichen nicht\"",
-      "source": "kicker",
-      "sentiment": -0.05
-    },
-    {
-      "title": "Wer überträgt Werder Bremen gegen Borussia Mönchengladbach live im TV und Stream?",
-      "source": "kicker",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Im Schatten der Musiala-Debatte: Bayerns \"Fehler, die nicht passieren dürfen\"",
-      "source": "kicker",
-      "sentiment": 0
-    },
-    {
-      "title": "\"Zwei geile Spiele\": Andrich freut sich auf BVB und Leipzig",
-      "source": "kicker",
-      "sentiment": 0
     }
   ]
 }
